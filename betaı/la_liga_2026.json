@@ -1,0 +1,3621 @@
+[
+    {
+        "ad": "Thibaut Courtois",
+        "mevki": "Kaleci",
+        "takim": "Real Madrid",
+        "yas": "33",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Andriy Lunin",
+        "mevki": "Kaleci",
+        "takim": "Real Madrid",
+        "yas": "13",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Fran González",
+        "mevki": "Kaleci",
+        "takim": "Real Madrid",
+        "yas": "26",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Dean Huijsen",
+        "mevki": "Stoper",
+        "takim": "Real Madrid",
+        "yas": "24",
+        "piyasa_degeri": "65.00 mil. €"
+    },
+    {
+        "ad": "Éder Militão",
+        "mevki": "Stoper",
+        "takim": "Real Madrid",
+        "yas": "28",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Raúl Asencio",
+        "mevki": "Stoper",
+        "takim": "Real Madrid",
+        "yas": "17",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Antonio Rüdiger",
+        "mevki": "Stoper",
+        "takim": "Real Madrid",
+        "yas": "22",
+        "piyasa_degeri": "9.00 mil. €"
+    },
+    {
+        "ad": "David Alaba",
+        "mevki": "Stoper",
+        "takim": "Real Madrid",
+        "yas": "33",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Álvaro Carreras",
+        "mevki": "Sol Bek",
+        "takim": "Real Madrid",
+        "yas": "18",
+        "piyasa_degeri": "60.00 mil. €"
+    },
+    {
+        "ad": "Fran García",
+        "mevki": "Sol Bek",
+        "takim": "Real Madrid",
+        "yas": "20",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Ferland Mendy",
+        "mevki": "Sol Bek",
+        "takim": "Real Madrid",
+        "yas": "23",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Trent Alexander-Arnold",
+        "mevki": "Sağ Bek",
+        "takim": "Real Madrid",
+        "yas": "12",
+        "piyasa_degeri": "65.00 mil. €"
+    },
+    {
+        "ad": "Daniel Carvajal",
+        "mevki": "Sağ Bek",
+        "takim": "Real Madrid",
+        "yas": "34",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Aurélien Tchouaméni",
+        "mevki": "Ön Libero",
+        "takim": "Real Madrid",
+        "yas": "14",
+        "piyasa_degeri": "75.00 mil. €"
+    },
+    {
+        "ad": "Federico Valverde",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Real Madrid",
+        "yas": "27",
+        "piyasa_degeri": "120.00 mil. €"
+    },
+    {
+        "ad": "Eduardo Camavinga",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Real Madrid",
+        "yas": "23",
+        "piyasa_degeri": "50.00 mil. €"
+    },
+    {
+        "ad": "Thiago Pitarch",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Real Madrid",
+        "yas": "45",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Dani Ceballos",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Real Madrid",
+        "yas": "19",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Jorge Cestero",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Real Madrid",
+        "yas": "28",
+        "piyasa_degeri": "7.50 mil. €"
+    },
+    {
+        "ad": "Manuel Ángel",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Real Madrid",
+        "yas": "37",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Jude Bellingham",
+        "mevki": "On Numara",
+        "takim": "Real Madrid",
+        "yas": "22",
+        "piyasa_degeri": "140.00 mil. €"
+    },
+    {
+        "ad": "Arda Güler",
+        "mevki": "On Numara",
+        "takim": "Real Madrid",
+        "yas": "15",
+        "piyasa_degeri": "90.00 mil. €"
+    },
+    {
+        "ad": "Vinicius Junior",
+        "mevki": "Sol Kanat",
+        "takim": "Real Madrid",
+        "yas": "25",
+        "piyasa_degeri": "150.00 mil. €"
+    },
+    {
+        "ad": "Rodrygo",
+        "mevki": "Sağ Kanat",
+        "takim": "Real Madrid",
+        "yas": "11",
+        "piyasa_degeri": "50.00 mil. €"
+    },
+    {
+        "ad": "Franco Mastantuono",
+        "mevki": "Sağ Kanat",
+        "takim": "Real Madrid",
+        "yas": "30",
+        "piyasa_degeri": "45.00 mil. €"
+    },
+    {
+        "ad": "Brahim Díaz",
+        "mevki": "Sağ Kanat",
+        "takim": "Real Madrid",
+        "yas": "21",
+        "piyasa_degeri": "35.00 mil. €"
+    },
+    {
+        "ad": "Kylian Mbappé",
+        "mevki": "Santrafor",
+        "takim": "Real Madrid",
+        "yas": "10",
+        "piyasa_degeri": "200.00 mil. €"
+    },
+    {
+        "ad": "Gonzalo García",
+        "mevki": "Santrafor",
+        "takim": "Real Madrid",
+        "yas": "16",
+        "piyasa_degeri": "30.00 mil. €"
+    },
+    {
+        "ad": "Joan García",
+        "mevki": "Kaleci",
+        "takim": "FC Barcelona",
+        "yas": "13",
+        "piyasa_degeri": "40.00 mil. €"
+    },
+    {
+        "ad": "Wojciech Szczęsny",
+        "mevki": "Kaleci",
+        "takim": "FC Barcelona",
+        "yas": "25",
+        "piyasa_degeri": "900 bin €"
+    },
+    {
+        "ad": "Diego Kochen",
+        "mevki": "Kaleci",
+        "takim": "FC Barcelona",
+        "yas": "31",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Pau Cubarsí",
+        "mevki": "Stoper",
+        "takim": "FC Barcelona",
+        "yas": "19",
+        "piyasa_degeri": "80.00 mil. €"
+    },
+    {
+        "ad": "Eric García",
+        "mevki": "Stoper",
+        "takim": "FC Barcelona",
+        "yas": "24",
+        "piyasa_degeri": "35.00 mil. €"
+    },
+    {
+        "ad": "Ronald Araujo",
+        "mevki": "Stoper",
+        "takim": "FC Barcelona",
+        "yas": "27",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Andreas Christensen",
+        "mevki": "Stoper",
+        "takim": "FC Barcelona",
+        "yas": "15",
+        "piyasa_degeri": "9.00 mil. €"
+    },
+    {
+        "ad": "Alejandro Balde",
+        "mevki": "Sol Bek",
+        "takim": "FC Barcelona",
+        "yas": "22",
+        "piyasa_degeri": "55.00 mil. €"
+    },
+    {
+        "ad": "Gerard Martín",
+        "mevki": "Sol Bek",
+        "takim": "FC Barcelona",
+        "yas": "18",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Jules Koundé",
+        "mevki": "Sağ Bek",
+        "takim": "FC Barcelona",
+        "yas": "23",
+        "piyasa_degeri": "65.00 mil. €"
+    },
+    {
+        "ad": "João Cancelo",
+        "mevki": "Sağ Bek",
+        "takim": "FC Barcelona",
+        "yas": "31",
+        "piyasa_degeri": "9.00 mil. €"
+    },
+    {
+        "ad": "Marc Bernal",
+        "mevki": "Ön Libero",
+        "takim": "FC Barcelona",
+        "yas": "22",
+        "piyasa_degeri": "30.00 mil. €"
+    },
+    {
+        "ad": "Marc Casadó",
+        "mevki": "Ön Libero",
+        "takim": "FC Barcelona",
+        "yas": "17",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Pedri",
+        "mevki": "Merkez Orta Saha",
+        "takim": "FC Barcelona",
+        "yas": "23",
+        "piyasa_degeri": "150.00 mil. €"
+    },
+    {
+        "ad": "Frenkie de Jong",
+        "mevki": "Merkez Orta Saha",
+        "takim": "FC Barcelona",
+        "yas": "21",
+        "piyasa_degeri": "45.00 mil. €"
+    },
+    {
+        "ad": "Gavi",
+        "mevki": "Merkez Orta Saha",
+        "takim": "FC Barcelona",
+        "yas": "21",
+        "piyasa_degeri": "30.00 mil. €"
+    },
+    {
+        "ad": "Fermín López",
+        "mevki": "On Numara",
+        "takim": "FC Barcelona",
+        "yas": "16",
+        "piyasa_degeri": "100.00 mil. €"
+    },
+    {
+        "ad": "Dani Olmo",
+        "mevki": "On Numara",
+        "takim": "FC Barcelona",
+        "yas": "20",
+        "piyasa_degeri": "60.00 mil. €"
+    },
+    {
+        "ad": "Raphinha",
+        "mevki": "Sol Kanat",
+        "takim": "FC Barcelona",
+        "yas": "11",
+        "piyasa_degeri": "80.00 mil. €"
+    },
+    {
+        "ad": "Marcus Rashford",
+        "mevki": "Sol Kanat",
+        "takim": "FC Barcelona",
+        "yas": "14",
+        "piyasa_degeri": "40.00 mil. €"
+    },
+    {
+        "ad": "Lamine Yamal",
+        "mevki": "Sağ Kanat",
+        "takim": "FC Barcelona",
+        "yas": "10",
+        "piyasa_degeri": "200.00 mil. €"
+    },
+    {
+        "ad": "Roony Bardghji",
+        "mevki": "Sağ Kanat",
+        "takim": "FC Barcelona",
+        "yas": "19",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Ferran Torres",
+        "mevki": "Santrafor",
+        "takim": "FC Barcelona",
+        "yas": "26",
+        "piyasa_degeri": "50.00 mil. €"
+    },
+    {
+        "ad": "Robert Lewandowski",
+        "mevki": "Santrafor",
+        "takim": "FC Barcelona",
+        "yas": "37",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Jan Oblak",
+        "mevki": "Kaleci",
+        "takim": "Atlético Madrid",
+        "yas": "13",
+        "piyasa_degeri": "17.00 mil. €"
+    },
+    {
+        "ad": "Juan Musso",
+        "mevki": "Kaleci",
+        "takim": "Atlético Madrid",
+        "yas": "31",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Dávid Hancko",
+        "mevki": "Stoper",
+        "takim": "Atlético Madrid",
+        "yas": "17",
+        "piyasa_degeri": "35.00 mil. €"
+    },
+    {
+        "ad": "Marc Pubill",
+        "mevki": "Stoper",
+        "takim": "Atlético Madrid",
+        "yas": "18",
+        "piyasa_degeri": "28.00 mil. €"
+    },
+    {
+        "ad": "Robin Le Normand",
+        "mevki": "Stoper",
+        "takim": "Atlético Madrid",
+        "yas": "24",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "José María Giménez",
+        "mevki": "Stoper",
+        "takim": "Atlético Madrid",
+        "yas": "31",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Clément Lenglet",
+        "mevki": "Stoper",
+        "takim": "Atlético Madrid",
+        "yas": "15",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Matteo Ruggeri",
+        "mevki": "Sol Bek",
+        "takim": "Atlético Madrid",
+        "yas": "23",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Marcos Llorente",
+        "mevki": "Sağ Bek",
+        "takim": "Atlético Madrid",
+        "yas": "14",
+        "piyasa_degeri": "22.00 mil. €"
+    },
+    {
+        "ad": "Nahuel Molina",
+        "mevki": "Sağ Bek",
+        "takim": "Atlético Madrid",
+        "yas": "16",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Pablo Barrios",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Atlético Madrid",
+        "yas": "22",
+        "piyasa_degeri": "60.00 mil. €"
+    },
+    {
+        "ad": "Johnny Cardoso",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Atlético Madrid",
+        "yas": "24",
+        "piyasa_degeri": "22.00 mil. €"
+    },
+    {
+        "ad": "Rodrigo Mendoza",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Atlético Madrid",
+        "yas": "21",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Obed Vargas",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Atlético Madrid",
+        "yas": "21",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Koke",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Atlético Madrid",
+        "yas": "34",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Álex Baena",
+        "mevki": "Sol Kanat",
+        "takim": "Atlético Madrid",
+        "yas": "10",
+        "piyasa_degeri": "45.00 mil. €"
+    },
+    {
+        "ad": "Nico González",
+        "mevki": "Sol Kanat",
+        "takim": "Atlético Madrid",
+        "yas": "23",
+        "piyasa_degeri": "24.00 mil. €"
+    },
+    {
+        "ad": "Thiago Almada",
+        "mevki": "Sol Kanat",
+        "takim": "Atlético Madrid",
+        "yas": "11",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Giuliano Simeone",
+        "mevki": "Sağ Kanat",
+        "takim": "Atlético Madrid",
+        "yas": "20",
+        "piyasa_degeri": "40.00 mil. €"
+    },
+    {
+        "ad": "Ademola Lookman",
+        "mevki": "Forvet Arkası",
+        "takim": "Atlético Madrid",
+        "yas": "22",
+        "piyasa_degeri": "40.00 mil. €"
+    },
+    {
+        "ad": "Antoine Griezmann",
+        "mevki": "Forvet Arkası",
+        "takim": "Atlético Madrid",
+        "yas": "35",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Julián Alvarez",
+        "mevki": "Santrafor",
+        "takim": "Atlético Madrid",
+        "yas": "19",
+        "piyasa_degeri": "90.00 mil. €"
+    },
+    {
+        "ad": "Alexander Sørloth",
+        "mevki": "Santrafor",
+        "takim": "Atlético Madrid",
+        "yas": "30",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Luiz Júnior",
+        "mevki": "Kaleci",
+        "takim": "Villarreal CF",
+        "yas": "25",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Diego Conde",
+        "mevki": "Kaleci",
+        "takim": "Villarreal CF",
+        "yas": "13",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Arnau Tenas",
+        "mevki": "Kaleci",
+        "takim": "Villarreal CF",
+        "yas": "25",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Renato Veiga",
+        "mevki": "Stoper",
+        "takim": "Villarreal CF",
+        "yas": "12",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Logan Costa",
+        "mevki": "Stoper",
+        "takim": "Villarreal CF",
+        "yas": "25",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Rafa Marín",
+        "mevki": "Stoper",
+        "takim": "Villarreal CF",
+        "yas": "23",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Juan Foyth",
+        "mevki": "Stoper",
+        "takim": "Villarreal CF",
+        "yas": "28",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Willy Kambwala",
+        "mevki": "Stoper",
+        "takim": "Villarreal CF",
+        "yas": "21",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Sergi Cardona",
+        "mevki": "Sol Bek",
+        "takim": "Villarreal CF",
+        "yas": "23",
+        "piyasa_degeri": "9.00 mil. €"
+    },
+    {
+        "ad": "Alfonso Pedraza",
+        "mevki": "Sol Bek",
+        "takim": "Villarreal CF",
+        "yas": "24",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Pau Navarro",
+        "mevki": "Sağ Bek",
+        "takim": "Villarreal CF",
+        "yas": "20",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Santiago Mouriño",
+        "mevki": "Sağ Bek",
+        "takim": "Villarreal CF",
+        "yas": "15",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Alex Freeman",
+        "mevki": "Sağ Bek",
+        "takim": "Villarreal CF",
+        "yas": "21",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Thomas Partey",
+        "mevki": "Ön Libero",
+        "takim": "Villarreal CF",
+        "yas": "16",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Pape Gueye",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Villarreal CF",
+        "yas": "18",
+        "piyasa_degeri": "40.00 mil. €"
+    },
+    {
+        "ad": "Santi Comesaña",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Villarreal CF",
+        "yas": "14",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Carlos Macià",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Villarreal CF",
+        "yas": "37",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Dani Parejo",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Villarreal CF",
+        "yas": "10",
+        "piyasa_degeri": "1.20 mil. €"
+    },
+    {
+        "ad": "Alberto Moleiro",
+        "mevki": "Sol Kanat",
+        "takim": "Villarreal CF",
+        "yas": "20",
+        "piyasa_degeri": "40.00 mil. €"
+    },
+    {
+        "ad": "Alfon González",
+        "mevki": "Sol Kanat",
+        "takim": "Villarreal CF",
+        "yas": "11",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Hugo López",
+        "mevki": "Sol Kanat",
+        "takim": "Villarreal CF",
+        "yas": "32",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Tajon Buchanan",
+        "mevki": "Sağ Kanat",
+        "takim": "Villarreal CF",
+        "yas": "17",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Nicolas Pépé",
+        "mevki": "Sağ Kanat",
+        "takim": "Villarreal CF",
+        "yas": "19",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Georges Mikautadze",
+        "mevki": "Santrafor",
+        "takim": "Villarreal CF",
+        "yas": "25",
+        "piyasa_degeri": "28.00 mil. €"
+    },
+    {
+        "ad": "Tani Oluwaseyi",
+        "mevki": "Santrafor",
+        "takim": "Villarreal CF",
+        "yas": "21",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Ayoze Pérez",
+        "mevki": "Santrafor",
+        "takim": "Villarreal CF",
+        "yas": "22",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Gerard Moreno",
+        "mevki": "Santrafor",
+        "takim": "Villarreal CF",
+        "yas": "34",
+        "piyasa_degeri": "2.80 mil. €"
+    },
+    {
+        "ad": "Pau Cabanes",
+        "mevki": "Santrafor",
+        "takim": "Villarreal CF",
+        "yas": "33",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Unai Simón",
+        "mevki": "Kaleci",
+        "takim": "Athletic Bilbao",
+        "yas": "28",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Álex Padilla",
+        "mevki": "Kaleci",
+        "takim": "Athletic Bilbao",
+        "yas": "27",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Dani Vivian",
+        "mevki": "Stoper",
+        "takim": "Athletic Bilbao",
+        "yas": "26",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Aitor Paredes",
+        "mevki": "Stoper",
+        "takim": "Athletic Bilbao",
+        "yas": "25",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Aymeric Laporte",
+        "mevki": "Stoper",
+        "takim": "Athletic Bilbao",
+        "yas": "14",
+        "piyasa_degeri": "9.00 mil. €"
+    },
+    {
+        "ad": "Yeray Álvarez",
+        "mevki": "Stoper",
+        "takim": "Athletic Bilbao",
+        "yas": "31",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Unai Egiluz",
+        "mevki": "Stoper",
+        "takim": "Athletic Bilbao",
+        "yas": "13",
+        "piyasa_degeri": "600 bin €"
+    },
+    {
+        "ad": "Adama Boiro",
+        "mevki": "Sol Bek",
+        "takim": "Athletic Bilbao",
+        "yas": "19",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Yuri Berchiche",
+        "mevki": "Sol Bek",
+        "takim": "Athletic Bilbao",
+        "yas": "17",
+        "piyasa_degeri": "1.20 mil. €"
+    },
+    {
+        "ad": "Jesús Areso",
+        "mevki": "Sağ Bek",
+        "takim": "Athletic Bilbao",
+        "yas": "12",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Andoni Gorosabel",
+        "mevki": "Sağ Bek",
+        "takim": "Athletic Bilbao",
+        "yas": "29",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Iñigo Lekue",
+        "mevki": "Sağ Bek",
+        "takim": "Athletic Bilbao",
+        "yas": "15",
+        "piyasa_degeri": "1.20 mil. €"
+    },
+    {
+        "ad": "Mikel Vesga",
+        "mevki": "Ön Libero",
+        "takim": "Athletic Bilbao",
+        "yas": "33",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Mikel Jauregizar",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Athletic Bilbao",
+        "yas": "18",
+        "piyasa_degeri": "35.00 mil. €"
+    },
+    {
+        "ad": "Beñat Prados",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Athletic Bilbao",
+        "yas": "24",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Alejandro Rego",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Athletic Bilbao",
+        "yas": "30",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Selton Sánchez",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Athletic Bilbao",
+        "yas": "44",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Iñigo Ruiz de Galarreta",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Athletic Bilbao",
+        "yas": "16",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Oihan Sancet",
+        "mevki": "On Numara",
+        "takim": "Athletic Bilbao",
+        "yas": "25",
+        "piyasa_degeri": "35.00 mil. €"
+    },
+    {
+        "ad": "Unai Gómez",
+        "mevki": "On Numara",
+        "takim": "Athletic Bilbao",
+        "yas": "20",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Nico Williams",
+        "mevki": "Sol Kanat",
+        "takim": "Athletic Bilbao",
+        "yas": "10",
+        "piyasa_degeri": "50.00 mil. €"
+    },
+    {
+        "ad": "Álex Berenguer",
+        "mevki": "Sol Kanat",
+        "takim": "Athletic Bilbao",
+        "yas": "30",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Nico Serrano",
+        "mevki": "Sol Kanat",
+        "takim": "Athletic Bilbao",
+        "yas": "22",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Iñaki Williams",
+        "mevki": "Sağ Kanat",
+        "takim": "Athletic Bilbao",
+        "yas": "31",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Robert Navarro",
+        "mevki": "Sağ Kanat",
+        "takim": "Athletic Bilbao",
+        "yas": "23",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Gorka Guruzeta",
+        "mevki": "Santrafor",
+        "takim": "Athletic Bilbao",
+        "yas": "11",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Maroan Sannadi",
+        "mevki": "Santrafor",
+        "takim": "Athletic Bilbao",
+        "yas": "21",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Urko Izeta",
+        "mevki": "Santrafor",
+        "takim": "Athletic Bilbao",
+        "yas": "25",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Álex Remiro",
+        "mevki": "Kaleci",
+        "takim": "Real Sociedad",
+        "yas": "31",
+        "piyasa_degeri": "14.00 mil. €"
+    },
+    {
+        "ad": "Unai Marrero",
+        "mevki": "Kaleci",
+        "takim": "Real Sociedad",
+        "yas": "13",
+        "piyasa_degeri": "600 bin €"
+    },
+    {
+        "ad": "Jon Martín",
+        "mevki": "Stoper",
+        "takim": "Real Sociedad",
+        "yas": "31",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Igor Zubeldia",
+        "mevki": "Stoper",
+        "takim": "Real Sociedad",
+        "yas": "29",
+        "piyasa_degeri": "9.00 mil. €"
+    },
+    {
+        "ad": "Duje Caleta-Car",
+        "mevki": "Stoper",
+        "takim": "Real Sociedad",
+        "yas": "16",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Aritz Elustondo",
+        "mevki": "Stoper",
+        "takim": "Real Sociedad",
+        "yas": "32",
+        "piyasa_degeri": "1.80 mil. €"
+    },
+    {
+        "ad": "Sergio Gómez",
+        "mevki": "Sol Bek",
+        "takim": "Real Sociedad",
+        "yas": "17",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Aihen Muñoz",
+        "mevki": "Sol Bek",
+        "takim": "Real Sociedad",
+        "yas": "28",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Jon Aramburu",
+        "mevki": "Sağ Bek",
+        "takim": "Real Sociedad",
+        "yas": "23",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Álvaro Odriozola",
+        "mevki": "Sağ Bek",
+        "takim": "Real Sociedad",
+        "yas": "20",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Jon Gorrotxategi",
+        "mevki": "Ön Libero",
+        "takim": "Real Sociedad",
+        "yas": "24",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Beñat Turrientes",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Real Sociedad",
+        "yas": "24",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Luka Sucic",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Real Sociedad",
+        "yas": "24",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Yangel Herrera",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Real Sociedad",
+        "yas": "12",
+        "piyasa_degeri": "9.00 mil. €"
+    },
+    {
+        "ad": "Carlos Soler",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Real Sociedad",
+        "yas": "18",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Brais Méndez",
+        "mevki": "On Numara",
+        "takim": "Real Sociedad",
+        "yas": "23",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Arsen Zakharyan",
+        "mevki": "On Numara",
+        "takim": "Real Sociedad",
+        "yas": "21",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Pablo Marín",
+        "mevki": "On Numara",
+        "takim": "Real Sociedad",
+        "yas": "15",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Ander Barrenetxea",
+        "mevki": "Sol Kanat",
+        "takim": "Real Sociedad",
+        "yas": "24",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Gonçalo Guedes",
+        "mevki": "Sol Kanat",
+        "takim": "Real Sociedad",
+        "yas": "11",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Wesley",
+        "mevki": "Sol Kanat",
+        "takim": "Real Sociedad",
+        "yas": "22",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Takefusa Kubo",
+        "mevki": "Sağ Kanat",
+        "takim": "Real Sociedad",
+        "yas": "14",
+        "piyasa_degeri": "30.00 mil. €"
+    },
+    {
+        "ad": "Mikel Oyarzabal",
+        "mevki": "Santrafor",
+        "takim": "Real Sociedad",
+        "yas": "10",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Orri Óskarsson",
+        "mevki": "Santrafor",
+        "takim": "Real Sociedad",
+        "yas": "21",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Jon Karrikaburu",
+        "mevki": "Santrafor",
+        "takim": "Real Sociedad",
+        "yas": "19",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Álvaro Valles",
+        "mevki": "Kaleci",
+        "takim": "Real Betis",
+        "yas": "28",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Pau López",
+        "mevki": "Kaleci",
+        "takim": "Real Betis",
+        "yas": "25",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Adrián San Miguel",
+        "mevki": "Kaleci",
+        "takim": "Real Betis",
+        "yas": "13",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Natan",
+        "mevki": "Stoper",
+        "takim": "Real Betis",
+        "yas": "25",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Valentín Gómez",
+        "mevki": "Stoper",
+        "takim": "Real Betis",
+        "yas": "16",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Diego Llorente",
+        "mevki": "Stoper",
+        "takim": "Real Betis",
+        "yas": "32",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Marc Bartra",
+        "mevki": "Stoper",
+        "takim": "Real Betis",
+        "yas": "35",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Junior Firpo",
+        "mevki": "Sol Bek",
+        "takim": "Real Betis",
+        "yas": "23",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Ricardo Rodríguez",
+        "mevki": "Sol Bek",
+        "takim": "Real Betis",
+        "yas": "12",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Ángel Ortiz",
+        "mevki": "Sağ Bek",
+        "takim": "Real Betis",
+        "yas": "40",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Héctor Bellerín",
+        "mevki": "Sağ Bek",
+        "takim": "Real Betis",
+        "yas": "31",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Sofyan Amrabat",
+        "mevki": "Ön Libero",
+        "takim": "Real Betis",
+        "yas": "14",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Marc Roca",
+        "mevki": "Ön Libero",
+        "takim": "Real Betis",
+        "yas": "21",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Sergi Altimira",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Real Betis",
+        "yas": "24",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Álvaro Fidalgo",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Real Betis",
+        "yas": "15",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Nelson Deossa",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Real Betis",
+        "yas": "18",
+        "piyasa_degeri": "9.00 mil. €"
+    },
+    {
+        "ad": "Pablo Fornals",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Real Betis",
+        "yas": "30",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Giovani Lo Celso",
+        "mevki": "On Numara",
+        "takim": "Real Betis",
+        "yas": "20",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Isco",
+        "mevki": "On Numara",
+        "takim": "Real Betis",
+        "yas": "22",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Abde Ezzalzouli",
+        "mevki": "Sol Kanat",
+        "takim": "Real Betis",
+        "yas": "10",
+        "piyasa_degeri": "30.00 mil. €"
+    },
+    {
+        "ad": "Rodrigo Riquelme",
+        "mevki": "Sol Kanat",
+        "takim": "Real Betis",
+        "yas": "17",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Antony",
+        "mevki": "Sağ Kanat",
+        "takim": "Real Betis",
+        "yas": "26",
+        "piyasa_degeri": "40.00 mil. €"
+    },
+    {
+        "ad": "Pablo García",
+        "mevki": "Sağ Kanat",
+        "takim": "Real Betis",
+        "yas": "52",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Aitor Ruibal",
+        "mevki": "Sağ Kanat",
+        "takim": "Real Betis",
+        "yas": "24",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Cucho Hernández",
+        "mevki": "Santrafor",
+        "takim": "Real Betis",
+        "yas": "19",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Chimy Ávila",
+        "mevki": "Santrafor",
+        "takim": "Real Betis",
+        "yas": "32",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Cédric Bakambu",
+        "mevki": "Santrafor",
+        "takim": "Real Betis",
+        "yas": "11",
+        "piyasa_degeri": "1.40 mil. €"
+    },
+    {
+        "ad": "Ionuț Radu",
+        "mevki": "Kaleci",
+        "takim": "Celta Vigo",
+        "yas": "13",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Iván Villar",
+        "mevki": "Kaleci",
+        "takim": "Celta Vigo",
+        "yas": "28",
+        "piyasa_degeri": "900 bin €"
+    },
+    {
+        "ad": "Marc Vidal",
+        "mevki": "Kaleci",
+        "takim": "Celta Vigo",
+        "yas": "25",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Javi Rodríguez",
+        "mevki": "Stoper",
+        "takim": "Celta Vigo",
+        "yas": "32",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Carl Starfelt",
+        "mevki": "Stoper",
+        "takim": "Celta Vigo",
+        "yas": "30",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Carlos Domínguez",
+        "mevki": "Stoper",
+        "takim": "Celta Vigo",
+        "yas": "24",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Yoel Lago",
+        "mevki": "Stoper",
+        "takim": "Celta Vigo",
+        "yas": "29",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Manu Fernández",
+        "mevki": "Stoper",
+        "takim": "Celta Vigo",
+        "yas": "12",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Marcos Alonso",
+        "mevki": "Stoper",
+        "takim": "Celta Vigo",
+        "yas": "20",
+        "piyasa_degeri": "1.40 mil. €"
+    },
+    {
+        "ad": "Joseph Aidoo",
+        "mevki": "Stoper",
+        "takim": "Celta Vigo",
+        "yas": "30",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Mihailo Ristic",
+        "mevki": "Sol Bek",
+        "takim": "Celta Vigo",
+        "yas": "21",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Óscar Mingueza",
+        "mevki": "Sağ Bek",
+        "takim": "Celta Vigo",
+        "yas": "26",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Sergio Carreira",
+        "mevki": "Sağ Bek",
+        "takim": "Celta Vigo",
+        "yas": "25",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Álvaro Núñez",
+        "mevki": "Sağ Bek",
+        "takim": "Celta Vigo",
+        "yas": "14",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Javi Rueda",
+        "mevki": "Sağ Bek",
+        "takim": "Celta Vigo",
+        "yas": "17",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Miguel Román",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Celta Vigo",
+        "yas": "16",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Ilaix Moriba",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Celta Vigo",
+        "yas": "23",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Hugo Sotelo",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Celta Vigo",
+        "yas": "22",
+        "piyasa_degeri": "7.50 mil. €"
+    },
+    {
+        "ad": "Matías Vecino",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Celta Vigo",
+        "yas": "15",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Fer López",
+        "mevki": "On Numara",
+        "takim": "Celta Vigo",
+        "yas": "21",
+        "piyasa_degeri": "16.00 mil. €"
+    },
+    {
+        "ad": "Williot Swedberg",
+        "mevki": "Sol Kanat",
+        "takim": "Celta Vigo",
+        "yas": "19",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Hugo Álvarez",
+        "mevki": "Sol Kanat",
+        "takim": "Celta Vigo",
+        "yas": "23",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Franco Cervi",
+        "mevki": "Sol Kanat",
+        "takim": "Celta Vigo",
+        "yas": "11",
+        "piyasa_degeri": "700 bin €"
+    },
+    {
+        "ad": "Jones El-Abdellaoui",
+        "mevki": "Sağ Kanat",
+        "takim": "Celta Vigo",
+        "yas": "39",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Ferran Jutglà",
+        "mevki": "Santrafor",
+        "takim": "Celta Vigo",
+        "yas": "27",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Pablo Durán",
+        "mevki": "Santrafor",
+        "takim": "Celta Vigo",
+        "yas": "18",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Borja Iglesias",
+        "mevki": "Santrafor",
+        "takim": "Celta Vigo",
+        "yas": "33",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Iago Aspas",
+        "mevki": "Santrafor",
+        "takim": "Celta Vigo",
+        "yas": "10",
+        "piyasa_degeri": "1.80 mil. €"
+    },
+    {
+        "ad": "Julen Agirrezabala",
+        "mevki": "Kaleci",
+        "takim": "Valencia CF",
+        "yas": "25",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Stole Dimitrievski",
+        "mevki": "Kaleci",
+        "takim": "Valencia CF",
+        "yas": "32",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Cristian Rivero",
+        "mevki": "Kaleci",
+        "takim": "Valencia CF",
+        "yas": "13",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "César Tárrega",
+        "mevki": "Stoper",
+        "takim": "Valencia CF",
+        "yas": "24",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "José Copete",
+        "mevki": "Stoper",
+        "takim": "Valencia CF",
+        "yas": "26",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Unai Núñez",
+        "mevki": "Stoper",
+        "takim": "Valencia CF",
+        "yas": "29",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Eray Cömert",
+        "mevki": "Stoper",
+        "takim": "Valencia CF",
+        "yas": "24",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Mouctar Diakhaby",
+        "mevki": "Stoper",
+        "takim": "Valencia CF",
+        "yas": "29",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "José Gayà",
+        "mevki": "Sol Bek",
+        "takim": "Valencia CF",
+        "yas": "14",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Jesús Vázquez",
+        "mevki": "Sol Bek",
+        "takim": "Valencia CF",
+        "yas": "21",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Thierry Correia",
+        "mevki": "Sağ Bek",
+        "takim": "Valencia CF",
+        "yas": "12",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Renzo Saravia",
+        "mevki": "Sağ Bek",
+        "takim": "Valencia CF",
+        "yas": "20",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Dimitri Foulquier",
+        "mevki": "Sağ Bek",
+        "takim": "Valencia CF",
+        "yas": "33",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Pepelu",
+        "mevki": "Ön Libero",
+        "takim": "Valencia CF",
+        "yas": "18",
+        "piyasa_degeri": "9.00 mil. €"
+    },
+    {
+        "ad": "Guido Rodríguez",
+        "mevki": "Ön Libero",
+        "takim": "Valencia CF",
+        "yas": "32",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Baptiste Santamaria",
+        "mevki": "Ön Libero",
+        "takim": "Valencia CF",
+        "yas": "22",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Javi Guerra",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Valencia CF",
+        "yas": "22",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Filip Ugrinic",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Valencia CF",
+        "yas": "23",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "André Almeida",
+        "mevki": "On Numara",
+        "takim": "Valencia CF",
+        "yas": "10",
+        "piyasa_degeri": "7.50 mil. €"
+    },
+    {
+        "ad": "Largie Ramazani",
+        "mevki": "Sol Kanat",
+        "takim": "Valencia CF",
+        "yas": "17",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Arnaut Danjuma",
+        "mevki": "Sol Kanat",
+        "takim": "Valencia CF",
+        "yas": "29",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Diego López",
+        "mevki": "Sağ Kanat",
+        "takim": "Valencia CF",
+        "yas": "16",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Luis Rioja",
+        "mevki": "Sağ Kanat",
+        "takim": "Valencia CF",
+        "yas": "11",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Dani Raba",
+        "mevki": "Forvet Arkası",
+        "takim": "Valencia CF",
+        "yas": "19",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Hugo Duro",
+        "mevki": "Santrafor",
+        "takim": "Valencia CF",
+        "yas": "26",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Lucas Beltrán",
+        "mevki": "Santrafor",
+        "takim": "Valencia CF",
+        "yas": "15",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Umar Sadiq",
+        "mevki": "Santrafor",
+        "takim": "Valencia CF",
+        "yas": "29",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Marc-André ter Stegen",
+        "mevki": "Kaleci",
+        "takim": "Girona FC",
+        "yas": "22",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Paulo Gazzaniga",
+        "mevki": "Kaleci",
+        "takim": "Girona FC",
+        "yas": "13",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Rubén Blanco",
+        "mevki": "Kaleci",
+        "takim": "Girona FC",
+        "yas": "30",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Vladyslav Krapyvtsov",
+        "mevki": "Kaleci",
+        "takim": "Girona FC",
+        "yas": "25",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Juan Carlos",
+        "mevki": "Kaleci",
+        "takim": "Girona FC",
+        "yas": "38",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Vitor Reis",
+        "mevki": "Stoper",
+        "takim": "Girona FC",
+        "yas": "12",
+        "piyasa_degeri": "30.00 mil. €"
+    },
+    {
+        "ad": "Alejandro Francés",
+        "mevki": "Stoper",
+        "takim": "Girona FC",
+        "yas": "16",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Daley Blind",
+        "mevki": "Stoper",
+        "takim": "Girona FC",
+        "yas": "17",
+        "piyasa_degeri": "1.40 mil. €"
+    },
+    {
+        "ad": "David López",
+        "mevki": "Stoper",
+        "takim": "Girona FC",
+        "yas": "36",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Álex Moreno",
+        "mevki": "Sol Bek",
+        "takim": "Girona FC",
+        "yas": "24",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Arnau Martínez",
+        "mevki": "Sağ Bek",
+        "takim": "Girona FC",
+        "yas": "22",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Hugo Rincón",
+        "mevki": "Sağ Bek",
+        "takim": "Girona FC",
+        "yas": "23",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Axel Witsel",
+        "mevki": "Ön Libero",
+        "takim": "Girona FC",
+        "yas": "20",
+        "piyasa_degeri": "1.40 mil. €"
+    },
+    {
+        "ad": "Azzedine Ounahi",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Girona FC",
+        "yas": "18",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Iván Martín",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Girona FC",
+        "yas": "23",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Fran Beltrán",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Girona FC",
+        "yas": "27",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Donny van de Beek",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Girona FC",
+        "yas": "29",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Lass Kourouma",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Girona FC",
+        "yas": "29",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Claudio Echeverri",
+        "mevki": "On Numara",
+        "takim": "Girona FC",
+        "yas": "14",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Thomas Lemar",
+        "mevki": "On Numara",
+        "takim": "Girona FC",
+        "yas": "11",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Bryan Gil",
+        "mevki": "Sol Kanat",
+        "takim": "Girona FC",
+        "yas": "21",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Joel Roca",
+        "mevki": "Sol Kanat",
+        "takim": "Girona FC",
+        "yas": "20",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Viktor Tsygankov",
+        "mevki": "Sağ Kanat",
+        "takim": "Girona FC",
+        "yas": "15",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Portu",
+        "mevki": "Sağ Kanat",
+        "takim": "Girona FC",
+        "yas": "33",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Vladyslav Vanat",
+        "mevki": "Santrafor",
+        "takim": "Girona FC",
+        "yas": "19",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Abel Ruiz",
+        "mevki": "Santrafor",
+        "takim": "Girona FC",
+        "yas": "26",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Cristhian Stuani",
+        "mevki": "Santrafor",
+        "takim": "Girona FC",
+        "yas": "39",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Odysseas Vlachodimos",
+        "mevki": "Kaleci",
+        "takim": "Sevilla FC",
+        "yas": "31",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Ørjan Nyland",
+        "mevki": "Kaleci",
+        "takim": "Sevilla FC",
+        "yas": "13",
+        "piyasa_degeri": "900 bin €"
+    },
+    {
+        "ad": "Kike Salas",
+        "mevki": "Stoper",
+        "takim": "Sevilla FC",
+        "yas": "23",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Marcão",
+        "mevki": "Stoper",
+        "takim": "Sevilla FC",
+        "yas": "23",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Fábio Cardoso",
+        "mevki": "Stoper",
+        "takim": "Sevilla FC",
+        "yas": "15",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Andrés Castrín",
+        "mevki": "Stoper",
+        "takim": "Sevilla FC",
+        "yas": "32",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Tanguy Nianzou",
+        "mevki": "Stoper",
+        "takim": "Sevilla FC",
+        "yas": "23",
+        "piyasa_degeri": "1.40 mil. €"
+    },
+    {
+        "ad": "César Azpilicueta",
+        "mevki": "Stoper",
+        "takim": "Sevilla FC",
+        "yas": "36",
+        "piyasa_degeri": "1.20 mil. €"
+    },
+    {
+        "ad": "Federico Gattoni",
+        "mevki": "Stoper",
+        "takim": "Sevilla FC",
+        "yas": "22",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Gabriel Suazo",
+        "mevki": "Sol Bek",
+        "takim": "Sevilla FC",
+        "yas": "12",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Oso",
+        "mevki": "Sol Bek",
+        "takim": "Sevilla FC",
+        "yas": "36",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Juanlu Sánchez",
+        "mevki": "Sağ Bek",
+        "takim": "Sevilla FC",
+        "yas": "16",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "José Ángel Carmona",
+        "mevki": "Sağ Bek",
+        "takim": "Sevilla FC",
+        "yas": "24",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Lucien Agoumé",
+        "mevki": "Ön Libero",
+        "takim": "Sevilla FC",
+        "yas": "18",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Batista Mendy",
+        "mevki": "Ön Libero",
+        "takim": "Sevilla FC",
+        "yas": "19",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Nemanja Gudelj",
+        "mevki": "Ön Libero",
+        "takim": "Sevilla FC",
+        "yas": "34",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Djibril Sow",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Sevilla FC",
+        "yas": "20",
+        "piyasa_degeri": "7.50 mil. €"
+    },
+    {
+        "ad": "Joan Jordán",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Sevilla FC",
+        "yas": "31",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Manu Bueno",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Sevilla FC",
+        "yas": "28",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Rubén Vargas",
+        "mevki": "Sol Kanat",
+        "takim": "Sevilla FC",
+        "yas": "11",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Chidera Ejuke",
+        "mevki": "Sol Kanat",
+        "takim": "Sevilla FC",
+        "yas": "21",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Adnan Januzaj",
+        "mevki": "Sağ Kanat",
+        "takim": "Sevilla FC",
+        "yas": "24",
+        "piyasa_degeri": "1.20 mil. €"
+    },
+    {
+        "ad": "Miguel Sierra",
+        "mevki": "Sağ Kanat",
+        "takim": "Sevilla FC",
+        "yas": "29",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Peque Fernández",
+        "mevki": "Forvet Arkası",
+        "takim": "Sevilla FC",
+        "yas": "14",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Alexis Sánchez",
+        "mevki": "Forvet Arkası",
+        "takim": "Sevilla FC",
+        "yas": "10",
+        "piyasa_degeri": "1.40 mil. €"
+    },
+    {
+        "ad": "Akor Adams",
+        "mevki": "Santrafor",
+        "takim": "Sevilla FC",
+        "yas": "26",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Isaac Romero",
+        "mevki": "Santrafor",
+        "takim": "Sevilla FC",
+        "yas": "25",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Neal Maupay",
+        "mevki": "Santrafor",
+        "takim": "Sevilla FC",
+        "yas": "17",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Marko Dmitrovic",
+        "mevki": "Kaleci",
+        "takim": "Espanyol Barcelona",
+        "yas": "13",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Ángel Fortuño",
+        "mevki": "Kaleci",
+        "takim": "Espanyol Barcelona",
+        "yas": "24",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Clemens Riedel",
+        "mevki": "Stoper",
+        "takim": "Espanyol Barcelona",
+        "yas": "38",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Fernando Calero",
+        "mevki": "Stoper",
+        "takim": "Espanyol Barcelona",
+        "yas": "30",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Miguel Rubio",
+        "mevki": "Stoper",
+        "takim": "Espanyol Barcelona",
+        "yas": "15",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Leandro Cabrera",
+        "mevki": "Stoper",
+        "takim": "Espanyol Barcelona",
+        "yas": "34",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Carlos Romero",
+        "mevki": "Sol Bek",
+        "takim": "Espanyol Barcelona",
+        "yas": "22",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "José Salinas",
+        "mevki": "Sol Bek",
+        "takim": "Espanyol Barcelona",
+        "yas": "12",
+        "piyasa_degeri": "2.80 mil. €"
+    },
+    {
+        "ad": "Omar El Hilali",
+        "mevki": "Sağ Bek",
+        "takim": "Espanyol Barcelona",
+        "yas": "23",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Rubén Sánchez",
+        "mevki": "Sağ Bek",
+        "takim": "Espanyol Barcelona",
+        "yas": "25",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Urko González de Zárate",
+        "mevki": "Ön Libero",
+        "takim": "Espanyol Barcelona",
+        "yas": "25",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Charles Pickel",
+        "mevki": "Ön Libero",
+        "takim": "Espanyol Barcelona",
+        "yas": "18",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Pol Lozano",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Espanyol Barcelona",
+        "yas": "10",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Edu Expósito",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Espanyol Barcelona",
+        "yas": "29",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Ramón Terrats",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Espanyol Barcelona",
+        "yas": "14",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Javi Puado",
+        "mevki": "Sol Kanat",
+        "takim": "Espanyol Barcelona",
+        "yas": "27",
+        "piyasa_degeri": "7.50 mil. €"
+    },
+    {
+        "ad": "Pere Milla",
+        "mevki": "Sol Kanat",
+        "takim": "Espanyol Barcelona",
+        "yas": "11",
+        "piyasa_degeri": "1.20 mil. €"
+    },
+    {
+        "ad": "Tyrhys Dolan",
+        "mevki": "Sağ Kanat",
+        "takim": "Espanyol Barcelona",
+        "yas": "24",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Cyril Ngonge",
+        "mevki": "Sağ Kanat",
+        "takim": "Espanyol Barcelona",
+        "yas": "16",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Jofre Carreras",
+        "mevki": "Sağ Kanat",
+        "takim": "Espanyol Barcelona",
+        "yas": "17",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Antoniu Roca",
+        "mevki": "Sağ Kanat",
+        "takim": "Espanyol Barcelona",
+        "yas": "20",
+        "piyasa_degeri": "1.80 mil. €"
+    },
+    {
+        "ad": "Roberto Fernández",
+        "mevki": "Santrafor",
+        "takim": "Espanyol Barcelona",
+        "yas": "23",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Kike García",
+        "mevki": "Santrafor",
+        "takim": "Espanyol Barcelona",
+        "yas": "19",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Augusto Batalla",
+        "mevki": "Kaleci",
+        "takim": "Rayo Vallecano",
+        "yas": "13",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Dani Cárdenas",
+        "mevki": "Kaleci",
+        "takim": "Rayo Vallecano",
+        "yas": "29",
+        "piyasa_degeri": "1.80 mil. €"
+    },
+    {
+        "ad": "Nobel Mendy",
+        "mevki": "Stoper",
+        "takim": "Rayo Vallecano",
+        "yas": "32",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Abdul Mumin",
+        "mevki": "Stoper",
+        "takim": "Rayo Vallecano",
+        "yas": "16",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Luiz Felipe",
+        "mevki": "Stoper",
+        "takim": "Rayo Vallecano",
+        "yas": "29",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Jozhua Vertrouwd",
+        "mevki": "Stoper",
+        "takim": "Rayo Vallecano",
+        "yas": "33",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Florian Lejeune",
+        "mevki": "Stoper",
+        "takim": "Rayo Vallecano",
+        "yas": "24",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Pep Chavarría",
+        "mevki": "Sol Bek",
+        "takim": "Rayo Vallecano",
+        "yas": "28",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Alfonso Espino",
+        "mevki": "Sol Bek",
+        "takim": "Rayo Vallecano",
+        "yas": "22",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Andrei Rațiu",
+        "mevki": "Sağ Bek",
+        "takim": "Rayo Vallecano",
+        "yas": "27",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Iván Balliu",
+        "mevki": "Sağ Bek",
+        "takim": "Rayo Vallecano",
+        "yas": "20",
+        "piyasa_degeri": "1.20 mil. €"
+    },
+    {
+        "ad": "Gerard Gumbau",
+        "mevki": "Ön Libero",
+        "takim": "Rayo Vallecano",
+        "yas": "15",
+        "piyasa_degeri": "1.40 mil. €"
+    },
+    {
+        "ad": "Pedro Díaz",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Rayo Vallecano",
+        "yas": "27",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Unai López",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Rayo Vallecano",
+        "yas": "17",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Óscar Valentín",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Rayo Vallecano",
+        "yas": "23",
+        "piyasa_degeri": "2.20 mil. €"
+    },
+    {
+        "ad": "Pathé Ciss",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Rayo Vallecano",
+        "yas": "32",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Samu Becerra",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Rayo Vallecano",
+        "yas": "28",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Randy Nteka",
+        "mevki": "On Numara",
+        "takim": "Rayo Vallecano",
+        "yas": "11",
+        "piyasa_degeri": "1.20 mil. €"
+    },
+    {
+        "ad": "Óscar Trejo",
+        "mevki": "On Numara",
+        "takim": "Rayo Vallecano",
+        "yas": "37",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Carlos Martín",
+        "mevki": "Sol Kanat",
+        "takim": "Rayo Vallecano",
+        "yas": "14",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Álvaro García",
+        "mevki": "Sol Kanat",
+        "takim": "Rayo Vallecano",
+        "yas": "18",
+        "piyasa_degeri": "1.80 mil. €"
+    },
+    {
+        "ad": "Ilias Akhomach",
+        "mevki": "Sağ Kanat",
+        "takim": "Rayo Vallecano",
+        "yas": "12",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Jorge de Frutos",
+        "mevki": "Sağ Kanat",
+        "takim": "Rayo Vallecano",
+        "yas": "19",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Fran Pérez",
+        "mevki": "Sağ Kanat",
+        "takim": "Rayo Vallecano",
+        "yas": "21",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Isi Palazón",
+        "mevki": "Forvet Arkası",
+        "takim": "Rayo Vallecano",
+        "yas": "31",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Alemão",
+        "mevki": "Santrafor",
+        "takim": "Rayo Vallecano",
+        "yas": "28",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Sergio Camello",
+        "mevki": "Santrafor",
+        "takim": "Rayo Vallecano",
+        "yas": "10",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Sergio Herrera",
+        "mevki": "Kaleci",
+        "takim": "CA Osasuna",
+        "yas": "32",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Aitor Fernández",
+        "mevki": "Kaleci",
+        "takim": "CA Osasuna",
+        "yas": "13",
+        "piyasa_degeri": "600 bin €"
+    },
+    {
+        "ad": "Enzo Boyomo",
+        "mevki": "Stoper",
+        "takim": "CA Osasuna",
+        "yas": "22",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Jorge Herrando",
+        "mevki": "Stoper",
+        "takim": "CA Osasuna",
+        "yas": "25",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Alejandro Catena",
+        "mevki": "Stoper",
+        "takim": "CA Osasuna",
+        "yas": "24",
+        "piyasa_degeri": "2.80 mil. €"
+    },
+    {
+        "ad": "Abel Bretones",
+        "mevki": "Sol Bek",
+        "takim": "CA Osasuna",
+        "yas": "23",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Javi Galán",
+        "mevki": "Sol Bek",
+        "takim": "CA Osasuna",
+        "yas": "20",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Juan Cruz",
+        "mevki": "Sol Bek",
+        "takim": "CA Osasuna",
+        "yas": "33",
+        "piyasa_degeri": "1.20 mil. €"
+    },
+    {
+        "ad": "Valentin Rosier",
+        "mevki": "Sağ Bek",
+        "takim": "CA Osasuna",
+        "yas": "19",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Iñigo Arguibide",
+        "mevki": "Sağ Bek",
+        "takim": "CA Osasuna",
+        "yas": "41",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Lucas Torró",
+        "mevki": "Ön Libero",
+        "takim": "CA Osasuna",
+        "yas": "31",
+        "piyasa_degeri": "2.80 mil. €"
+    },
+    {
+        "ad": "Iker Muñoz",
+        "mevki": "Ön Libero",
+        "takim": "CA Osasuna",
+        "yas": "23",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Jon Moncayola",
+        "mevki": "Merkez Orta Saha",
+        "takim": "CA Osasuna",
+        "yas": "27",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Asier Osambela",
+        "mevki": "Merkez Orta Saha",
+        "takim": "CA Osasuna",
+        "yas": "29",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Aimar Oroz",
+        "mevki": "On Numara",
+        "takim": "CA Osasuna",
+        "yas": "10",
+        "piyasa_degeri": "9.00 mil. €"
+    },
+    {
+        "ad": "Moi Gómez",
+        "mevki": "On Numara",
+        "takim": "CA Osasuna",
+        "yas": "16",
+        "piyasa_degeri": "1.80 mil. €"
+    },
+    {
+        "ad": "Víctor Muñoz",
+        "mevki": "Sol Kanat",
+        "takim": "CA Osasuna",
+        "yas": "21",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Raúl Moro",
+        "mevki": "Sol Kanat",
+        "takim": "CA Osasuna",
+        "yas": "15",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Rubén García",
+        "mevki": "Sağ Kanat",
+        "takim": "CA Osasuna",
+        "yas": "14",
+        "piyasa_degeri": "1.80 mil. €"
+    },
+    {
+        "ad": "Iker Benito",
+        "mevki": "Sağ Kanat",
+        "takim": "CA Osasuna",
+        "yas": "23",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Kike Barja",
+        "mevki": "Sağ Kanat",
+        "takim": "CA Osasuna",
+        "yas": "11",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Raúl García",
+        "mevki": "Santrafor",
+        "takim": "CA Osasuna",
+        "yas": "25",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Ante Budimir",
+        "mevki": "Santrafor",
+        "takim": "CA Osasuna",
+        "yas": "17",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Leo Román",
+        "mevki": "Kaleci",
+        "takim": "RCD Mallorca",
+        "yas": "25",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Lucas Bergström",
+        "mevki": "Kaleci",
+        "takim": "RCD Mallorca",
+        "yas": "13",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Iván Cuéllar",
+        "mevki": "Kaleci",
+        "takim": "RCD Mallorca",
+        "yas": "25",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Martin Valjent",
+        "mevki": "Stoper",
+        "takim": "RCD Mallorca",
+        "yas": "24",
+        "piyasa_degeri": "4.50 mil. €"
+    },
+    {
+        "ad": "Marash Kumbulla",
+        "mevki": "Stoper",
+        "takim": "RCD Mallorca",
+        "yas": "26",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Antonio Raíllo",
+        "mevki": "Stoper",
+        "takim": "RCD Mallorca",
+        "yas": "21",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "David López",
+        "mevki": "Stoper",
+        "takim": "RCD Mallorca",
+        "yas": "27",
+        "piyasa_degeri": "1.20 mil. €"
+    },
+    {
+        "ad": "Johan Mojica",
+        "mevki": "Sol Bek",
+        "takim": "RCD Mallorca",
+        "yas": "22",
+        "piyasa_degeri": "1.80 mil. €"
+    },
+    {
+        "ad": "Toni Lato",
+        "mevki": "Sol Bek",
+        "takim": "RCD Mallorca",
+        "yas": "28",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Pablo Maffeo",
+        "mevki": "Sağ Bek",
+        "takim": "RCD Mallorca",
+        "yas": "23",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Mateu Morey",
+        "mevki": "Sağ Bek",
+        "takim": "RCD Mallorca",
+        "yas": "26",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Samú Costa",
+        "mevki": "Ön Libero",
+        "takim": "RCD Mallorca",
+        "yas": "12",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Omar Mascarell",
+        "mevki": "Ön Libero",
+        "takim": "RCD Mallorca",
+        "yas": "33",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Sergi Darder",
+        "mevki": "Merkez Orta Saha",
+        "takim": "RCD Mallorca",
+        "yas": "10",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Antonio Sánchez",
+        "mevki": "Merkez Orta Saha",
+        "takim": "RCD Mallorca",
+        "yas": "28",
+        "piyasa_degeri": "2.40 mil. €"
+    },
+    {
+        "ad": "Manu Morlanes",
+        "mevki": "Merkez Orta Saha",
+        "takim": "RCD Mallorca",
+        "yas": "27",
+        "piyasa_degeri": "2.40 mil. €"
+    },
+    {
+        "ad": "Jan Salas",
+        "mevki": "Merkez Orta Saha",
+        "takim": "RCD Mallorca",
+        "yas": "41",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Pablo Torre",
+        "mevki": "On Numara",
+        "takim": "RCD Mallorca",
+        "yas": "20",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Jan Virgili",
+        "mevki": "Sol Kanat",
+        "takim": "RCD Mallorca",
+        "yas": "17",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Javi Llabrés",
+        "mevki": "Sol Kanat",
+        "takim": "RCD Mallorca",
+        "yas": "19",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Zito Luvumbo",
+        "mevki": "Sağ Kanat",
+        "takim": "RCD Mallorca",
+        "yas": "15",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Takuma Asano",
+        "mevki": "Sağ Kanat",
+        "takim": "RCD Mallorca",
+        "yas": "11",
+        "piyasa_degeri": "1.80 mil. €"
+    },
+    {
+        "ad": "Justin Kalumba",
+        "mevki": "Sağ Kanat",
+        "takim": "RCD Mallorca",
+        "yas": "30",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Vedat Muriqi",
+        "mevki": "Santrafor",
+        "takim": "RCD Mallorca",
+        "yas": "31",
+        "piyasa_degeri": "4.50 mil. €"
+    },
+    {
+        "ad": "Mateo Joseph",
+        "mevki": "Santrafor",
+        "takim": "RCD Mallorca",
+        "yas": "18",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Abdón Prats",
+        "mevki": "Santrafor",
+        "takim": "RCD Mallorca",
+        "yas": "33",
+        "piyasa_degeri": "900 bin €"
+    },
+    {
+        "ad": "Mathew Ryan",
+        "mevki": "Kaleci",
+        "takim": "Levante",
+        "yas": "13",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Pablo Campos",
+        "mevki": "Kaleci",
+        "takim": "Levante",
+        "yas": "23",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Matías Moreno",
+        "mevki": "Stoper",
+        "takim": "Levante",
+        "yas": "22",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Alan Matturro",
+        "mevki": "Stoper",
+        "takim": "Levante",
+        "yas": "21",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Adrián Dela",
+        "mevki": "Stoper",
+        "takim": "Levante",
+        "yas": "27",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Unai Elgezabal",
+        "mevki": "Stoper",
+        "takim": "Levante",
+        "yas": "32",
+        "piyasa_degeri": "600 bin €"
+    },
+    {
+        "ad": "Manu Sánchez",
+        "mevki": "Sol Bek",
+        "takim": "Levante",
+        "yas": "23",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Diego Pampín",
+        "mevki": "Sol Bek",
+        "takim": "Levante",
+        "yas": "26",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Jeremy Toljan",
+        "mevki": "Sağ Bek",
+        "takim": "Levante",
+        "yas": "22",
+        "piyasa_degeri": "2.20 mil. €"
+    },
+    {
+        "ad": "Víctor García",
+        "mevki": "Sağ Bek",
+        "takim": "Levante",
+        "yas": "17",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Ugo Raghouber",
+        "mevki": "Ön Libero",
+        "takim": "Levante",
+        "yas": "14",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Oriol Rey",
+        "mevki": "Ön Libero",
+        "takim": "Levante",
+        "yas": "20",
+        "piyasa_degeri": "1.80 mil. €"
+    },
+    {
+        "ad": "Kervin Arriaga",
+        "mevki": "Ön Libero",
+        "takim": "Levante",
+        "yas": "16",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Pablo Martínez",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Levante",
+        "yas": "10",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Jon Ander Olasagasti",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Levante",
+        "yas": "25",
+        "piyasa_degeri": "1.80 mil. €"
+    },
+    {
+        "ad": "Unai Vencedor",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Levante",
+        "yas": "12",
+        "piyasa_degeri": "1.80 mil. €"
+    },
+    {
+        "ad": "Carlos Álvarez",
+        "mevki": "On Numara",
+        "takim": "Levante",
+        "yas": "24",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Roger Brugué",
+        "mevki": "Sol Kanat",
+        "takim": "Levante",
+        "yas": "29",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Paco Cortés",
+        "mevki": "Sol Kanat",
+        "takim": "Levante",
+        "yas": "27",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Kareem Tunde",
+        "mevki": "Sağ Kanat",
+        "takim": "Levante",
+        "yas": "26",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Tay Abed",
+        "mevki": "Sağ Kanat",
+        "takim": "Levante",
+        "yas": "55",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Iker Losada",
+        "mevki": "Forvet Arkası",
+        "takim": "Levante",
+        "yas": "18",
+        "piyasa_degeri": "1.40 mil. €"
+    },
+    {
+        "ad": "Karl Etta Eyong",
+        "mevki": "Santrafor",
+        "takim": "Levante",
+        "yas": "21",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Iván Romero",
+        "mevki": "Santrafor",
+        "takim": "Levante",
+        "yas": "25",
+        "piyasa_degeri": "7.50 mil. €"
+    },
+    {
+        "ad": "Carlos Espí",
+        "mevki": "Santrafor",
+        "takim": "Levante",
+        "yas": "19",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "José Luis Morales",
+        "mevki": "Santrafor",
+        "takim": "Levante",
+        "yas": "11",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Iñaki Peña",
+        "mevki": "Kaleci",
+        "takim": "Elche CF",
+        "yas": "13",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Alejandro Iturbe",
+        "mevki": "Kaleci",
+        "takim": "Elche CF",
+        "yas": "45",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Matías Dituro",
+        "mevki": "Kaleci",
+        "takim": "Elche CF",
+        "yas": "38",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "David Affengruber",
+        "mevki": "Stoper",
+        "takim": "Elche CF",
+        "yas": "22",
+        "piyasa_degeri": "9.00 mil. €"
+    },
+    {
+        "ad": "Víctor Chust",
+        "mevki": "Stoper",
+        "takim": "Elche CF",
+        "yas": "23",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "John Donald",
+        "mevki": "Stoper",
+        "takim": "Elche CF",
+        "yas": "18",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Pedro Bigas",
+        "mevki": "Stoper",
+        "takim": "Elche CF",
+        "yas": "35",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Adrià Pedrosa",
+        "mevki": "Sol Bek",
+        "takim": "Elche CF",
+        "yas": "27",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Léo Pétrot",
+        "mevki": "Sol Bek",
+        "takim": "Elche CF",
+        "yas": "21",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Héctor Fort",
+        "mevki": "Sağ Bek",
+        "takim": "Elche CF",
+        "yas": "39",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Buba Sangaré",
+        "mevki": "Sağ Bek",
+        "takim": "Elche CF",
+        "yas": "42",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Federico Redondo",
+        "mevki": "Ön Libero",
+        "takim": "Elche CF",
+        "yas": "23",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Marc Aguado",
+        "mevki": "Ön Libero",
+        "takim": "Elche CF",
+        "yas": "26",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Aleix Febas",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Elche CF",
+        "yas": "14",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Martim Neto",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Elche CF",
+        "yas": "16",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Gonzalo Villar",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Elche CF",
+        "yas": "12",
+        "piyasa_degeri": "1.80 mil. €"
+    },
+    {
+        "ad": "Germán Valera",
+        "mevki": "Sol Kanat",
+        "takim": "Elche CF",
+        "yas": "11",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Lucas Cepeda",
+        "mevki": "Sol Kanat",
+        "takim": "Elche CF",
+        "yas": "24",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Tete Morente",
+        "mevki": "Sol Kanat",
+        "takim": "Elche CF",
+        "yas": "15",
+        "piyasa_degeri": "1.80 mil. €"
+    },
+    {
+        "ad": "Yago Santiago",
+        "mevki": "Sol Kanat",
+        "takim": "Elche CF",
+        "yas": "23",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Grady Diangana",
+        "mevki": "Sağ Kanat",
+        "takim": "Elche CF",
+        "yas": "19",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Josan",
+        "mevki": "Sağ Kanat",
+        "takim": "Elche CF",
+        "yas": "17",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Adam Boayar",
+        "mevki": "Forvet Arkası",
+        "takim": "Elche CF",
+        "yas": "32",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Álvaro Rodríguez",
+        "mevki": "Santrafor",
+        "takim": "Elche CF",
+        "yas": "20",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Rafa Mir",
+        "mevki": "Santrafor",
+        "takim": "Elche CF",
+        "yas": "10",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "André Silva",
+        "mevki": "Santrafor",
+        "takim": "Elche CF",
+        "yas": "30",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "David Soria",
+        "mevki": "Kaleci",
+        "takim": "Getafe CF",
+        "yas": "13",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Jiri Letacek",
+        "mevki": "Kaleci",
+        "takim": "Getafe CF",
+        "yas": "27",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Abdel Abqar",
+        "mevki": "Stoper",
+        "takim": "Getafe CF",
+        "yas": "27",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Sebastián Boselli",
+        "mevki": "Stoper",
+        "takim": "Getafe CF",
+        "yas": "15",
+        "piyasa_degeri": "2.80 mil. €"
+    },
+    {
+        "ad": "Zaid Romero",
+        "mevki": "Stoper",
+        "takim": "Getafe CF",
+        "yas": "24",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Dakonam Djené",
+        "mevki": "Stoper",
+        "takim": "Getafe CF",
+        "yas": "34",
+        "piyasa_degeri": "1.60 mil. €"
+    },
+    {
+        "ad": "Domingos Duarte",
+        "mevki": "Stoper",
+        "takim": "Getafe CF",
+        "yas": "22",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Diego Rico",
+        "mevki": "Sol Bek",
+        "takim": "Getafe CF",
+        "yas": "16",
+        "piyasa_degeri": "1.20 mil. €"
+    },
+    {
+        "ad": "Davinchi",
+        "mevki": "Sol Bek",
+        "takim": "Getafe CF",
+        "yas": "26",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Juan Iglesias",
+        "mevki": "Sağ Bek",
+        "takim": "Getafe CF",
+        "yas": "21",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Kiko Femenía",
+        "mevki": "Sağ Bek",
+        "takim": "Getafe CF",
+        "yas": "17",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Ismael Bekhoucha",
+        "mevki": "Sağ Bek",
+        "takim": "Getafe CF",
+        "yas": "31",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Allan Nyom",
+        "mevki": "Sağ Bek",
+        "takim": "Getafe CF",
+        "yas": "12",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Mario Martín",
+        "mevki": "Ön Libero",
+        "takim": "Getafe CF",
+        "yas": "22",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Mauro Arambarri",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Getafe CF",
+        "yas": "30",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Luis Milla",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Getafe CF",
+        "yas": "31",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Javi Muñoz",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Getafe CF",
+        "yas": "14",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Adrián Liso",
+        "mevki": "Sol Kanat",
+        "takim": "Getafe CF",
+        "yas": "23",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Veljko Birmancevic",
+        "mevki": "Sol Kanat",
+        "takim": "Getafe CF",
+        "yas": "20",
+        "piyasa_degeri": "4.50 mil. €"
+    },
+    {
+        "ad": "Juanmi",
+        "mevki": "Sol Kanat",
+        "takim": "Getafe CF",
+        "yas": "32",
+        "piyasa_degeri": "1.20 mil. €"
+    },
+    {
+        "ad": "Abu Kamara",
+        "mevki": "Sağ Kanat",
+        "takim": "Getafe CF",
+        "yas": "11",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Álex Sancris",
+        "mevki": "Sağ Kanat",
+        "takim": "Getafe CF",
+        "yas": "18",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Borja Mayoral",
+        "mevki": "Santrafor",
+        "takim": "Getafe CF",
+        "yas": "29",
+        "piyasa_degeri": "7.50 mil. €"
+    },
+    {
+        "ad": "Martín Satriano",
+        "mevki": "Santrafor",
+        "takim": "Getafe CF",
+        "yas": "10",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Luis Vázquez",
+        "mevki": "Santrafor",
+        "takim": "Getafe CF",
+        "yas": "19",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Antonio Sivera",
+        "mevki": "Kaleci",
+        "takim": "Deportivo Alavés",
+        "yas": "29",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Raúl Fernández",
+        "mevki": "Kaleci",
+        "takim": "Deportivo Alavés",
+        "yas": "13",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Jon Pacheco",
+        "mevki": "Stoper",
+        "takim": "Deportivo Alavés",
+        "yas": "25",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Ville Koski",
+        "mevki": "Stoper",
+        "takim": "Deportivo Alavés",
+        "yas": "16",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Youssef Enríquez",
+        "mevki": "Sol Bek",
+        "takim": "Deportivo Alavés",
+        "yas": "20",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Victor Parada",
+        "mevki": "Sol Bek",
+        "takim": "Deportivo Alavés",
+        "yas": "24",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Nahuel Tenaglia",
+        "mevki": "Sağ Bek",
+        "takim": "Deportivo Alavés",
+        "yas": "14",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Jonny Otto",
+        "mevki": "Sağ Bek",
+        "takim": "Deportivo Alavés",
+        "yas": "17",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Antonio Blanco",
+        "mevki": "Ön Libero",
+        "takim": "Deportivo Alavés",
+        "yas": "25",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Carlos Protesoni",
+        "mevki": "Ön Libero",
+        "takim": "Deportivo Alavés",
+        "yas": "23",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Pablo Ibáñez",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Deportivo Alavés",
+        "yas": "19",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Carles Aleñá",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Deportivo Alavés",
+        "yas": "10",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Ander Guevara",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Deportivo Alavés",
+        "yas": "28",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Jon Guridi",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Deportivo Alavés",
+        "yas": "18",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Calebe",
+        "mevki": "On Numara",
+        "takim": "Deportivo Alavés",
+        "yas": "20",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Denis Suárez",
+        "mevki": "On Numara",
+        "takim": "Deportivo Alavés",
+        "yas": "32",
+        "piyasa_degeri": "1.20 mil. €"
+    },
+    {
+        "ad": "Abde Rebbach",
+        "mevki": "Sol Kanat",
+        "takim": "Deportivo Alavés",
+        "yas": "21",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Ángel Pérez",
+        "mevki": "Sağ Kanat",
+        "takim": "Deportivo Alavés",
+        "yas": "23",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Lucas Boyé",
+        "mevki": "Santrafor",
+        "takim": "Deportivo Alavés",
+        "yas": "15",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Toni Martínez",
+        "mevki": "Santrafor",
+        "takim": "Deportivo Alavés",
+        "yas": "11",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Ibrahim Diabate",
+        "mevki": "Santrafor",
+        "takim": "Deportivo Alavés",
+        "yas": "22",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Aitor Mañas",
+        "mevki": "Santrafor",
+        "takim": "Deportivo Alavés",
+        "yas": "34",
+        "piyasa_degeri": "600 bin €"
+    },
+    {
+        "ad": "Mariano Díaz",
+        "mevki": "Santrafor",
+        "takim": "Deportivo Alavés",
+        "yas": "32",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Aarón Escandell",
+        "mevki": "Kaleci",
+        "takim": "Real Oviedo",
+        "yas": "13",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Horațiu Moldovan",
+        "mevki": "Kaleci",
+        "takim": "Real Oviedo",
+        "yas": "28",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "David Carmo",
+        "mevki": "Stoper",
+        "takim": "Real Oviedo",
+        "yas": "16",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Eric Bailly",
+        "mevki": "Stoper",
+        "takim": "Real Oviedo",
+        "yas": "32",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "David Costas",
+        "mevki": "Stoper",
+        "takim": "Real Oviedo",
+        "yas": "31",
+        "piyasa_degeri": "1.40 mil. €"
+    },
+    {
+        "ad": "Dani Calvo",
+        "mevki": "Stoper",
+        "takim": "Real Oviedo",
+        "yas": "12",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Javi López",
+        "mevki": "Sol Bek",
+        "takim": "Real Oviedo",
+        "yas": "25",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Rahim Alhassane",
+        "mevki": "Sol Bek",
+        "takim": "Real Oviedo",
+        "yas": "24",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Nacho Vidal",
+        "mevki": "Sağ Bek",
+        "takim": "Real Oviedo",
+        "yas": "22",
+        "piyasa_degeri": "1.60 mil. €"
+    },
+    {
+        "ad": "Lucas Ahijado",
+        "mevki": "Sağ Bek",
+        "takim": "Real Oviedo",
+        "yas": "24",
+        "piyasa_degeri": "700 bin €"
+    },
+    {
+        "ad": "Santiago Colombatto",
+        "mevki": "Ön Libero",
+        "takim": "Real Oviedo",
+        "yas": "11",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Leander Dendoncker",
+        "mevki": "Ön Libero",
+        "takim": "Real Oviedo",
+        "yas": "20",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Nicolás Fonseca",
+        "mevki": "Ön Libero",
+        "takim": "Real Oviedo",
+        "yas": "23",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Alberto Reina",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Real Oviedo",
+        "yas": "28",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Kwasi Sibo",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Real Oviedo",
+        "yas": "27",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Santi Cazorla",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Real Oviedo",
+        "yas": "41",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Luka Ilic",
+        "mevki": "On Numara",
+        "takim": "Real Oviedo",
+        "yas": "21",
+        "piyasa_degeri": "1.80 mil. €"
+    },
+    {
+        "ad": "Pablo Agudín",
+        "mevki": "On Numara",
+        "takim": "Real Oviedo",
+        "yas": "27",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Thiago Fernández",
+        "mevki": "Sol Kanat",
+        "takim": "Real Oviedo",
+        "yas": "15",
+        "piyasa_degeri": "4.50 mil. €"
+    },
+    {
+        "ad": "Ilyas Chaira",
+        "mevki": "Sol Kanat",
+        "takim": "Real Oviedo",
+        "yas": "25",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Ovie Ejaria",
+        "mevki": "Sol Kanat",
+        "takim": "Real Oviedo",
+        "yas": "14",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Haissem Hassan",
+        "mevki": "Sağ Kanat",
+        "takim": "Real Oviedo",
+        "yas": "10",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Federico Viñas",
+        "mevki": "Santrafor",
+        "takim": "Real Oviedo",
+        "yas": "27",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Thiago Borbas",
+        "mevki": "Santrafor",
+        "takim": "Real Oviedo",
+        "yas": "17",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Álex Forés",
+        "mevki": "Santrafor",
+        "takim": "Real Oviedo",
+        "yas": "19",
+        "piyasa_degeri": "800 bin €"
+    }
+]

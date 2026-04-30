@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Süper Lig Analiz Paneli</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <style>
+        :root {
+            --bg-color: #0f172a;
+            --glass-bg: rgba(30, 41, 59, 0.7);
+            --glass-border: rgba(255, 255, 255, 0.1);
+            --accent-color: #38bdf8;
+            --text-primary: #f8fafc;
+            --text-secondary: #94a3b8;
+            --card-hover: rgba(51, 65, 85, 0.8);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Outfit', sans-serif;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            background-image: 
+                radial-gradient(at 0% 0%, rgba(56, 189, 248, 0.15) 0px, transparent 50%),
+                radial-gradient(at 100% 100%, rgba(139, 92, 246, 0.15) 0px, transparent 50%);
+            color: var(--text-primary);
+            min-height: 100vh;
+            padding: 2rem;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 1200px;
+        }
+
+        header {
+            margin-bottom: 3rem;
+            text-align: center;
+        }
+
+        h1 {
+            font-size: 3rem;
+            font-weight: 700;
+            margin-bottom: 0.5rem;
+            background: linear-gradient(to right, #38bdf8, #818cf8);
+            -webkit-background-clip: text;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        p.subtitle {
+            color: var(--text-secondary);
+            font-size: 1.1rem;
+        }
+
+        .controls {
+            display: flex;
+            gap: 1rem;
+            margin-bottom: 2rem;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        .search-container {
+            position: relative;
+            flex-grow: 1;
+            max-width: 400px;
+        }
+
+        input {
+            width: 100%;
+            padding: 0.8rem 1rem 0.8rem 3rem;
+            background: var(--glass-bg);
+            border: 1px solid var(--glass-border);
+            border-radius: 12px;
+            color: white;
+            backdrop-filter: blur(10px);
+            outline: none;
+            transition: all 0.3s;
+        }
+
+        input:focus {
+            border-color: var(--accent-color);
+            box-shadow: 0 0 15px rgba(56, 189, 248, 0.2);
+        }
+
+        .search-icon {
+            position: absolute;
+            left: 1rem;
+            top: 50%;
+            transform: translateY(-50%);
+            color: var(--text-secondary);
+        }
+
+        .table-container {
+            background: var(--glass-bg);
+            backdrop-filter: blur(16px);
+            border: 1px solid var(--glass-border);
+            border-radius: 24px;
+            overflow: hidden;
+            box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            text-align: left;
+        }
+
+        thead {
+            background: rgba(255, 255, 255, 0.05);
+        }
+
+        th {
+            padding: 1.2rem 1.5rem;
+            font-weight: 600;
+            color: var(--text-secondary);
+            text-transform: uppercase;
+            font-size: 0.8rem;
+            letter-spacing: 0.05em;
+        }
+
+        td {
+            padding: 1.2rem 1.5rem;
+            border-bottom: 1px solid var(--glass-border);
+            transition: background 0.2s;
+        }
+
+        tr:last-child td {
+            border-bottom: none;
+        }
+
+        tr:hover td {
+            background: var(--card-hover);
+        }
+
+        .week-badge {
+            background: rgba(56, 189, 248, 0.1);
+            color: var(--accent-color);
+            padding: 0.3rem 0.8rem;
+            border-radius: 8px;
+            font-size: 0.9rem;
+            font-weight: 600;
+        }
+
+        .team-name {
+            font-weight: 500;
+        }
+
+        .score {
+            font-family: 'Courier New', Courier, monospace;
+            font-weight: 700;
+            font-size: 1.2rem;
+            letter-spacing: 0.1em;
+            background: rgba(255, 255, 255, 0.05);
+            padding: 0.4rem 0.8rem;
+            border-radius: 8px;
+            display: inline-block;
+            min-width: 80px;
+            text-align: center;
+        }
+
+        .xg-value {
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+            gap: 0.4rem;
+        }
+
+        .xg-home { color: #4ade80; }
+        .xg-away { color: #f472b6; }
+
+        .note {
+            margin-top: 1.5rem;
+            font-size: 0.9rem;
+            color: var(--text-secondary);
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        @media (max-width: 768px) {
+            body { padding: 1rem; }
+            h1 { font-size: 2rem; }
+            td, th { padding: 0.8rem; }
+            .score { font-size: 1rem; min-width: 60px; }
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <header>
+        <h1>Süper Lig Analiz</h1>
+        <p class="subtitle">Haftalık Maç Sonuçları ve Gerçek xG İstatistikleri</p>
+    </header>
+
+    <div class="controls">
+        <div class="search-container">
+            <i data-lucide="search" class="search-icon"></i>
+            <input type="text" id="teamSearch" placeholder="Takım ara...">
+        </div>
+    </div>
+
+    <div class="table-container">
+        <table id="matchTable">
+            <thead>
+                <tr>
+                    <th>Hafta</th>
+                    <th>Ev Sahibi</th>
+                    <th>Skor</th>
+                    <th>Deplasman</th>
+                    <th>Ev xG</th>
+                    <th>Dep xG</th>
+                </tr>
+            </thead>
+            <tbody id="tableBody">
+                <!-- Data will be populated here -->
+            </tbody>
+        </table>
+    </div>
+
+    <div class="note">
+        <i data-lucide="info" size="16"></i>
+        <span>Bilgi: xG (Expected Goals) verileri gerçek API planınız üzerinden çekilmektedir.</span>
+    </div>
+</div>
+
+<!-- Link to data first -->
+<script src="data.js"></script>
+
+<script>
+    // Lucide icons
+    lucide.createIcons();
+
+    let footballData = [];
+
+    async function loadData() {
+        console.log("Loading data...", typeof fullData);
+        try {
+            if (typeof fullData === 'undefined') {
+                 console.log("fullData undefined, trying fetch");
+                 const response = await fetch('superlig_data.json');
+                 footballData = await response.json();
+            } else {
+                console.log("fullData found", fullData.length);
+                footballData = fullData;
+            }
+            renderTable(footballData);
+        } catch (error) {
+            console.error('Error loading data:', error);
+            document.getElementById('tableBody').innerHTML = '<tr><td colspan="6" style="text-align:center">Veri yüklenemedi. ' + error.message + '</td></tr>';
+        }
+    }
+
+    function renderTable(data) {
+        const tbody = document.getElementById('tableBody');
+        tbody.innerHTML = '';
+
+        if (!data || data.length === 0) {
+            tbody.innerHTML = '<tr><td colspan="6" style="text-align:center">Gösterilecek veri yok.</td></tr>';
+            return;
+        }
+
+        data.forEach(match => {
+            const row = document.createElement('tr');
+            row.innerHTML = `
+                <td><span class="week-badge">${match['Hafta']}</span></td>
+                <td class="team-name">${match['Ev Sahibi']}</td>
+                <td style="text-align:center"><span class="score">${match['Skor']}</span></td>
+                <td class="team-name">${match['Deplasman']}</td>
+                <td class="xg-value xg-home">${match['Ev xG']}</td>
+                <td class="xg-value xg-away">${match['Dep xG']}</td>
+            `;
+            tbody.appendChild(row);
+        });
+    }
+
+    // Search functionality
+    document.getElementById('teamSearch').addEventListener('input', (e) => {
+        const term = e.target.value.toLowerCase();
+        const filtered = footballData.filter(m => 
+            m['Ev Sahibi'].toLowerCase().includes(term) || 
+            m['Deplasman'].toLowerCase().includes(term) ||
+            m['Hafta'].toString().includes(term)
+        );
+        renderTable(filtered);
+    });
+
+    // Initialize
+    loadData();
+</script>
+
+</body>
+</html>

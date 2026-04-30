@@ -1,0 +1,3271 @@
+[
+    {
+        "ad": "Lucas Chevalier",
+        "mevki": "Kaleci",
+        "takim": "Paris Saint-Germain",
+        "yas": "30",
+        "piyasa_degeri": "30.00 mil. €"
+    },
+    {
+        "ad": "Matvey Safonov",
+        "mevki": "Kaleci",
+        "takim": "Paris Saint-Germain",
+        "yas": "39",
+        "piyasa_degeri": "22.00 mil. €"
+    },
+    {
+        "ad": "Renato Marin",
+        "mevki": "Kaleci",
+        "takim": "Paris Saint-Germain",
+        "yas": "89",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Willian Pacho",
+        "mevki": "Stoper",
+        "takim": "Paris Saint-Germain",
+        "yas": "51",
+        "piyasa_degeri": "70.00 mil. €"
+    },
+    {
+        "ad": "Ilya Zabarnyi",
+        "mevki": "Stoper",
+        "takim": "Paris Saint-Germain",
+        "yas": "23",
+        "piyasa_degeri": "45.00 mil. €"
+    },
+    {
+        "ad": "Marquinhos",
+        "mevki": "Stoper",
+        "takim": "Paris Saint-Germain",
+        "yas": "31",
+        "piyasa_degeri": "30.00 mil. €"
+    },
+    {
+        "ad": "Lucas Beraldo",
+        "mevki": "Stoper",
+        "takim": "Paris Saint-Germain",
+        "yas": "22",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Nuno Mendes",
+        "mevki": "Sol Bek",
+        "takim": "Paris Saint-Germain",
+        "yas": "25",
+        "piyasa_degeri": "75.00 mil. €"
+    },
+    {
+        "ad": "Lucas Hernández",
+        "mevki": "Sol Bek",
+        "takim": "Paris Saint-Germain",
+        "yas": "21",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Achraf Hakimi",
+        "mevki": "Sağ Bek",
+        "takim": "Paris Saint-Germain",
+        "yas": "27",
+        "piyasa_degeri": "80.00 mil. €"
+    },
+    {
+        "ad": "Vitinha",
+        "mevki": "Ön Libero",
+        "takim": "Paris Saint-Germain",
+        "yas": "17",
+        "piyasa_degeri": "110.00 mil. €"
+    },
+    {
+        "ad": "João Neves",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Paris Saint-Germain",
+        "yas": "87",
+        "piyasa_degeri": "110.00 mil. €"
+    },
+    {
+        "ad": "Warren Zaïre-Emery",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Paris Saint-Germain",
+        "yas": "33",
+        "piyasa_degeri": "60.00 mil. €"
+    },
+    {
+        "ad": "Fabián Ruiz",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Paris Saint-Germain",
+        "yas": "30",
+        "piyasa_degeri": "40.00 mil. €"
+    },
+    {
+        "ad": "Senny Mayulu",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Paris Saint-Germain",
+        "yas": "24",
+        "piyasa_degeri": "40.00 mil. €"
+    },
+    {
+        "ad": "Kang-in Lee",
+        "mevki": "On Numara",
+        "takim": "Paris Saint-Germain",
+        "yas": "19",
+        "piyasa_degeri": "28.00 mil. €"
+    },
+    {
+        "ad": "Dro Fernández",
+        "mevki": "On Numara",
+        "takim": "Paris Saint-Germain",
+        "yas": "27",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Khvicha Kvaratskhelia",
+        "mevki": "Sol Kanat",
+        "takim": "Paris Saint-Germain",
+        "yas": "25",
+        "piyasa_degeri": "90.00 mil. €"
+    },
+    {
+        "ad": "Bradley Barcola",
+        "mevki": "Sol Kanat",
+        "takim": "Paris Saint-Germain",
+        "yas": "29",
+        "piyasa_degeri": "70.00 mil. €"
+    },
+    {
+        "ad": "Quentin Ndjantou",
+        "mevki": "Sol Kanat",
+        "takim": "Paris Saint-Germain",
+        "yas": "47",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Désiré Doué",
+        "mevki": "Sağ Kanat",
+        "takim": "Paris Saint-Germain",
+        "yas": "14",
+        "piyasa_degeri": "90.00 mil. €"
+    },
+    {
+        "ad": "Ibrahim Mbaye",
+        "mevki": "Sağ Kanat",
+        "takim": "Paris Saint-Germain",
+        "yas": "49",
+        "piyasa_degeri": "30.00 mil. €"
+    },
+    {
+        "ad": "Ousmane Dembélé",
+        "mevki": "Santrafor",
+        "takim": "Paris Saint-Germain",
+        "yas": "10",
+        "piyasa_degeri": "100.00 mil. €"
+    },
+    {
+        "ad": "Gonçalo Ramos",
+        "mevki": "Santrafor",
+        "takim": "Paris Saint-Germain",
+        "yas": "24",
+        "piyasa_degeri": "35.00 mil. €"
+    },
+    {
+        "ad": "Philipp Köhn",
+        "mevki": "Kaleci",
+        "takim": "AS Monaco",
+        "yas": "16",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Lukas Hradecky",
+        "mevki": "Kaleci",
+        "takim": "AS Monaco",
+        "yas": "36",
+        "piyasa_degeri": "1.80 mil. €"
+    },
+    {
+        "ad": "Jules Stawiecki",
+        "mevki": "Kaleci",
+        "takim": "AS Monaco",
+        "yas": "40",
+        "piyasa_degeri": "150 bin €"
+    },
+    {
+        "ad": "Yann Lienard",
+        "mevki": "Kaleci",
+        "takim": "AS Monaco",
+        "yas": "50",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Thilo Kehrer",
+        "mevki": "Stoper",
+        "takim": "AS Monaco",
+        "yas": "29",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Christian Mawissa",
+        "mevki": "Stoper",
+        "takim": "AS Monaco",
+        "yas": "13",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Mohammed Salisu",
+        "mevki": "Stoper",
+        "takim": "AS Monaco",
+        "yas": "22",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Wout Faes",
+        "mevki": "Stoper",
+        "takim": "AS Monaco",
+        "yas": "25",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Eric Dier",
+        "mevki": "Stoper",
+        "takim": "AS Monaco",
+        "yas": "32",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Caio Henrique",
+        "mevki": "Sol Bek",
+        "takim": "AS Monaco",
+        "yas": "12",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Kassoum Ouattara",
+        "mevki": "Sol Bek",
+        "takim": "AS Monaco",
+        "yas": "20",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Vanderson",
+        "mevki": "Sağ Bek",
+        "takim": "AS Monaco",
+        "yas": "24",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Jordan Teze",
+        "mevki": "Sağ Bek",
+        "takim": "AS Monaco",
+        "yas": "26",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Denis Zakaria",
+        "mevki": "Ön Libero",
+        "takim": "AS Monaco",
+        "yas": "29",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Aladji Bamba",
+        "mevki": "Ön Libero",
+        "takim": "AS Monaco",
+        "yas": "23",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Lamine Camara",
+        "mevki": "Merkez Orta Saha",
+        "takim": "AS Monaco",
+        "yas": "15",
+        "piyasa_degeri": "35.00 mil. €"
+    },
+    {
+        "ad": "Mamadou Coulibaly",
+        "mevki": "Merkez Orta Saha",
+        "takim": "AS Monaco",
+        "yas": "28",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Paul Pogba",
+        "mevki": "Merkez Orta Saha",
+        "takim": "AS Monaco",
+        "yas": "33",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Krépin Diatta",
+        "mevki": "Orta Saha Sağ",
+        "takim": "AS Monaco",
+        "yas": "27",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Aleksandr Golovin",
+        "mevki": "On Numara",
+        "takim": "AS Monaco",
+        "yas": "10",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Stanis Idumbo",
+        "mevki": "On Numara",
+        "takim": "AS Monaco",
+        "yas": "17",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Simon Adingra",
+        "mevki": "Sol Kanat",
+        "takim": "AS Monaco",
+        "yas": "24",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Ansu Fati",
+        "mevki": "Sol Kanat",
+        "takim": "AS Monaco",
+        "yas": "31",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Takumi Minamino",
+        "mevki": "Sol Kanat",
+        "takim": "AS Monaco",
+        "yas": "18",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Maghnes Akliouche",
+        "mevki": "Sağ Kanat",
+        "takim": "AS Monaco",
+        "yas": "11",
+        "piyasa_degeri": "50.00 mil. €"
+    },
+    {
+        "ad": "Folarin Balogun",
+        "mevki": "Santrafor",
+        "takim": "AS Monaco",
+        "yas": "24",
+        "piyasa_degeri": "30.00 mil. €"
+    },
+    {
+        "ad": "Mika Biereth",
+        "mevki": "Santrafor",
+        "takim": "AS Monaco",
+        "yas": "14",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Paris Brunner",
+        "mevki": "Santrafor",
+        "takim": "AS Monaco",
+        "yas": "29",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Gerónimo Rulli",
+        "mevki": "Kaleci",
+        "takim": "Olympique Marsilya",
+        "yas": "33",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Jeffrey de Lange",
+        "mevki": "Kaleci",
+        "takim": "Olympique Marsilya",
+        "yas": "12",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Nayef Aguerd",
+        "mevki": "Stoper",
+        "takim": "Olympique Marsilya",
+        "yas": "21",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Leonardo Balerdi",
+        "mevki": "Stoper",
+        "takim": "Olympique Marsilya",
+        "yas": "27",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Facundo Medina",
+        "mevki": "Stoper",
+        "takim": "Olympique Marsilya",
+        "yas": "32",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Benjamin Pavard",
+        "mevki": "Stoper",
+        "takim": "Olympique Marsilya",
+        "yas": "28",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "CJ Egan-Riley",
+        "mevki": "Stoper",
+        "takim": "Olympique Marsilya",
+        "yas": "23",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Emerson",
+        "mevki": "Sol Bek",
+        "takim": "Olympique Marsilya",
+        "yas": "33",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Arthur Vermeeren",
+        "mevki": "Ön Libero",
+        "takim": "Olympique Marsilya",
+        "yas": "18",
+        "piyasa_degeri": "22.00 mil. €"
+    },
+    {
+        "ad": "Pierre-Emile Højbjerg",
+        "mevki": "Ön Libero",
+        "takim": "Olympique Marsilya",
+        "yas": "23",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Geoffrey Kondogbia",
+        "mevki": "Ön Libero",
+        "takim": "Olympique Marsilya",
+        "yas": "19",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Tochukwu Nnadi",
+        "mevki": "Ön Libero",
+        "takim": "Olympique Marsilya",
+        "yas": "22",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Quinten Timber",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Olympique Marsilya",
+        "yas": "27",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Bilal Nadir",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Olympique Marsilya",
+        "yas": "26",
+        "piyasa_degeri": "9.00 mil. €"
+    },
+    {
+        "ad": "Timothy Weah",
+        "mevki": "Orta Saha Sağ",
+        "takim": "Olympique Marsilya",
+        "yas": "22",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Ethan Nwaneri",
+        "mevki": "On Numara",
+        "takim": "Olympique Marsilya",
+        "yas": "11",
+        "piyasa_degeri": "40.00 mil. €"
+    },
+    {
+        "ad": "Himad Abdelli",
+        "mevki": "On Numara",
+        "takim": "Olympique Marsilya",
+        "yas": "26",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Igor Paixão",
+        "mevki": "Sol Kanat",
+        "takim": "Olympique Marsilya",
+        "yas": "14",
+        "piyasa_degeri": "35.00 mil. €"
+    },
+    {
+        "ad": "Hamed Traoré",
+        "mevki": "Sol Kanat",
+        "takim": "Olympique Marsilya",
+        "yas": "20",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Mason Greenwood",
+        "mevki": "Sağ Kanat",
+        "takim": "Olympique Marsilya",
+        "yas": "10",
+        "piyasa_degeri": "55.00 mil. €"
+    },
+    {
+        "ad": "Amine Gouiri",
+        "mevki": "Santrafor",
+        "takim": "Olympique Marsilya",
+        "yas": "26",
+        "piyasa_degeri": "28.00 mil. €"
+    },
+    {
+        "ad": "Pierre-Emerick Aubameyang",
+        "mevki": "Santrafor",
+        "takim": "Olympique Marsilya",
+        "yas": "17",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Mike Penders",
+        "mevki": "Kaleci",
+        "takim": "RC Strasbourg Alsace",
+        "yas": "39",
+        "piyasa_degeri": "22.00 mil. €"
+    },
+    {
+        "ad": "Stefan Bajic",
+        "mevki": "Kaleci",
+        "takim": "RC Strasbourg Alsace",
+        "yas": "50",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Karl-Johan Johnsson",
+        "mevki": "Kaleci",
+        "takim": "RC Strasbourg Alsace",
+        "yas": "36",
+        "piyasa_degeri": "250 bin €"
+    },
+    {
+        "ad": "Ismaël Doukouré",
+        "mevki": "Stoper",
+        "takim": "RC Strasbourg Alsace",
+        "yas": "22",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Lucas Høgsberg",
+        "mevki": "Stoper",
+        "takim": "RC Strasbourg Alsace",
+        "yas": "24",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Aarón Anselmino",
+        "mevki": "Stoper",
+        "takim": "RC Strasbourg Alsace",
+        "yas": "20",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Andrew Omobamidele",
+        "mevki": "Stoper",
+        "takim": "RC Strasbourg Alsace",
+        "yas": "23",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Ben Chilwell",
+        "mevki": "Sol Bek",
+        "takim": "RC Strasbourg Alsace",
+        "yas": "29",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Guéla Doué",
+        "mevki": "Sağ Bek",
+        "takim": "RC Strasbourg Alsace",
+        "yas": "22",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Junior Mwanga",
+        "mevki": "Ön Libero",
+        "takim": "RC Strasbourg Alsace",
+        "yas": "18",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Maxi Oyedele",
+        "mevki": "Ön Libero",
+        "takim": "RC Strasbourg Alsace",
+        "yas": "21",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Rafael Luís",
+        "mevki": "Ön Libero",
+        "takim": "RC Strasbourg Alsace",
+        "yas": "83",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Valentín Barco",
+        "mevki": "Merkez Orta Saha",
+        "takim": "RC Strasbourg Alsace",
+        "yas": "32",
+        "piyasa_degeri": "35.00 mil. €"
+    },
+    {
+        "ad": "Samir El Mourabet",
+        "mevki": "Merkez Orta Saha",
+        "takim": "RC Strasbourg Alsace",
+        "yas": "29",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Mathis Amougou",
+        "mevki": "Merkez Orta Saha",
+        "takim": "RC Strasbourg Alsace",
+        "yas": "17",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Diego Moreira",
+        "mevki": "Orta Saha Sol",
+        "takim": "RC Strasbourg Alsace",
+        "yas": "21",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Sebastian Nanasi",
+        "mevki": "Orta Saha Sol",
+        "takim": "RC Strasbourg Alsace",
+        "yas": "11",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Julio Enciso",
+        "mevki": "On Numara",
+        "takim": "RC Strasbourg Alsace",
+        "yas": "19",
+        "piyasa_degeri": "22.00 mil. €"
+    },
+    {
+        "ad": "Martial Godo",
+        "mevki": "Sol Kanat",
+        "takim": "RC Strasbourg Alsace",
+        "yas": "20",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Abdoul Ouattara",
+        "mevki": "Sağ Kanat",
+        "takim": "RC Strasbourg Alsace",
+        "yas": "42",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Gessime Yassine",
+        "mevki": "Sağ Kanat",
+        "takim": "RC Strasbourg Alsace",
+        "yas": "80",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Samuel Amo-Ameyaw",
+        "mevki": "Sağ Kanat",
+        "takim": "RC Strasbourg Alsace",
+        "yas": "27",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Joaquín Panichelli",
+        "mevki": "Santrafor",
+        "takim": "RC Strasbourg Alsace",
+        "yas": "23",
+        "piyasa_degeri": "35.00 mil. €"
+    },
+    {
+        "ad": "Emmanuel Emegha",
+        "mevki": "Santrafor",
+        "takim": "RC Strasbourg Alsace",
+        "yas": "10",
+        "piyasa_degeri": "28.00 mil. €"
+    },
+    {
+        "ad": "David Datro Fofana",
+        "mevki": "Santrafor",
+        "takim": "RC Strasbourg Alsace",
+        "yas": "15",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Dominik Greif",
+        "mevki": "Kaleci",
+        "takim": "Olympique Lyon",
+        "yas": "29",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Rémy Descamps",
+        "mevki": "Kaleci",
+        "takim": "Olympique Lyon",
+        "yas": "40",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Lassine Diarra",
+        "mevki": "Kaleci",
+        "takim": "Olympique Lyon",
+        "yas": "50",
+        "piyasa_degeri": "50 bin €"
+    },
+    {
+        "ad": "Moussa Niakhaté",
+        "mevki": "Stoper",
+        "takim": "Olympique Lyon",
+        "yas": "19",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Ruben Kluivert",
+        "mevki": "Stoper",
+        "takim": "Olympique Lyon",
+        "yas": "21",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Clinton Mata",
+        "mevki": "Stoper",
+        "takim": "Olympique Lyon",
+        "yas": "22",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Noham Kamara",
+        "mevki": "Stoper",
+        "takim": "Olympique Lyon",
+        "yas": "85",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Abner",
+        "mevki": "Sol Bek",
+        "takim": "Olympique Lyon",
+        "yas": "16",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Nicolás Tagliafico",
+        "mevki": "Sol Bek",
+        "takim": "Olympique Lyon",
+        "yas": "33",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Achraf Laâziri",
+        "mevki": "Sol Bek",
+        "takim": "Olympique Lyon",
+        "yas": "36",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Ainsley Maitland-Niles",
+        "mevki": "Sağ Bek",
+        "takim": "Olympique Lyon",
+        "yas": "98",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Hans Hateboer",
+        "mevki": "Sağ Bek",
+        "takim": "Olympique Lyon",
+        "yas": "33",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Steeve Kango",
+        "mevki": "Sağ Bek",
+        "takim": "Olympique Lyon",
+        "yas": "34",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Tyler Morton",
+        "mevki": "Ön Libero",
+        "takim": "Olympique Lyon",
+        "yas": "23",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Orel Mangala",
+        "mevki": "Ön Libero",
+        "takim": "Olympique Lyon",
+        "yas": "28",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Tanner Tessmann",
+        "mevki": "Ön Libero",
+        "takim": "Olympique Lyon",
+        "yas": "24",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Mathys de Carvalho",
+        "mevki": "Ön Libero",
+        "takim": "Olympique Lyon",
+        "yas": "39",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Corentin Tolisso",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Olympique Lyon",
+        "yas": "31",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Khalis Merah",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Olympique Lyon",
+        "yas": "44",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Pavel Sulc",
+        "mevki": "On Numara",
+        "takim": "Olympique Lyon",
+        "yas": "10",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Noah Nartey",
+        "mevki": "On Numara",
+        "takim": "Olympique Lyon",
+        "yas": "99",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Adam Karabec",
+        "mevki": "On Numara",
+        "takim": "Olympique Lyon",
+        "yas": "22",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Malick Fofana",
+        "mevki": "Sol Kanat",
+        "takim": "Olympique Lyon",
+        "yas": "11",
+        "piyasa_degeri": "30.00 mil. €"
+    },
+    {
+        "ad": "Afonso Moreira",
+        "mevki": "Sol Kanat",
+        "takim": "Olympique Lyon",
+        "yas": "17",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Rémi Himbert",
+        "mevki": "Sol Kanat",
+        "takim": "Olympique Lyon",
+        "yas": "45",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Ernest Nuamah",
+        "mevki": "Sağ Kanat",
+        "takim": "Olympique Lyon",
+        "yas": "37",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Rachid Ghezzal",
+        "mevki": "Sağ Kanat",
+        "takim": "Olympique Lyon",
+        "yas": "18",
+        "piyasa_degeri": "700 bin €"
+    },
+    {
+        "ad": "Endrick",
+        "mevki": "Santrafor",
+        "takim": "Olympique Lyon",
+        "yas": "19",
+        "piyasa_degeri": "35.00 mil. €"
+    },
+    {
+        "ad": "Roman Yaremchuk",
+        "mevki": "Santrafor",
+        "takim": "Olympique Lyon",
+        "yas": "77",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Berke Özer",
+        "mevki": "Kaleci",
+        "takim": "LOSC Lille",
+        "yas": "25",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Arnaud Bodart",
+        "mevki": "Kaleci",
+        "takim": "LOSC Lille",
+        "yas": "16",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Marc-Aurèle Caillard",
+        "mevki": "Kaleci",
+        "takim": "LOSC Lille",
+        "yas": "30",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Nathan Ngoy",
+        "mevki": "Stoper",
+        "takim": "LOSC Lille",
+        "yas": "22",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Alexsandro",
+        "mevki": "Stoper",
+        "takim": "LOSC Lille",
+        "yas": "26",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Chancel Mbemba",
+        "mevki": "Stoper",
+        "takim": "LOSC Lille",
+        "yas": "18",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Aïssa Mandi",
+        "mevki": "Stoper",
+        "takim": "LOSC Lille",
+        "yas": "23",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Rafael Fernandes",
+        "mevki": "Stoper",
+        "takim": "LOSC Lille",
+        "yas": "23",
+        "piyasa_degeri": "600 bin €"
+    },
+    {
+        "ad": "Ousmane Touré",
+        "mevki": "Stoper",
+        "takim": "LOSC Lille",
+        "yas": "36",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Romain Perraud",
+        "mevki": "Sol Bek",
+        "takim": "LOSC Lille",
+        "yas": "15",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Calvin Verdonk",
+        "mevki": "Sol Bek",
+        "takim": "LOSC Lille",
+        "yas": "24",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Tiago Santos",
+        "mevki": "Sağ Bek",
+        "takim": "LOSC Lille",
+        "yas": "22",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Thomas Meunier",
+        "mevki": "Sağ Bek",
+        "takim": "LOSC Lille",
+        "yas": "12",
+        "piyasa_degeri": "1.80 mil. €"
+    },
+    {
+        "ad": "Ngal'ayel Mukau",
+        "mevki": "Ön Libero",
+        "takim": "LOSC Lille",
+        "yas": "17",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Nabil Bentaleb",
+        "mevki": "Ön Libero",
+        "takim": "LOSC Lille",
+        "yas": "31",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Benjamin André",
+        "mevki": "Ön Libero",
+        "takim": "LOSC Lille",
+        "yas": "21",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Ayyoub Bouaddi",
+        "mevki": "Merkez Orta Saha",
+        "takim": "LOSC Lille",
+        "yas": "32",
+        "piyasa_degeri": "50.00 mil. €"
+    },
+    {
+        "ad": "Hákon Arnar Haraldsson",
+        "mevki": "On Numara",
+        "takim": "LOSC Lille",
+        "yas": "10",
+        "piyasa_degeri": "22.00 mil. €"
+    },
+    {
+        "ad": "Matías Fernández-Pardo",
+        "mevki": "Sol Kanat",
+        "takim": "LOSC Lille",
+        "yas": "21",
+        "piyasa_degeri": "30.00 mil. €"
+    },
+    {
+        "ad": "Osame Sahraoui",
+        "mevki": "Sol Kanat",
+        "takim": "LOSC Lille",
+        "yas": "11",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Félix Correia",
+        "mevki": "Sol Kanat",
+        "takim": "LOSC Lille",
+        "yas": "27",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Soriba Diaoune",
+        "mevki": "Sol Kanat",
+        "takim": "LOSC Lille",
+        "yas": "35",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Ethan Mbappé",
+        "mevki": "Sağ Kanat",
+        "takim": "LOSC Lille",
+        "yas": "19",
+        "piyasa_degeri": "9.00 mil. €"
+    },
+    {
+        "ad": "Marius Broholm",
+        "mevki": "Sağ Kanat",
+        "takim": "LOSC Lille",
+        "yas": "14",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Gaëtan Perrin",
+        "mevki": "Sağ Kanat",
+        "takim": "LOSC Lille",
+        "yas": "28",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Noah Edjouma",
+        "mevki": "Sağ Kanat",
+        "takim": "LOSC Lille",
+        "yas": "20",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Hamza Igamane",
+        "mevki": "Santrafor",
+        "takim": "LOSC Lille",
+        "yas": "29",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Olivier Giroud",
+        "mevki": "Santrafor",
+        "takim": "LOSC Lille",
+        "yas": "39",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Brice Samba",
+        "mevki": "Kaleci",
+        "takim": "Stade Rennes",
+        "yas": "30",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Mathys Silistrie",
+        "mevki": "Kaleci",
+        "takim": "Stade Rennes",
+        "yas": "50",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Jérémy Jacquet",
+        "mevki": "Stoper",
+        "takim": "Stade Rennes",
+        "yas": "97",
+        "piyasa_degeri": "55.00 mil. €"
+    },
+    {
+        "ad": "Lilian Brassier",
+        "mevki": "Stoper",
+        "takim": "Stade Rennes",
+        "yas": "26",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Anthony Rouault",
+        "mevki": "Stoper",
+        "takim": "Stade Rennes",
+        "yas": "24",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Abdelhamid Ait Boudlal",
+        "mevki": "Stoper",
+        "takim": "Stade Rennes",
+        "yas": "48",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Alidu Seidu",
+        "mevki": "Stoper",
+        "takim": "Stade Rennes",
+        "yas": "36",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Quentin Merlin",
+        "mevki": "Sol Bek",
+        "takim": "Stade Rennes",
+        "yas": "26",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Mahamadou Nagida",
+        "mevki": "Sol Bek",
+        "takim": "Stade Rennes",
+        "yas": "18",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Przemyslaw Frankowski",
+        "mevki": "Sağ Bek",
+        "takim": "Stade Rennes",
+        "yas": "95",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Djaoui Cissé",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Stade Rennes",
+        "yas": "22",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Mahdi Camara",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Stade Rennes",
+        "yas": "45",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Valentin Rongier",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Stade Rennes",
+        "yas": "21",
+        "piyasa_degeri": "9.00 mil. €"
+    },
+    {
+        "ad": "Glen Kamara",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Stade Rennes",
+        "yas": "30",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Ludovic Blas",
+        "mevki": "Orta Saha Sağ",
+        "takim": "Stade Rennes",
+        "yas": "10",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Sebastian Szymański",
+        "mevki": "On Numara",
+        "takim": "Stade Rennes",
+        "yas": "17",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Mousa Tamari",
+        "mevki": "Sağ Kanat",
+        "takim": "Stade Rennes",
+        "yas": "11",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Arnaud Nordin",
+        "mevki": "Sağ Kanat",
+        "takim": "Stade Rennes",
+        "yas": "70",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Elías Legendre Quiñónez",
+        "mevki": "Sağ Kanat",
+        "takim": "Stade Rennes",
+        "yas": "35",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Nordan Mukiele",
+        "mevki": "Sağ Kanat",
+        "takim": "Stade Rennes",
+        "yas": "65",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Estéban Lepaul",
+        "mevki": "Santrafor",
+        "takim": "Stade Rennes",
+        "yas": "26",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Breel Embolo",
+        "mevki": "Santrafor",
+        "takim": "Stade Rennes",
+        "yas": "29",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Yassir Zabiri",
+        "mevki": "Santrafor",
+        "takim": "Stade Rennes",
+        "yas": "77",
+        "piyasa_degeri": "9.00 mil. €"
+    },
+    {
+        "ad": "Robin Risser",
+        "mevki": "Kaleci",
+        "takim": "RC Lens",
+        "yas": "40",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Mathieu Gorgelin",
+        "mevki": "Kaleci",
+        "takim": "RC Lens",
+        "yas": "16",
+        "piyasa_degeri": "250 bin €"
+    },
+    {
+        "ad": "Régis Gurtner",
+        "mevki": "Kaleci",
+        "takim": "RC Lens",
+        "yas": "39",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Samson Baidoo",
+        "mevki": "Stoper",
+        "takim": "RC Lens",
+        "yas": "22",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Malang Sarr",
+        "mevki": "Stoper",
+        "takim": "RC Lens",
+        "yas": "20",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Ismaëlo Ganiou",
+        "mevki": "Stoper",
+        "takim": "RC Lens",
+        "yas": "25",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Nidal Celik",
+        "mevki": "Stoper",
+        "takim": "RC Lens",
+        "yas": "19",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Jonathan Gradit",
+        "mevki": "Stoper",
+        "takim": "RC Lens",
+        "yas": "24",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Kyllian Antonio",
+        "mevki": "Stoper",
+        "takim": "RC Lens",
+        "yas": "32",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Matthieu Udol",
+        "mevki": "Sol Bek",
+        "takim": "RC Lens",
+        "yas": "14",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Arthur Masuaku",
+        "mevki": "Sol Bek",
+        "takim": "RC Lens",
+        "yas": "27",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Saud Abdulhamid",
+        "mevki": "Sağ Bek",
+        "takim": "RC Lens",
+        "yas": "23",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Ruben Aguilar",
+        "mevki": "Sağ Bek",
+        "takim": "RC Lens",
+        "yas": "32",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Fodé Sylla",
+        "mevki": "Ön Libero",
+        "takim": "RC Lens",
+        "yas": "18",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Mamadou Sangaré",
+        "mevki": "Merkez Orta Saha",
+        "takim": "RC Lens",
+        "yas": "23",
+        "piyasa_degeri": "30.00 mil. €"
+    },
+    {
+        "ad": "Amadou Haidara",
+        "mevki": "Merkez Orta Saha",
+        "takim": "RC Lens",
+        "yas": "21",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Andrija Bulatovic",
+        "mevki": "Merkez Orta Saha",
+        "takim": "RC Lens",
+        "yas": "19",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Adrien Thomasson",
+        "mevki": "Merkez Orta Saha",
+        "takim": "RC Lens",
+        "yas": "28",
+        "piyasa_degeri": "4.50 mil. €"
+    },
+    {
+        "ad": "Allan Saint-Maximin",
+        "mevki": "Sol Kanat",
+        "takim": "RC Lens",
+        "yas": "29",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Abdallah Sima",
+        "mevki": "Sol Kanat",
+        "takim": "RC Lens",
+        "yas": "19",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Anthony Bermont",
+        "mevki": "Sol Kanat",
+        "takim": "RC Lens",
+        "yas": "26",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Florian Thauvin",
+        "mevki": "Sağ Kanat",
+        "takim": "RC Lens",
+        "yas": "10",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Erawan Garnier",
+        "mevki": "Sağ Kanat",
+        "takim": "RC Lens",
+        "yas": "34",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Wesley Saïd",
+        "mevki": "Forvet Arkası",
+        "takim": "RC Lens",
+        "yas": "22",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Odsonne Édouard",
+        "mevki": "Santrafor",
+        "takim": "RC Lens",
+        "yas": "11",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Rayan Fofana",
+        "mevki": "Santrafor",
+        "takim": "RC Lens",
+        "yas": "38",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Florian Sotoca",
+        "mevki": "Santrafor",
+        "takim": "RC Lens",
+        "yas": "35",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Yehvann Diouf",
+        "mevki": "Kaleci",
+        "takim": "OGC Nice",
+        "yas": "80",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Maxime Dupé",
+        "mevki": "Kaleci",
+        "takim": "OGC Nice",
+        "yas": "31",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Juma Bah",
+        "mevki": "Stoper",
+        "takim": "OGC Nice",
+        "yas": "28",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Kojo Peprah Oppong",
+        "mevki": "Stoper",
+        "takim": "OGC Nice",
+        "yas": "37",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Youssouf Ndayishimiye",
+        "mevki": "Stoper",
+        "takim": "OGC Nice",
+        "yas": "55",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Moïse Bombito",
+        "mevki": "Stoper",
+        "takim": "OGC Nice",
+        "yas": "64",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Antoine Mendy",
+        "mevki": "Stoper",
+        "takim": "OGC Nice",
+        "yas": "33",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Mohamed Abdelmonem",
+        "mevki": "Stoper",
+        "takim": "OGC Nice",
+        "yas": "27",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Dante",
+        "mevki": "Stoper",
+        "takim": "OGC Nice",
+        "yas": "42",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Melvin Bard",
+        "mevki": "Sol Bek",
+        "takim": "OGC Nice",
+        "yas": "26",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Ali Abdi",
+        "mevki": "Sol Bek",
+        "takim": "OGC Nice",
+        "yas": "32",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Jonathan Clauss",
+        "mevki": "Sağ Bek",
+        "takim": "OGC Nice",
+        "yas": "92",
+        "piyasa_degeri": "4.50 mil. €"
+    },
+    {
+        "ad": "Charles Vanhoutte",
+        "mevki": "Ön Libero",
+        "takim": "OGC Nice",
+        "yas": "24",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Salis Abdul Samed",
+        "mevki": "Ön Libero",
+        "takim": "OGC Nice",
+        "yas": "99",
+        "piyasa_degeri": "4.50 mil. €"
+    },
+    {
+        "ad": "Everton",
+        "mevki": "Ön Libero",
+        "takim": "OGC Nice",
+        "yas": "41",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Hicham Boudaoui",
+        "mevki": "Merkez Orta Saha",
+        "takim": "OGC Nice",
+        "yas": "26",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Morgan Sanson",
+        "mevki": "Merkez Orta Saha",
+        "takim": "OGC Nice",
+        "yas": "31",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Tanguy Ndombélé",
+        "mevki": "Merkez Orta Saha",
+        "takim": "OGC Nice",
+        "yas": "22",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Djibril Coulibaly",
+        "mevki": "Merkez Orta Saha",
+        "takim": "OGC Nice",
+        "yas": "39",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Tom Louchet",
+        "mevki": "Orta Saha Sağ",
+        "takim": "OGC Nice",
+        "yas": "20",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Gabin Bernardeau",
+        "mevki": "On Numara",
+        "takim": "OGC Nice",
+        "yas": "23",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Sofiane Diop",
+        "mevki": "Sol Kanat",
+        "takim": "OGC Nice",
+        "yas": "10",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Isak Jansson",
+        "mevki": "Sol Kanat",
+        "takim": "OGC Nice",
+        "yas": "21",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Mohamed-Ali Cho",
+        "mevki": "Sağ Kanat",
+        "takim": "OGC Nice",
+        "yas": "25",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Kaïl Boudache",
+        "mevki": "Sağ Kanat",
+        "takim": "OGC Nice",
+        "yas": "32",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Tiago Gouveia",
+        "mevki": "Sağ Kanat",
+        "takim": "OGC Nice",
+        "yas": "47",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Elye Wahi",
+        "mevki": "Santrafor",
+        "takim": "OGC Nice",
+        "yas": "11",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Kevin Carlos",
+        "mevki": "Santrafor",
+        "takim": "OGC Nice",
+        "yas": "90",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Guillaume Restes",
+        "mevki": "Kaleci",
+        "takim": "Toulouse FC",
+        "yas": "21",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Kjetil Haug",
+        "mevki": "Kaleci",
+        "takim": "Toulouse FC",
+        "yas": "16",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Álex Domínguez",
+        "mevki": "Kaleci",
+        "takim": "Toulouse FC",
+        "yas": "30",
+        "piyasa_degeri": "250 bin €"
+    },
+    {
+        "ad": "Charlie Cresswell",
+        "mevki": "Stoper",
+        "takim": "Toulouse FC",
+        "yas": "23",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Mark McKenzie",
+        "mevki": "Stoper",
+        "takim": "Toulouse FC",
+        "yas": "27",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Rasmus Nicolaisen",
+        "mevki": "Stoper",
+        "takim": "Toulouse FC",
+        "yas": "29",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Seny Koumbassa",
+        "mevki": "Stoper",
+        "takim": "Toulouse FC",
+        "yas": "35",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Dayann Methalie",
+        "mevki": "Sol Bek",
+        "takim": "Toulouse FC",
+        "yas": "24",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Warren Kamanzi",
+        "mevki": "Sağ Bek",
+        "takim": "Toulouse FC",
+        "yas": "12",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Rafik Messali",
+        "mevki": "Sağ Bek",
+        "takim": "Toulouse FC",
+        "yas": "22",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Djibril Sidibé",
+        "mevki": "Sağ Bek",
+        "takim": "Toulouse FC",
+        "yas": "19",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Alexis Vossah",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Toulouse FC",
+        "yas": "45",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Cristian Cásseres Jr.",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Toulouse FC",
+        "yas": "23",
+        "piyasa_degeri": "9.00 mil. €"
+    },
+    {
+        "ad": "Pape Demba Diop",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Toulouse FC",
+        "yas": "18",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Abu Francis",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Toulouse FC",
+        "yas": "17",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Mario Sauer",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Toulouse FC",
+        "yas": "77",
+        "piyasa_degeri": "1.80 mil. €"
+    },
+    {
+        "ad": "Aron Dønnum",
+        "mevki": "Orta Saha Sağ",
+        "takim": "Toulouse FC",
+        "yas": "15",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Yann Gboho",
+        "mevki": "Sol Kanat",
+        "takim": "Toulouse FC",
+        "yas": "10",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Emersonn",
+        "mevki": "Santrafor",
+        "takim": "Toulouse FC",
+        "yas": "20",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Frank Magri",
+        "mevki": "Santrafor",
+        "takim": "Toulouse FC",
+        "yas": "26",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Santiago Hidalgo",
+        "mevki": "Santrafor",
+        "takim": "Toulouse FC",
+        "yas": "11",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Jacen Russell-Rowe",
+        "mevki": "Santrafor",
+        "takim": "Toulouse FC",
+        "yas": "13",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Julián Vignolo",
+        "mevki": "Santrafor",
+        "takim": "Toulouse FC",
+        "yas": "19",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Obed Nkambadio",
+        "mevki": "Kaleci",
+        "takim": "Paris FC",
+        "yas": "16",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Kevin Trapp",
+        "mevki": "Kaleci",
+        "takim": "Paris FC",
+        "yas": "35",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Rémy Riou",
+        "mevki": "Kaleci",
+        "takim": "Paris FC",
+        "yas": "38",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Otávio",
+        "mevki": "Stoper",
+        "takim": "Paris FC",
+        "yas": "24",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Diego Coppola",
+        "mevki": "Stoper",
+        "takim": "Paris FC",
+        "yas": "42",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Moustapha Mbow",
+        "mevki": "Stoper",
+        "takim": "Paris FC",
+        "yas": "26",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Samir Chergui",
+        "mevki": "Stoper",
+        "takim": "Paris FC",
+        "yas": "31",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Timothée Kolodziejczak",
+        "mevki": "Stoper",
+        "takim": "Paris FC",
+        "yas": "15",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Nhoa Sangui",
+        "mevki": "Sol Bek",
+        "takim": "Paris FC",
+        "yas": "19",
+        "piyasa_degeri": "9.00 mil. €"
+    },
+    {
+        "ad": "Thibault De Smet",
+        "mevki": "Sol Bek",
+        "takim": "Paris FC",
+        "yas": "28",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Tuomas Ollila",
+        "mevki": "Sol Bek",
+        "takim": "Paris FC",
+        "yas": "25",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Hamari Traoré",
+        "mevki": "Sağ Bek",
+        "takim": "Paris FC",
+        "yas": "14",
+        "piyasa_degeri": "1.80 mil. €"
+    },
+    {
+        "ad": "Sofiane Alakouch",
+        "mevki": "Sağ Bek",
+        "takim": "Paris FC",
+        "yas": "22",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Maxime Lopez",
+        "mevki": "Ön Libero",
+        "takim": "Paris FC",
+        "yas": "21",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Pierre Lees-Melou",
+        "mevki": "Ön Libero",
+        "takim": "Paris FC",
+        "yas": "33",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Adama Camara",
+        "mevki": "Ön Libero",
+        "takim": "Paris FC",
+        "yas": "17",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Rudy Matondo",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Paris FC",
+        "yas": "23",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Marshall Munetsi",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Paris FC",
+        "yas": "18",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Vincent Marchetti",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Paris FC",
+        "yas": "28",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Moses Simon",
+        "mevki": "Sol Kanat",
+        "takim": "Paris FC",
+        "yas": "27",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Alimami Gory",
+        "mevki": "Sol Kanat",
+        "takim": "Paris FC",
+        "yas": "29",
+        "piyasa_degeri": "1.20 mil. €"
+    },
+    {
+        "ad": "Julien Lopez",
+        "mevki": "Sol Kanat",
+        "takim": "Paris FC",
+        "yas": "20",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Ilan Kebbal",
+        "mevki": "Sağ Kanat",
+        "takim": "Paris FC",
+        "yas": "10",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Luca Koleosho",
+        "mevki": "Sağ Kanat",
+        "takim": "Paris FC",
+        "yas": "24",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Jonathan Ikoné",
+        "mevki": "Sağ Kanat",
+        "takim": "Paris FC",
+        "yas": "93",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Mathieu Cafaro",
+        "mevki": "Sağ Kanat",
+        "takim": "Paris FC",
+        "yas": "13",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Lamine Gueye",
+        "mevki": "Sağ Kanat",
+        "takim": "Paris FC",
+        "yas": "26",
+        "piyasa_degeri": "250 bin €"
+    },
+    {
+        "ad": "Willem Geubbels",
+        "mevki": "Santrafor",
+        "takim": "Paris FC",
+        "yas": "24",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Jean-Philippe Krasso",
+        "mevki": "Santrafor",
+        "takim": "Paris FC",
+        "yas": "11",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Ciro Immobile",
+        "mevki": "Santrafor",
+        "takim": "Paris FC",
+        "yas": "36",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Pierre-Yves Hamel",
+        "mevki": "Santrafor",
+        "takim": "Paris FC",
+        "yas": "29",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Anthony Lopes",
+        "mevki": "Kaleci",
+        "takim": "FC Nantes",
+        "yas": "35",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Patrik Carlgren",
+        "mevki": "Kaleci",
+        "takim": "FC Nantes",
+        "yas": "30",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Alexis Mirbach",
+        "mevki": "Kaleci",
+        "takim": "FC Nantes",
+        "yas": "50",
+        "piyasa_degeri": "50 bin €"
+    },
+    {
+        "ad": "Tylel Tati",
+        "mevki": "Stoper",
+        "takim": "FC Nantes",
+        "yas": "78",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Abakar Sylla",
+        "mevki": "Stoper",
+        "takim": "FC Nantes",
+        "yas": "23",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Chidozie Awaziem",
+        "mevki": "Stoper",
+        "takim": "FC Nantes",
+        "yas": "29",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Ali Youssif",
+        "mevki": "Stoper",
+        "takim": "FC Nantes",
+        "yas": "24",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Uros Radakovic",
+        "mevki": "Stoper",
+        "takim": "FC Nantes",
+        "yas": "26",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Sékou Doucouré",
+        "mevki": "Stoper",
+        "takim": "FC Nantes",
+        "yas": "72",
+        "piyasa_degeri": "150 bin €"
+    },
+    {
+        "ad": "Nicolas Cozza",
+        "mevki": "Sol Bek",
+        "takim": "FC Nantes",
+        "yas": "27",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Deiver Machado",
+        "mevki": "Sol Bek",
+        "takim": "FC Nantes",
+        "yas": "27",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Kelvin Amian",
+        "mevki": "Sağ Bek",
+        "takim": "FC Nantes",
+        "yas": "98",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Fabien Centonze",
+        "mevki": "Sağ Bek",
+        "takim": "FC Nantes",
+        "yas": "18",
+        "piyasa_degeri": "1.20 mil. €"
+    },
+    {
+        "ad": "Frédéric Guilbert",
+        "mevki": "Sağ Bek",
+        "takim": "FC Nantes",
+        "yas": "24",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Johann Lepenant",
+        "mevki": "Ön Libero",
+        "takim": "FC Nantes",
+        "yas": "23",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Ibrahima Sissoko",
+        "mevki": "Ön Libero",
+        "takim": "FC Nantes",
+        "yas": "28",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Bahmed Deuff",
+        "mevki": "Ön Libero",
+        "takim": "FC Nantes",
+        "yas": "52",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Francis Coquelin",
+        "mevki": "Ön Libero",
+        "takim": "FC Nantes",
+        "yas": "13",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Dehmaine Tabibou",
+        "mevki": "Merkez Orta Saha",
+        "takim": "FC Nantes",
+        "yas": "17",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Mohamed Kaba",
+        "mevki": "Merkez Orta Saha",
+        "takim": "FC Nantes",
+        "yas": "21",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Louis Leroux",
+        "mevki": "On Numara",
+        "takim": "FC Nantes",
+        "yas": "66",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Rémy Cabella",
+        "mevki": "On Numara",
+        "takim": "FC Nantes",
+        "yas": "20",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Herba Guirassy",
+        "mevki": "Sol Kanat",
+        "takim": "FC Nantes",
+        "yas": "11",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Matthis Abline",
+        "mevki": "Santrafor",
+        "takim": "FC Nantes",
+        "yas": "10",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Mostafa Mohamed",
+        "mevki": "Santrafor",
+        "takim": "FC Nantes",
+        "yas": "31",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Ignatius Ganago",
+        "mevki": "Santrafor",
+        "takim": "FC Nantes",
+        "yas": "37",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Amady Camara",
+        "mevki": "Santrafor",
+        "takim": "FC Nantes",
+        "yas": "14",
+        "piyasa_degeri": "1.20 mil. €"
+    },
+    {
+        "ad": "Youssef El Arabi",
+        "mevki": "Santrafor",
+        "takim": "FC Nantes",
+        "yas": "19",
+        "piyasa_degeri": "150 bin €"
+    },
+    {
+        "ad": "Yvon Mvogo",
+        "mevki": "Kaleci",
+        "takim": "FC Lorient",
+        "yas": "38",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Bingourou Kamara",
+        "mevki": "Kaleci",
+        "takim": "FC Lorient",
+        "yas": "21",
+        "piyasa_degeri": "700 bin €"
+    },
+    {
+        "ad": "Benjamin Leroy",
+        "mevki": "Kaleci",
+        "takim": "FC Lorient",
+        "yas": "37",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Montassar Talbi",
+        "mevki": "Stoper",
+        "takim": "FC Lorient",
+        "yas": "27",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Bamo Meïté",
+        "mevki": "Stoper",
+        "takim": "FC Lorient",
+        "yas": "24",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Abdoulaye Faye",
+        "mevki": "Stoper",
+        "takim": "FC Lorient",
+        "yas": "25",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Isaak Touré",
+        "mevki": "Stoper",
+        "takim": "FC Lorient",
+        "yas": "95",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Nathaniel Adjei",
+        "mevki": "Stoper",
+        "takim": "FC Lorient",
+        "yas": "32",
+        "piyasa_degeri": "1.20 mil. €"
+    },
+    {
+        "ad": "Arsène Kouassi",
+        "mevki": "Sol Bek",
+        "takim": "FC Lorient",
+        "yas": "43",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Darlin Yongwa",
+        "mevki": "Sol Bek",
+        "takim": "FC Lorient",
+        "yas": "44",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Igor Silva",
+        "mevki": "Sağ Bek",
+        "takim": "FC Lorient",
+        "yas": "29",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Laurent Abergel",
+        "mevki": "Ön Libero",
+        "takim": "FC Lorient",
+        "yas": "33",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Arthur Avom",
+        "mevki": "Merkez Orta Saha",
+        "takim": "FC Lorient",
+        "yas": "62",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Noah Cadiou",
+        "mevki": "Merkez Orta Saha",
+        "takim": "FC Lorient",
+        "yas": "27",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Théo Le Bris",
+        "mevki": "Orta Saha Sağ",
+        "takim": "FC Lorient",
+        "yas": "11",
+        "piyasa_degeri": "4.50 mil. €"
+    },
+    {
+        "ad": "Panos Katseris",
+        "mevki": "Orta Saha Sağ",
+        "takim": "FC Lorient",
+        "yas": "77",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Jean-Victor Makengo",
+        "mevki": "On Numara",
+        "takim": "FC Lorient",
+        "yas": "17",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Dermane Karim",
+        "mevki": "On Numara",
+        "takim": "FC Lorient",
+        "yas": "29",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Bandiougou Fadiga",
+        "mevki": "On Numara",
+        "takim": "FC Lorient",
+        "yas": "25",
+        "piyasa_degeri": "250 bin €"
+    },
+    {
+        "ad": "Pablo Pagis",
+        "mevki": "Sol Kanat",
+        "takim": "FC Lorient",
+        "yas": "10",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Trevan Sanusi",
+        "mevki": "Sol Kanat",
+        "takim": "FC Lorient",
+        "yas": "14",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Bamba Dieng",
+        "mevki": "Santrafor",
+        "takim": "FC Lorient",
+        "yas": "12",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Sambou Soumano",
+        "mevki": "Santrafor",
+        "takim": "FC Lorient",
+        "yas": "28",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Mohamed Bamba",
+        "mevki": "Santrafor",
+        "takim": "FC Lorient",
+        "yas": "24",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Aiyegun Tosin",
+        "mevki": "Santrafor",
+        "takim": "FC Lorient",
+        "yas": "15",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Radoslaw Majecki",
+        "mevki": "Kaleci",
+        "takim": "Stade Brest 29",
+        "yas": "26",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Grégoire Coudert",
+        "mevki": "Kaleci",
+        "takim": "Stade Brest 29",
+        "yas": "30",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Soumaïla Coulibaly",
+        "mevki": "Stoper",
+        "takim": "Stade Brest 29",
+        "yas": "44",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Junior Diaz",
+        "mevki": "Stoper",
+        "takim": "Stade Brest 29",
+        "yas": "22",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Brendan Chardonnet",
+        "mevki": "Stoper",
+        "takim": "Stade Brest 29",
+        "yas": "31",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Raphaël Le Guen",
+        "mevki": "Stoper",
+        "takim": "Stade Brest 29",
+        "yas": "71",
+        "piyasa_degeri": "50 bin €"
+    },
+    {
+        "ad": "Bradley Locko",
+        "mevki": "Sol Bek",
+        "takim": "Stade Brest 29",
+        "yas": "23",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Daouda Guindo",
+        "mevki": "Sol Bek",
+        "takim": "Stade Brest 29",
+        "yas": "27",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Kenny Lala",
+        "mevki": "Sağ Bek",
+        "takim": "Stade Brest 29",
+        "yas": "77",
+        "piyasa_degeri": "1.80 mil. €"
+    },
+    {
+        "ad": "Luck Zogbé",
+        "mevki": "Sağ Bek",
+        "takim": "Stade Brest 29",
+        "yas": "12",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Joris Chotard",
+        "mevki": "Ön Libero",
+        "takim": "Stade Brest 29",
+        "yas": "13",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Hamidou Makalou",
+        "mevki": "Ön Libero",
+        "takim": "Stade Brest 29",
+        "yas": "33",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Hugo Magnetti",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Stade Brest 29",
+        "yas": "27",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Lucas Tousart",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Stade Brest 29",
+        "yas": "24",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Junior Dina Ebimbe",
+        "mevki": "Orta Saha Sağ",
+        "takim": "Stade Brest 29",
+        "yas": "25",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Kamory Doumbia",
+        "mevki": "On Numara",
+        "takim": "Stade Brest 29",
+        "yas": "23",
+        "piyasa_degeri": "9.00 mil. €"
+    },
+    {
+        "ad": "Pathé Mboup",
+        "mevki": "Sol Kanat",
+        "takim": "Stade Brest 29",
+        "yas": "99",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Romain Del Castillo",
+        "mevki": "Sağ Kanat",
+        "takim": "Stade Brest 29",
+        "yas": "10",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Mama Baldé",
+        "mevki": "Santrafor",
+        "takim": "Stade Brest 29",
+        "yas": "17",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Ludovic Ajorque",
+        "mevki": "Santrafor",
+        "takim": "Stade Brest 29",
+        "yas": "19",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Rémy Labeau Lascary",
+        "mevki": "Santrafor",
+        "takim": "Stade Brest 29",
+        "yas": "14",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Saliou Diop",
+        "mevki": "Santrafor",
+        "takim": "Stade Brest 29",
+        "yas": "29",
+        "piyasa_degeri": "50 bin €"
+    },
+    {
+        "ad": "Donovan Léon",
+        "mevki": "Kaleci",
+        "takim": "AJ Auxerre",
+        "yas": "16",
+        "piyasa_degeri": "900 bin €"
+    },
+    {
+        "ad": "Théo De Percin",
+        "mevki": "Kaleci",
+        "takim": "AJ Auxerre",
+        "yas": "40",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Tom Negrel",
+        "mevki": "Kaleci",
+        "takim": "AJ Auxerre",
+        "yas": "30",
+        "piyasa_degeri": "50 bin €"
+    },
+    {
+        "ad": "Clément Akpa",
+        "mevki": "Stoper",
+        "takim": "AJ Auxerre",
+        "yas": "92",
+        "piyasa_degeri": "9.00 mil. €"
+    },
+    {
+        "ad": "Sinaly Diomandé",
+        "mevki": "Stoper",
+        "takim": "AJ Auxerre",
+        "yas": "20",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Bryan Okoh",
+        "mevki": "Stoper",
+        "takim": "AJ Auxerre",
+        "yas": "24",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Francisco Sierralta",
+        "mevki": "Stoper",
+        "takim": "AJ Auxerre",
+        "yas": "28",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Telli Siwe",
+        "mevki": "Stoper",
+        "takim": "AJ Auxerre",
+        "yas": "13",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Gideon Mensah",
+        "mevki": "Sol Bek",
+        "takim": "AJ Auxerre",
+        "yas": "14",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Fredrik Oppegård",
+        "mevki": "Sol Bek",
+        "takim": "AJ Auxerre",
+        "yas": "22",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Marvin Senaya",
+        "mevki": "Sağ Bek",
+        "takim": "AJ Auxerre",
+        "yas": "29",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Lamine Sy",
+        "mevki": "Sağ Bek",
+        "takim": "AJ Auxerre",
+        "yas": "27",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Elisha Owusu",
+        "mevki": "Ön Libero",
+        "takim": "AJ Auxerre",
+        "yas": "42",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Oussama El Azzouzi",
+        "mevki": "Ön Libero",
+        "takim": "AJ Auxerre",
+        "yas": "17",
+        "piyasa_degeri": "1.80 mil. €"
+    },
+    {
+        "ad": "Assane Dioussé",
+        "mevki": "Ön Libero",
+        "takim": "AJ Auxerre",
+        "yas": "18",
+        "piyasa_degeri": "600 bin €"
+    },
+    {
+        "ad": "Nathan Buayi-Kiala",
+        "mevki": "Ön Libero",
+        "takim": "AJ Auxerre",
+        "yas": "22",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Kévin Danois",
+        "mevki": "Merkez Orta Saha",
+        "takim": "AJ Auxerre",
+        "yas": "21",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Naouirou Ahamada",
+        "mevki": "Merkez Orta Saha",
+        "takim": "AJ Auxerre",
+        "yas": "24",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Tidiane Devernois",
+        "mevki": "Merkez Orta Saha",
+        "takim": "AJ Auxerre",
+        "yas": "36",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Romain Faivre",
+        "mevki": "On Numara",
+        "takim": "AJ Auxerre",
+        "yas": "28",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Danny Namaso",
+        "mevki": "Sol Kanat",
+        "takim": "AJ Auxerre",
+        "yas": "19",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Josué Casimir",
+        "mevki": "Sağ Kanat",
+        "takim": "AJ Auxerre",
+        "yas": "24",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Lasso Coulibaly",
+        "mevki": "Sağ Kanat",
+        "takim": "AJ Auxerre",
+        "yas": "21",
+        "piyasa_degeri": "900 bin €"
+    },
+    {
+        "ad": "Lassine Sinayoko",
+        "mevki": "Santrafor",
+        "takim": "AJ Auxerre",
+        "yas": "10",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Sékou Mara",
+        "mevki": "Santrafor",
+        "takim": "AJ Auxerre",
+        "yas": "23",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Ryan Rodin",
+        "mevki": "Santrafor",
+        "takim": "AJ Auxerre",
+        "yas": "31",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Mory Diaw",
+        "mevki": "Kaleci",
+        "takim": "Le Havre AC",
+        "yas": "99",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Lionel Mpasi-Nzau",
+        "mevki": "Kaleci",
+        "takim": "Le Havre AC",
+        "yas": "77",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Paul Argney",
+        "mevki": "Kaleci",
+        "takim": "Le Havre AC",
+        "yas": "50",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Arouna Sangante",
+        "mevki": "Stoper",
+        "takim": "Le Havre AC",
+        "yas": "93",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Stephan Zagadou",
+        "mevki": "Stoper",
+        "takim": "Le Havre AC",
+        "yas": "29",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Gautier Lloris",
+        "mevki": "Stoper",
+        "takim": "Le Havre AC",
+        "yas": "30",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Étienne Youté Kinkoué",
+        "mevki": "Stoper",
+        "takim": "Le Havre AC",
+        "yas": "24",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Yanis Zouaoui",
+        "mevki": "Sol Bek",
+        "takim": "Le Havre AC",
+        "yas": "18",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Enzo Koffi",
+        "mevki": "Sol Bek",
+        "takim": "Le Havre AC",
+        "yas": "27",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Fodé Doucouré",
+        "mevki": "Sağ Bek",
+        "takim": "Le Havre AC",
+        "yas": "13",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Timothée Pembélé",
+        "mevki": "Sağ Bek",
+        "takim": "Le Havre AC",
+        "yas": "32",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Loïc Nego",
+        "mevki": "Sağ Bek",
+        "takim": "Le Havre AC",
+        "yas": "35",
+        "piyasa_degeri": "600 bin €"
+    },
+    {
+        "ad": "Lucas Gourna-Douath",
+        "mevki": "Ön Libero",
+        "takim": "Le Havre AC",
+        "yas": "19",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Ayumu Seko",
+        "mevki": "Ön Libero",
+        "takim": "Le Havre AC",
+        "yas": "15",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Abdoulaye Touré",
+        "mevki": "Ön Libero",
+        "takim": "Le Havre AC",
+        "yas": "94",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Daren Mosengo",
+        "mevki": "Ön Libero",
+        "takim": "Le Havre AC",
+        "yas": "78",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Rassoul Ndiaye",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Le Havre AC",
+        "yas": "14",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Yassine Kechta",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Le Havre AC",
+        "yas": "24",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Simon Ebonog",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Le Havre AC",
+        "yas": "26",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Sofiane Boufal",
+        "mevki": "On Numara",
+        "takim": "Le Havre AC",
+        "yas": "17",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Reda Khadra",
+        "mevki": "On Numara",
+        "takim": "Le Havre AC",
+        "yas": "30",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Issa Soumaré",
+        "mevki": "Sol Kanat",
+        "takim": "Le Havre AC",
+        "yas": "45",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Felix Mambimbi",
+        "mevki": "Sol Kanat",
+        "takim": "Le Havre AC",
+        "yas": "10",
+        "piyasa_degeri": "600 bin €"
+    },
+    {
+        "ad": "Godson Kyeremeh",
+        "mevki": "Sağ Kanat",
+        "takim": "Le Havre AC",
+        "yas": "11",
+        "piyasa_degeri": "600 bin €"
+    },
+    {
+        "ad": "Kenny Quetant",
+        "mevki": "Santrafor",
+        "takim": "Le Havre AC",
+        "yas": "33",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Noam Obougou",
+        "mevki": "Santrafor",
+        "takim": "Le Havre AC",
+        "yas": "20",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Ally Samatta",
+        "mevki": "Santrafor",
+        "takim": "Le Havre AC",
+        "yas": "25",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Hervé Koffi",
+        "mevki": "Kaleci",
+        "takim": "Angers SCO",
+        "yas": "12",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Melvin Zinga",
+        "mevki": "Kaleci",
+        "takim": "Angers SCO",
+        "yas": "16",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Oumar Pona",
+        "mevki": "Kaleci",
+        "takim": "Angers SCO",
+        "yas": "40",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Ousmane Camara",
+        "mevki": "Stoper",
+        "takim": "Angers SCO",
+        "yas": "23",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Emmanuel Biumla",
+        "mevki": "Stoper",
+        "takim": "Angers SCO",
+        "yas": "24",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Jordan Lefort",
+        "mevki": "Stoper",
+        "takim": "Angers SCO",
+        "yas": "21",
+        "piyasa_degeri": "1.20 mil. €"
+    },
+    {
+        "ad": "Abdoulaye Bamba",
+        "mevki": "Stoper",
+        "takim": "Angers SCO",
+        "yas": "25",
+        "piyasa_degeri": "250 bin €"
+    },
+    {
+        "ad": "Jacques Ekomié",
+        "mevki": "Sol Bek",
+        "takim": "Angers SCO",
+        "yas": "22",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Florent Hanin",
+        "mevki": "Sol Bek",
+        "takim": "Angers SCO",
+        "yas": "26",
+        "piyasa_degeri": "250 bin €"
+    },
+    {
+        "ad": "Dan Sinaté",
+        "mevki": "Sol Bek",
+        "takim": "Angers SCO",
+        "yas": "23",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Lilian Raolisoa",
+        "mevki": "Sağ Bek",
+        "takim": "Angers SCO",
+        "yas": "27",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Carlens Arcus",
+        "mevki": "Sağ Bek",
+        "takim": "Angers SCO",
+        "yas": "29",
+        "piyasa_degeri": "1.80 mil. €"
+    },
+    {
+        "ad": "Marius Louër",
+        "mevki": "Sağ Bek",
+        "takim": "Angers SCO",
+        "yas": "20",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Marius Courcoul",
+        "mevki": "Ön Libero",
+        "takim": "Angers SCO",
+        "yas": "19",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Yassin Belkhdim",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Angers SCO",
+        "yas": "14",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Branco van den Boomen",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Angers SCO",
+        "yas": "30",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Haris Belkebla",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Angers SCO",
+        "yas": "93",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Pierrick Capelle",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Angers SCO",
+        "yas": "15",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Louis Mouton",
+        "mevki": "On Numara",
+        "takim": "Angers SCO",
+        "yas": "23",
+        "piyasa_degeri": "4.50 mil. €"
+    },
+    {
+        "ad": "Amine Sbaï",
+        "mevki": "Sol Kanat",
+        "takim": "Angers SCO",
+        "yas": "25",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Harouna Djibirin",
+        "mevki": "Sağ Kanat",
+        "takim": "Angers SCO",
+        "yas": "31",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Prosper Peter",
+        "mevki": "Santrafor",
+        "takim": "Angers SCO",
+        "yas": "35",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Goduine Koyalipou",
+        "mevki": "Santrafor",
+        "takim": "Angers SCO",
+        "yas": "26",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Lanroy Machine",
+        "mevki": "Santrafor",
+        "takim": "Angers SCO",
+        "yas": "36",
+        "piyasa_degeri": "1.20 mil. €"
+    },
+    {
+        "ad": "Jonathan Fischer",
+        "mevki": "Kaleci",
+        "takim": "FC Metz",
+        "yas": "24",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Pape Sy",
+        "mevki": "Kaleci",
+        "takim": "FC Metz",
+        "yas": "61",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Ousmane Ba",
+        "mevki": "Kaleci",
+        "takim": "FC Metz",
+        "yas": "40",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Sadibou Sané",
+        "mevki": "Stoper",
+        "takim": "FC Metz",
+        "yas": "38",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Terry Yegbe",
+        "mevki": "Stoper",
+        "takim": "FC Metz",
+        "yas": "15",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Jean-Philippe Gbamin",
+        "mevki": "Stoper",
+        "takim": "FC Metz",
+        "yas": "30",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Michel Mboula",
+        "mevki": "Stoper",
+        "takim": "FC Metz",
+        "yas": "22",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Fodé Ballo-Touré",
+        "mevki": "Sol Bek",
+        "takim": "FC Metz",
+        "yas": "97",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Yannis Lawson",
+        "mevki": "Sol Bek",
+        "takim": "FC Metz",
+        "yas": "27",
+        "piyasa_degeri": "250 bin €"
+    },
+    {
+        "ad": "Koffi Kouao",
+        "mevki": "Sağ Bek",
+        "takim": "FC Metz",
+        "yas": "39",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Bouna Sarr",
+        "mevki": "Sağ Bek",
+        "takim": "FC Metz",
+        "yas": "70",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Maxime Colin",
+        "mevki": "Sağ Bek",
+        "takim": "FC Metz",
+        "yas": "34",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Cléo Mélières",
+        "mevki": "Sağ Bek",
+        "takim": "FC Metz",
+        "yas": "25",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Boubacar Traoré",
+        "mevki": "Ön Libero",
+        "takim": "FC Metz",
+        "yas": "24",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Alpha Touré",
+        "mevki": "Ön Libero",
+        "takim": "FC Metz",
+        "yas": "12",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Benjamin Stambouli",
+        "mevki": "Ön Libero",
+        "takim": "FC Metz",
+        "yas": "21",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Believe Munongo",
+        "mevki": "Merkez Orta Saha",
+        "takim": "FC Metz",
+        "yas": "33",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Jessy Deminguet",
+        "mevki": "Merkez Orta Saha",
+        "takim": "FC Metz",
+        "yas": "20",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Ismaël Guerti",
+        "mevki": "On Numara",
+        "takim": "FC Metz",
+        "yas": "29",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Lucas Michal",
+        "mevki": "Sol Kanat",
+        "takim": "FC Metz",
+        "yas": "19",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Giorgi Tsitaishvili",
+        "mevki": "Sol Kanat",
+        "takim": "FC Metz",
+        "yas": "25",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Giorgi Abuashvili",
+        "mevki": "Sol Kanat",
+        "takim": "FC Metz",
+        "yas": "23",
+        "piyasa_degeri": "1.20 mil. €"
+    },
+    {
+        "ad": "Gauthier Hein",
+        "mevki": "Sağ Kanat",
+        "takim": "FC Metz",
+        "yas": "10",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Habib Diallo",
+        "mevki": "Santrafor",
+        "takim": "FC Metz",
+        "yas": "30",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Nathan Mbala",
+        "mevki": "Santrafor",
+        "takim": "FC Metz",
+        "yas": "22",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Giorgi Kvilitaia",
+        "mevki": "Santrafor",
+        "takim": "FC Metz",
+        "yas": "11",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Joseph Mangondo",
+        "mevki": "Santrafor",
+        "takim": "FC Metz",
+        "yas": "17",
+        "piyasa_degeri": "50 bin €"
+    }
+]

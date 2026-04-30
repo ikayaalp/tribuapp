@@ -1,0 +1,3733 @@
+[
+    {
+        "ad": "Josep Martínez",
+        "mevki": "Kaleci",
+        "takim": "Inter Milan",
+        "yas": "13",
+        "piyasa_degeri": "7.50 mil. €"
+    },
+    {
+        "ad": "Yann Sommer",
+        "mevki": "Kaleci",
+        "takim": "Inter Milan",
+        "yas": "37",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Raffaele Di Gennaro",
+        "mevki": "Kaleci",
+        "takim": "Inter Milan",
+        "yas": "12",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Alessandro Bastoni",
+        "mevki": "Stoper",
+        "takim": "Inter Milan",
+        "yas": "95",
+        "piyasa_degeri": "70.00 mil. €"
+    },
+    {
+        "ad": "Yann Bisseck",
+        "mevki": "Stoper",
+        "takim": "Inter Milan",
+        "yas": "31",
+        "piyasa_degeri": "40.00 mil. €"
+    },
+    {
+        "ad": "Manuel Akanji",
+        "mevki": "Stoper",
+        "takim": "Inter Milan",
+        "yas": "25",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Stefan de Vrij",
+        "mevki": "Stoper",
+        "takim": "Inter Milan",
+        "yas": "34",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Francesco Acerbi",
+        "mevki": "Stoper",
+        "takim": "Inter Milan",
+        "yas": "15",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Federico Dimarco",
+        "mevki": "Sol Bek",
+        "takim": "Inter Milan",
+        "yas": "32",
+        "piyasa_degeri": "50.00 mil. €"
+    },
+    {
+        "ad": "Carlos Augusto",
+        "mevki": "Sol Bek",
+        "takim": "Inter Milan",
+        "yas": "30",
+        "piyasa_degeri": "26.00 mil. €"
+    },
+    {
+        "ad": "Denzel Dumfries",
+        "mevki": "Sağ Bek",
+        "takim": "Inter Milan",
+        "yas": "30",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Matteo Darmian",
+        "mevki": "Sağ Bek",
+        "takim": "Inter Milan",
+        "yas": "36",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Hakan Çalhanoğlu",
+        "mevki": "Ön Libero",
+        "takim": "Inter Milan",
+        "yas": "20",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Nicolò Barella",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Inter Milan",
+        "yas": "23",
+        "piyasa_degeri": "50.00 mil. €"
+    },
+    {
+        "ad": "Petar Sučić",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Inter Milan",
+        "yas": "22",
+        "piyasa_degeri": "30.00 mil. €"
+    },
+    {
+        "ad": "Davide Frattesi",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Inter Milan",
+        "yas": "16",
+        "piyasa_degeri": "22.00 mil. €"
+    },
+    {
+        "ad": "Andy Diouf",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Inter Milan",
+        "yas": "17",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Piotr Zieliński",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Inter Milan",
+        "yas": "31",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Henrikh Mkhitaryan",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Inter Milan",
+        "yas": "22",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Luis Henrique",
+        "mevki": "Orta Saha Sağ",
+        "takim": "Inter Milan",
+        "yas": "11",
+        "piyasa_degeri": "23.00 mil. €"
+    },
+    {
+        "ad": "Lautaro Martínez",
+        "mevki": "Santrafor",
+        "takim": "Inter Milan",
+        "yas": "10",
+        "piyasa_degeri": "85.00 mil. €"
+    },
+    {
+        "ad": "Marcus Thuram",
+        "mevki": "Santrafor",
+        "takim": "Inter Milan",
+        "yas": "28",
+        "piyasa_degeri": "50.00 mil. €"
+    },
+    {
+        "ad": "Pio Esposito",
+        "mevki": "Santrafor",
+        "takim": "Inter Milan",
+        "yas": "94",
+        "piyasa_degeri": "45.00 mil. €"
+    },
+    {
+        "ad": "Ange-Yoan Bonny",
+        "mevki": "Santrafor",
+        "takim": "Inter Milan",
+        "yas": "14",
+        "piyasa_degeri": "35.00 mil. €"
+    },
+    {
+        "ad": "Michele Di Gregorio",
+        "mevki": "Kaleci",
+        "takim": "Juventus",
+        "yas": "16",
+        "piyasa_degeri": "14.00 mil. €"
+    },
+    {
+        "ad": "Mattia Perin",
+        "mevki": "Kaleci",
+        "takim": "Juventus",
+        "yas": "33",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Carlo Pinsoglio",
+        "mevki": "Kaleci",
+        "takim": "Juventus",
+        "yas": "23",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Bremer",
+        "mevki": "Stoper",
+        "takim": "Juventus",
+        "yas": "29",
+        "piyasa_degeri": "35.00 mil. €"
+    },
+    {
+        "ad": "Pierre Kalulu",
+        "mevki": "Stoper",
+        "takim": "Juventus",
+        "yas": "15",
+        "piyasa_degeri": "32.00 mil. €"
+    },
+    {
+        "ad": "Lloyd Kelly",
+        "mevki": "Stoper",
+        "takim": "Juventus",
+        "yas": "27",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Federico Gatti",
+        "mevki": "Stoper",
+        "takim": "Juventus",
+        "yas": "27",
+        "piyasa_degeri": "16.00 mil. €"
+    },
+    {
+        "ad": "Andrea Cambiaso",
+        "mevki": "Sol Bek",
+        "takim": "Juventus",
+        "yas": "27",
+        "piyasa_degeri": "30.00 mil. €"
+    },
+    {
+        "ad": "Juan Cabal",
+        "mevki": "Sol Bek",
+        "takim": "Juventus",
+        "yas": "32",
+        "piyasa_degeri": "9.00 mil. €"
+    },
+    {
+        "ad": "Emil Holm",
+        "mevki": "Sağ Bek",
+        "takim": "Juventus",
+        "yas": "25",
+        "piyasa_degeri": "13.00 mil. €"
+    },
+    {
+        "ad": "Manuel Locatelli",
+        "mevki": "Ön Libero",
+        "takim": "Juventus",
+        "yas": "28",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Teun Koopmeiners",
+        "mevki": "Ön Libero",
+        "takim": "Juventus",
+        "yas": "28",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Khéphren Thuram",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Juventus",
+        "yas": "19",
+        "piyasa_degeri": "40.00 mil. €"
+    },
+    {
+        "ad": "Weston McKennie",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Juventus",
+        "yas": "22",
+        "piyasa_degeri": "30.00 mil. €"
+    },
+    {
+        "ad": "Fabio Miretti",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Juventus",
+        "yas": "21",
+        "piyasa_degeri": "16.00 mil. €"
+    },
+    {
+        "ad": "Filip Kostić",
+        "mevki": "Orta Saha Sol",
+        "takim": "Juventus",
+        "yas": "18",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Vasilije Adžić",
+        "mevki": "On Numara",
+        "takim": "Juventus",
+        "yas": "17",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Kenan Yıldız",
+        "mevki": "Sol Kanat",
+        "takim": "Juventus",
+        "yas": "10",
+        "piyasa_degeri": "75.00 mil. €"
+    },
+    {
+        "ad": "Jérémie Boga",
+        "mevki": "Sol Kanat",
+        "takim": "Juventus",
+        "yas": "13",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Francisco Conceição",
+        "mevki": "Sağ Kanat",
+        "takim": "Juventus",
+        "yas": "23",
+        "piyasa_degeri": "30.00 mil. €"
+    },
+    {
+        "ad": "Edon Zhegrova",
+        "mevki": "Sağ Kanat",
+        "takim": "Juventus",
+        "yas": "11",
+        "piyasa_degeri": "14.00 mil. €"
+    },
+    {
+        "ad": "Dušan Vlahović",
+        "mevki": "Santrafor",
+        "takim": "Juventus",
+        "yas": "26",
+        "piyasa_degeri": "35.00 mil. €"
+    },
+    {
+        "ad": "Jonathan David",
+        "mevki": "Santrafor",
+        "takim": "Juventus",
+        "yas": "30",
+        "piyasa_degeri": "35.00 mil. €"
+    },
+    {
+        "ad": "Loïs Openda",
+        "mevki": "Santrafor",
+        "takim": "Juventus",
+        "yas": "20",
+        "piyasa_degeri": "32.00 mil. €"
+    },
+    {
+        "ad": "Arkadiusz Milik",
+        "mevki": "Santrafor",
+        "takim": "Juventus",
+        "yas": "14",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Mike Maignan",
+        "mevki": "Kaleci",
+        "takim": "AC Milan",
+        "yas": "16",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Pietro Terracciano",
+        "mevki": "Kaleci",
+        "takim": "AC Milan",
+        "yas": "36",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Lorenzo Torriani",
+        "mevki": "Kaleci",
+        "takim": "AC Milan",
+        "yas": "96",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Strahinja Pavlović",
+        "mevki": "Stoper",
+        "takim": "AC Milan",
+        "yas": "31",
+        "piyasa_degeri": "35.00 mil. €"
+    },
+    {
+        "ad": "Koni De Winter",
+        "mevki": "Stoper",
+        "takim": "AC Milan",
+        "yas": "23",
+        "piyasa_degeri": "23.00 mil. €"
+    },
+    {
+        "ad": "Fikayo Tomori",
+        "mevki": "Stoper",
+        "takim": "AC Milan",
+        "yas": "23",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Matteo Gabbia",
+        "mevki": "Stoper",
+        "takim": "AC Milan",
+        "yas": "46",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "David Odogu",
+        "mevki": "Stoper",
+        "takim": "AC Milan",
+        "yas": "27",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Davide Bartesaghi",
+        "mevki": "Sol Bek",
+        "takim": "AC Milan",
+        "yas": "33",
+        "piyasa_degeri": "23.00 mil. €"
+    },
+    {
+        "ad": "Pervis Estupiñán",
+        "mevki": "Sol Bek",
+        "takim": "AC Milan",
+        "yas": "28",
+        "piyasa_degeri": "14.00 mil. €"
+    },
+    {
+        "ad": "Zachary Athekame",
+        "mevki": "Sağ Bek",
+        "takim": "AC Milan",
+        "yas": "24",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Ardon Jashari",
+        "mevki": "Ön Libero",
+        "takim": "AC Milan",
+        "yas": "30",
+        "piyasa_degeri": "30.00 mil. €"
+    },
+    {
+        "ad": "Samuele Ricci",
+        "mevki": "Ön Libero",
+        "takim": "AC Milan",
+        "yas": "24",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Youssouf Fofana",
+        "mevki": "Ön Libero",
+        "takim": "AC Milan",
+        "yas": "19",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Adrien Rabiot",
+        "mevki": "Merkez Orta Saha",
+        "takim": "AC Milan",
+        "yas": "12",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Ruben Loftus-Cheek",
+        "mevki": "Merkez Orta Saha",
+        "takim": "AC Milan",
+        "yas": "30",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Luka Modrić",
+        "mevki": "Merkez Orta Saha",
+        "takim": "AC Milan",
+        "yas": "14",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Alexis Saelemaekers",
+        "mevki": "Orta Saha Sağ",
+        "takim": "AC Milan",
+        "yas": "56",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Rafael Leão",
+        "mevki": "Sol Kanat",
+        "takim": "AC Milan",
+        "yas": "10",
+        "piyasa_degeri": "65.00 mil. €"
+    },
+    {
+        "ad": "Christian Pulisic",
+        "mevki": "Sağ Kanat",
+        "takim": "AC Milan",
+        "yas": "11",
+        "piyasa_degeri": "50.00 mil. €"
+    },
+    {
+        "ad": "Christopher Nkunku",
+        "mevki": "Santrafor",
+        "takim": "AC Milan",
+        "yas": "18",
+        "piyasa_degeri": "28.00 mil. €"
+    },
+    {
+        "ad": "Santiago Gimenez",
+        "mevki": "Santrafor",
+        "takim": "AC Milan",
+        "yas": "25",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Niclas Füllkrug",
+        "mevki": "Santrafor",
+        "takim": "AC Milan",
+        "yas": "33",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Mile Svilar",
+        "mevki": "Kaleci",
+        "takim": "AS Roma",
+        "yas": "99",
+        "piyasa_degeri": "35.00 mil. €"
+    },
+    {
+        "ad": "Pierluigi Gollini",
+        "mevki": "Kaleci",
+        "takim": "AS Roma",
+        "yas": "95",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Radoslaw Zelezny",
+        "mevki": "Kaleci",
+        "takim": "AS Roma",
+        "yas": "91",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Evan Ndicka",
+        "mevki": "Stoper",
+        "takim": "AS Roma",
+        "yas": "26",
+        "piyasa_degeri": "35.00 mil. €"
+    },
+    {
+        "ad": "Gianluca Mancini",
+        "mevki": "Stoper",
+        "takim": "AS Roma",
+        "yas": "23",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Daniele Ghilardi",
+        "mevki": "Stoper",
+        "takim": "AS Roma",
+        "yas": "87",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Jan Ziolkowski",
+        "mevki": "Stoper",
+        "takim": "AS Roma",
+        "yas": "24",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Mario Hermoso",
+        "mevki": "Stoper",
+        "takim": "AS Roma",
+        "yas": "22",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Angeliño",
+        "mevki": "Sol Bek",
+        "takim": "AS Roma",
+        "yas": "29",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Konstantinos Tsimikas",
+        "mevki": "Sol Bek",
+        "takim": "AS Roma",
+        "yas": "12",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Wesley",
+        "mevki": "Sağ Bek",
+        "takim": "AS Roma",
+        "yas": "43",
+        "piyasa_degeri": "40.00 mil. €"
+    },
+    {
+        "ad": "Zeki Çelik",
+        "mevki": "Sağ Bek",
+        "takim": "AS Roma",
+        "yas": "19",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Devyne Rensch",
+        "mevki": "Sağ Bek",
+        "takim": "AS Roma",
+        "yas": "23",
+        "piyasa_degeri": "8.50 mil. €"
+    },
+    {
+        "ad": "Bryan Cristante",
+        "mevki": "Ön Libero",
+        "takim": "AS Roma",
+        "yas": "31",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Manu Koné",
+        "mevki": "Merkez Orta Saha",
+        "takim": "AS Roma",
+        "yas": "17",
+        "piyasa_degeri": "50.00 mil. €"
+    },
+    {
+        "ad": "Neil El Aynaoui",
+        "mevki": "Merkez Orta Saha",
+        "takim": "AS Roma",
+        "yas": "24",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Niccolò Pisilli",
+        "mevki": "Merkez Orta Saha",
+        "takim": "AS Roma",
+        "yas": "61",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Lorenzo Pellegrini",
+        "mevki": "On Numara",
+        "takim": "AS Roma",
+        "yas": "29",
+        "piyasa_degeri": "9.00 mil. €"
+    },
+    {
+        "ad": "Bryan Zaragoza",
+        "mevki": "Sol Kanat",
+        "takim": "AS Roma",
+        "yas": "97",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Stephan El Shaarawy",
+        "mevki": "Sol Kanat",
+        "takim": "AS Roma",
+        "yas": "92",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Matías Soulé",
+        "mevki": "Sağ Kanat",
+        "takim": "AS Roma",
+        "yas": "18",
+        "piyasa_degeri": "35.00 mil. €"
+    },
+    {
+        "ad": "Lorenzo Venturino",
+        "mevki": "Sağ Kanat",
+        "takim": "AS Roma",
+        "yas": "20",
+        "piyasa_degeri": "4.50 mil. €"
+    },
+    {
+        "ad": "Paulo Dybala",
+        "mevki": "Forvet Arkası",
+        "takim": "AS Roma",
+        "yas": "21",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Donyell Malen",
+        "mevki": "Santrafor",
+        "takim": "AS Roma",
+        "yas": "14",
+        "piyasa_degeri": "35.00 mil. €"
+    },
+    {
+        "ad": "Evan Ferguson",
+        "mevki": "Santrafor",
+        "takim": "AS Roma",
+        "yas": "11",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Robinio Vaz",
+        "mevki": "Santrafor",
+        "takim": "AS Roma",
+        "yas": "78",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Artem Dovbyk",
+        "mevki": "Santrafor",
+        "takim": "AS Roma",
+        "yas": "28",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Vanja Milinković-Savić",
+        "mevki": "Kaleci",
+        "takim": "SSC Napoli",
+        "yas": "32",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Alex Meret",
+        "mevki": "Kaleci",
+        "takim": "SSC Napoli",
+        "yas": "29",
+        "piyasa_degeri": "14.00 mil. €"
+    },
+    {
+        "ad": "Nikita Contini",
+        "mevki": "Kaleci",
+        "takim": "SSC Napoli",
+        "yas": "14",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Mathias Ferrante",
+        "mevki": "Kaleci",
+        "takim": "SSC Napoli",
+        "yas": "25",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Alessandro Buongiorno",
+        "mevki": "Stoper",
+        "takim": "SSC Napoli",
+        "yas": "26",
+        "piyasa_degeri": "35.00 mil. €"
+    },
+    {
+        "ad": "Sam Beukema",
+        "mevki": "Stoper",
+        "takim": "SSC Napoli",
+        "yas": "31",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Amir Rrahmani",
+        "mevki": "Stoper",
+        "takim": "SSC Napoli",
+        "yas": "13",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Juan Jesus",
+        "mevki": "Stoper",
+        "takim": "SSC Napoli",
+        "yas": "34",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Miguel Gutiérrez",
+        "mevki": "Sol Bek",
+        "takim": "SSC Napoli",
+        "yas": "24",
+        "piyasa_degeri": "17.00 mil. €"
+    },
+    {
+        "ad": "Mathías Olivera",
+        "mevki": "Sol Bek",
+        "takim": "SSC Napoli",
+        "yas": "17",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Leonardo Spinazzola",
+        "mevki": "Sol Bek",
+        "takim": "SSC Napoli",
+        "yas": "37",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Giovanni Di Lorenzo",
+        "mevki": "Sağ Bek",
+        "takim": "SSC Napoli",
+        "yas": "22",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Pasquale Mazzocchi",
+        "mevki": "Sağ Bek",
+        "takim": "SSC Napoli",
+        "yas": "30",
+        "piyasa_degeri": "1.70 mil. €"
+    },
+    {
+        "ad": "Billy Gilmour",
+        "mevki": "Ön Libero",
+        "takim": "SSC Napoli",
+        "yas": "24",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Stanislav Lobotka",
+        "mevki": "Ön Libero",
+        "takim": "SSC Napoli",
+        "yas": "68",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Scott McTominay",
+        "mevki": "Merkez Orta Saha",
+        "takim": "SSC Napoli",
+        "yas": "29",
+        "piyasa_degeri": "45.00 mil. €"
+    },
+    {
+        "ad": "Frank Anguissa",
+        "mevki": "Merkez Orta Saha",
+        "takim": "SSC Napoli",
+        "yas": "99",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Antonio Vergara",
+        "mevki": "On Numara",
+        "takim": "SSC Napoli",
+        "yas": "26",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Eljif Elmas",
+        "mevki": "On Numara",
+        "takim": "SSC Napoli",
+        "yas": "20",
+        "piyasa_degeri": "14.00 mil. €"
+    },
+    {
+        "ad": "Kevin De Bruyne",
+        "mevki": "On Numara",
+        "takim": "SSC Napoli",
+        "yas": "11",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Alisson Santos",
+        "mevki": "Sol Kanat",
+        "takim": "SSC Napoli",
+        "yas": "27",
+        "piyasa_degeri": "13.00 mil. €"
+    },
+    {
+        "ad": "David Neres",
+        "mevki": "Sağ Kanat",
+        "takim": "SSC Napoli",
+        "yas": "29",
+        "piyasa_degeri": "28.00 mil. €"
+    },
+    {
+        "ad": "Matteo Politano",
+        "mevki": "Sağ Kanat",
+        "takim": "SSC Napoli",
+        "yas": "21",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Rasmus Højlund",
+        "mevki": "Santrafor",
+        "takim": "SSC Napoli",
+        "yas": "19",
+        "piyasa_degeri": "50.00 mil. €"
+    },
+    {
+        "ad": "Romelu Lukaku",
+        "mevki": "Santrafor",
+        "takim": "SSC Napoli",
+        "yas": "32",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Giovane",
+        "mevki": "Santrafor",
+        "takim": "SSC Napoli",
+        "yas": "23",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Marco Carnesecchi",
+        "mevki": "Kaleci",
+        "takim": "Atalanta Bergamo",
+        "yas": "29",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Marco Sportiello",
+        "mevki": "Kaleci",
+        "takim": "Atalanta Bergamo",
+        "yas": "57",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Francesco Rossi",
+        "mevki": "Kaleci",
+        "takim": "Atalanta Bergamo",
+        "yas": "31",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Giorgio Scalvini",
+        "mevki": "Stoper",
+        "takim": "Atalanta Bergamo",
+        "yas": "42",
+        "piyasa_degeri": "30.00 mil. €"
+    },
+    {
+        "ad": "Honest Ahanor",
+        "mevki": "Stoper",
+        "takim": "Atalanta Bergamo",
+        "yas": "69",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Isak Hien",
+        "mevki": "Stoper",
+        "takim": "Atalanta Bergamo",
+        "yas": "27",
+        "piyasa_degeri": "22.00 mil. €"
+    },
+    {
+        "ad": "Odilon Kossounou",
+        "mevki": "Stoper",
+        "takim": "Atalanta Bergamo",
+        "yas": "25",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Sead Kolasinac",
+        "mevki": "Stoper",
+        "takim": "Atalanta Bergamo",
+        "yas": "23",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Berat Djimsiti",
+        "mevki": "Stoper",
+        "takim": "Atalanta Bergamo",
+        "yas": "19",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Marten de Roon",
+        "mevki": "Ön Libero",
+        "takim": "Atalanta Bergamo",
+        "yas": "15",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Éderson",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Atalanta Bergamo",
+        "yas": "13",
+        "piyasa_degeri": "40.00 mil. €"
+    },
+    {
+        "ad": "Yunus Musah",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Atalanta Bergamo",
+        "yas": "23",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Mario Pašalić",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Atalanta Bergamo",
+        "yas": "31",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Raoul Bellanova",
+        "mevki": "Orta Saha Sağ",
+        "takim": "Atalanta Bergamo",
+        "yas": "16",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Davide Zappacosta",
+        "mevki": "Orta Saha Sağ",
+        "takim": "Atalanta Bergamo",
+        "yas": "77",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Nicola Zalewski",
+        "mevki": "Orta Saha Sol",
+        "takim": "Atalanta Bergamo",
+        "yas": "59",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Lorenzo Bernasconi",
+        "mevki": "Orta Saha Sol",
+        "takim": "Atalanta Bergamo",
+        "yas": "47",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Mitchel Bakker",
+        "mevki": "Orta Saha Sol",
+        "takim": "Atalanta Bergamo",
+        "yas": "25",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Charles De Ketelaere",
+        "mevki": "On Numara",
+        "takim": "Atalanta Bergamo",
+        "yas": "17",
+        "piyasa_degeri": "35.00 mil. €"
+    },
+    {
+        "ad": "Lazar Samardžić",
+        "mevki": "On Numara",
+        "takim": "Atalanta Bergamo",
+        "yas": "10",
+        "piyasa_degeri": "17.00 mil. €"
+    },
+    {
+        "ad": "Kamaldeen Sulemana",
+        "mevki": "Sol Kanat",
+        "takim": "Atalanta Bergamo",
+        "yas": "24",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Giacomo Raspadori",
+        "mevki": "Forvet Arkası",
+        "takim": "Atalanta Bergamo",
+        "yas": "18",
+        "piyasa_degeri": "22.00 mil. €"
+    },
+    {
+        "ad": "Gianluca Scamacca",
+        "mevki": "Santrafor",
+        "takim": "Atalanta Bergamo",
+        "yas": "27",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Nikola Krstović",
+        "mevki": "Santrafor",
+        "takim": "Atalanta Bergamo",
+        "yas": "90",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Jean Butez",
+        "mevki": "Kaleci",
+        "takim": "Como 1907",
+        "yas": "30",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Noel Törnqvist",
+        "mevki": "Kaleci",
+        "takim": "Como 1907",
+        "yas": "21",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Nikola Cavlina",
+        "mevki": "Kaleci",
+        "takim": "Como 1907",
+        "yas": "44",
+        "piyasa_degeri": "750 bin €"
+    },
+    {
+        "ad": "Henrique Menke",
+        "mevki": "Kaleci",
+        "takim": "Como 1907",
+        "yas": "12",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Mauro Vigorito",
+        "mevki": "Kaleci",
+        "takim": "Como 1907",
+        "yas": "22",
+        "piyasa_degeri": "150 bin €"
+    },
+    {
+        "ad": "Jacobo Ramón",
+        "mevki": "Stoper",
+        "takim": "Como 1907",
+        "yas": "14",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Diego Carlos",
+        "mevki": "Stoper",
+        "takim": "Como 1907",
+        "yas": "34",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Marc Oliver Kempf",
+        "mevki": "Stoper",
+        "takim": "Como 1907",
+        "yas": "31",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Edoardo Goldaniga",
+        "mevki": "Stoper",
+        "takim": "Como 1907",
+        "yas": "32",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Álex Valle",
+        "mevki": "Sol Bek",
+        "takim": "Como 1907",
+        "yas": "21",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Alberto Moreno",
+        "mevki": "Sol Bek",
+        "takim": "Como 1907",
+        "yas": "18",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Ignace Van der Brempt",
+        "mevki": "Sağ Bek",
+        "takim": "Como 1907",
+        "yas": "77",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Mërgim Vojvoda",
+        "mevki": "Sağ Bek",
+        "takim": "Como 1907",
+        "yas": "31",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Ivan Smolcic",
+        "mevki": "Sağ Bek",
+        "takim": "Como 1907",
+        "yas": "28",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Máximo Perrone",
+        "mevki": "Ön Libero",
+        "takim": "Como 1907",
+        "yas": "23",
+        "piyasa_degeri": "30.00 mil. €"
+    },
+    {
+        "ad": "Lucas Da Cunha",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Como 1907",
+        "yas": "33",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Maxence Caqueret",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Como 1907",
+        "yas": "26",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Adrian Lahdo",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Como 1907",
+        "yas": "15",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Sergi Roberto",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Como 1907",
+        "yas": "34",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Nico Paz",
+        "mevki": "On Numara",
+        "takim": "Como 1907",
+        "yas": "10",
+        "piyasa_degeri": "65.00 mil. €"
+    },
+    {
+        "ad": "Martin Baturina",
+        "mevki": "On Numara",
+        "takim": "Como 1907",
+        "yas": "20",
+        "piyasa_degeri": "24.00 mil. €"
+    },
+    {
+        "ad": "Jesús Rodríguez",
+        "mevki": "Sol Kanat",
+        "takim": "Como 1907",
+        "yas": "17",
+        "piyasa_degeri": "30.00 mil. €"
+    },
+    {
+        "ad": "Assane Diao",
+        "mevki": "Sol Kanat",
+        "takim": "Como 1907",
+        "yas": "38",
+        "piyasa_degeri": "30.00 mil. €"
+    },
+    {
+        "ad": "Jayden Addai",
+        "mevki": "Sağ Kanat",
+        "takim": "Como 1907",
+        "yas": "42",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Nicolas Kühn",
+        "mevki": "Sağ Kanat",
+        "takim": "Como 1907",
+        "yas": "19",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Anastasios Douvikas",
+        "mevki": "Santrafor",
+        "takim": "Como 1907",
+        "yas": "11",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Álvaro Morata",
+        "mevki": "Santrafor",
+        "takim": "Como 1907",
+        "yas": "33",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Lukasz Skorupski",
+        "mevki": "Kaleci",
+        "takim": "Bologna FC",
+        "yas": "34",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Federico Ravaglia",
+        "mevki": "Kaleci",
+        "takim": "Bologna FC",
+        "yas": "13",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Massimo Pessina",
+        "mevki": "Kaleci",
+        "takim": "Bologna FC",
+        "yas": "25",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Jhon Lucumí",
+        "mevki": "Stoper",
+        "takim": "Bologna FC",
+        "yas": "26",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Torbjørn Heggem",
+        "mevki": "Stoper",
+        "takim": "Bologna FC",
+        "yas": "14",
+        "piyasa_degeri": "14.00 mil. €"
+    },
+    {
+        "ad": "Martin Vitík",
+        "mevki": "Stoper",
+        "takim": "Bologna FC",
+        "yas": "41",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Eivind Helland",
+        "mevki": "Stoper",
+        "takim": "Bologna FC",
+        "yas": "20",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Nicolò Casale",
+        "mevki": "Stoper",
+        "takim": "Bologna FC",
+        "yas": "16",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Kevin Bonifazi",
+        "mevki": "Stoper",
+        "takim": "Bologna FC",
+        "yas": "29",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Juan Miranda",
+        "mevki": "Sol Bek",
+        "takim": "Bologna FC",
+        "yas": "33",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Charalampos Lykogiannis",
+        "mevki": "Sol Bek",
+        "takim": "Bologna FC",
+        "yas": "22",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "João Mário",
+        "mevki": "Sağ Bek",
+        "takim": "Bologna FC",
+        "yas": "17",
+        "piyasa_degeri": "8.50 mil. €"
+    },
+    {
+        "ad": "Nadir Zortea",
+        "mevki": "Sağ Bek",
+        "takim": "Bologna FC",
+        "yas": "20",
+        "piyasa_degeri": "7.50 mil. €"
+    },
+    {
+        "ad": "Lorenzo De Silvestri",
+        "mevki": "Sağ Bek",
+        "takim": "Bologna FC",
+        "yas": "29",
+        "piyasa_degeri": "700 bin €"
+    },
+    {
+        "ad": "Nikola Moro",
+        "mevki": "Ön Libero",
+        "takim": "Bologna FC",
+        "yas": "28",
+        "piyasa_degeri": "6.50 mil. €"
+    },
+    {
+        "ad": "Lewis Ferguson",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Bologna FC",
+        "yas": "19",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Tommaso Pobega",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Bologna FC",
+        "yas": "26",
+        "piyasa_degeri": "9.00 mil. €"
+    },
+    {
+        "ad": "Simon Sohm",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Bologna FC",
+        "yas": "23",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Remo Freuler",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Bologna FC",
+        "yas": "34",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Jens Odgaard",
+        "mevki": "On Numara",
+        "takim": "Bologna FC",
+        "yas": "21",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Jonathan Rowe",
+        "mevki": "Sol Kanat",
+        "takim": "Bologna FC",
+        "yas": "11",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Nicolò Cambiaghi",
+        "mevki": "Sol Kanat",
+        "takim": "Bologna FC",
+        "yas": "28",
+        "piyasa_degeri": "16.00 mil. €"
+    },
+    {
+        "ad": "Benja Domínguez",
+        "mevki": "Sol Kanat",
+        "takim": "Bologna FC",
+        "yas": "30",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Riccardo Orsolini",
+        "mevki": "Sağ Kanat",
+        "takim": "Bologna FC",
+        "yas": "29",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Federico Bernardeschi",
+        "mevki": "Sağ Kanat",
+        "takim": "Bologna FC",
+        "yas": "10",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Santiago Castro",
+        "mevki": "Santrafor",
+        "takim": "Bologna FC",
+        "yas": "21",
+        "piyasa_degeri": "35.00 mil. €"
+    },
+    {
+        "ad": "Thijs Dallinga",
+        "mevki": "Santrafor",
+        "takim": "Bologna FC",
+        "yas": "24",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "David de Gea",
+        "mevki": "Kaleci",
+        "takim": "ACF Fiorentina",
+        "yas": "43",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Oliver Christensen",
+        "mevki": "Kaleci",
+        "takim": "ACF Fiorentina",
+        "yas": "53",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Luca Lezzerini",
+        "mevki": "Kaleci",
+        "takim": "ACF Fiorentina",
+        "yas": "31",
+        "piyasa_degeri": "350 bin €"
+    },
+    {
+        "ad": "Pietro Comuzzo",
+        "mevki": "Stoper",
+        "takim": "ACF Fiorentina",
+        "yas": "15",
+        "piyasa_degeri": "23.00 mil. €"
+    },
+    {
+        "ad": "Marin Pongracic",
+        "mevki": "Stoper",
+        "takim": "ACF Fiorentina",
+        "yas": "28",
+        "piyasa_degeri": "7.50 mil. €"
+    },
+    {
+        "ad": "Luca Ranieri",
+        "mevki": "Stoper",
+        "takim": "ACF Fiorentina",
+        "yas": "26",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Eddy Kouadio",
+        "mevki": "Stoper",
+        "takim": "ACF Fiorentina",
+        "yas": "60",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Daniele Rugani",
+        "mevki": "Stoper",
+        "takim": "ACF Fiorentina",
+        "yas": "31",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Eman Košpo",
+        "mevki": "Stoper",
+        "takim": "ACF Fiorentina",
+        "yas": "23",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Niccolò Fortini",
+        "mevki": "Sol Bek",
+        "takim": "ACF Fiorentina",
+        "yas": "29",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Fabiano Parisi",
+        "mevki": "Sol Bek",
+        "takim": "ACF Fiorentina",
+        "yas": "65",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Robin Gosens",
+        "mevki": "Sol Bek",
+        "takim": "ACF Fiorentina",
+        "yas": "21",
+        "piyasa_degeri": "4.50 mil. €"
+    },
+    {
+        "ad": "Luis Balbo",
+        "mevki": "Sol Bek",
+        "takim": "ACF Fiorentina",
+        "yas": "62",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Dodô",
+        "mevki": "Sağ Bek",
+        "takim": "ACF Fiorentina",
+        "yas": "27",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Tariq Lamptey",
+        "mevki": "Sağ Bek",
+        "takim": "ACF Fiorentina",
+        "yas": "48",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Rolando Mandragora",
+        "mevki": "Ön Libero",
+        "takim": "ACF Fiorentina",
+        "yas": "28",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Nicolò Fagioli",
+        "mevki": "Merkez Orta Saha",
+        "takim": "ACF Fiorentina",
+        "yas": "44",
+        "piyasa_degeri": "16.00 mil. €"
+    },
+    {
+        "ad": "Cher Ndour",
+        "mevki": "Merkez Orta Saha",
+        "takim": "ACF Fiorentina",
+        "yas": "27",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Marco Brescianini",
+        "mevki": "Merkez Orta Saha",
+        "takim": "ACF Fiorentina",
+        "yas": "26",
+        "piyasa_degeri": "9.00 mil. €"
+    },
+    {
+        "ad": "Jacopo Fazzini",
+        "mevki": "Merkez Orta Saha",
+        "takim": "ACF Fiorentina",
+        "yas": "22",
+        "piyasa_degeri": "9.00 mil. €"
+    },
+    {
+        "ad": "Giovanni Fabbian",
+        "mevki": "On Numara",
+        "takim": "ACF Fiorentina",
+        "yas": "80",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Abdelhamid Sabiri",
+        "mevki": "On Numara",
+        "takim": "ACF Fiorentina",
+        "yas": "11",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Manor Solomon",
+        "mevki": "Sol Kanat",
+        "takim": "ACF Fiorentina",
+        "yas": "19",
+        "piyasa_degeri": "9.00 mil. €"
+    },
+    {
+        "ad": "Jack Harrison",
+        "mevki": "Sol Kanat",
+        "takim": "ACF Fiorentina",
+        "yas": "17",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Albert Gudmundsson",
+        "mevki": "Forvet Arkası",
+        "takim": "ACF Fiorentina",
+        "yas": "10",
+        "piyasa_degeri": "13.00 mil. €"
+    },
+    {
+        "ad": "Moise Kean",
+        "mevki": "Santrafor",
+        "takim": "ACF Fiorentina",
+        "yas": "20",
+        "piyasa_degeri": "40.00 mil. €"
+    },
+    {
+        "ad": "Roberto Piccoli",
+        "mevki": "Santrafor",
+        "takim": "ACF Fiorentina",
+        "yas": "91",
+        "piyasa_degeri": "16.00 mil. €"
+    },
+    {
+        "ad": "Edoardo Motta",
+        "mevki": "Kaleci",
+        "takim": "SS Lazio",
+        "yas": "40",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Ivan Provedel",
+        "mevki": "Kaleci",
+        "takim": "SS Lazio",
+        "yas": "94",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Alessio Furlanetto",
+        "mevki": "Kaleci",
+        "takim": "SS Lazio",
+        "yas": "55",
+        "piyasa_degeri": "50 bin €"
+    },
+    {
+        "ad": "Mario Gila",
+        "mevki": "Stoper",
+        "takim": "SS Lazio",
+        "yas": "34",
+        "piyasa_degeri": "30.00 mil. €"
+    },
+    {
+        "ad": "Oliver Provstgaard",
+        "mevki": "Stoper",
+        "takim": "SS Lazio",
+        "yas": "25",
+        "piyasa_degeri": "7.50 mil. €"
+    },
+    {
+        "ad": "Alessio Romagnoli",
+        "mevki": "Stoper",
+        "takim": "SS Lazio",
+        "yas": "13",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Samuel Gigot",
+        "mevki": "Stoper",
+        "takim": "SS Lazio",
+        "yas": "32",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Patric",
+        "mevki": "Stoper",
+        "takim": "SS Lazio",
+        "yas": "33",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Nuno Tavares",
+        "mevki": "Sol Bek",
+        "takim": "SS Lazio",
+        "yas": "17",
+        "piyasa_degeri": "13.00 mil. €"
+    },
+    {
+        "ad": "Luca Pellegrini",
+        "mevki": "Sol Bek",
+        "takim": "SS Lazio",
+        "yas": "27",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Adam Marusic",
+        "mevki": "Sağ Bek",
+        "takim": "SS Lazio",
+        "yas": "77",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Manuel Lazzari",
+        "mevki": "Sağ Bek",
+        "takim": "SS Lazio",
+        "yas": "29",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Elseid Hysaj",
+        "mevki": "Sağ Bek",
+        "takim": "SS Lazio",
+        "yas": "23",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Nicolò Rovella",
+        "mevki": "Ön Libero",
+        "takim": "SS Lazio",
+        "yas": "24",
+        "piyasa_degeri": "23.00 mil. €"
+    },
+    {
+        "ad": "Reda Belahyane",
+        "mevki": "Ön Libero",
+        "takim": "SS Lazio",
+        "yas": "21",
+        "piyasa_degeri": "8.50 mil. €"
+    },
+    {
+        "ad": "Danilo Cataldi",
+        "mevki": "Ön Libero",
+        "takim": "SS Lazio",
+        "yas": "32",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Kenneth Taylor",
+        "mevki": "Merkez Orta Saha",
+        "takim": "SS Lazio",
+        "yas": "24",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Fisayo Dele-Bashiru",
+        "mevki": "Merkez Orta Saha",
+        "takim": "SS Lazio",
+        "yas": "25",
+        "piyasa_degeri": "6.50 mil. €"
+    },
+    {
+        "ad": "Toma Bašić",
+        "mevki": "Merkez Orta Saha",
+        "takim": "SS Lazio",
+        "yas": "26",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Daniel Maldini",
+        "mevki": "On Numara",
+        "takim": "SS Lazio",
+        "yas": "27",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Adrian Przyborek",
+        "mevki": "On Numara",
+        "takim": "SS Lazio",
+        "yas": "28",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Mattia Zaccagni",
+        "mevki": "Sol Kanat",
+        "takim": "SS Lazio",
+        "yas": "10",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Gustav Isaksen",
+        "mevki": "Sağ Kanat",
+        "takim": "SS Lazio",
+        "yas": "18",
+        "piyasa_degeri": "17.00 mil. €"
+    },
+    {
+        "ad": "Tijjani Noslin",
+        "mevki": "Sağ Kanat",
+        "takim": "SS Lazio",
+        "yas": "14",
+        "piyasa_degeri": "6.50 mil. €"
+    },
+    {
+        "ad": "Matteo Cancellieri",
+        "mevki": "Sağ Kanat",
+        "takim": "SS Lazio",
+        "yas": "22",
+        "piyasa_degeri": "5.50 mil. €"
+    },
+    {
+        "ad": "Pedro",
+        "mevki": "Sağ Kanat",
+        "takim": "SS Lazio",
+        "yas": "38",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Petar Ratkov",
+        "mevki": "Santrafor",
+        "takim": "SS Lazio",
+        "yas": "20",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Boulaye Dia",
+        "mevki": "Santrafor",
+        "takim": "SS Lazio",
+        "yas": "19",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Arijanet Murić",
+        "mevki": "Kaleci",
+        "takim": "US Sassuolo",
+        "yas": "49",
+        "piyasa_degeri": "7.50 mil. €"
+    },
+    {
+        "ad": "Stefano Turati",
+        "mevki": "Kaleci",
+        "takim": "US Sassuolo",
+        "yas": "13",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Gioele Zacchi",
+        "mevki": "Kaleci",
+        "takim": "US Sassuolo",
+        "yas": "16",
+        "piyasa_degeri": "600 bin €"
+    },
+    {
+        "ad": "Giacomo Satalino",
+        "mevki": "Kaleci",
+        "takim": "US Sassuolo",
+        "yas": "12",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Tarik Muharemović",
+        "mevki": "Stoper",
+        "takim": "US Sassuolo",
+        "yas": "80",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Jay Idzes",
+        "mevki": "Stoper",
+        "takim": "US Sassuolo",
+        "yas": "21",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Fali Candé",
+        "mevki": "Stoper",
+        "takim": "US Sassuolo",
+        "yas": "28",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Filippo Romagna",
+        "mevki": "Stoper",
+        "takim": "US Sassuolo",
+        "yas": "19",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Pedro Felipe",
+        "mevki": "Stoper",
+        "takim": "US Sassuolo",
+        "yas": "66",
+        "piyasa_degeri": "700 bin €"
+    },
+    {
+        "ad": "Josh Doig",
+        "mevki": "Sol Bek",
+        "takim": "US Sassuolo",
+        "yas": "23",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Ulisses Garcia",
+        "mevki": "Sol Bek",
+        "takim": "US Sassuolo",
+        "yas": "23",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Edoardo Pieragnolo",
+        "mevki": "Sol Bek",
+        "takim": "US Sassuolo",
+        "yas": "15",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Sebastian Walukiewicz",
+        "mevki": "Sağ Bek",
+        "takim": "US Sassuolo",
+        "yas": "26",
+        "piyasa_degeri": "4.50 mil. €"
+    },
+    {
+        "ad": "Woyo Coulibaly",
+        "mevki": "Sağ Bek",
+        "takim": "US Sassuolo",
+        "yas": "25",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Luca Lipani",
+        "mevki": "Ön Libero",
+        "takim": "US Sassuolo",
+        "yas": "35",
+        "piyasa_degeri": "7.50 mil. €"
+    },
+    {
+        "ad": "Daniel Boloca",
+        "mevki": "Ön Libero",
+        "takim": "US Sassuolo",
+        "yas": "11",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Nemanja Matić",
+        "mevki": "Ön Libero",
+        "takim": "US Sassuolo",
+        "yas": "18",
+        "piyasa_degeri": "1.80 mil. €"
+    },
+    {
+        "ad": "Ismaël Koné",
+        "mevki": "Merkez Orta Saha",
+        "takim": "US Sassuolo",
+        "yas": "90",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Kristian Thorstvedt",
+        "mevki": "Merkez Orta Saha",
+        "takim": "US Sassuolo",
+        "yas": "42",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Aster Vranckx",
+        "mevki": "Merkez Orta Saha",
+        "takim": "US Sassuolo",
+        "yas": "40",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Edoardo Iannoni",
+        "mevki": "Merkez Orta Saha",
+        "takim": "US Sassuolo",
+        "yas": "44",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Cristian Volpato",
+        "mevki": "On Numara",
+        "takim": "US Sassuolo",
+        "yas": "22",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Darryl Bakola",
+        "mevki": "On Numara",
+        "takim": "US Sassuolo",
+        "yas": "50",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Armand Laurienté",
+        "mevki": "Sol Kanat",
+        "takim": "US Sassuolo",
+        "yas": "45",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Alieu Fadera",
+        "mevki": "Sol Kanat",
+        "takim": "US Sassuolo",
+        "yas": "20",
+        "piyasa_degeri": "4.50 mil. €"
+    },
+    {
+        "ad": "Domenico Berardi",
+        "mevki": "Sağ Kanat",
+        "takim": "US Sassuolo",
+        "yas": "10",
+        "piyasa_degeri": "7.50 mil. €"
+    },
+    {
+        "ad": "Andrea Pinamonti",
+        "mevki": "Santrafor",
+        "takim": "US Sassuolo",
+        "yas": "99",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "M'Bala Nzola",
+        "mevki": "Santrafor",
+        "takim": "US Sassuolo",
+        "yas": "29",
+        "piyasa_degeri": "4.50 mil. €"
+    },
+    {
+        "ad": "Luca Moro",
+        "mevki": "Santrafor",
+        "takim": "US Sassuolo",
+        "yas": "24",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Zion Suzuki",
+        "mevki": "Kaleci",
+        "takim": "Parma Calcio",
+        "yas": "31",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Edoardo Corvi",
+        "mevki": "Kaleci",
+        "takim": "Parma Calcio",
+        "yas": "40",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Filippo Rinaldi",
+        "mevki": "Kaleci",
+        "takim": "Parma Calcio",
+        "yas": "66",
+        "piyasa_degeri": "600 bin €"
+    },
+    {
+        "ad": "Alessandro Circati",
+        "mevki": "Stoper",
+        "takim": "Parma Calcio",
+        "yas": "39",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Mariano Troilo",
+        "mevki": "Stoper",
+        "takim": "Parma Calcio",
+        "yas": "37",
+        "piyasa_degeri": "7.50 mil. €"
+    },
+    {
+        "ad": "Abdoulaye Ndiaye",
+        "mevki": "Stoper",
+        "takim": "Parma Calcio",
+        "yas": "24",
+        "piyasa_degeri": "6.50 mil. €"
+    },
+    {
+        "ad": "Lautaro Valenti",
+        "mevki": "Stoper",
+        "takim": "Parma Calcio",
+        "yas": "27",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Emanuele Valeri",
+        "mevki": "Sol Bek",
+        "takim": "Parma Calcio",
+        "yas": "14",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Franco Carboni",
+        "mevki": "Sol Bek",
+        "takim": "Parma Calcio",
+        "yas": "29",
+        "piyasa_degeri": "900 bin €"
+    },
+    {
+        "ad": "Sascha Britschgi",
+        "mevki": "Sağ Bek",
+        "takim": "Parma Calcio",
+        "yas": "27",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Enrico Delprato",
+        "mevki": "Sağ Bek",
+        "takim": "Parma Calcio",
+        "yas": "15",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Mandela Keita",
+        "mevki": "Ön Libero",
+        "takim": "Parma Calcio",
+        "yas": "16",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Hans Nicolussi Caviglia",
+        "mevki": "Ön Libero",
+        "takim": "Parma Calcio",
+        "yas": "41",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Nahuel Estévez",
+        "mevki": "Ön Libero",
+        "takim": "Parma Calcio",
+        "yas": "30",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Adrián Bernabé",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Parma Calcio",
+        "yas": "10",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Oliver Sørensen",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Parma Calcio",
+        "yas": "22",
+        "piyasa_degeri": "7.50 mil. €"
+    },
+    {
+        "ad": "Christian Ordóñez",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Parma Calcio",
+        "yas": "24",
+        "piyasa_degeri": "6.50 mil. €"
+    },
+    {
+        "ad": "Benja Cremaschi",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Parma Calcio",
+        "yas": "25",
+        "piyasa_degeri": "4.50 mil. €"
+    },
+    {
+        "ad": "Gaetano Oristanio",
+        "mevki": "On Numara",
+        "takim": "Parma Calcio",
+        "yas": "21",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Jacob Ondrejka",
+        "mevki": "Sol Kanat",
+        "takim": "Parma Calcio",
+        "yas": "17",
+        "piyasa_degeri": "6.50 mil. €"
+    },
+    {
+        "ad": "Gabriel Strefezza",
+        "mevki": "Sağ Kanat",
+        "takim": "Parma Calcio",
+        "yas": "29",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Pontus Almqvist",
+        "mevki": "Sağ Kanat",
+        "takim": "Parma Calcio",
+        "yas": "11",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Mateo Pellegrino",
+        "mevki": "Santrafor",
+        "takim": "Parma Calcio",
+        "yas": "24",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Matija Frigan",
+        "mevki": "Santrafor",
+        "takim": "Parma Calcio",
+        "yas": "20",
+        "piyasa_degeri": "7.50 mil. €"
+    },
+    {
+        "ad": "Nesta Elphege",
+        "mevki": "Santrafor",
+        "takim": "Parma Calcio",
+        "yas": "23",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Maduka Okoye",
+        "mevki": "Kaleci",
+        "takim": "Udinese Calcio",
+        "yas": "40",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Răzvan Sava",
+        "mevki": "Kaleci",
+        "takim": "Udinese Calcio",
+        "yas": "90",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Alessandro Nunziante",
+        "mevki": "Kaleci",
+        "takim": "Udinese Calcio",
+        "yas": "19",
+        "piyasa_degeri": "1.80 mil. €"
+    },
+    {
+        "ad": "Daniele Padelli",
+        "mevki": "Kaleci",
+        "takim": "Udinese Calcio",
+        "yas": "93",
+        "piyasa_degeri": "150 bin €"
+    },
+    {
+        "ad": "Oumar Solet",
+        "mevki": "Stoper",
+        "takim": "Udinese Calcio",
+        "yas": "28",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Thomas Kristensen",
+        "mevki": "Stoper",
+        "takim": "Udinese Calcio",
+        "yas": "31",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Nicolò Bertola",
+        "mevki": "Stoper",
+        "takim": "Udinese Calcio",
+        "yas": "13",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Branimir Mlacic",
+        "mevki": "Stoper",
+        "takim": "Udinese Calcio",
+        "yas": "22",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Christian Kabasele",
+        "mevki": "Stoper",
+        "takim": "Udinese Calcio",
+        "yas": "27",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Jordan Zemura",
+        "mevki": "Sol Bek",
+        "takim": "Udinese Calcio",
+        "yas": "33",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Hassane Kamara",
+        "mevki": "Sol Bek",
+        "takim": "Udinese Calcio",
+        "yas": "11",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Alessandro Zanoli",
+        "mevki": "Sağ Bek",
+        "takim": "Udinese Calcio",
+        "yas": "59",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Kingsley Ehizibue",
+        "mevki": "Sağ Bek",
+        "takim": "Udinese Calcio",
+        "yas": "19",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Jesper Karlström",
+        "mevki": "Ön Libero",
+        "takim": "Udinese Calcio",
+        "yas": "30",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Abdoulaye Camara",
+        "mevki": "Ön Libero",
+        "takim": "Udinese Calcio",
+        "yas": "29",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Arthur Atta",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Udinese Calcio",
+        "yas": "14",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Lennon Miller",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Udinese Calcio",
+        "yas": "38",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Jurgen Ekkelenkamp",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Udinese Calcio",
+        "yas": "32",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Jakub Piotrowski",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Udinese Calcio",
+        "yas": "24",
+        "piyasa_degeri": "4.50 mil. €"
+    },
+    {
+        "ad": "Oier Zarraga",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Udinese Calcio",
+        "yas": "27",
+        "piyasa_degeri": "1.80 mil. €"
+    },
+    {
+        "ad": "Juan Arizala",
+        "mevki": "Orta Saha Sol",
+        "takim": "Udinese Calcio",
+        "yas": "20",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Nicolò Zaniolo",
+        "mevki": "Forvet Arkası",
+        "takim": "Udinese Calcio",
+        "yas": "10",
+        "piyasa_degeri": "13.00 mil. €"
+    },
+    {
+        "ad": "Keinan Davis",
+        "mevki": "Santrafor",
+        "takim": "Udinese Calcio",
+        "yas": "28",
+        "piyasa_degeri": "9.00 mil. €"
+    },
+    {
+        "ad": "Idrissa Gueye",
+        "mevki": "Santrafor",
+        "takim": "Udinese Calcio",
+        "yas": "19",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Adam Buksa",
+        "mevki": "Santrafor",
+        "takim": "Udinese Calcio",
+        "yas": "18",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Vakoun Bayo",
+        "mevki": "Santrafor",
+        "takim": "Udinese Calcio",
+        "yas": "15",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Justin Bijlow",
+        "mevki": "Kaleci",
+        "takim": "Genoa CFC",
+        "yas": "16",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Nicola Leali",
+        "mevki": "Kaleci",
+        "takim": "Genoa CFC",
+        "yas": "33",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Benjamin Siegrist",
+        "mevki": "Kaleci",
+        "takim": "Genoa CFC",
+        "yas": "31",
+        "piyasa_degeri": "600 bin €"
+    },
+    {
+        "ad": "Ernestas Lysionok",
+        "mevki": "Kaleci",
+        "takim": "Genoa CFC",
+        "yas": "35",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Daniele Sommariva",
+        "mevki": "Kaleci",
+        "takim": "Genoa CFC",
+        "yas": "39",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Johan Vásquez",
+        "mevki": "Stoper",
+        "takim": "Genoa CFC",
+        "yas": "22",
+        "piyasa_degeri": "13.00 mil. €"
+    },
+    {
+        "ad": "Leo Østigård",
+        "mevki": "Stoper",
+        "takim": "Genoa CFC",
+        "yas": "26",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Alessandro Marcandalli",
+        "mevki": "Stoper",
+        "takim": "Genoa CFC",
+        "yas": "27",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Nils Zätterström",
+        "mevki": "Stoper",
+        "takim": "Genoa CFC",
+        "yas": "13",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Sebastian Otoa",
+        "mevki": "Stoper",
+        "takim": "Genoa CFC",
+        "yas": "34",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Aarón Martín",
+        "mevki": "Sol Bek",
+        "takim": "Genoa CFC",
+        "yas": "28",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Brooke Norton-Cuffy",
+        "mevki": "Sağ Bek",
+        "takim": "Genoa CFC",
+        "yas": "15",
+        "piyasa_degeri": "16.00 mil. €"
+    },
+    {
+        "ad": "Stefano Sabelli",
+        "mevki": "Sağ Bek",
+        "takim": "Genoa CFC",
+        "yas": "20",
+        "piyasa_degeri": "1.40 mil. €"
+    },
+    {
+        "ad": "Morten Frendrup",
+        "mevki": "Ön Libero",
+        "takim": "Genoa CFC",
+        "yas": "32",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Jean Onana",
+        "mevki": "Ön Libero",
+        "takim": "Genoa CFC",
+        "yas": "14",
+        "piyasa_degeri": "1.30 mil. €"
+    },
+    {
+        "ad": "Amorim",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Genoa CFC",
+        "yas": "20",
+        "piyasa_degeri": "6.50 mil. €"
+    },
+    {
+        "ad": "Mikael Egill Ellertsson",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Genoa CFC",
+        "yas": "77",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Patrizio Masini",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Genoa CFC",
+        "yas": "73",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Ruslan Malinovskyi",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Genoa CFC",
+        "yas": "17",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Tommaso Baldanzi",
+        "mevki": "On Numara",
+        "takim": "Genoa CFC",
+        "yas": "23",
+        "piyasa_degeri": "9.00 mil. €"
+    },
+    {
+        "ad": "Maxwel Cornet",
+        "mevki": "Sol Kanat",
+        "takim": "Genoa CFC",
+        "yas": "70",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Junior Messias",
+        "mevki": "Sağ Kanat",
+        "takim": "Genoa CFC",
+        "yas": "10",
+        "piyasa_degeri": "1.20 mil. €"
+    },
+    {
+        "ad": "Jeff Ekhator",
+        "mevki": "Santrafor",
+        "takim": "Genoa CFC",
+        "yas": "21",
+        "piyasa_degeri": "13.00 mil. €"
+    },
+    {
+        "ad": "Lorenzo Colombo",
+        "mevki": "Santrafor",
+        "takim": "Genoa CFC",
+        "yas": "29",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Vitinha",
+        "mevki": "Santrafor",
+        "takim": "Genoa CFC",
+        "yas": "26",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Caleb Ekuban",
+        "mevki": "Santrafor",
+        "takim": "Genoa CFC",
+        "yas": "18",
+        "piyasa_degeri": "1.30 mil. €"
+    },
+    {
+        "ad": "Elia Caprile",
+        "mevki": "Kaleci",
+        "takim": "Cagliari Calcio",
+        "yas": "24",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Alen Sherri",
+        "mevki": "Kaleci",
+        "takim": "Cagliari Calcio",
+        "yas": "12",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Giuseppe Ciocci",
+        "mevki": "Kaleci",
+        "takim": "Cagliari Calcio",
+        "yas": "24",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Alberto Dossena",
+        "mevki": "Stoper",
+        "takim": "Cagliari Calcio",
+        "yas": "22",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Adam Obert",
+        "mevki": "Stoper",
+        "takim": "Cagliari Calcio",
+        "yas": "33",
+        "piyasa_degeri": "6.50 mil. €"
+    },
+    {
+        "ad": "Juan Rodríguez",
+        "mevki": "Stoper",
+        "takim": "Cagliari Calcio",
+        "yas": "15",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Yerry Mina",
+        "mevki": "Stoper",
+        "takim": "Cagliari Calcio",
+        "yas": "26",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Zé Pedro",
+        "mevki": "Stoper",
+        "takim": "Cagliari Calcio",
+        "yas": "32",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Riyad Idrissi",
+        "mevki": "Sol Bek",
+        "takim": "Cagliari Calcio",
+        "yas": "20",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Marco Palestra",
+        "mevki": "Sağ Bek",
+        "takim": "Cagliari Calcio",
+        "yas": "21",
+        "piyasa_degeri": "30.00 mil. €"
+    },
+    {
+        "ad": "Gabriele Zappa",
+        "mevki": "Sağ Bek",
+        "takim": "Cagliari Calcio",
+        "yas": "28",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Othniël Raterink",
+        "mevki": "Sağ Bek",
+        "takim": "Cagliari Calcio",
+        "yas": "18",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Ibrahim Sulemana",
+        "mevki": "Ön Libero",
+        "takim": "Cagliari Calcio",
+        "yas": "25",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Michel Adopo",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Cagliari Calcio",
+        "yas": "25",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Michael Folorunsho",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Cagliari Calcio",
+        "yas": "90",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Joseph Liteta",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Cagliari Calcio",
+        "yas": "27",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Alessandro Deiola",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Cagliari Calcio",
+        "yas": "14",
+        "piyasa_degeri": "1.60 mil. €"
+    },
+    {
+        "ad": "Luca Mazzitelli",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Cagliari Calcio",
+        "yas": "30",
+        "piyasa_degeri": "1.40 mil. €"
+    },
+    {
+        "ad": "Gianluca Gaetano",
+        "mevki": "On Numara",
+        "takim": "Cagliari Calcio",
+        "yas": "10",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Mattia Felici",
+        "mevki": "Sol Kanat",
+        "takim": "Cagliari Calcio",
+        "yas": "17",
+        "piyasa_degeri": "2.80 mil. €"
+    },
+    {
+        "ad": "Agustín Albarracín",
+        "mevki": "Sol Kanat",
+        "takim": "Cagliari Calcio",
+        "yas": "20",
+        "piyasa_degeri": "2.30 mil. €"
+    },
+    {
+        "ad": "Sebastiano Esposito",
+        "mevki": "Forvet Arkası",
+        "takim": "Cagliari Calcio",
+        "yas": "94",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Semih Kılıçsoy",
+        "mevki": "Santrafor",
+        "takim": "Cagliari Calcio",
+        "yas": "20",
+        "piyasa_degeri": "13.00 mil. €"
+    },
+    {
+        "ad": "Gennaro Borrelli",
+        "mevki": "Santrafor",
+        "takim": "Cagliari Calcio",
+        "yas": "29",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Andrea Belotti",
+        "mevki": "Santrafor",
+        "takim": "Cagliari Calcio",
+        "yas": "19",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Yael Trepy",
+        "mevki": "Santrafor",
+        "takim": "Cagliari Calcio",
+        "yas": "37",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Leonardo Pavoletti",
+        "mevki": "Santrafor",
+        "takim": "Cagliari Calcio",
+        "yas": "30",
+        "piyasa_degeri": "700 bin €"
+    },
+    {
+        "ad": "Franco Israel",
+        "mevki": "Kaleci",
+        "takim": "Torino FC",
+        "yas": "81",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Alberto Paleari",
+        "mevki": "Kaleci",
+        "takim": "Torino FC",
+        "yas": "33",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Lapo Siviero",
+        "mevki": "Kaleci",
+        "takim": "Torino FC",
+        "yas": "99",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Saúl Coco",
+        "mevki": "Stoper",
+        "takim": "Torino FC",
+        "yas": "23",
+        "piyasa_degeri": "9.00 mil. €"
+    },
+    {
+        "ad": "Luca Marianucci",
+        "mevki": "Stoper",
+        "takim": "Torino FC",
+        "yas": "35",
+        "piyasa_degeri": "7.50 mil. €"
+    },
+    {
+        "ad": "Ardian Ismajli",
+        "mevki": "Stoper",
+        "takim": "Torino FC",
+        "yas": "44",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Guillermo Maripán",
+        "mevki": "Stoper",
+        "takim": "Torino FC",
+        "yas": "13",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Enzo Ebosse",
+        "mevki": "Stoper",
+        "takim": "Torino FC",
+        "yas": "77",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Saba Sazonov",
+        "mevki": "Stoper",
+        "takim": "Torino FC",
+        "yas": "15",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Rafa Obrador",
+        "mevki": "Sol Bek",
+        "takim": "Torino FC",
+        "yas": "33",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Niels Nkounkou",
+        "mevki": "Sol Bek",
+        "takim": "Torino FC",
+        "yas": "25",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Cristiano Biraghi",
+        "mevki": "Sol Bek",
+        "takim": "Torino FC",
+        "yas": "34",
+        "piyasa_degeri": "1.40 mil. €"
+    },
+    {
+        "ad": "Marcus Pedersen",
+        "mevki": "Sağ Bek",
+        "takim": "Torino FC",
+        "yas": "16",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Matteo Prati",
+        "mevki": "Ön Libero",
+        "takim": "Torino FC",
+        "yas": "22",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Adrien Tamèze",
+        "mevki": "Ön Libero",
+        "takim": "Torino FC",
+        "yas": "61",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Cesare Casadei",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Torino FC",
+        "yas": "22",
+        "piyasa_degeri": "14.00 mil. €"
+    },
+    {
+        "ad": "Ivan Ilić",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Torino FC",
+        "yas": "25",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Gvidas Gineitis",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Torino FC",
+        "yas": "66",
+        "piyasa_degeri": "5.50 mil. €"
+    },
+    {
+        "ad": "Emirhan İlkhan",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Torino FC",
+        "yas": "21",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Valentino Lazaro",
+        "mevki": "Orta Saha Sağ",
+        "takim": "Torino FC",
+        "yas": "20",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Nikola Vlašić",
+        "mevki": "On Numara",
+        "takim": "Torino FC",
+        "yas": "10",
+        "piyasa_degeri": "9.00 mil. €"
+    },
+    {
+        "ad": "Tino Anjorin",
+        "mevki": "On Numara",
+        "takim": "Torino FC",
+        "yas": "14",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Sergiu Perciun",
+        "mevki": "On Numara",
+        "takim": "Torino FC",
+        "yas": "83",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Alieu Njie",
+        "mevki": "Sol Kanat",
+        "takim": "Torino FC",
+        "yas": "92",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Zakaria Aboukhlal",
+        "mevki": "Sağ Kanat",
+        "takim": "Torino FC",
+        "yas": "26",
+        "piyasa_degeri": "7.50 mil. €"
+    },
+    {
+        "ad": "Zanos Savva",
+        "mevki": "Sağ Kanat",
+        "takim": "Torino FC",
+        "yas": "79",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Ché Adams",
+        "mevki": "Santrafor",
+        "takim": "Torino FC",
+        "yas": "19",
+        "piyasa_degeri": "8.50 mil. €"
+    },
+    {
+        "ad": "Giovanni Simeone",
+        "mevki": "Santrafor",
+        "takim": "Torino FC",
+        "yas": "18",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Sandro Kulenović",
+        "mevki": "Santrafor",
+        "takim": "Torino FC",
+        "yas": "17",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Duván Zapata",
+        "mevki": "Santrafor",
+        "takim": "Torino FC",
+        "yas": "91",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Adrian Semper",
+        "mevki": "Kaleci",
+        "takim": "Pisa Sporting Club",
+        "yas": "28",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Simone Scuffet",
+        "mevki": "Kaleci",
+        "takim": "Pisa Sporting Club",
+        "yas": "22",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Nícolas",
+        "mevki": "Kaleci",
+        "takim": "Pisa Sporting Club",
+        "yas": "12",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Simone Canestrelli",
+        "mevki": "Stoper",
+        "takim": "Pisa Sporting Club",
+        "yas": "25",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Rosen Bozhinov",
+        "mevki": "Stoper",
+        "takim": "Pisa Sporting Club",
+        "yas": "21",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Francesco Coppola",
+        "mevki": "Stoper",
+        "takim": "Pisa Sporting Club",
+        "yas": "26",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Antonio Caracciolo",
+        "mevki": "Stoper",
+        "takim": "Pisa Sporting Club",
+        "yas": "35",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Arturo Calabresi",
+        "mevki": "Stoper",
+        "takim": "Pisa Sporting Club",
+        "yas": "33",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Raúl Albiol",
+        "mevki": "Stoper",
+        "takim": "Pisa Sporting Club",
+        "yas": "39",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Daniel Denoon",
+        "mevki": "Stoper",
+        "takim": "Pisa Sporting Club",
+        "yas": "44",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Marius Marin",
+        "mevki": "Ön Libero",
+        "takim": "Pisa Sporting Club",
+        "yas": "27",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Malthe Højholt",
+        "mevki": "Ön Libero",
+        "takim": "Pisa Sporting Club",
+        "yas": "25",
+        "piyasa_degeri": "1.20 mil. €"
+    },
+    {
+        "ad": "Felipe Loyola",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Pisa Sporting Club",
+        "yas": "35",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Ebenezer Akinsanmiro",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Pisa Sporting Club",
+        "yas": "14",
+        "piyasa_degeri": "6.50 mil. €"
+    },
+    {
+        "ad": "İsak Vural",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Pisa Sporting Club",
+        "yas": "21",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Michel Aebischer",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Pisa Sporting Club",
+        "yas": "20",
+        "piyasa_degeri": "4.50 mil. €"
+    },
+    {
+        "ad": "Gabriele Piccinini",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Pisa Sporting Club",
+        "yas": "36",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Idrissa Touré",
+        "mevki": "Orta Saha Sağ",
+        "takim": "Pisa Sporting Club",
+        "yas": "15",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Juan Cuadrado",
+        "mevki": "Orta Saha Sağ",
+        "takim": "Pisa Sporting Club",
+        "yas": "11",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Samuel Iling-Junior",
+        "mevki": "Orta Saha Sol",
+        "takim": "Pisa Sporting Club",
+        "yas": "19",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Samuele Angori",
+        "mevki": "Orta Saha Sol",
+        "takim": "Pisa Sporting Club",
+        "yas": "22",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Calvin Stengs",
+        "mevki": "On Numara",
+        "takim": "Pisa Sporting Club",
+        "yas": "23",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Lorran",
+        "mevki": "On Numara",
+        "takim": "Pisa Sporting Club",
+        "yas": "99",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Matteo Tramoni",
+        "mevki": "On Numara",
+        "takim": "Pisa Sporting Club",
+        "yas": "10",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Mehdi Léris",
+        "mevki": "Sağ Kanat",
+        "takim": "Pisa Sporting Club",
+        "yas": "27",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Rafiu Durosinmi",
+        "mevki": "Santrafor",
+        "takim": "Pisa Sporting Club",
+        "yas": "17",
+        "piyasa_degeri": "7.50 mil. €"
+    },
+    {
+        "ad": "Henrik Meister",
+        "mevki": "Santrafor",
+        "takim": "Pisa Sporting Club",
+        "yas": "22",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Filip Stojilkovic",
+        "mevki": "Santrafor",
+        "takim": "Pisa Sporting Club",
+        "yas": "81",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Stefano Moreo",
+        "mevki": "Santrafor",
+        "takim": "Pisa Sporting Club",
+        "yas": "32",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Lorenzo Montipò",
+        "mevki": "Kaleci",
+        "takim": "Hellas Verona",
+        "yas": "30",
+        "piyasa_degeri": "1.30 mil. €"
+    },
+    {
+        "ad": "Simone Perilli",
+        "mevki": "Kaleci",
+        "takim": "Hellas Verona",
+        "yas": "34",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Giacomo Toniolo",
+        "mevki": "Kaleci",
+        "takim": "Hellas Verona",
+        "yas": "94",
+        "piyasa_degeri": "75 bin €"
+    },
+    {
+        "ad": "Victor Nelsson",
+        "mevki": "Stoper",
+        "takim": "Hellas Verona",
+        "yas": "15",
+        "piyasa_degeri": "7.50 mil. €"
+    },
+    {
+        "ad": "Armel Bella-Kotchap",
+        "mevki": "Stoper",
+        "takim": "Hellas Verona",
+        "yas": "37",
+        "piyasa_degeri": "7.50 mil. €"
+    },
+    {
+        "ad": "Nicolás Valentini",
+        "mevki": "Stoper",
+        "takim": "Hellas Verona",
+        "yas": "25",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Tobias Slotsager",
+        "mevki": "Stoper",
+        "takim": "Hellas Verona",
+        "yas": "19",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Andrias Edmundsson",
+        "mevki": "Stoper",
+        "takim": "Hellas Verona",
+        "yas": "25",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Martin Frese",
+        "mevki": "Sol Bek",
+        "takim": "Hellas Verona",
+        "yas": "28",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Domagoj Bradarić",
+        "mevki": "Sol Bek",
+        "takim": "Hellas Verona",
+        "yas": "12",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Rafik Belghali",
+        "mevki": "Sağ Bek",
+        "takim": "Hellas Verona",
+        "yas": "23",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Pol Lirola",
+        "mevki": "Sağ Bek",
+        "takim": "Hellas Verona",
+        "yas": "14",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Fallou Cham",
+        "mevki": "Sağ Bek",
+        "takim": "Hellas Verona",
+        "yas": "70",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Daniel Oyegoke",
+        "mevki": "Sağ Bek",
+        "takim": "Hellas Verona",
+        "yas": "23",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Moatasem Al-Musrati",
+        "mevki": "Ön Libero",
+        "takim": "Hellas Verona",
+        "yas": "73",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Cheikh Niasse",
+        "mevki": "Ön Libero",
+        "takim": "Hellas Verona",
+        "yas": "36",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Sandi Lovrić",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Hellas Verona",
+        "yas": "28",
+        "piyasa_degeri": "4.50 mil. €"
+    },
+    {
+        "ad": "Suat Serdar",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Hellas Verona",
+        "yas": "29",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Antoine Bernede",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Hellas Verona",
+        "yas": "24",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Abdou Harroui",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Hellas Verona",
+        "yas": "21",
+        "piyasa_degeri": "1.80 mil. €"
+    },
+    {
+        "ad": "Roberto Gagliardini",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Hellas Verona",
+        "yas": "63",
+        "piyasa_degeri": "1.40 mil. €"
+    },
+    {
+        "ad": "Jean-Daniel Akpa Akpro",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Hellas Verona",
+        "yas": "11",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Tomas Suslov",
+        "mevki": "On Numara",
+        "takim": "Hellas Verona",
+        "yas": "10",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Gift Orban",
+        "mevki": "Santrafor",
+        "takim": "Hellas Verona",
+        "yas": "16",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Kieron Bowie",
+        "mevki": "Santrafor",
+        "takim": "Hellas Verona",
+        "yas": "18",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Amin Sarr",
+        "mevki": "Santrafor",
+        "takim": "Hellas Verona",
+        "yas": "25",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Daniel Mosquera",
+        "mevki": "Santrafor",
+        "takim": "Hellas Verona",
+        "yas": "25",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Isaac",
+        "mevki": "Santrafor",
+        "takim": "Hellas Verona",
+        "yas": "41",
+        "piyasa_degeri": "700 bin €"
+    },
+    {
+        "ad": "Junior Ajayi",
+        "mevki": "Santrafor",
+        "takim": "Hellas Verona",
+        "yas": "72",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Wladimiro Falcone",
+        "mevki": "Kaleci",
+        "takim": "US Lecce",
+        "yas": "30",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Christian Früchtl",
+        "mevki": "Kaleci",
+        "takim": "US Lecce",
+        "yas": "26",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Jasper Samooja",
+        "mevki": "Kaleci",
+        "takim": "US Lecce",
+        "yas": "32",
+        "piyasa_degeri": "75 bin €"
+    },
+    {
+        "ad": "Tiago Gabriel",
+        "mevki": "Stoper",
+        "takim": "US Lecce",
+        "yas": "44",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Jamil Siebert",
+        "mevki": "Stoper",
+        "takim": "US Lecce",
+        "yas": "24",
+        "piyasa_degeri": "4.50 mil. €"
+    },
+    {
+        "ad": "Gaspar",
+        "mevki": "Stoper",
+        "takim": "US Lecce",
+        "yas": "28",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Gaby Jean",
+        "mevki": "Stoper",
+        "takim": "US Lecce",
+        "yas": "18",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Matías Pérez",
+        "mevki": "Stoper",
+        "takim": "US Lecce",
+        "yas": "13",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Antonino Gallo",
+        "mevki": "Sol Bek",
+        "takim": "US Lecce",
+        "yas": "25",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Corrie Ndaba",
+        "mevki": "Sol Bek",
+        "takim": "US Lecce",
+        "yas": "26",
+        "piyasa_degeri": "900 bin €"
+    },
+    {
+        "ad": "Danilo Veiga",
+        "mevki": "Sağ Bek",
+        "takim": "US Lecce",
+        "yas": "17",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Oumar Ngom",
+        "mevki": "Ön Libero",
+        "takim": "US Lecce",
+        "yas": "79",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Ylber Ramadani",
+        "mevki": "Ön Libero",
+        "takim": "US Lecce",
+        "yas": "20",
+        "piyasa_degeri": "1.80 mil. €"
+    },
+    {
+        "ad": "Sadik Fofana",
+        "mevki": "Ön Libero",
+        "takim": "US Lecce",
+        "yas": "22",
+        "piyasa_degeri": "600 bin €"
+    },
+    {
+        "ad": "Medon Berisha",
+        "mevki": "Merkez Orta Saha",
+        "takim": "US Lecce",
+        "yas": "10",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Lassana Coulibaly",
+        "mevki": "Merkez Orta Saha",
+        "takim": "US Lecce",
+        "yas": "29",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Thórir Jóhann Helgason",
+        "mevki": "Merkez Orta Saha",
+        "takim": "US Lecce",
+        "yas": "14",
+        "piyasa_degeri": "2.30 mil. €"
+    },
+    {
+        "ad": "Álex Sala",
+        "mevki": "Merkez Orta Saha",
+        "takim": "US Lecce",
+        "yas": "25",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Omri Gandelman",
+        "mevki": "On Numara",
+        "takim": "US Lecce",
+        "yas": "16",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Filip Marchwinski",
+        "mevki": "On Numara",
+        "takim": "US Lecce",
+        "yas": "36",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Riccardo Sottil",
+        "mevki": "Sol Kanat",
+        "takim": "US Lecce",
+        "yas": "23",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Lameck Banda",
+        "mevki": "Sol Kanat",
+        "takim": "US Lecce",
+        "yas": "19",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Santiago Pierotti",
+        "mevki": "Sağ Kanat",
+        "takim": "US Lecce",
+        "yas": "50",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Konan N’Dri",
+        "mevki": "Sağ Kanat",
+        "takim": "US Lecce",
+        "yas": "11",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Francesco Camarda",
+        "mevki": "Santrafor",
+        "takim": "US Lecce",
+        "yas": "22",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Nikola Stulic",
+        "mevki": "Santrafor",
+        "takim": "US Lecce",
+        "yas": "24",
+        "piyasa_degeri": "4.50 mil. €"
+    },
+    {
+        "ad": "Walid Cheddira",
+        "mevki": "Santrafor",
+        "takim": "US Lecce",
+        "yas": "99",
+        "piyasa_degeri": "2.30 mil. €"
+    },
+    {
+        "ad": "Emil Audero",
+        "mevki": "Kaleci",
+        "takim": "US Cremonese",
+        "yas": "29",
+        "piyasa_degeri": "3.20 mil. €"
+    },
+    {
+        "ad": "Marco Silvestri",
+        "mevki": "Kaleci",
+        "takim": "US Cremonese",
+        "yas": "16",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Lapo Nava",
+        "mevki": "Kaleci",
+        "takim": "US Cremonese",
+        "yas": "69",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Mikayil Faye",
+        "mevki": "Stoper",
+        "takim": "US Cremonese",
+        "yas": "30",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Filippo Terracciano",
+        "mevki": "Stoper",
+        "takim": "US Cremonese",
+        "yas": "24",
+        "piyasa_degeri": "4.50 mil. €"
+    },
+    {
+        "ad": "Sebastiano Luperto",
+        "mevki": "Stoper",
+        "takim": "US Cremonese",
+        "yas": "29",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Federico Baschirotto",
+        "mevki": "Stoper",
+        "takim": "US Cremonese",
+        "yas": "29",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Matteo Bianchetti",
+        "mevki": "Stoper",
+        "takim": "US Cremonese",
+        "yas": "15",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Francesco Folino",
+        "mevki": "Stoper",
+        "takim": "US Cremonese",
+        "yas": "55",
+        "piyasa_degeri": "700 bin €"
+    },
+    {
+        "ad": "Federico Ceccherini",
+        "mevki": "Stoper",
+        "takim": "US Cremonese",
+        "yas": "23",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Giuseppe Pezzella",
+        "mevki": "Sol Bek",
+        "takim": "US Cremonese",
+        "yas": "28",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Tommaso Barbieri",
+        "mevki": "Sağ Bek",
+        "takim": "US Cremonese",
+        "yas": "23",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Romano Floriani Mussolini",
+        "mevki": "Sağ Bek",
+        "takim": "US Cremonese",
+        "yas": "22",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Alberto Grassi",
+        "mevki": "Ön Libero",
+        "takim": "US Cremonese",
+        "yas": "33",
+        "piyasa_degeri": "1.80 mil. €"
+    },
+    {
+        "ad": "Warren Bondo",
+        "mevki": "Merkez Orta Saha",
+        "takim": "US Cremonese",
+        "yas": "38",
+        "piyasa_degeri": "7.50 mil. €"
+    },
+    {
+        "ad": "Martín Payero",
+        "mevki": "Merkez Orta Saha",
+        "takim": "US Cremonese",
+        "yas": "32",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Jari Vandeputte",
+        "mevki": "Merkez Orta Saha",
+        "takim": "US Cremonese",
+        "yas": "27",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Morten Thorsby",
+        "mevki": "Merkez Orta Saha",
+        "takim": "US Cremonese",
+        "yas": "29",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Michele Collocolo",
+        "mevki": "Merkez Orta Saha",
+        "takim": "US Cremonese",
+        "yas": "18",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Youssef Maleh",
+        "mevki": "Merkez Orta Saha",
+        "takim": "US Cremonese",
+        "yas": "29",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Alessio Zerbin",
+        "mevki": "Orta Saha Sağ",
+        "takim": "US Cremonese",
+        "yas": "27",
+        "piyasa_degeri": "2.20 mil. €"
+    },
+    {
+        "ad": "Faris Moumbagna",
+        "mevki": "Santrafor",
+        "takim": "US Cremonese",
+        "yas": "14",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Federico Bonazzoli",
+        "mevki": "Santrafor",
+        "takim": "US Cremonese",
+        "yas": "90",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Antonio Sanabria",
+        "mevki": "Santrafor",
+        "takim": "US Cremonese",
+        "yas": "99",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "David Okereke",
+        "mevki": "Santrafor",
+        "takim": "US Cremonese",
+        "yas": "77",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Milan Djuric",
+        "mevki": "Santrafor",
+        "takim": "US Cremonese",
+        "yas": "35",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Jamie Vardy",
+        "mevki": "Santrafor",
+        "takim": "US Cremonese",
+        "yas": "10",
+        "piyasa_degeri": "1.00 mil. €"
+    }
+]

@@ -1,0 +1,3670 @@
+[
+    {
+        "ad": "Gianluigi Donnarumma",
+        "mevki": "Kaleci",
+        "takim": "Manchester City",
+        "yas": "25",
+        "piyasa_degeri": "45.00 mil. €"
+    },
+    {
+        "ad": "James Trafford",
+        "mevki": "Kaleci",
+        "takim": "Manchester City",
+        "yas": "23",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Marcus Bettinelli",
+        "mevki": "Kaleci",
+        "takim": "Manchester City",
+        "yas": "13",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Josko Gvardiol",
+        "mevki": "Stoper",
+        "takim": "Manchester City",
+        "yas": "24",
+        "piyasa_degeri": "70.00 mil. €"
+    },
+    {
+        "ad": "Marc Guéhi",
+        "mevki": "Stoper",
+        "takim": "Manchester City",
+        "yas": "15",
+        "piyasa_degeri": "65.00 mil. €"
+    },
+    {
+        "ad": "Rúben Dias",
+        "mevki": "Stoper",
+        "takim": "Manchester City",
+        "yas": "28",
+        "piyasa_degeri": "60.00 mil. €"
+    },
+    {
+        "ad": "Abdukodir Khusanov",
+        "mevki": "Stoper",
+        "takim": "Manchester City",
+        "yas": "45",
+        "piyasa_degeri": "35.00 mil. €"
+    },
+    {
+        "ad": "John Stones",
+        "mevki": "Stoper",
+        "takim": "Manchester City",
+        "yas": "31",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Nathan Aké",
+        "mevki": "Stoper",
+        "takim": "Manchester City",
+        "yas": "31",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Max Alleyne",
+        "mevki": "Stoper",
+        "takim": "Manchester City",
+        "yas": "68",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Nico O'Reilly",
+        "mevki": "Sol Bek",
+        "takim": "Manchester City",
+        "yas": "33",
+        "piyasa_degeri": "50.00 mil. €"
+    },
+    {
+        "ad": "Rayan Aït-Nouri",
+        "mevki": "Sol Bek",
+        "takim": "Manchester City",
+        "yas": "21",
+        "piyasa_degeri": "40.00 mil. €"
+    },
+    {
+        "ad": "Matheus Nunes",
+        "mevki": "Sağ Bek",
+        "takim": "Manchester City",
+        "yas": "27",
+        "piyasa_degeri": "45.00 mil. €"
+    },
+    {
+        "ad": "Rico Lewis",
+        "mevki": "Sağ Bek",
+        "takim": "Manchester City",
+        "yas": "82",
+        "piyasa_degeri": "32.00 mil. €"
+    },
+    {
+        "ad": "Rodri",
+        "mevki": "Ön Libero",
+        "takim": "Manchester City",
+        "yas": "16",
+        "piyasa_degeri": "65.00 mil. €"
+    },
+    {
+        "ad": "Nico González",
+        "mevki": "Ön Libero",
+        "takim": "Manchester City",
+        "yas": "14",
+        "piyasa_degeri": "45.00 mil. €"
+    },
+    {
+        "ad": "Tijjani Reijnders",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Manchester City",
+        "yas": "27",
+        "piyasa_degeri": "60.00 mil. €"
+    },
+    {
+        "ad": "Sverre Nypan",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Manchester City",
+        "yas": "41",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Mateo Kovacic",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Manchester City",
+        "yas": "31",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Phil Foden",
+        "mevki": "On Numara",
+        "takim": "Manchester City",
+        "yas": "47",
+        "piyasa_degeri": "80.00 mil. €"
+    },
+    {
+        "ad": "Rayan Cherki",
+        "mevki": "On Numara",
+        "takim": "Manchester City",
+        "yas": "10",
+        "piyasa_degeri": "65.00 mil. €"
+    },
+    {
+        "ad": "Bernardo Silva",
+        "mevki": "On Numara",
+        "takim": "Manchester City",
+        "yas": "20",
+        "piyasa_degeri": "27.00 mil. €"
+    },
+    {
+        "ad": "Jérémy Doku",
+        "mevki": "Sol Kanat",
+        "takim": "Manchester City",
+        "yas": "11",
+        "piyasa_degeri": "65.00 mil. €"
+    },
+    {
+        "ad": "Savinho",
+        "mevki": "Sol Kanat",
+        "takim": "Manchester City",
+        "yas": "26",
+        "piyasa_degeri": "40.00 mil. €"
+    },
+    {
+        "ad": "Antoine Semenyo",
+        "mevki": "Sağ Kanat",
+        "takim": "Manchester City",
+        "yas": "42",
+        "piyasa_degeri": "75.00 mil. €"
+    },
+    {
+        "ad": "Erling Haaland",
+        "mevki": "Santrafor",
+        "takim": "Manchester City",
+        "yas": "25",
+        "piyasa_degeri": "200.00 mil. €"
+    },
+    {
+        "ad": "Omar Marmoush",
+        "mevki": "Santrafor",
+        "takim": "Manchester City",
+        "yas": "27",
+        "piyasa_degeri": "60.00 mil. €"
+    },
+    {
+        "ad": "David Raya",
+        "mevki": "Kaleci",
+        "takim": "Arsenal",
+        "yas": "30",
+        "piyasa_degeri": "35.00 mil. €"
+    },
+    {
+        "ad": "Kepa Arrizabalaga",
+        "mevki": "Kaleci",
+        "takim": "Arsenal",
+        "yas": "13",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "William Saliba",
+        "mevki": "Stoper",
+        "takim": "Arsenal",
+        "yas": "25",
+        "piyasa_degeri": "90.00 mil. €"
+    },
+    {
+        "ad": "Gabriel",
+        "mevki": "Stoper",
+        "takim": "Arsenal",
+        "yas": "28",
+        "piyasa_degeri": "75.00 mil. €"
+    },
+    {
+        "ad": "Piero Hincapié",
+        "mevki": "Stoper",
+        "takim": "Arsenal",
+        "yas": "24",
+        "piyasa_degeri": "50.00 mil. €"
+    },
+    {
+        "ad": "Cristhian Mosquera",
+        "mevki": "Stoper",
+        "takim": "Arsenal",
+        "yas": "21",
+        "piyasa_degeri": "35.00 mil. €"
+    },
+    {
+        "ad": "Riccardo Calafiori",
+        "mevki": "Sol Bek",
+        "takim": "Arsenal",
+        "yas": "33",
+        "piyasa_degeri": "50.00 mil. €"
+    },
+    {
+        "ad": "Myles Lewis-Skelly",
+        "mevki": "Sol Bek",
+        "takim": "Arsenal",
+        "yas": "49",
+        "piyasa_degeri": "35.00 mil. €"
+    },
+    {
+        "ad": "Jurriën Timber",
+        "mevki": "Sağ Bek",
+        "takim": "Arsenal",
+        "yas": "12",
+        "piyasa_degeri": "70.00 mil. €"
+    },
+    {
+        "ad": "Ben White",
+        "mevki": "Sağ Bek",
+        "takim": "Arsenal",
+        "yas": "28",
+        "piyasa_degeri": "30.00 mil. €"
+    },
+    {
+        "ad": "Martín Zubimendi",
+        "mevki": "Ön Libero",
+        "takim": "Arsenal",
+        "yas": "36",
+        "piyasa_degeri": "80.00 mil. €"
+    },
+    {
+        "ad": "Christian Nørgaard",
+        "mevki": "Ön Libero",
+        "takim": "Arsenal",
+        "yas": "16",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Declan Rice",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Arsenal",
+        "yas": "41",
+        "piyasa_degeri": "120.00 mil. €"
+    },
+    {
+        "ad": "Mikel Merino",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Arsenal",
+        "yas": "23",
+        "piyasa_degeri": "30.00 mil. €"
+    },
+    {
+        "ad": "Martin Ødegaard",
+        "mevki": "On Numara",
+        "takim": "Arsenal",
+        "yas": "27",
+        "piyasa_degeri": "65.00 mil. €"
+    },
+    {
+        "ad": "Eberechi Eze",
+        "mevki": "On Numara",
+        "takim": "Arsenal",
+        "yas": "10",
+        "piyasa_degeri": "60.00 mil. €"
+    },
+    {
+        "ad": "Gabriel Martinelli",
+        "mevki": "Sol Kanat",
+        "takim": "Arsenal",
+        "yas": "11",
+        "piyasa_degeri": "45.00 mil. €"
+    },
+    {
+        "ad": "Leandro Trossard",
+        "mevki": "Sol Kanat",
+        "takim": "Arsenal",
+        "yas": "19",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Bukayo Saka",
+        "mevki": "Sağ Kanat",
+        "takim": "Arsenal",
+        "yas": "24",
+        "piyasa_degeri": "120.00 mil. €"
+    },
+    {
+        "ad": "Noni Madueke",
+        "mevki": "Sağ Kanat",
+        "takim": "Arsenal",
+        "yas": "20",
+        "piyasa_degeri": "50.00 mil. €"
+    },
+    {
+        "ad": "Max Dowman",
+        "mevki": "Sağ Kanat",
+        "takim": "Arsenal",
+        "yas": "56",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Viktor Gyökeres",
+        "mevki": "Santrafor",
+        "takim": "Arsenal",
+        "yas": "14",
+        "piyasa_degeri": "65.00 mil. €"
+    },
+    {
+        "ad": "Kai Havertz",
+        "mevki": "Santrafor",
+        "takim": "Arsenal",
+        "yas": "29",
+        "piyasa_degeri": "50.00 mil. €"
+    },
+    {
+        "ad": "Gabriel Jesus",
+        "mevki": "Santrafor",
+        "takim": "Arsenal",
+        "yas": "29",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Robert Sánchez",
+        "mevki": "Kaleci",
+        "takim": "Chelsea FC",
+        "yas": "28",
+        "piyasa_degeri": "22.00 mil. €"
+    },
+    {
+        "ad": "Filip Jørgensen",
+        "mevki": "Kaleci",
+        "takim": "Chelsea FC",
+        "yas": "12",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Gabriel Slonina",
+        "mevki": "Kaleci",
+        "takim": "Chelsea FC",
+        "yas": "44",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Teddy Sharman-Lowe",
+        "mevki": "Kaleci",
+        "takim": "Chelsea FC",
+        "yas": "28",
+        "piyasa_degeri": "550 bin €"
+    },
+    {
+        "ad": "Levi Colwill",
+        "mevki": "Stoper",
+        "takim": "Chelsea FC",
+        "yas": "23",
+        "piyasa_degeri": "50.00 mil. €"
+    },
+    {
+        "ad": "Trevoh Chalobah",
+        "mevki": "Stoper",
+        "takim": "Chelsea FC",
+        "yas": "23",
+        "piyasa_degeri": "40.00 mil. €"
+    },
+    {
+        "ad": "Wesley Fofana",
+        "mevki": "Stoper",
+        "takim": "Chelsea FC",
+        "yas": "29",
+        "piyasa_degeri": "28.00 mil. €"
+    },
+    {
+        "ad": "Mamadou Sarr",
+        "mevki": "Stoper",
+        "takim": "Chelsea FC",
+        "yas": "19",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Tosin Adarabioyo",
+        "mevki": "Stoper",
+        "takim": "Chelsea FC",
+        "yas": "28",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Benoît Badiashile",
+        "mevki": "Stoper",
+        "takim": "Chelsea FC",
+        "yas": "25",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Marc Cucurella",
+        "mevki": "Sol Bek",
+        "takim": "Chelsea FC",
+        "yas": "27",
+        "piyasa_degeri": "50.00 mil. €"
+    },
+    {
+        "ad": "Jorrel Hato",
+        "mevki": "Sol Bek",
+        "takim": "Chelsea FC",
+        "yas": "21",
+        "piyasa_degeri": "35.00 mil. €"
+    },
+    {
+        "ad": "Caleb Wiley",
+        "mevki": "Sol Bek",
+        "takim": "Chelsea FC",
+        "yas": "21",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Reece James",
+        "mevki": "Sağ Bek",
+        "takim": "Chelsea FC",
+        "yas": "24",
+        "piyasa_degeri": "60.00 mil. €"
+    },
+    {
+        "ad": "Malo Gusto",
+        "mevki": "Sağ Bek",
+        "takim": "Chelsea FC",
+        "yas": "27",
+        "piyasa_degeri": "35.00 mil. €"
+    },
+    {
+        "ad": "Josh Acheampong",
+        "mevki": "Sağ Bek",
+        "takim": "Chelsea FC",
+        "yas": "34",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Moisés Caicedo",
+        "mevki": "Ön Libero",
+        "takim": "Chelsea FC",
+        "yas": "25",
+        "piyasa_degeri": "110.00 mil. €"
+    },
+    {
+        "ad": "Roméo Lavia",
+        "mevki": "Ön Libero",
+        "takim": "Chelsea FC",
+        "yas": "45",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Dário Essugo",
+        "mevki": "Ön Libero",
+        "takim": "Chelsea FC",
+        "yas": "14",
+        "piyasa_degeri": "17.00 mil. €"
+    },
+    {
+        "ad": "Enzo Fernández",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Chelsea FC",
+        "yas": "25",
+        "piyasa_degeri": "90.00 mil. €"
+    },
+    {
+        "ad": "Andrey Santos",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Chelsea FC",
+        "yas": "17",
+        "piyasa_degeri": "45.00 mil. €"
+    },
+    {
+        "ad": "Cole Palmer",
+        "mevki": "On Numara",
+        "takim": "Chelsea FC",
+        "yas": "10",
+        "piyasa_degeri": "110.00 mil. €"
+    },
+    {
+        "ad": "Alejandro Garnacho",
+        "mevki": "Sol Kanat",
+        "takim": "Chelsea FC",
+        "yas": "49",
+        "piyasa_degeri": "40.00 mil. €"
+    },
+    {
+        "ad": "Jamie Gittens",
+        "mevki": "Sol Kanat",
+        "takim": "Chelsea FC",
+        "yas": "11",
+        "piyasa_degeri": "35.00 mil. €"
+    },
+    {
+        "ad": "Estêvão",
+        "mevki": "Sağ Kanat",
+        "takim": "Chelsea FC",
+        "yas": "41",
+        "piyasa_degeri": "80.00 mil. €"
+    },
+    {
+        "ad": "Pedro Neto",
+        "mevki": "Sağ Kanat",
+        "takim": "Chelsea FC",
+        "yas": "26",
+        "piyasa_degeri": "60.00 mil. €"
+    },
+    {
+        "ad": "João Pedro",
+        "mevki": "Santrafor",
+        "takim": "Chelsea FC",
+        "yas": "20",
+        "piyasa_degeri": "75.00 mil. €"
+    },
+    {
+        "ad": "Liam Delap",
+        "mevki": "Santrafor",
+        "takim": "Chelsea FC",
+        "yas": "23",
+        "piyasa_degeri": "32.00 mil. €"
+    },
+    {
+        "ad": "Marc Guiu",
+        "mevki": "Santrafor",
+        "takim": "Chelsea FC",
+        "yas": "38",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Giorgi Mamardashvili",
+        "mevki": "Kaleci",
+        "takim": "Liverpool FC",
+        "yas": "25",
+        "piyasa_degeri": "28.00 mil. €"
+    },
+    {
+        "ad": "Alisson",
+        "mevki": "Kaleci",
+        "takim": "Liverpool FC",
+        "yas": "33",
+        "piyasa_degeri": "17.00 mil. €"
+    },
+    {
+        "ad": "Freddie Woodman",
+        "mevki": "Kaleci",
+        "takim": "Liverpool FC",
+        "yas": "28",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Harvey Davies",
+        "mevki": "Kaleci",
+        "takim": "Liverpool FC",
+        "yas": "95",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Ibrahima Konaté",
+        "mevki": "Stoper",
+        "takim": "Liverpool FC",
+        "yas": "26",
+        "piyasa_degeri": "50.00 mil. €"
+    },
+    {
+        "ad": "Giovanni Leoni",
+        "mevki": "Stoper",
+        "takim": "Liverpool FC",
+        "yas": "15",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Virgil van Dijk",
+        "mevki": "Stoper",
+        "takim": "Liverpool FC",
+        "yas": "34",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Joe Gomez",
+        "mevki": "Stoper",
+        "takim": "Liverpool FC",
+        "yas": "28",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Rhys Williams",
+        "mevki": "Stoper",
+        "takim": "Liverpool FC",
+        "yas": "46",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Milos Kerkez",
+        "mevki": "Sol Bek",
+        "takim": "Liverpool FC",
+        "yas": "22",
+        "piyasa_degeri": "40.00 mil. €"
+    },
+    {
+        "ad": "Andrew Robertson",
+        "mevki": "Sol Bek",
+        "takim": "Liverpool FC",
+        "yas": "26",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Jeremie Frimpong",
+        "mevki": "Sağ Bek",
+        "takim": "Liverpool FC",
+        "yas": "30",
+        "piyasa_degeri": "35.00 mil. €"
+    },
+    {
+        "ad": "Conor Bradley",
+        "mevki": "Sağ Bek",
+        "takim": "Liverpool FC",
+        "yas": "12",
+        "piyasa_degeri": "30.00 mil. €"
+    },
+    {
+        "ad": "Calvin Ramsay",
+        "mevki": "Sağ Bek",
+        "takim": "Liverpool FC",
+        "yas": "47",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Ryan Gravenberch",
+        "mevki": "Ön Libero",
+        "takim": "Liverpool FC",
+        "yas": "38",
+        "piyasa_degeri": "90.00 mil. €"
+    },
+    {
+        "ad": "Wataru Endo",
+        "mevki": "Ön Libero",
+        "takim": "Liverpool FC",
+        "yas": "33",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Stefan Bajcetic",
+        "mevki": "Ön Libero",
+        "takim": "Liverpool FC",
+        "yas": "43",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Alexis Mac Allister",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Liverpool FC",
+        "yas": "10",
+        "piyasa_degeri": "80.00 mil. €"
+    },
+    {
+        "ad": "Curtis Jones",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Liverpool FC",
+        "yas": "17",
+        "piyasa_degeri": "35.00 mil. €"
+    },
+    {
+        "ad": "Trey Nyoni",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Liverpool FC",
+        "yas": "42",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Florian Wirtz",
+        "mevki": "On Numara",
+        "takim": "Liverpool FC",
+        "yas": "22",
+        "piyasa_degeri": "110.00 mil. €"
+    },
+    {
+        "ad": "Dominik Szoboszlai",
+        "mevki": "On Numara",
+        "takim": "Liverpool FC",
+        "yas": "25",
+        "piyasa_degeri": "100.00 mil. €"
+    },
+    {
+        "ad": "Cody Gakpo",
+        "mevki": "Sol Kanat",
+        "takim": "Liverpool FC",
+        "yas": "18",
+        "piyasa_degeri": "65.00 mil. €"
+    },
+    {
+        "ad": "Rio Ngumoha",
+        "mevki": "Sol Kanat",
+        "takim": "Liverpool FC",
+        "yas": "73",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Mohamed Salah",
+        "mevki": "Sağ Kanat",
+        "takim": "Liverpool FC",
+        "yas": "11",
+        "piyasa_degeri": "30.00 mil. €"
+    },
+    {
+        "ad": "Federico Chiesa",
+        "mevki": "Sağ Kanat",
+        "takim": "Liverpool FC",
+        "yas": "14",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Alexander Isak",
+        "mevki": "Santrafor",
+        "takim": "Liverpool FC",
+        "yas": "26",
+        "piyasa_degeri": "100.00 mil. €"
+    },
+    {
+        "ad": "Hugo Ekitiké",
+        "mevki": "Santrafor",
+        "takim": "Liverpool FC",
+        "yas": "22",
+        "piyasa_degeri": "90.00 mil. €"
+    },
+    {
+        "ad": "Guglielmo Vicario",
+        "mevki": "Kaleci",
+        "takim": "Tottenham Hotspur",
+        "yas": "29",
+        "piyasa_degeri": "23.00 mil. €"
+    },
+    {
+        "ad": "Antonín Kinský",
+        "mevki": "Kaleci",
+        "takim": "Tottenham Hotspur",
+        "yas": "31",
+        "piyasa_degeri": "13.00 mil. €"
+    },
+    {
+        "ad": "Brandon Austin",
+        "mevki": "Kaleci",
+        "takim": "Tottenham Hotspur",
+        "yas": "40",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Micky van de Ven",
+        "mevki": "Stoper",
+        "takim": "Tottenham Hotspur",
+        "yas": "37",
+        "piyasa_degeri": "65.00 mil. €"
+    },
+    {
+        "ad": "Cristian Romero",
+        "mevki": "Stoper",
+        "takim": "Tottenham Hotspur",
+        "yas": "17",
+        "piyasa_degeri": "50.00 mil. €"
+    },
+    {
+        "ad": "Radu Drăgușin",
+        "mevki": "Stoper",
+        "takim": "Tottenham Hotspur",
+        "yas": "24",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Kevin Danso",
+        "mevki": "Stoper",
+        "takim": "Tottenham Hotspur",
+        "yas": "27",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Ben Davies",
+        "mevki": "Stoper",
+        "takim": "Tottenham Hotspur",
+        "yas": "33",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Destiny Udogie",
+        "mevki": "Sol Bek",
+        "takim": "Tottenham Hotspur",
+        "yas": "13",
+        "piyasa_degeri": "35.00 mil. €"
+    },
+    {
+        "ad": "Djed Spence",
+        "mevki": "Sol Bek",
+        "takim": "Tottenham Hotspur",
+        "yas": "24",
+        "piyasa_degeri": "30.00 mil. €"
+    },
+    {
+        "ad": "Souza",
+        "mevki": "Sol Bek",
+        "takim": "Tottenham Hotspur",
+        "yas": "38",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Pedro Porro",
+        "mevki": "Sağ Bek",
+        "takim": "Tottenham Hotspur",
+        "yas": "23",
+        "piyasa_degeri": "40.00 mil. €"
+    },
+    {
+        "ad": "Rodrigo Bentancur",
+        "mevki": "Ön Libero",
+        "takim": "Tottenham Hotspur",
+        "yas": "30",
+        "piyasa_degeri": "22.00 mil. €"
+    },
+    {
+        "ad": "João Palhinha",
+        "mevki": "Ön Libero",
+        "takim": "Tottenham Hotspur",
+        "yas": "30",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Yves Bissouma",
+        "mevki": "Ön Libero",
+        "takim": "Tottenham Hotspur",
+        "yas": "29",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Lucas Bergvall",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Tottenham Hotspur",
+        "yas": "15",
+        "piyasa_degeri": "40.00 mil. €"
+    },
+    {
+        "ad": "Archie Gray",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Tottenham Hotspur",
+        "yas": "14",
+        "piyasa_degeri": "35.00 mil. €"
+    },
+    {
+        "ad": "Conor Gallagher",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Tottenham Hotspur",
+        "yas": "22",
+        "piyasa_degeri": "35.00 mil. €"
+    },
+    {
+        "ad": "Pape Matar Sarr",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Tottenham Hotspur",
+        "yas": "29",
+        "piyasa_degeri": "32.00 mil. €"
+    },
+    {
+        "ad": "Xavi Simons",
+        "mevki": "On Numara",
+        "takim": "Tottenham Hotspur",
+        "yas": "23",
+        "piyasa_degeri": "50.00 mil. €"
+    },
+    {
+        "ad": "Dejan Kulusevski",
+        "mevki": "On Numara",
+        "takim": "Tottenham Hotspur",
+        "yas": "21",
+        "piyasa_degeri": "35.00 mil. €"
+    },
+    {
+        "ad": "James Maddison",
+        "mevki": "On Numara",
+        "takim": "Tottenham Hotspur",
+        "yas": "10",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Wilson Odobert",
+        "mevki": "Sol Kanat",
+        "takim": "Tottenham Hotspur",
+        "yas": "28",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Mohammed Kudus",
+        "mevki": "Sağ Kanat",
+        "takim": "Tottenham Hotspur",
+        "yas": "20",
+        "piyasa_degeri": "55.00 mil. €"
+    },
+    {
+        "ad": "Dominic Solanke",
+        "mevki": "Santrafor",
+        "takim": "Tottenham Hotspur",
+        "yas": "19",
+        "piyasa_degeri": "35.00 mil. €"
+    },
+    {
+        "ad": "Richarlison",
+        "mevki": "Santrafor",
+        "takim": "Tottenham Hotspur",
+        "yas": "28",
+        "piyasa_degeri": "28.00 mil. €"
+    },
+    {
+        "ad": "Mathys Tel",
+        "mevki": "Santrafor",
+        "takim": "Tottenham Hotspur",
+        "yas": "11",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Randal Kolo Muani",
+        "mevki": "Santrafor",
+        "takim": "Tottenham Hotspur",
+        "yas": "39",
+        "piyasa_degeri": "22.00 mil. €"
+    },
+    {
+        "ad": "Senne Lammens",
+        "mevki": "Kaleci",
+        "takim": "Manchester United",
+        "yas": "31",
+        "piyasa_degeri": "30.00 mil. €"
+    },
+    {
+        "ad": "Altay Bayındır",
+        "mevki": "Kaleci",
+        "takim": "Manchester United",
+        "yas": "28",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Tom Heaton",
+        "mevki": "Kaleci",
+        "takim": "Manchester United",
+        "yas": "22",
+        "piyasa_degeri": "150 bin €"
+    },
+    {
+        "ad": "Leny Yoro",
+        "mevki": "Stoper",
+        "takim": "Manchester United",
+        "yas": "15",
+        "piyasa_degeri": "50.00 mil. €"
+    },
+    {
+        "ad": "Matthijs de Ligt",
+        "mevki": "Stoper",
+        "takim": "Manchester United",
+        "yas": "26",
+        "piyasa_degeri": "40.00 mil. €"
+    },
+    {
+        "ad": "Lisandro Martínez",
+        "mevki": "Stoper",
+        "takim": "Manchester United",
+        "yas": "28",
+        "piyasa_degeri": "40.00 mil. €"
+    },
+    {
+        "ad": "Ayden Heaven",
+        "mevki": "Stoper",
+        "takim": "Manchester United",
+        "yas": "26",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Harry Maguire",
+        "mevki": "Stoper",
+        "takim": "Manchester United",
+        "yas": "33",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Patrick Dorgu",
+        "mevki": "Sol Bek",
+        "takim": "Manchester United",
+        "yas": "13",
+        "piyasa_degeri": "35.00 mil. €"
+    },
+    {
+        "ad": "Luke Shaw",
+        "mevki": "Sol Bek",
+        "takim": "Manchester United",
+        "yas": "23",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Tyrell Malacia",
+        "mevki": "Sol Bek",
+        "takim": "Manchester United",
+        "yas": "12",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Diogo Dalot",
+        "mevki": "Sağ Bek",
+        "takim": "Manchester United",
+        "yas": "27",
+        "piyasa_degeri": "30.00 mil. €"
+    },
+    {
+        "ad": "Noussair Mazraoui",
+        "mevki": "Sağ Bek",
+        "takim": "Manchester United",
+        "yas": "28",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Manuel Ugarte",
+        "mevki": "Ön Libero",
+        "takim": "Manchester United",
+        "yas": "25",
+        "piyasa_degeri": "30.00 mil. €"
+    },
+    {
+        "ad": "Casemiro",
+        "mevki": "Ön Libero",
+        "takim": "Manchester United",
+        "yas": "18",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Kobbie Mainoo",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Manchester United",
+        "yas": "37",
+        "piyasa_degeri": "50.00 mil. €"
+    },
+    {
+        "ad": "Bruno Fernandes",
+        "mevki": "On Numara",
+        "takim": "Manchester United",
+        "yas": "31",
+        "piyasa_degeri": "40.00 mil. €"
+    },
+    {
+        "ad": "Mason Mount",
+        "mevki": "On Numara",
+        "takim": "Manchester United",
+        "yas": "27",
+        "piyasa_degeri": "30.00 mil. €"
+    },
+    {
+        "ad": "Bryan Mbeumo",
+        "mevki": "Sağ Kanat",
+        "takim": "Manchester United",
+        "yas": "19",
+        "piyasa_degeri": "80.00 mil. €"
+    },
+    {
+        "ad": "Amad Diallo",
+        "mevki": "Sağ Kanat",
+        "takim": "Manchester United",
+        "yas": "16",
+        "piyasa_degeri": "50.00 mil. €"
+    },
+    {
+        "ad": "Matheus Cunha",
+        "mevki": "Santrafor",
+        "takim": "Manchester United",
+        "yas": "10",
+        "piyasa_degeri": "70.00 mil. €"
+    },
+    {
+        "ad": "Benjamin Sesko",
+        "mevki": "Santrafor",
+        "takim": "Manchester United",
+        "yas": "30",
+        "piyasa_degeri": "65.00 mil. €"
+    },
+    {
+        "ad": "Joshua Zirkzee",
+        "mevki": "Santrafor",
+        "takim": "Manchester United",
+        "yas": "11",
+        "piyasa_degeri": "22.00 mil. €"
+    },
+    {
+        "ad": "Chido Obi",
+        "mevki": "Santrafor",
+        "takim": "Manchester United",
+        "yas": "32",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Aaron Ramsdale",
+        "mevki": "Kaleci",
+        "takim": "Newcastle United",
+        "yas": "32",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Nick Pope",
+        "mevki": "Kaleci",
+        "takim": "Newcastle United",
+        "yas": "34",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Mark Gillespie",
+        "mevki": "Kaleci",
+        "takim": "Newcastle United",
+        "yas": "29",
+        "piyasa_degeri": "150 bin €"
+    },
+    {
+        "ad": "John Ruddy",
+        "mevki": "Kaleci",
+        "takim": "Newcastle United",
+        "yas": "26",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Malick Thiaw",
+        "mevki": "Stoper",
+        "takim": "Newcastle United",
+        "yas": "12",
+        "piyasa_degeri": "45.00 mil. €"
+    },
+    {
+        "ad": "Sven Botman",
+        "mevki": "Stoper",
+        "takim": "Newcastle United",
+        "yas": "26",
+        "piyasa_degeri": "35.00 mil. €"
+    },
+    {
+        "ad": "Fabian Schär",
+        "mevki": "Stoper",
+        "takim": "Newcastle United",
+        "yas": "34",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Dan Burn",
+        "mevki": "Stoper",
+        "takim": "Newcastle United",
+        "yas": "33",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Lewis Hall",
+        "mevki": "Sol Bek",
+        "takim": "Newcastle United",
+        "yas": "21",
+        "piyasa_degeri": "35.00 mil. €"
+    },
+    {
+        "ad": "Alex Murphy",
+        "mevki": "Sol Bek",
+        "takim": "Newcastle United",
+        "yas": "37",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Tino Livramento",
+        "mevki": "Sağ Bek",
+        "takim": "Newcastle United",
+        "yas": "21",
+        "piyasa_degeri": "40.00 mil. €"
+    },
+    {
+        "ad": "Kieran Trippier",
+        "mevki": "Sağ Bek",
+        "takim": "Newcastle United",
+        "yas": "35",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Emil Krafth",
+        "mevki": "Sağ Bek",
+        "takim": "Newcastle United",
+        "yas": "17",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Sandro Tonali",
+        "mevki": "Ön Libero",
+        "takim": "Newcastle United",
+        "yas": "25",
+        "piyasa_degeri": "80.00 mil. €"
+    },
+    {
+        "ad": "Bruno Guimarães",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Newcastle United",
+        "yas": "39",
+        "piyasa_degeri": "75.00 mil. €"
+    },
+    {
+        "ad": "Jacob Ramsey",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Newcastle United",
+        "yas": "41",
+        "piyasa_degeri": "35.00 mil. €"
+    },
+    {
+        "ad": "Joelinton",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Newcastle United",
+        "yas": "29",
+        "piyasa_degeri": "30.00 mil. €"
+    },
+    {
+        "ad": "Lewis Miley",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Newcastle United",
+        "yas": "67",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Joe Willock",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Newcastle United",
+        "yas": "28",
+        "piyasa_degeri": "16.00 mil. €"
+    },
+    {
+        "ad": "Anthony Gordon",
+        "mevki": "Sol Kanat",
+        "takim": "Newcastle United",
+        "yas": "10",
+        "piyasa_degeri": "60.00 mil. €"
+    },
+    {
+        "ad": "Harvey Barnes",
+        "mevki": "Sol Kanat",
+        "takim": "Newcastle United",
+        "yas": "11",
+        "piyasa_degeri": "32.00 mil. €"
+    },
+    {
+        "ad": "Anthony Elanga",
+        "mevki": "Sağ Kanat",
+        "takim": "Newcastle United",
+        "yas": "20",
+        "piyasa_degeri": "40.00 mil. €"
+    },
+    {
+        "ad": "Jacob Murphy",
+        "mevki": "Sağ Kanat",
+        "takim": "Newcastle United",
+        "yas": "23",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Nick Woltemade",
+        "mevki": "Santrafor",
+        "takim": "Newcastle United",
+        "yas": "27",
+        "piyasa_degeri": "65.00 mil. €"
+    },
+    {
+        "ad": "Yoane Wissa",
+        "mevki": "Santrafor",
+        "takim": "Newcastle United",
+        "yas": "29",
+        "piyasa_degeri": "30.00 mil. €"
+    },
+    {
+        "ad": "William Osula",
+        "mevki": "Santrafor",
+        "takim": "Newcastle United",
+        "yas": "18",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "John Victor",
+        "mevki": "Kaleci",
+        "takim": "Nottingham Forest",
+        "yas": "13",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Stefan Ortega",
+        "mevki": "Kaleci",
+        "takim": "Nottingham Forest",
+        "yas": "27",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Matz Sels",
+        "mevki": "Kaleci",
+        "takim": "Nottingham Forest",
+        "yas": "26",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Angus Gunn",
+        "mevki": "Kaleci",
+        "takim": "Nottingham Forest",
+        "yas": "18",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Murillo",
+        "mevki": "Stoper",
+        "takim": "Nottingham Forest",
+        "yas": "23",
+        "piyasa_degeri": "50.00 mil. €"
+    },
+    {
+        "ad": "Nikola Milenković",
+        "mevki": "Stoper",
+        "takim": "Nottingham Forest",
+        "yas": "31",
+        "piyasa_degeri": "30.00 mil. €"
+    },
+    {
+        "ad": "Morato",
+        "mevki": "Stoper",
+        "takim": "Nottingham Forest",
+        "yas": "24",
+        "piyasa_degeri": "14.00 mil. €"
+    },
+    {
+        "ad": "Jair Cunha",
+        "mevki": "Stoper",
+        "takim": "Nottingham Forest",
+        "yas": "23",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Zach Abbott",
+        "mevki": "Stoper",
+        "takim": "Nottingham Forest",
+        "yas": "44",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Willy Boly",
+        "mevki": "Stoper",
+        "takim": "Nottingham Forest",
+        "yas": "30",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Neco Williams",
+        "mevki": "Sol Bek",
+        "takim": "Nottingham Forest",
+        "yas": "25",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Luca Netz",
+        "mevki": "Sol Bek",
+        "takim": "Nottingham Forest",
+        "yas": "25",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Ola Aina",
+        "mevki": "Sağ Bek",
+        "takim": "Nottingham Forest",
+        "yas": "34",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Nicolò Savona",
+        "mevki": "Sağ Bek",
+        "takim": "Nottingham Forest",
+        "yas": "37",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Eric da Silva Moreira",
+        "mevki": "Sağ Bek",
+        "takim": "Nottingham Forest",
+        "yas": "17",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Ibrahim Sangaré",
+        "mevki": "Ön Libero",
+        "takim": "Nottingham Forest",
+        "yas": "28",
+        "piyasa_degeri": "22.00 mil. €"
+    },
+    {
+        "ad": "Elliot Anderson",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Nottingham Forest",
+        "yas": "23",
+        "piyasa_degeri": "60.00 mil. €"
+    },
+    {
+        "ad": "Nicolás Domínguez",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Nottingham Forest",
+        "yas": "16",
+        "piyasa_degeri": "16.00 mil. €"
+    },
+    {
+        "ad": "Ryan Yates",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Nottingham Forest",
+        "yas": "22",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Morgan Gibbs-White",
+        "mevki": "On Numara",
+        "takim": "Nottingham Forest",
+        "yas": "10",
+        "piyasa_degeri": "60.00 mil. €"
+    },
+    {
+        "ad": "Omari Hutchinson",
+        "mevki": "On Numara",
+        "takim": "Nottingham Forest",
+        "yas": "21",
+        "piyasa_degeri": "30.00 mil. €"
+    },
+    {
+        "ad": "James McAtee",
+        "mevki": "On Numara",
+        "takim": "Nottingham Forest",
+        "yas": "24",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Callum Hudson-Odoi",
+        "mevki": "Sol Kanat",
+        "takim": "Nottingham Forest",
+        "yas": "25",
+        "piyasa_degeri": "30.00 mil. €"
+    },
+    {
+        "ad": "Dan Ndoye",
+        "mevki": "Sağ Kanat",
+        "takim": "Nottingham Forest",
+        "yas": "14",
+        "piyasa_degeri": "35.00 mil. €"
+    },
+    {
+        "ad": "Dilane Bakwa",
+        "mevki": "Sağ Kanat",
+        "takim": "Nottingham Forest",
+        "yas": "29",
+        "piyasa_degeri": "28.00 mil. €"
+    },
+    {
+        "ad": "Lorenzo Lucca",
+        "mevki": "Santrafor",
+        "takim": "Nottingham Forest",
+        "yas": "20",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Igor Jesus",
+        "mevki": "Santrafor",
+        "takim": "Nottingham Forest",
+        "yas": "19",
+        "piyasa_degeri": "22.00 mil. €"
+    },
+    {
+        "ad": "Taiwo Awoniyi",
+        "mevki": "Santrafor",
+        "takim": "Nottingham Forest",
+        "yas": "28",
+        "piyasa_degeri": "9.00 mil. €"
+    },
+    {
+        "ad": "Chris Wood",
+        "mevki": "Santrafor",
+        "takim": "Nottingham Forest",
+        "yas": "11",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Dean Henderson",
+        "mevki": "Kaleci",
+        "takim": "Crystal Palace",
+        "yas": "29",
+        "piyasa_degeri": "28.00 mil. €"
+    },
+    {
+        "ad": "Walter Benítez",
+        "mevki": "Kaleci",
+        "takim": "Crystal Palace",
+        "yas": "44",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Remi Matthews",
+        "mevki": "Kaleci",
+        "takim": "Crystal Palace",
+        "yas": "31",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Maxence Lacroix",
+        "mevki": "Stoper",
+        "takim": "Crystal Palace",
+        "yas": "26",
+        "piyasa_degeri": "40.00 mil. €"
+    },
+    {
+        "ad": "Chris Richards",
+        "mevki": "Stoper",
+        "takim": "Crystal Palace",
+        "yas": "26",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Jaydee Canvot",
+        "mevki": "Stoper",
+        "takim": "Crystal Palace",
+        "yas": "23",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Chadi Riad",
+        "mevki": "Stoper",
+        "takim": "Crystal Palace",
+        "yas": "34",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Tyrick Mitchell",
+        "mevki": "Sol Bek",
+        "takim": "Crystal Palace",
+        "yas": "26",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Borna Sosa",
+        "mevki": "Sol Bek",
+        "takim": "Crystal Palace",
+        "yas": "24",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Rio Cardines",
+        "mevki": "Sol Bek",
+        "takim": "Crystal Palace",
+        "yas": "59",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Daniel Muñoz",
+        "mevki": "Sağ Bek",
+        "takim": "Crystal Palace",
+        "yas": "29",
+        "piyasa_degeri": "27.00 mil. €"
+    },
+    {
+        "ad": "Caleb Kporha",
+        "mevki": "Sağ Bek",
+        "takim": "Crystal Palace",
+        "yas": "58",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Nathaniel Clyne",
+        "mevki": "Sağ Bek",
+        "takim": "Crystal Palace",
+        "yas": "17",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Adam Wharton",
+        "mevki": "Ön Libero",
+        "takim": "Crystal Palace",
+        "yas": "20",
+        "piyasa_degeri": "60.00 mil. €"
+    },
+    {
+        "ad": "Cheick Doucouré",
+        "mevki": "Ön Libero",
+        "takim": "Crystal Palace",
+        "yas": "28",
+        "piyasa_degeri": "13.00 mil. €"
+    },
+    {
+        "ad": "Jefferson Lerma",
+        "mevki": "Ön Libero",
+        "takim": "Crystal Palace",
+        "yas": "31",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Kaden Rodney",
+        "mevki": "Ön Libero",
+        "takim": "Crystal Palace",
+        "yas": "42",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Will Hughes",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Crystal Palace",
+        "yas": "19",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Daichi Kamada",
+        "mevki": "On Numara",
+        "takim": "Crystal Palace",
+        "yas": "18",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Justin Devenny",
+        "mevki": "On Numara",
+        "takim": "Crystal Palace",
+        "yas": "55",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Ismaïla Sarr",
+        "mevki": "Sağ Kanat",
+        "takim": "Crystal Palace",
+        "yas": "28",
+        "piyasa_degeri": "35.00 mil. €"
+    },
+    {
+        "ad": "Yéremy Pino",
+        "mevki": "Sağ Kanat",
+        "takim": "Crystal Palace",
+        "yas": "10",
+        "piyasa_degeri": "35.00 mil. €"
+    },
+    {
+        "ad": "Brennan Johnson",
+        "mevki": "Sağ Kanat",
+        "takim": "Crystal Palace",
+        "yas": "11",
+        "piyasa_degeri": "35.00 mil. €"
+    },
+    {
+        "ad": "Evann Guessand",
+        "mevki": "Sağ Kanat",
+        "takim": "Crystal Palace",
+        "yas": "29",
+        "piyasa_degeri": "28.00 mil. €"
+    },
+    {
+        "ad": "Jørgen Strand Larsen",
+        "mevki": "Santrafor",
+        "takim": "Crystal Palace",
+        "yas": "22",
+        "piyasa_degeri": "45.00 mil. €"
+    },
+    {
+        "ad": "Jean-Philippe Mateta",
+        "mevki": "Santrafor",
+        "takim": "Crystal Palace",
+        "yas": "14",
+        "piyasa_degeri": "35.00 mil. €"
+    },
+    {
+        "ad": "Christantus Uche",
+        "mevki": "Santrafor",
+        "takim": "Crystal Palace",
+        "yas": "12",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Eddie Nketiah",
+        "mevki": "Santrafor",
+        "takim": "Crystal Palace",
+        "yas": "26",
+        "piyasa_degeri": "14.00 mil. €"
+    },
+    {
+        "ad": "Djordje Petrovic",
+        "mevki": "Kaleci",
+        "takim": "AFC Bournemouth",
+        "yas": "26",
+        "piyasa_degeri": "28.00 mil. €"
+    },
+    {
+        "ad": "Christos Mandas",
+        "mevki": "Kaleci",
+        "takim": "AFC Bournemouth",
+        "yas": "29",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Fraser Forster",
+        "mevki": "Kaleci",
+        "takim": "AFC Bournemouth",
+        "yas": "17",
+        "piyasa_degeri": "600 bin €"
+    },
+    {
+        "ad": "Bafodé Diakité",
+        "mevki": "Stoper",
+        "takim": "AFC Bournemouth",
+        "yas": "18",
+        "piyasa_degeri": "30.00 mil. €"
+    },
+    {
+        "ad": "Marcos Senesi",
+        "mevki": "Stoper",
+        "takim": "AFC Bournemouth",
+        "yas": "28",
+        "piyasa_degeri": "22.00 mil. €"
+    },
+    {
+        "ad": "Veljko Milosavljevic",
+        "mevki": "Stoper",
+        "takim": "AFC Bournemouth",
+        "yas": "44",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "James Hill",
+        "mevki": "Stoper",
+        "takim": "AFC Bournemouth",
+        "yas": "23",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Matai Akinmboni",
+        "mevki": "Stoper",
+        "takim": "AFC Bournemouth",
+        "yas": "45",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Adrien Truffert",
+        "mevki": "Sol Bek",
+        "takim": "AFC Bournemouth",
+        "yas": "24",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Julio Soler",
+        "mevki": "Sol Bek",
+        "takim": "AFC Bournemouth",
+        "yas": "21",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Álex Jiménez",
+        "mevki": "Sağ Bek",
+        "takim": "AFC Bournemouth",
+        "yas": "20",
+        "piyasa_degeri": "22.00 mil. €"
+    },
+    {
+        "ad": "Adam Smith",
+        "mevki": "Sağ Bek",
+        "takim": "AFC Bournemouth",
+        "yas": "15",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Tyler Adams",
+        "mevki": "Ön Libero",
+        "takim": "AFC Bournemouth",
+        "yas": "12",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Alex Scott",
+        "mevki": "Merkez Orta Saha",
+        "takim": "AFC Bournemouth",
+        "yas": "22",
+        "piyasa_degeri": "40.00 mil. €"
+    },
+    {
+        "ad": "Lewis Cook",
+        "mevki": "Merkez Orta Saha",
+        "takim": "AFC Bournemouth",
+        "yas": "29",
+        "piyasa_degeri": "13.00 mil. €"
+    },
+    {
+        "ad": "Alex Tóth",
+        "mevki": "Merkez Orta Saha",
+        "takim": "AFC Bournemouth",
+        "yas": "27",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Ryan Christie",
+        "mevki": "Merkez Orta Saha",
+        "takim": "AFC Bournemouth",
+        "yas": "10",
+        "piyasa_degeri": "9.00 mil. €"
+    },
+    {
+        "ad": "Justin Kluivert",
+        "mevki": "On Numara",
+        "takim": "AFC Bournemouth",
+        "yas": "19",
+        "piyasa_degeri": "30.00 mil. €"
+    },
+    {
+        "ad": "Marcus Tavernier",
+        "mevki": "On Numara",
+        "takim": "AFC Bournemouth",
+        "yas": "16",
+        "piyasa_degeri": "23.00 mil. €"
+    },
+    {
+        "ad": "Amine Adli",
+        "mevki": "Sol Kanat",
+        "takim": "AFC Bournemouth",
+        "yas": "21",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Rayan",
+        "mevki": "Sağ Kanat",
+        "takim": "AFC Bournemouth",
+        "yas": "37",
+        "piyasa_degeri": "40.00 mil. €"
+    },
+    {
+        "ad": "Ben Gannon-Doak",
+        "mevki": "Sağ Kanat",
+        "takim": "AFC Bournemouth",
+        "yas": "11",
+        "piyasa_degeri": "16.00 mil. €"
+    },
+    {
+        "ad": "David Brooks",
+        "mevki": "Sağ Kanat",
+        "takim": "AFC Bournemouth",
+        "yas": "28",
+        "piyasa_degeri": "14.00 mil. €"
+    },
+    {
+        "ad": "Junior Kroupi",
+        "mevki": "Santrafor",
+        "takim": "AFC Bournemouth",
+        "yas": "22",
+        "piyasa_degeri": "40.00 mil. €"
+    },
+    {
+        "ad": "Evanilson",
+        "mevki": "Santrafor",
+        "takim": "AFC Bournemouth",
+        "yas": "26",
+        "piyasa_degeri": "35.00 mil. €"
+    },
+    {
+        "ad": "Enes Ünal",
+        "mevki": "Santrafor",
+        "takim": "AFC Bournemouth",
+        "yas": "26",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Bart Verbruggen",
+        "mevki": "Kaleci",
+        "takim": "Brighton & Hove Albion",
+        "yas": "23",
+        "piyasa_degeri": "40.00 mil. €"
+    },
+    {
+        "ad": "Jason Steele",
+        "mevki": "Kaleci",
+        "takim": "Brighton & Hove Albion",
+        "yas": "23",
+        "piyasa_degeri": "750 bin €"
+    },
+    {
+        "ad": "Tom McGill",
+        "mevki": "Kaleci",
+        "takim": "Brighton & Hove Albion",
+        "yas": "38",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Jan Paul van Hecke",
+        "mevki": "Stoper",
+        "takim": "Brighton & Hove Albion",
+        "yas": "25",
+        "piyasa_degeri": "35.00 mil. €"
+    },
+    {
+        "ad": "Olivier Boscagli",
+        "mevki": "Stoper",
+        "takim": "Brighton & Hove Albion",
+        "yas": "21",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Igor Julio",
+        "mevki": "Stoper",
+        "takim": "Brighton & Hove Albion",
+        "yas": "28",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Adam Webster",
+        "mevki": "Stoper",
+        "takim": "Brighton & Hove Albion",
+        "yas": "31",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Lewis Dunk",
+        "mevki": "Stoper",
+        "takim": "Brighton & Hove Albion",
+        "yas": "34",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Ferdi Kadıoğlu",
+        "mevki": "Sol Bek",
+        "takim": "Brighton & Hove Albion",
+        "yas": "24",
+        "piyasa_degeri": "30.00 mil. €"
+    },
+    {
+        "ad": "Maxim De Cuyper",
+        "mevki": "Sol Bek",
+        "takim": "Brighton & Hove Albion",
+        "yas": "29",
+        "piyasa_degeri": "22.00 mil. €"
+    },
+    {
+        "ad": "Mats Wieffer",
+        "mevki": "Sağ Bek",
+        "takim": "Brighton & Hove Albion",
+        "yas": "27",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Joël Veltman",
+        "mevki": "Sağ Bek",
+        "takim": "Brighton & Hove Albion",
+        "yas": "34",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Carlos Baleba",
+        "mevki": "Ön Libero",
+        "takim": "Brighton & Hove Albion",
+        "yas": "17",
+        "piyasa_degeri": "55.00 mil. €"
+    },
+    {
+        "ad": "Jack Hinshelwood",
+        "mevki": "Ön Libero",
+        "takim": "Brighton & Hove Albion",
+        "yas": "13",
+        "piyasa_degeri": "22.00 mil. €"
+    },
+    {
+        "ad": "Yasin Ayari",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Brighton & Hove Albion",
+        "yas": "26",
+        "piyasa_degeri": "30.00 mil. €"
+    },
+    {
+        "ad": "Diego Gómez",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Brighton & Hove Albion",
+        "yas": "25",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Matt O'Riley",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Brighton & Hove Albion",
+        "yas": "33",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Pascal Groß",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Brighton & Hove Albion",
+        "yas": "30",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "James Milner",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Brighton & Hove Albion",
+        "yas": "20",
+        "piyasa_degeri": "750 bin €"
+    },
+    {
+        "ad": "Kaoru Mitoma",
+        "mevki": "Sol Kanat",
+        "takim": "Brighton & Hove Albion",
+        "yas": "22",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Yankuba Minteh",
+        "mevki": "Sağ Kanat",
+        "takim": "Brighton & Hove Albion",
+        "yas": "11",
+        "piyasa_degeri": "40.00 mil. €"
+    },
+    {
+        "ad": "Solly March",
+        "mevki": "Sağ Kanat",
+        "takim": "Brighton & Hove Albion",
+        "yas": "31",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Georginio Rutter",
+        "mevki": "Santrafor",
+        "takim": "Brighton & Hove Albion",
+        "yas": "10",
+        "piyasa_degeri": "30.00 mil. €"
+    },
+    {
+        "ad": "Charalampos Kostoulas",
+        "mevki": "Santrafor",
+        "takim": "Brighton & Hove Albion",
+        "yas": "19",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Stefanos Tzimas",
+        "mevki": "Santrafor",
+        "takim": "Brighton & Hove Albion",
+        "yas": "20",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Danny Welbeck",
+        "mevki": "Santrafor",
+        "takim": "Brighton & Hove Albion",
+        "yas": "18",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Caoimhín Kelleher",
+        "mevki": "Kaleci",
+        "takim": "Brentford FC",
+        "yas": "27",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Hákon Valdimarsson",
+        "mevki": "Kaleci",
+        "takim": "Brentford FC",
+        "yas": "12",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Ellery Balcombe",
+        "mevki": "Kaleci",
+        "takim": "Brentford FC",
+        "yas": "31",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Sepp van den Berg",
+        "mevki": "Stoper",
+        "takim": "Brentford FC",
+        "yas": "24",
+        "piyasa_degeri": "32.00 mil. €"
+    },
+    {
+        "ad": "Nathan Collins",
+        "mevki": "Stoper",
+        "takim": "Brentford FC",
+        "yas": "22",
+        "piyasa_degeri": "30.00 mil. €"
+    },
+    {
+        "ad": "Kristoffer Ajer",
+        "mevki": "Stoper",
+        "takim": "Brentford FC",
+        "yas": "20",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Ethan Pinnock",
+        "mevki": "Stoper",
+        "takim": "Brentford FC",
+        "yas": "32",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Rico Henry",
+        "mevki": "Sol Bek",
+        "takim": "Brentford FC",
+        "yas": "28",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Michael Kayode",
+        "mevki": "Sağ Bek",
+        "takim": "Brentford FC",
+        "yas": "33",
+        "piyasa_degeri": "35.00 mil. €"
+    },
+    {
+        "ad": "Aaron Hickey",
+        "mevki": "Sağ Bek",
+        "takim": "Brentford FC",
+        "yas": "23",
+        "piyasa_degeri": "16.00 mil. €"
+    },
+    {
+        "ad": "Vitaly Janelt",
+        "mevki": "Ön Libero",
+        "takim": "Brentford FC",
+        "yas": "27",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Jordan Henderson",
+        "mevki": "Ön Libero",
+        "takim": "Brentford FC",
+        "yas": "35",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Yegor Yarmolyuk",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Brentford FC",
+        "yas": "18",
+        "piyasa_degeri": "30.00 mil. €"
+    },
+    {
+        "ad": "Mathias Jensen",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Brentford FC",
+        "yas": "30",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Josh Dasilva",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Brentford FC",
+        "yas": "10",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Keane Lewis-Potter",
+        "mevki": "Orta Saha Sol",
+        "takim": "Brentford FC",
+        "yas": "23",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Mikkel Damsgaard",
+        "mevki": "On Numara",
+        "takim": "Brentford FC",
+        "yas": "24",
+        "piyasa_degeri": "30.00 mil. €"
+    },
+    {
+        "ad": "Antoni Milambo",
+        "mevki": "On Numara",
+        "takim": "Brentford FC",
+        "yas": "17",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Fábio Carvalho",
+        "mevki": "On Numara",
+        "takim": "Brentford FC",
+        "yas": "14",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Kevin Schade",
+        "mevki": "Sol Kanat",
+        "takim": "Brentford FC",
+        "yas": "24",
+        "piyasa_degeri": "35.00 mil. €"
+    },
+    {
+        "ad": "Reiss Nelson",
+        "mevki": "Sol Kanat",
+        "takim": "Brentford FC",
+        "yas": "11",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Dango Ouattara",
+        "mevki": "Sağ Kanat",
+        "takim": "Brentford FC",
+        "yas": "19",
+        "piyasa_degeri": "35.00 mil. €"
+    },
+    {
+        "ad": "Romelle Donovan",
+        "mevki": "Sağ Kanat",
+        "takim": "Brentford FC",
+        "yas": "45",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Igor Thiago",
+        "mevki": "Santrafor",
+        "takim": "Brentford FC",
+        "yas": "24",
+        "piyasa_degeri": "50.00 mil. €"
+    },
+    {
+        "ad": "Kaye Furo",
+        "mevki": "Santrafor",
+        "takim": "Brentford FC",
+        "yas": "47",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Jordan Pickford",
+        "mevki": "Kaleci",
+        "takim": "Everton FC",
+        "yas": "32",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Mark Travers",
+        "mevki": "Kaleci",
+        "takim": "Everton FC",
+        "yas": "12",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Tom King",
+        "mevki": "Kaleci",
+        "takim": "Everton FC",
+        "yas": "31",
+        "piyasa_degeri": "150 bin €"
+    },
+    {
+        "ad": "Jarrad Branthwaite",
+        "mevki": "Stoper",
+        "takim": "Everton FC",
+        "yas": "32",
+        "piyasa_degeri": "45.00 mil. €"
+    },
+    {
+        "ad": "James Tarkowski",
+        "mevki": "Stoper",
+        "takim": "Everton FC",
+        "yas": "33",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Michael Keane",
+        "mevki": "Stoper",
+        "takim": "Everton FC",
+        "yas": "33",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Vitaliy Mykolenko",
+        "mevki": "Sol Bek",
+        "takim": "Everton FC",
+        "yas": "16",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Adam Aznou",
+        "mevki": "Sol Bek",
+        "takim": "Everton FC",
+        "yas": "39",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Jake O'Brien",
+        "mevki": "Sağ Bek",
+        "takim": "Everton FC",
+        "yas": "15",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Nathan Patterson",
+        "mevki": "Sağ Bek",
+        "takim": "Everton FC",
+        "yas": "24",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Séamus Coleman",
+        "mevki": "Sağ Bek",
+        "takim": "Everton FC",
+        "yas": "23",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "James Garner",
+        "mevki": "Ön Libero",
+        "takim": "Everton FC",
+        "yas": "37",
+        "piyasa_degeri": "35.00 mil. €"
+    },
+    {
+        "ad": "Idrissa Gueye",
+        "mevki": "Ön Libero",
+        "takim": "Everton FC",
+        "yas": "27",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Kiernan Dewsbury-Hall",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Everton FC",
+        "yas": "22",
+        "piyasa_degeri": "32.00 mil. €"
+    },
+    {
+        "ad": "Carlos Alcaraz",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Everton FC",
+        "yas": "24",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Tim Iroegbunam",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Everton FC",
+        "yas": "42",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Harrison Armstrong",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Everton FC",
+        "yas": "45",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Merlin Röhl",
+        "mevki": "On Numara",
+        "takim": "Everton FC",
+        "yas": "34",
+        "piyasa_degeri": "16.00 mil. €"
+    },
+    {
+        "ad": "Jack Grealish",
+        "mevki": "Sol Kanat",
+        "takim": "Everton FC",
+        "yas": "18",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Tyrique George",
+        "mevki": "Sol Kanat",
+        "takim": "Everton FC",
+        "yas": "19",
+        "piyasa_degeri": "22.00 mil. €"
+    },
+    {
+        "ad": "Dwight McNeil",
+        "mevki": "Sol Kanat",
+        "takim": "Everton FC",
+        "yas": "26",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Iliman Ndiaye",
+        "mevki": "Sağ Kanat",
+        "takim": "Everton FC",
+        "yas": "10",
+        "piyasa_degeri": "50.00 mil. €"
+    },
+    {
+        "ad": "Tyler Dibling",
+        "mevki": "Sağ Kanat",
+        "takim": "Everton FC",
+        "yas": "20",
+        "piyasa_degeri": "22.00 mil. €"
+    },
+    {
+        "ad": "Thierno Barry",
+        "mevki": "Santrafor",
+        "takim": "Everton FC",
+        "yas": "11",
+        "piyasa_degeri": "30.00 mil. €"
+    },
+    {
+        "ad": "Beto",
+        "mevki": "Santrafor",
+        "takim": "Everton FC",
+        "yas": "28",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Bernd Leno",
+        "mevki": "Kaleci",
+        "takim": "Fulham FC",
+        "yas": "34",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Benjamin Lecomte",
+        "mevki": "Kaleci",
+        "takim": "Fulham FC",
+        "yas": "23",
+        "piyasa_degeri": "1.20 mil. €"
+    },
+    {
+        "ad": "Calvin Bassey",
+        "mevki": "Stoper",
+        "takim": "Fulham FC",
+        "yas": "26",
+        "piyasa_degeri": "28.00 mil. €"
+    },
+    {
+        "ad": "Joachim Andersen",
+        "mevki": "Stoper",
+        "takim": "Fulham FC",
+        "yas": "29",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Issa Diop",
+        "mevki": "Stoper",
+        "takim": "Fulham FC",
+        "yas": "31",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Jorge Cuenca",
+        "mevki": "Stoper",
+        "takim": "Fulham FC",
+        "yas": "15",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Antonee Robinson",
+        "mevki": "Sol Bek",
+        "takim": "Fulham FC",
+        "yas": "33",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Ryan Sessegnon",
+        "mevki": "Sol Bek",
+        "takim": "Fulham FC",
+        "yas": "30",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Kenny Tete",
+        "mevki": "Sağ Bek",
+        "takim": "Fulham FC",
+        "yas": "30",
+        "piyasa_degeri": "11.00 mil. €"
+    },
+    {
+        "ad": "Timothy Castagne",
+        "mevki": "Sağ Bek",
+        "takim": "Fulham FC",
+        "yas": "21",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Sander Berge",
+        "mevki": "Ön Libero",
+        "takim": "Fulham FC",
+        "yas": "16",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Saša Lukić",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Fulham FC",
+        "yas": "20",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Harrison Reed",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Fulham FC",
+        "yas": "31",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Tom Cairney",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Fulham FC",
+        "yas": "10",
+        "piyasa_degeri": "750 bin €"
+    },
+    {
+        "ad": "Emile Smith Rowe",
+        "mevki": "On Numara",
+        "takim": "Fulham FC",
+        "yas": "32",
+        "piyasa_degeri": "22.00 mil. €"
+    },
+    {
+        "ad": "Josh King",
+        "mevki": "On Numara",
+        "takim": "Fulham FC",
+        "yas": "24",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Kevin",
+        "mevki": "Sol Kanat",
+        "takim": "Fulham FC",
+        "yas": "22",
+        "piyasa_degeri": "30.00 mil. €"
+    },
+    {
+        "ad": "Alex Iwobi",
+        "mevki": "Sol Kanat",
+        "takim": "Fulham FC",
+        "yas": "17",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Oscar Bobb",
+        "mevki": "Sağ Kanat",
+        "takim": "Fulham FC",
+        "yas": "14",
+        "piyasa_degeri": "30.00 mil. €"
+    },
+    {
+        "ad": "Harry Wilson",
+        "mevki": "Sağ Kanat",
+        "takim": "Fulham FC",
+        "yas": "29",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Samuel Chukwueze",
+        "mevki": "Sağ Kanat",
+        "takim": "Fulham FC",
+        "yas": "19",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Rodrigo Muniz",
+        "mevki": "Santrafor",
+        "takim": "Fulham FC",
+        "yas": "24",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Raúl Jiménez",
+        "mevki": "Santrafor",
+        "takim": "Fulham FC",
+        "yas": "34",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Jonah Kusi-Asare",
+        "mevki": "Santrafor",
+        "takim": "Fulham FC",
+        "yas": "18",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Robin Roefs",
+        "mevki": "Kaleci",
+        "takim": "Sunderland",
+        "yas": "22",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Melker Ellborg",
+        "mevki": "Kaleci",
+        "takim": "Sunderland",
+        "yas": "31",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Simon Moore",
+        "mevki": "Kaleci",
+        "takim": "Sunderland",
+        "yas": "21",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Dan Ballard",
+        "mevki": "Stoper",
+        "takim": "Sunderland",
+        "yas": "26",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Omar Alderete",
+        "mevki": "Stoper",
+        "takim": "Sunderland",
+        "yas": "15",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Luke O'Nien",
+        "mevki": "Stoper",
+        "takim": "Sunderland",
+        "yas": "13",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Dennis Cirkin",
+        "mevki": "Sol Bek",
+        "takim": "Sunderland",
+        "yas": "24",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Reinildo Mandava",
+        "mevki": "Sol Bek",
+        "takim": "Sunderland",
+        "yas": "17",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Trai Hume",
+        "mevki": "Sağ Bek",
+        "takim": "Sunderland",
+        "yas": "32",
+        "piyasa_degeri": "22.00 mil. €"
+    },
+    {
+        "ad": "Lutsharel Geertruida",
+        "mevki": "Sağ Bek",
+        "takim": "Sunderland",
+        "yas": "25",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Nordi Mukiele",
+        "mevki": "Sağ Bek",
+        "takim": "Sunderland",
+        "yas": "20",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Granit Xhaka",
+        "mevki": "Ön Libero",
+        "takim": "Sunderland",
+        "yas": "34",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Habib Diarra",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Sunderland",
+        "yas": "19",
+        "piyasa_degeri": "32.00 mil. €"
+    },
+    {
+        "ad": "Noah Sadiki",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Sunderland",
+        "yas": "27",
+        "piyasa_degeri": "30.00 mil. €"
+    },
+    {
+        "ad": "Enzo Le Fée",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Sunderland",
+        "yas": "28",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Abdoullah Ba",
+        "mevki": "Orta Saha Sağ",
+        "takim": "Sunderland",
+        "yas": "46",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Chris Rigg",
+        "mevki": "On Numara",
+        "takim": "Sunderland",
+        "yas": "11",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Milan Aleksic",
+        "mevki": "On Numara",
+        "takim": "Sunderland",
+        "yas": "30",
+        "piyasa_degeri": "700 bin €"
+    },
+    {
+        "ad": "Harrison Jones",
+        "mevki": "On Numara",
+        "takim": "Sunderland",
+        "yas": "50",
+        "piyasa_degeri": "150 bin €"
+    },
+    {
+        "ad": "Nilson Angulo",
+        "mevki": "Sol Kanat",
+        "takim": "Sunderland",
+        "yas": "10",
+        "piyasa_degeri": "17.00 mil. €"
+    },
+    {
+        "ad": "Romaine Mundle",
+        "mevki": "Sol Kanat",
+        "takim": "Sunderland",
+        "yas": "14",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Chemsdine Talbi",
+        "mevki": "Sağ Kanat",
+        "takim": "Sunderland",
+        "yas": "20",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Bertrand Traoré",
+        "mevki": "Sağ Kanat",
+        "takim": "Sunderland",
+        "yas": "25",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Jocelin Ta Bi",
+        "mevki": "Sağ Kanat",
+        "takim": "Sunderland",
+        "yas": "37",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Brian Brobbey",
+        "mevki": "Santrafor",
+        "takim": "Sunderland",
+        "yas": "24",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Eliezer Mayenda",
+        "mevki": "Santrafor",
+        "takim": "Sunderland",
+        "yas": "12",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Wilson Isidor",
+        "mevki": "Santrafor",
+        "takim": "Sunderland",
+        "yas": "18",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Ahmed Abdullahi",
+        "mevki": "Santrafor",
+        "takim": "Sunderland",
+        "yas": "29",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Mads Hermansen",
+        "mevki": "Kaleci",
+        "takim": "West Ham United",
+        "yas": "25",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Alphonse Areola",
+        "mevki": "Kaleci",
+        "takim": "West Ham United",
+        "yas": "23",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Lukasz Fabianski",
+        "mevki": "Kaleci",
+        "takim": "West Ham United",
+        "yas": "22",
+        "piyasa_degeri": "250 bin €"
+    },
+    {
+        "ad": "Jean-Clair Todibo",
+        "mevki": "Stoper",
+        "takim": "West Ham United",
+        "yas": "25",
+        "piyasa_degeri": "23.00 mil. €"
+    },
+    {
+        "ad": "Maximilian Kilman",
+        "mevki": "Stoper",
+        "takim": "West Ham United",
+        "yas": "28",
+        "piyasa_degeri": "16.00 mil. €"
+    },
+    {
+        "ad": "Axel Disasi",
+        "mevki": "Stoper",
+        "takim": "West Ham United",
+        "yas": "28",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Konstantinos Mavropanos",
+        "mevki": "Stoper",
+        "takim": "West Ham United",
+        "yas": "15",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Ezra Mayers",
+        "mevki": "Stoper",
+        "takim": "West Ham United",
+        "yas": "63",
+        "piyasa_degeri": "1.20 mil. €"
+    },
+    {
+        "ad": "El Hadji Malick Diouf",
+        "mevki": "Sol Bek",
+        "takim": "West Ham United",
+        "yas": "12",
+        "piyasa_degeri": "28.00 mil. €"
+    },
+    {
+        "ad": "Oliver Scarles",
+        "mevki": "Sol Bek",
+        "takim": "West Ham United",
+        "yas": "30",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Aaron Wan-Bissaka",
+        "mevki": "Sağ Bek",
+        "takim": "West Ham United",
+        "yas": "29",
+        "piyasa_degeri": "22.00 mil. €"
+    },
+    {
+        "ad": "Kyle Walker-Peters",
+        "mevki": "Sağ Bek",
+        "takim": "West Ham United",
+        "yas": "29",
+        "piyasa_degeri": "13.00 mil. €"
+    },
+    {
+        "ad": "Soungoutou Magassa",
+        "mevki": "Ön Libero",
+        "takim": "West Ham United",
+        "yas": "27",
+        "piyasa_degeri": "17.00 mil. €"
+    },
+    {
+        "ad": "Tomáš Souček",
+        "mevki": "Ön Libero",
+        "takim": "West Ham United",
+        "yas": "28",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Freddie Potts",
+        "mevki": "Ön Libero",
+        "takim": "West Ham United",
+        "yas": "32",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Mohamadou Kanté",
+        "mevki": "Ön Libero",
+        "takim": "West Ham United",
+        "yas": "55",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Mateus Fernandes",
+        "mevki": "Merkez Orta Saha",
+        "takim": "West Ham United",
+        "yas": "18",
+        "piyasa_degeri": "35.00 mil. €"
+    },
+    {
+        "ad": "Crysencio Summerville",
+        "mevki": "Sol Kanat",
+        "takim": "West Ham United",
+        "yas": "24",
+        "piyasa_degeri": "30.00 mil. €"
+    },
+    {
+        "ad": "Keiber Lamadrid",
+        "mevki": "Sol Kanat",
+        "takim": "West Ham United",
+        "yas": "21",
+        "piyasa_degeri": "1.20 mil. €"
+    },
+    {
+        "ad": "Jarrod Bowen",
+        "mevki": "Sağ Kanat",
+        "takim": "West Ham United",
+        "yas": "20",
+        "piyasa_degeri": "35.00 mil. €"
+    },
+    {
+        "ad": "Adama Traoré",
+        "mevki": "Sağ Kanat",
+        "takim": "West Ham United",
+        "yas": "17",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Taty Castellanos",
+        "mevki": "Santrafor",
+        "takim": "West Ham United",
+        "yas": "11",
+        "piyasa_degeri": "28.00 mil. €"
+    },
+    {
+        "ad": "Pablo",
+        "mevki": "Santrafor",
+        "takim": "West Ham United",
+        "yas": "19",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Callum Wilson",
+        "mevki": "Santrafor",
+        "takim": "West Ham United",
+        "yas": "34",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "José Sá",
+        "mevki": "Kaleci",
+        "takim": "Wolverhampton Wanderers",
+        "yas": "33",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Sam Johnstone",
+        "mevki": "Kaleci",
+        "takim": "Wolverhampton Wanderers",
+        "yas": "31",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Daniel Bentley",
+        "mevki": "Kaleci",
+        "takim": "Wolverhampton Wanderers",
+        "yas": "25",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Ladislav Krejčí",
+        "mevki": "Stoper",
+        "takim": "Wolverhampton Wanderers",
+        "yas": "37",
+        "piyasa_degeri": "22.00 mil. €"
+    },
+    {
+        "ad": "Toti",
+        "mevki": "Stoper",
+        "takim": "Wolverhampton Wanderers",
+        "yas": "24",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Yerson Mosquera",
+        "mevki": "Stoper",
+        "takim": "Wolverhampton Wanderers",
+        "yas": "15",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Santiago Bueno",
+        "mevki": "Stoper",
+        "takim": "Wolverhampton Wanderers",
+        "yas": "27",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Hugo Bueno",
+        "mevki": "Sol Bek",
+        "takim": "Wolverhampton Wanderers",
+        "yas": "23",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "David Møller Wolfe",
+        "mevki": "Sol Bek",
+        "takim": "Wolverhampton Wanderers",
+        "yas": "23",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Jackson Tchatchoua",
+        "mevki": "Sağ Bek",
+        "takim": "Wolverhampton Wanderers",
+        "yas": "38",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Pedro Lima",
+        "mevki": "Sağ Bek",
+        "takim": "Wolverhampton Wanderers",
+        "yas": "17",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Matt Doherty",
+        "mevki": "Sağ Bek",
+        "takim": "Wolverhampton Wanderers",
+        "yas": "34",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "André",
+        "mevki": "Ön Libero",
+        "takim": "Wolverhampton Wanderers",
+        "yas": "24",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "João Gomes",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Wolverhampton Wanderers",
+        "yas": "25",
+        "piyasa_degeri": "35.00 mil. €"
+    },
+    {
+        "ad": "Jean-Ricner Bellegarde",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Wolverhampton Wanderers",
+        "yas": "27",
+        "piyasa_degeri": "16.00 mil. €"
+    },
+    {
+        "ad": "Rodrigo Gomes",
+        "mevki": "Orta Saha Sol",
+        "takim": "Wolverhampton Wanderers",
+        "yas": "21",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Mateus Mané",
+        "mevki": "On Numara",
+        "takim": "Wolverhampton Wanderers",
+        "yas": "36",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Angel Gomes",
+        "mevki": "On Numara",
+        "takim": "Wolverhampton Wanderers",
+        "yas": "47",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Enso González",
+        "mevki": "Sol Kanat",
+        "takim": "Wolverhampton Wanderers",
+        "yas": "30",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Tolu Arokodare",
+        "mevki": "Santrafor",
+        "takim": "Wolverhampton Wanderers",
+        "yas": "14",
+        "piyasa_degeri": "22.00 mil. €"
+    },
+    {
+        "ad": "Adam Armstrong",
+        "mevki": "Santrafor",
+        "takim": "Wolverhampton Wanderers",
+        "yas": "29",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Hee-chan Hwang",
+        "mevki": "Santrafor",
+        "takim": "Wolverhampton Wanderers",
+        "yas": "11",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Nathan Fraser",
+        "mevki": "Santrafor",
+        "takim": "Wolverhampton Wanderers",
+        "yas": "63",
+        "piyasa_degeri": "600 bin €"
+    },
+    {
+        "ad": "Max Weiß",
+        "mevki": "Kaleci",
+        "takim": "Burnley FC",
+        "yas": "13",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Martin Dúbravka",
+        "mevki": "Kaleci",
+        "takim": "Burnley FC",
+        "yas": "37",
+        "piyasa_degeri": "750 bin €"
+    },
+    {
+        "ad": "Václav Hladký",
+        "mevki": "Kaleci",
+        "takim": "Burnley FC",
+        "yas": "32",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Maxime Estève",
+        "mevki": "Stoper",
+        "takim": "Burnley FC",
+        "yas": "23",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Bashir Humphreys",
+        "mevki": "Stoper",
+        "takim": "Burnley FC",
+        "yas": "12",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Hjalmar Ekdal",
+        "mevki": "Stoper",
+        "takim": "Burnley FC",
+        "yas": "18",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Axel Tuanzebe",
+        "mevki": "Stoper",
+        "takim": "Burnley FC",
+        "yas": "28",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Joe Worrall",
+        "mevki": "Stoper",
+        "takim": "Burnley FC",
+        "yas": "29",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Jordan Beyer",
+        "mevki": "Stoper",
+        "takim": "Burnley FC",
+        "yas": "36",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Quilindschy Hartman",
+        "mevki": "Sol Bek",
+        "takim": "Burnley FC",
+        "yas": "24",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Lucas Pires",
+        "mevki": "Sol Bek",
+        "takim": "Burnley FC",
+        "yas": "23",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Kyle Walker",
+        "mevki": "Sağ Bek",
+        "takim": "Burnley FC",
+        "yas": "35",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Connor Roberts",
+        "mevki": "Sağ Bek",
+        "takim": "Burnley FC",
+        "yas": "14",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Lesley Ugochukwu",
+        "mevki": "Ön Libero",
+        "takim": "Burnley FC",
+        "yas": "22",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Florentino",
+        "mevki": "Ön Libero",
+        "takim": "Burnley FC",
+        "yas": "16",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "James Ward-Prowse",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Burnley FC",
+        "yas": "20",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Josh Cullen",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Burnley FC",
+        "yas": "24",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Josh Laurent",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Burnley FC",
+        "yas": "29",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Hannibal",
+        "mevki": "On Numara",
+        "takim": "Burnley FC",
+        "yas": "28",
+        "piyasa_degeri": "16.00 mil. €"
+    },
+    {
+        "ad": "Mike Tresor",
+        "mevki": "On Numara",
+        "takim": "Burnley FC",
+        "yas": "31",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Jaidon Anthony",
+        "mevki": "Sol Kanat",
+        "takim": "Burnley FC",
+        "yas": "11",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Jacob Bruun Larsen",
+        "mevki": "Sol Kanat",
+        "takim": "Burnley FC",
+        "yas": "27",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Loum Tchaouna",
+        "mevki": "Sağ Kanat",
+        "takim": "Burnley FC",
+        "yas": "17",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Marcus Edwards",
+        "mevki": "Sağ Kanat",
+        "takim": "Burnley FC",
+        "yas": "10",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Zian Flemming",
+        "mevki": "Santrafor",
+        "takim": "Burnley FC",
+        "yas": "19",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Lyle Foster",
+        "mevki": "Santrafor",
+        "takim": "Burnley FC",
+        "yas": "25",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Zeki Amdouni",
+        "mevki": "Santrafor",
+        "takim": "Burnley FC",
+        "yas": "25",
+        "piyasa_degeri": "9.00 mil. €"
+    },
+    {
+        "ad": "Armando Broja",
+        "mevki": "Santrafor",
+        "takim": "Burnley FC",
+        "yas": "27",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Ashley Barnes",
+        "mevki": "Santrafor",
+        "takim": "Burnley FC",
+        "yas": "35",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Emiliano Martínez",
+        "takim": "Aston Villa",
+        "mevki": "Kaleci",
+        "yas": "",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Marco Bizot",
+        "takim": "Aston Villa",
+        "mevki": "Kaleci",
+        "yas": "",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Ezri Konsa",
+        "takim": "Aston Villa",
+        "mevki": "Stoper",
+        "yas": "",
+        "piyasa_degeri": "40.00 mil. €"
+    },
+    {
+        "ad": "Pau Torres",
+        "takim": "Aston Villa",
+        "mevki": "Stoper",
+        "yas": "",
+        "piyasa_degeri": "22.00 mil. €"
+    },
+    {
+        "ad": "Victor Lindelöf",
+        "takim": "Aston Villa",
+        "mevki": "Stoper",
+        "yas": "",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Tyrone Mings",
+        "takim": "Aston Villa",
+        "mevki": "Stoper",
+        "yas": "",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Ian Maatsen",
+        "takim": "Aston Villa",
+        "mevki": "Sol Bek",
+        "yas": "",
+        "piyasa_degeri": "30.00 mil. €"
+    },
+    {
+        "ad": "Lucas Digne",
+        "takim": "Aston Villa",
+        "mevki": "Sol Bek",
+        "yas": "",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Matty Cash",
+        "takim": "Aston Villa",
+        "mevki": "Sağ Bek",
+        "yas": "",
+        "piyasa_degeri": "22.00 mil. €"
+    },
+    {
+        "ad": "Andrés García",
+        "takim": "Aston Villa",
+        "mevki": "Sağ Bek",
+        "yas": "",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Amadou Onana",
+        "takim": "Aston Villa",
+        "mevki": "Ön Libero",
+        "yas": "",
+        "piyasa_degeri": "45.00 mil. €"
+    },
+    {
+        "ad": "Boubacar Kamara",
+        "takim": "Aston Villa",
+        "mevki": "Ön Libero",
+        "yas": "",
+        "piyasa_degeri": "40.00 mil. €"
+    },
+    {
+        "ad": "Lamare Bogarde",
+        "takim": "Aston Villa",
+        "mevki": "Ön Libero",
+        "yas": "",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Youri Tielemans",
+        "takim": "Aston Villa",
+        "mevki": "Merkez Orta Saha",
+        "yas": "",
+        "piyasa_degeri": "35.00 mil. €"
+    },
+    {
+        "ad": "Douglas Luiz",
+        "takim": "Aston Villa",
+        "mevki": "Merkez Orta Saha",
+        "yas": "",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "John McGinn",
+        "takim": "Aston Villa",
+        "mevki": "Merkez Orta Saha",
+        "yas": "",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Ross Barkley",
+        "takim": "Aston Villa",
+        "mevki": "Merkez Orta Saha",
+        "yas": "",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Morgan Rogers",
+        "takim": "Aston Villa",
+        "mevki": "On Numara",
+        "yas": "",
+        "piyasa_degeri": "80.00 mil. €"
+    },
+    {
+        "ad": "Harvey Elliott",
+        "takim": "Aston Villa",
+        "mevki": "On Numara",
+        "yas": "",
+        "piyasa_degeri": "22.00 mil. €"
+    },
+    {
+        "ad": "Emiliano Buendía",
+        "takim": "Aston Villa",
+        "mevki": "On Numara",
+        "yas": "",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Jadon Sancho",
+        "takim": "Aston Villa",
+        "mevki": "Sol Kanat",
+        "yas": "",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Leon Bailey",
+        "takim": "Aston Villa",
+        "mevki": "Sağ Kanat",
+        "yas": "",
+        "piyasa_degeri": "16.00 mil. €"
+    },
+    {
+        "ad": "Alysson",
+        "takim": "Aston Villa",
+        "mevki": "Sağ Kanat",
+        "yas": "",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Ollie Watkins",
+        "takim": "Aston Villa",
+        "mevki": "Santrafor",
+        "yas": "",
+        "piyasa_degeri": "30.00 mil. €"
+    },
+    {
+        "ad": "Tammy Abraham",
+        "takim": "Aston Villa",
+        "mevki": "Santrafor",
+        "yas": "",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Lucas Perri",
+        "takim": "Leeds United",
+        "mevki": "Kaleci",
+        "yas": "",
+        "piyasa_degeri": "13.00 mil. €"
+    },
+    {
+        "ad": "Illan Meslier",
+        "takim": "Leeds United",
+        "mevki": "Kaleci",
+        "yas": "",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Karl Darlow",
+        "takim": "Leeds United",
+        "mevki": "Kaleci",
+        "yas": "",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Alex Cairns",
+        "takim": "Leeds United",
+        "mevki": "Kaleci",
+        "yas": "",
+        "piyasa_degeri": "75 bin €"
+    },
+    {
+        "ad": "Pascal Struijk",
+        "takim": "Leeds United",
+        "mevki": "Stoper",
+        "yas": "",
+        "piyasa_degeri": "22.00 mil. €"
+    },
+    {
+        "ad": "Jaka Bijol",
+        "takim": "Leeds United",
+        "mevki": "Stoper",
+        "yas": "",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Joe Rodon",
+        "takim": "Leeds United",
+        "mevki": "Stoper",
+        "yas": "",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Sebastiaan Bornauw",
+        "takim": "Leeds United",
+        "mevki": "Stoper",
+        "yas": "",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Gabriel Gudmundsson",
+        "takim": "Leeds United",
+        "mevki": "Sol Bek",
+        "yas": "",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Sam Byram",
+        "takim": "Leeds United",
+        "mevki": "Sol Bek",
+        "yas": "",
+        "piyasa_degeri": "600 bin €"
+    },
+    {
+        "ad": "Jayden Bogle",
+        "takim": "Leeds United",
+        "mevki": "Sağ Bek",
+        "yas": "",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "James Justin",
+        "takim": "Leeds United",
+        "mevki": "Sağ Bek",
+        "yas": "",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Ethan Ampadu",
+        "takim": "Leeds United",
+        "mevki": "Ön Libero",
+        "yas": "",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Anton Stach",
+        "takim": "Leeds United",
+        "mevki": "Ön Libero",
+        "yas": "",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Ilia Gruev",
+        "takim": "Leeds United",
+        "mevki": "Ön Libero",
+        "yas": "",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Charlie Crew",
+        "takim": "Leeds United",
+        "mevki": "Ön Libero",
+        "yas": "",
+        "piyasa_degeri": "150 bin €"
+    },
+    {
+        "ad": "Sean Longstaff",
+        "takim": "Leeds United",
+        "mevki": "Merkez Orta Saha",
+        "yas": "",
+        "piyasa_degeri": "16.00 mil. €"
+    },
+    {
+        "ad": "Ao Tanaka",
+        "takim": "Leeds United",
+        "mevki": "Merkez Orta Saha",
+        "yas": "",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Brenden Aaronson",
+        "takim": "Leeds United",
+        "mevki": "On Numara",
+        "yas": "",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Facundo Buonanotte",
+        "takim": "Leeds United",
+        "mevki": "On Numara",
+        "yas": "",
+        "piyasa_degeri": "16.00 mil. €"
+    },
+    {
+        "ad": "Noah Okafor",
+        "takim": "Leeds United",
+        "mevki": "Sol Kanat",
+        "yas": "",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Wilfried Gnonto",
+        "takim": "Leeds United",
+        "mevki": "Sağ Kanat",
+        "yas": "",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Daniel James",
+        "takim": "Leeds United",
+        "mevki": "Sağ Kanat",
+        "yas": "",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Dominic Calvert-Lewin",
+        "takim": "Leeds United",
+        "mevki": "Santrafor",
+        "yas": "",
+        "piyasa_degeri": "22.00 mil. €"
+    },
+    {
+        "ad": "Joël Piroe",
+        "takim": "Leeds United",
+        "mevki": "Santrafor",
+        "yas": "",
+        "piyasa_degeri": "13.00 mil. €"
+    },
+    {
+        "ad": "Lukas Nmecha",
+        "takim": "Leeds United",
+        "mevki": "Santrafor",
+        "yas": "",
+        "piyasa_degeri": "10.00 mil. €"
+    }
+]

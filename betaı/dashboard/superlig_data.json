@@ -1,0 +1,2450 @@
+[
+    {
+        "Hafta": "1",
+        "Ev Sahibi": "Antalyaspor",
+        "Deplasman": "Kasımpaşa",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "1",
+        "Ev Sahibi": "Rizespor",
+        "Deplasman": "Göztepe",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 3,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "1",
+        "Ev Sahibi": "Eyüpspor",
+        "Deplasman": "Konyaspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 3,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "1",
+        "Ev Sahibi": "Fatih Karagümrük",
+        "Deplasman": "İstanbul Başakşehir",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "1",
+        "Ev Sahibi": "Fenerbahçe",
+        "Deplasman": "Alanyaspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 3,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "1",
+        "Ev Sahibi": "Gaziantep F.K.",
+        "Deplasman": "Galatasaray",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 2
+    },
+    {
+        "Hafta": "1",
+        "Ev Sahibi": "Kayserispor",
+        "Deplasman": "Beşiktaş",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 2
+    },
+    {
+        "Hafta": "1",
+        "Ev Sahibi": "Samsunspor",
+        "Deplasman": "Gençlerbirliği",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "1",
+        "Ev Sahibi": "Trabzonspor",
+        "Deplasman": "Kocaelispor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 2
+    },
+    {
+        "Hafta": "2",
+        "Ev Sahibi": "Alanyaspor",
+        "Deplasman": "Rizespor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 3
+    },
+    {
+        "Hafta": "2",
+        "Ev Sahibi": "İstanbul Başakşehir",
+        "Deplasman": "Kayserispor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "2",
+        "Ev Sahibi": "Beşiktaş",
+        "Deplasman": "Eyüpspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 3,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "2",
+        "Ev Sahibi": "Galatasaray",
+        "Deplasman": "Fatih Karagümrük",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 3,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "2",
+        "Ev Sahibi": "Gençlerbirliği",
+        "Deplasman": "Antalyaspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 3,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "2",
+        "Ev Sahibi": "Göztepe",
+        "Deplasman": "Fenerbahçe",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 2
+    },
+    {
+        "Hafta": "2",
+        "Ev Sahibi": "Kasımpaşa",
+        "Deplasman": "Trabzonspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "2",
+        "Ev Sahibi": "Kocaelispor",
+        "Deplasman": "Samsunspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 2,
+        "Dep Net Fırsat": 2
+    },
+    {
+        "Hafta": "2",
+        "Ev Sahibi": "Konyaspor",
+        "Deplasman": "Gaziantep F.K.",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 2,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "3",
+        "Ev Sahibi": "Rizespor",
+        "Deplasman": "İstanbul Başakşehir",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "3",
+        "Ev Sahibi": "Eyüpspor",
+        "Deplasman": "Alanyaspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "3",
+        "Ev Sahibi": "Fatih Karagümrük",
+        "Deplasman": "Göztepe",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 2
+    },
+    {
+        "Hafta": "3",
+        "Ev Sahibi": "Fenerbahçe",
+        "Deplasman": "Kocaelispor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 2,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "3",
+        "Ev Sahibi": "Gaziantep F.K.",
+        "Deplasman": "Gençlerbirliği",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "3",
+        "Ev Sahibi": "Kayserispor",
+        "Deplasman": "Galatasaray",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 5
+    },
+    {
+        "Hafta": "3",
+        "Ev Sahibi": "Konyaspor",
+        "Deplasman": "Beşiktaş",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 2
+    },
+    {
+        "Hafta": "3",
+        "Ev Sahibi": "Samsunspor",
+        "Deplasman": "Kasımpaşa",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 3,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "3",
+        "Ev Sahibi": "Trabzonspor",
+        "Deplasman": "Antalyaspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "4",
+        "Ev Sahibi": "Alanyaspor",
+        "Deplasman": "Beşiktaş",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 4
+    },
+    {
+        "Hafta": "4",
+        "Ev Sahibi": "Antalyaspor",
+        "Deplasman": "Fatih Karagümrük",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 2,
+        "Dep Net Fırsat": 3
+    },
+    {
+        "Hafta": "4",
+        "Ev Sahibi": "İstanbul Başakşehir",
+        "Deplasman": "Eyüpspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 2
+    },
+    {
+        "Hafta": "4",
+        "Ev Sahibi": "Galatasaray",
+        "Deplasman": "Rizespor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 2,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "4",
+        "Ev Sahibi": "Gençlerbirliği",
+        "Deplasman": "Fenerbahçe",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "4",
+        "Ev Sahibi": "Göztepe",
+        "Deplasman": "Konyaspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 3,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "4",
+        "Ev Sahibi": "Kasımpaşa",
+        "Deplasman": "Gaziantep F.K.",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 2,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "4",
+        "Ev Sahibi": "Kocaelispor",
+        "Deplasman": "Kayserispor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 3,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "4",
+        "Ev Sahibi": "Trabzonspor",
+        "Deplasman": "Samsunspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "5",
+        "Ev Sahibi": "Beşiktaş",
+        "Deplasman": "İstanbul Başakşehir",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 2,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "5",
+        "Ev Sahibi": "Rizespor",
+        "Deplasman": "Gençlerbirliği",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "5",
+        "Ev Sahibi": "Eyüpspor",
+        "Deplasman": "Galatasaray",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 2
+    },
+    {
+        "Hafta": "5",
+        "Ev Sahibi": "Fatih Karagümrük",
+        "Deplasman": "Kasımpaşa",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 2
+    },
+    {
+        "Hafta": "5",
+        "Ev Sahibi": "Fenerbahçe",
+        "Deplasman": "Trabzonspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 3,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "5",
+        "Ev Sahibi": "Gaziantep F.K.",
+        "Deplasman": "Kocaelispor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 3,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "5",
+        "Ev Sahibi": "Kayserispor",
+        "Deplasman": "Göztepe",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 2,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "5",
+        "Ev Sahibi": "Konyaspor",
+        "Deplasman": "Alanyaspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 2
+    },
+    {
+        "Hafta": "5",
+        "Ev Sahibi": "Samsunspor",
+        "Deplasman": "Antalyaspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "6",
+        "Ev Sahibi": "Antalyaspor",
+        "Deplasman": "Kayserispor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 2,
+        "Dep Net Fırsat": 2
+    },
+    {
+        "Hafta": "6",
+        "Ev Sahibi": "İstanbul Başakşehir",
+        "Deplasman": "Alanyaspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 2,
+        "Dep Net Fırsat": 5
+    },
+    {
+        "Hafta": "6",
+        "Ev Sahibi": "Galatasaray",
+        "Deplasman": "Konyaspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "6",
+        "Ev Sahibi": "Gençlerbirliği",
+        "Deplasman": "Eyüpspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 2
+    },
+    {
+        "Hafta": "6",
+        "Ev Sahibi": "Göztepe",
+        "Deplasman": "Beşiktaş",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 3,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "6",
+        "Ev Sahibi": "Kasımpaşa",
+        "Deplasman": "Fenerbahçe",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 2,
+        "Dep Net Fırsat": 2
+    },
+    {
+        "Hafta": "6",
+        "Ev Sahibi": "Kocaelispor",
+        "Deplasman": "Rizespor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "6",
+        "Ev Sahibi": "Samsunspor",
+        "Deplasman": "Fatih Karagümrük",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 2,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "6",
+        "Ev Sahibi": "Trabzonspor",
+        "Deplasman": "Gaziantep F.K.",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 3,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "7",
+        "Ev Sahibi": "Alanyaspor",
+        "Deplasman": "Galatasaray",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 5,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "7",
+        "Ev Sahibi": "Beşiktaş",
+        "Deplasman": "Kocaelispor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "7",
+        "Ev Sahibi": "Rizespor",
+        "Deplasman": "Kasımpaşa",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "7",
+        "Ev Sahibi": "Eyüpspor",
+        "Deplasman": "Göztepe",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 2,
+        "Dep Net Fırsat": 2
+    },
+    {
+        "Hafta": "7",
+        "Ev Sahibi": "Fatih Karagümrük",
+        "Deplasman": "Trabzonspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 2,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "7",
+        "Ev Sahibi": "Fenerbahçe",
+        "Deplasman": "Antalyaspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 2,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "7",
+        "Ev Sahibi": "Gaziantep F.K.",
+        "Deplasman": "Samsunspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "7",
+        "Ev Sahibi": "Kayserispor",
+        "Deplasman": "Gençlerbirliği",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 3,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "7",
+        "Ev Sahibi": "Konyaspor",
+        "Deplasman": "İstanbul Başakşehir",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "8",
+        "Ev Sahibi": "Antalyaspor",
+        "Deplasman": "Rizespor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "8",
+        "Ev Sahibi": "Fatih Karagümrük",
+        "Deplasman": "Gaziantep F.K.",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 3,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "8",
+        "Ev Sahibi": "Galatasaray",
+        "Deplasman": "Beşiktaş",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "8",
+        "Ev Sahibi": "Gençlerbirliği",
+        "Deplasman": "Alanyaspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "8",
+        "Ev Sahibi": "Göztepe",
+        "Deplasman": "İstanbul Başakşehir",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 2
+    },
+    {
+        "Hafta": "8",
+        "Ev Sahibi": "Kasımpaşa",
+        "Deplasman": "Konyaspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "8",
+        "Ev Sahibi": "Kocaelispor",
+        "Deplasman": "Eyüpspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "8",
+        "Ev Sahibi": "Samsunspor",
+        "Deplasman": "Fenerbahçe",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 4,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "8",
+        "Ev Sahibi": "Trabzonspor",
+        "Deplasman": "Kayserispor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 5,
+        "Dep Net Fırsat": 2
+    },
+    {
+        "Hafta": "9",
+        "Ev Sahibi": "Alanyaspor",
+        "Deplasman": "Göztepe",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "9",
+        "Ev Sahibi": "İstanbul Başakşehir",
+        "Deplasman": "Galatasaray",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 2,
+        "Dep Net Fırsat": 3
+    },
+    {
+        "Hafta": "9",
+        "Ev Sahibi": "Beşiktaş",
+        "Deplasman": "Gençlerbirliği",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 3,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "9",
+        "Ev Sahibi": "Rizespor",
+        "Deplasman": "Trabzonspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 2,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "9",
+        "Ev Sahibi": "Eyüpspor",
+        "Deplasman": "Kasımpaşa",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 6,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "9",
+        "Ev Sahibi": "Fenerbahçe",
+        "Deplasman": "Fatih Karagümrük",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "9",
+        "Ev Sahibi": "Gaziantep F.K.",
+        "Deplasman": "Antalyaspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 2,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "9",
+        "Ev Sahibi": "Kayserispor",
+        "Deplasman": "Samsunspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 2,
+        "Dep Net Fırsat": 5
+    },
+    {
+        "Hafta": "9",
+        "Ev Sahibi": "Konyaspor",
+        "Deplasman": "Kocaelispor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "10",
+        "Ev Sahibi": "Antalyaspor",
+        "Deplasman": "İstanbul Başakşehir",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 3
+    },
+    {
+        "Hafta": "10",
+        "Ev Sahibi": "Fatih Karagümrük",
+        "Deplasman": "Kayserispor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 2
+    },
+    {
+        "Hafta": "10",
+        "Ev Sahibi": "Galatasaray",
+        "Deplasman": "Göztepe",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 4,
+        "Dep Net Fırsat": 2
+    },
+    {
+        "Hafta": "10",
+        "Ev Sahibi": "Gaziantep F.K.",
+        "Deplasman": "Fenerbahçe",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 5
+    },
+    {
+        "Hafta": "10",
+        "Ev Sahibi": "Gençlerbirliği",
+        "Deplasman": "Konyaspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "10",
+        "Ev Sahibi": "Kasımpaşa",
+        "Deplasman": "Beşiktaş",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 5
+    },
+    {
+        "Hafta": "10",
+        "Ev Sahibi": "Kocaelispor",
+        "Deplasman": "Alanyaspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 3,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "10",
+        "Ev Sahibi": "Samsunspor",
+        "Deplasman": "Rizespor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 4,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "10",
+        "Ev Sahibi": "Trabzonspor",
+        "Deplasman": "Eyüpspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 2,
+        "Dep Net Fırsat": 2
+    },
+    {
+        "Hafta": "11",
+        "Ev Sahibi": "Alanyaspor",
+        "Deplasman": "Gaziantep F.K.",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 2,
+        "Dep Net Fırsat": 2
+    },
+    {
+        "Hafta": "11",
+        "Ev Sahibi": "İstanbul Başakşehir",
+        "Deplasman": "Kocaelispor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 3
+    },
+    {
+        "Hafta": "11",
+        "Ev Sahibi": "Beşiktaş",
+        "Deplasman": "Fenerbahçe",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "11",
+        "Ev Sahibi": "Rizespor",
+        "Deplasman": "Fatih Karagümrük",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "11",
+        "Ev Sahibi": "Eyüpspor",
+        "Deplasman": "Antalyaspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 3,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "11",
+        "Ev Sahibi": "Galatasaray",
+        "Deplasman": "Trabzonspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 3,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "11",
+        "Ev Sahibi": "Göztepe",
+        "Deplasman": "Gençlerbirliği",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 2,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "11",
+        "Ev Sahibi": "Kayserispor",
+        "Deplasman": "Kasımpaşa",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 2,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "11",
+        "Ev Sahibi": "Konyaspor",
+        "Deplasman": "Samsunspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 2,
+        "Dep Net Fırsat": 2
+    },
+    {
+        "Hafta": "12",
+        "Ev Sahibi": "Antalyaspor",
+        "Deplasman": "Beşiktaş",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "12",
+        "Ev Sahibi": "Fatih Karagümrük",
+        "Deplasman": "Konyaspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 2
+    },
+    {
+        "Hafta": "12",
+        "Ev Sahibi": "Fenerbahçe",
+        "Deplasman": "Kayserispor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 2,
+        "Dep Net Fırsat": 2
+    },
+    {
+        "Hafta": "12",
+        "Ev Sahibi": "Gaziantep F.K.",
+        "Deplasman": "Rizespor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 6,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "12",
+        "Ev Sahibi": "Gençlerbirliği",
+        "Deplasman": "İstanbul Başakşehir",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "12",
+        "Ev Sahibi": "Kasımpaşa",
+        "Deplasman": "Göztepe",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 2
+    },
+    {
+        "Hafta": "12",
+        "Ev Sahibi": "Kocaelispor",
+        "Deplasman": "Galatasaray",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 2,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "12",
+        "Ev Sahibi": "Samsunspor",
+        "Deplasman": "Eyüpspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "12",
+        "Ev Sahibi": "Trabzonspor",
+        "Deplasman": "Alanyaspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 3,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "13",
+        "Ev Sahibi": "Alanyaspor",
+        "Deplasman": "Kasımpaşa",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "13",
+        "Ev Sahibi": "İstanbul Başakşehir",
+        "Deplasman": "Trabzonspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 2
+    },
+    {
+        "Hafta": "13",
+        "Ev Sahibi": "Beşiktaş",
+        "Deplasman": "Samsunspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 2
+    },
+    {
+        "Hafta": "13",
+        "Ev Sahibi": "Rizespor",
+        "Deplasman": "Fenerbahçe",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "13",
+        "Ev Sahibi": "Eyüpspor",
+        "Deplasman": "Fatih Karagümrük",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 3,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "13",
+        "Ev Sahibi": "Galatasaray",
+        "Deplasman": "Gençlerbirliği",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 2,
+        "Dep Net Fırsat": 2
+    },
+    {
+        "Hafta": "13",
+        "Ev Sahibi": "Göztepe",
+        "Deplasman": "Kocaelispor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "13",
+        "Ev Sahibi": "Kayserispor",
+        "Deplasman": "Gaziantep F.K.",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "13",
+        "Ev Sahibi": "Konyaspor",
+        "Deplasman": "Antalyaspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "14",
+        "Ev Sahibi": "Antalyaspor",
+        "Deplasman": "Göztepe",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "14",
+        "Ev Sahibi": "Rizespor",
+        "Deplasman": "Kayserispor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "14",
+        "Ev Sahibi": "Fatih Karagümrük",
+        "Deplasman": "Beşiktaş",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 3
+    },
+    {
+        "Hafta": "14",
+        "Ev Sahibi": "Fenerbahçe",
+        "Deplasman": "Galatasaray",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "14",
+        "Ev Sahibi": "Gaziantep F.K.",
+        "Deplasman": "Eyüpspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 3
+    },
+    {
+        "Hafta": "14",
+        "Ev Sahibi": "Kasımpaşa",
+        "Deplasman": "İstanbul Başakşehir",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 2,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "14",
+        "Ev Sahibi": "Kocaelispor",
+        "Deplasman": "Gençlerbirliği",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "14",
+        "Ev Sahibi": "Samsunspor",
+        "Deplasman": "Alanyaspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "14",
+        "Ev Sahibi": "Trabzonspor",
+        "Deplasman": "Konyaspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 2,
+        "Dep Net Fırsat": 4
+    },
+    {
+        "Hafta": "15",
+        "Ev Sahibi": "Alanyaspor",
+        "Deplasman": "Antalyaspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 3,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "15",
+        "Ev Sahibi": "İstanbul Başakşehir",
+        "Deplasman": "Fenerbahçe",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 3
+    },
+    {
+        "Hafta": "15",
+        "Ev Sahibi": "Beşiktaş",
+        "Deplasman": "Gaziantep F.K.",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 5,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "15",
+        "Ev Sahibi": "Eyüpspor",
+        "Deplasman": "Kayserispor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "15",
+        "Ev Sahibi": "Galatasaray",
+        "Deplasman": "Samsunspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "15",
+        "Ev Sahibi": "Gençlerbirliği",
+        "Deplasman": "Fatih Karagümrük",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 4,
+        "Dep Net Fırsat": 3
+    },
+    {
+        "Hafta": "15",
+        "Ev Sahibi": "Göztepe",
+        "Deplasman": "Trabzonspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 3,
+        "Dep Net Fırsat": 2
+    },
+    {
+        "Hafta": "15",
+        "Ev Sahibi": "Kocaelispor",
+        "Deplasman": "Kasımpaşa",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 2,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "15",
+        "Ev Sahibi": "Konyaspor",
+        "Deplasman": "Rizespor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 2
+    },
+    {
+        "Hafta": "16",
+        "Ev Sahibi": "Antalyaspor",
+        "Deplasman": "Galatasaray",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 3
+    },
+    {
+        "Hafta": "16",
+        "Ev Sahibi": "Rizespor",
+        "Deplasman": "Eyüpspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 2,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "16",
+        "Ev Sahibi": "Fatih Karagümrük",
+        "Deplasman": "Kocaelispor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 2
+    },
+    {
+        "Hafta": "16",
+        "Ev Sahibi": "Fenerbahçe",
+        "Deplasman": "Konyaspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 2,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "16",
+        "Ev Sahibi": "Gaziantep F.K.",
+        "Deplasman": "Göztepe",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 3,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "16",
+        "Ev Sahibi": "Kasımpaşa",
+        "Deplasman": "Gençlerbirliği",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 2,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "16",
+        "Ev Sahibi": "Kayserispor",
+        "Deplasman": "Alanyaspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 2,
+        "Dep Net Fırsat": 5
+    },
+    {
+        "Hafta": "16",
+        "Ev Sahibi": "Samsunspor",
+        "Deplasman": "İstanbul Başakşehir",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "16",
+        "Ev Sahibi": "Trabzonspor",
+        "Deplasman": "Beşiktaş",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 2
+    },
+    {
+        "Hafta": "17",
+        "Ev Sahibi": "Alanyaspor",
+        "Deplasman": "Fatih Karagümrük",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "17",
+        "Ev Sahibi": "İstanbul Başakşehir",
+        "Deplasman": "Gaziantep F.K.",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 4,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "17",
+        "Ev Sahibi": "Beşiktaş",
+        "Deplasman": "Rizespor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 3,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "17",
+        "Ev Sahibi": "Eyüpspor",
+        "Deplasman": "Fenerbahçe",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 2,
+        "Dep Net Fırsat": 2
+    },
+    {
+        "Hafta": "17",
+        "Ev Sahibi": "Galatasaray",
+        "Deplasman": "Kasımpaşa",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 2,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "17",
+        "Ev Sahibi": "Gençlerbirliği",
+        "Deplasman": "Trabzonspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "17",
+        "Ev Sahibi": "Göztepe",
+        "Deplasman": "Samsunspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "17",
+        "Ev Sahibi": "Kocaelispor",
+        "Deplasman": "Antalyaspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "17",
+        "Ev Sahibi": "Konyaspor",
+        "Deplasman": "Kayserispor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 3
+    },
+    {
+        "Hafta": "18",
+        "Ev Sahibi": "Alanyaspor",
+        "Deplasman": "Fenerbahçe",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "18",
+        "Ev Sahibi": "İstanbul Başakşehir",
+        "Deplasman": "Fatih Karagümrük",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 4,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "18",
+        "Ev Sahibi": "Beşiktaş",
+        "Deplasman": "Kayserispor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "18",
+        "Ev Sahibi": "Galatasaray",
+        "Deplasman": "Gaziantep F.K.",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 3,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "18",
+        "Ev Sahibi": "Gençlerbirliği",
+        "Deplasman": "Samsunspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 2,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "18",
+        "Ev Sahibi": "Göztepe",
+        "Deplasman": "Rizespor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 2,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "18",
+        "Ev Sahibi": "Kasımpaşa",
+        "Deplasman": "Antalyaspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 3,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "18",
+        "Ev Sahibi": "Kocaelispor",
+        "Deplasman": "Trabzonspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "18",
+        "Ev Sahibi": "Konyaspor",
+        "Deplasman": "Eyüpspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 3,
+        "Dep Net Fırsat": 2
+    },
+    {
+        "Hafta": "19",
+        "Ev Sahibi": "Antalyaspor",
+        "Deplasman": "Gençlerbirliği",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "19",
+        "Ev Sahibi": "Rizespor",
+        "Deplasman": "Alanyaspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "19",
+        "Ev Sahibi": "Eyüpspor",
+        "Deplasman": "Beşiktaş",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "19",
+        "Ev Sahibi": "Fatih Karagümrük",
+        "Deplasman": "Galatasaray",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "19",
+        "Ev Sahibi": "Fenerbahçe",
+        "Deplasman": "Göztepe",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 4,
+        "Dep Net Fırsat": 2
+    },
+    {
+        "Hafta": "19",
+        "Ev Sahibi": "Gaziantep F.K.",
+        "Deplasman": "Konyaspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "19",
+        "Ev Sahibi": "Kayserispor",
+        "Deplasman": "İstanbul Başakşehir",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 3
+    },
+    {
+        "Hafta": "19",
+        "Ev Sahibi": "Samsunspor",
+        "Deplasman": "Kocaelispor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "19",
+        "Ev Sahibi": "Trabzonspor",
+        "Deplasman": "Kasımpaşa",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "20",
+        "Ev Sahibi": "Alanyaspor",
+        "Deplasman": "Eyüpspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 3,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "20",
+        "Ev Sahibi": "Antalyaspor",
+        "Deplasman": "Trabzonspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "20",
+        "Ev Sahibi": "İstanbul Başakşehir",
+        "Deplasman": "Rizespor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "20",
+        "Ev Sahibi": "Beşiktaş",
+        "Deplasman": "Konyaspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "20",
+        "Ev Sahibi": "Galatasaray",
+        "Deplasman": "Kayserispor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "20",
+        "Ev Sahibi": "Gençlerbirliği",
+        "Deplasman": "Gaziantep F.K.",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "20",
+        "Ev Sahibi": "Göztepe",
+        "Deplasman": "Fatih Karagümrük",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 2
+    },
+    {
+        "Hafta": "20",
+        "Ev Sahibi": "Kasımpaşa",
+        "Deplasman": "Samsunspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "20",
+        "Ev Sahibi": "Kocaelispor",
+        "Deplasman": "Fenerbahçe",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "21",
+        "Ev Sahibi": "Beşiktaş",
+        "Deplasman": "Alanyaspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 2,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "21",
+        "Ev Sahibi": "Rizespor",
+        "Deplasman": "Galatasaray",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 3,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "21",
+        "Ev Sahibi": "Eyüpspor",
+        "Deplasman": "İstanbul Başakşehir",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 3
+    },
+    {
+        "Hafta": "21",
+        "Ev Sahibi": "Fatih Karagümrük",
+        "Deplasman": "Antalyaspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "21",
+        "Ev Sahibi": "Fenerbahçe",
+        "Deplasman": "Gençlerbirliği",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "21",
+        "Ev Sahibi": "Gaziantep F.K.",
+        "Deplasman": "Kasımpaşa",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "21",
+        "Ev Sahibi": "Kayserispor",
+        "Deplasman": "Kocaelispor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 2,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "21",
+        "Ev Sahibi": "Konyaspor",
+        "Deplasman": "Göztepe",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 2,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "21",
+        "Ev Sahibi": "Samsunspor",
+        "Deplasman": "Trabzonspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "22",
+        "Ev Sahibi": "Alanyaspor",
+        "Deplasman": "Konyaspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "22",
+        "Ev Sahibi": "Antalyaspor",
+        "Deplasman": "Samsunspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 2
+    },
+    {
+        "Hafta": "22",
+        "Ev Sahibi": "İstanbul Başakşehir",
+        "Deplasman": "Beşiktaş",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "22",
+        "Ev Sahibi": "Galatasaray",
+        "Deplasman": "Eyüpspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 4,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "22",
+        "Ev Sahibi": "Gençlerbirliği",
+        "Deplasman": "Rizespor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "22",
+        "Ev Sahibi": "Göztepe",
+        "Deplasman": "Kayserispor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 2
+    },
+    {
+        "Hafta": "22",
+        "Ev Sahibi": "Kasımpaşa",
+        "Deplasman": "Fatih Karagümrük",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 3,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "22",
+        "Ev Sahibi": "Kocaelispor",
+        "Deplasman": "Gaziantep F.K.",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "22",
+        "Ev Sahibi": "Trabzonspor",
+        "Deplasman": "Fenerbahçe",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 3,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "23",
+        "Ev Sahibi": "Alanyaspor",
+        "Deplasman": "İstanbul Başakşehir",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 4
+    },
+    {
+        "Hafta": "23",
+        "Ev Sahibi": "Beşiktaş",
+        "Deplasman": "Göztepe",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "23",
+        "Ev Sahibi": "Rizespor",
+        "Deplasman": "Kocaelispor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "23",
+        "Ev Sahibi": "Eyüpspor",
+        "Deplasman": "Gençlerbirliği",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "23",
+        "Ev Sahibi": "Fatih Karagümrük",
+        "Deplasman": "Samsunspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 2,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "23",
+        "Ev Sahibi": "Fenerbahçe",
+        "Deplasman": "Kasımpaşa",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "23",
+        "Ev Sahibi": "Gaziantep F.K.",
+        "Deplasman": "Trabzonspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 2
+    },
+    {
+        "Hafta": "23",
+        "Ev Sahibi": "Kayserispor",
+        "Deplasman": "Antalyaspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 2,
+        "Dep Net Fırsat": 2
+    },
+    {
+        "Hafta": "23",
+        "Ev Sahibi": "Konyaspor",
+        "Deplasman": "Galatasaray",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "24",
+        "Ev Sahibi": "Antalyaspor",
+        "Deplasman": "Fenerbahçe",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 2
+    },
+    {
+        "Hafta": "24",
+        "Ev Sahibi": "İstanbul Başakşehir",
+        "Deplasman": "Konyaspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 2,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "24",
+        "Ev Sahibi": "Galatasaray",
+        "Deplasman": "Alanyaspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 2,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "24",
+        "Ev Sahibi": "Gençlerbirliği",
+        "Deplasman": "Kayserispor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "24",
+        "Ev Sahibi": "Göztepe",
+        "Deplasman": "Eyüpspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "24",
+        "Ev Sahibi": "Kasımpaşa",
+        "Deplasman": "Rizespor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "24",
+        "Ev Sahibi": "Kocaelispor",
+        "Deplasman": "Beşiktaş",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 3
+    },
+    {
+        "Hafta": "24",
+        "Ev Sahibi": "Samsunspor",
+        "Deplasman": "Gaziantep F.K.",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "24",
+        "Ev Sahibi": "Trabzonspor",
+        "Deplasman": "Fatih Karagümrük",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "25",
+        "Ev Sahibi": "Alanyaspor",
+        "Deplasman": "Gençlerbirliği",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "25",
+        "Ev Sahibi": "İstanbul Başakşehir",
+        "Deplasman": "Göztepe",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 6
+    },
+    {
+        "Hafta": "25",
+        "Ev Sahibi": "Beşiktaş",
+        "Deplasman": "Galatasaray",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 2
+    },
+    {
+        "Hafta": "25",
+        "Ev Sahibi": "Rizespor",
+        "Deplasman": "Antalyaspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 2,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "25",
+        "Ev Sahibi": "Eyüpspor",
+        "Deplasman": "Kocaelispor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "25",
+        "Ev Sahibi": "Fenerbahçe",
+        "Deplasman": "Samsunspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "25",
+        "Ev Sahibi": "Gaziantep F.K.",
+        "Deplasman": "Fatih Karagümrük",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 2,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "25",
+        "Ev Sahibi": "Kayserispor",
+        "Deplasman": "Trabzonspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 2,
+        "Dep Net Fırsat": 2
+    },
+    {
+        "Hafta": "25",
+        "Ev Sahibi": "Konyaspor",
+        "Deplasman": "Kasımpaşa",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 2,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "26",
+        "Ev Sahibi": "Antalyaspor",
+        "Deplasman": "Gaziantep F.K.",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "26",
+        "Ev Sahibi": "Fatih Karagümrük",
+        "Deplasman": "Fenerbahçe",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "26",
+        "Ev Sahibi": "Galatasaray",
+        "Deplasman": "İstanbul Başakşehir",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 2,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "26",
+        "Ev Sahibi": "Gençlerbirliği",
+        "Deplasman": "Beşiktaş",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 3
+    },
+    {
+        "Hafta": "26",
+        "Ev Sahibi": "Göztepe",
+        "Deplasman": "Alanyaspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 3,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "26",
+        "Ev Sahibi": "Kasımpaşa",
+        "Deplasman": "Eyüpspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "26",
+        "Ev Sahibi": "Kocaelispor",
+        "Deplasman": "Konyaspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 4
+    },
+    {
+        "Hafta": "26",
+        "Ev Sahibi": "Samsunspor",
+        "Deplasman": "Kayserispor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 3,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "26",
+        "Ev Sahibi": "Trabzonspor",
+        "Deplasman": "Rizespor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 1,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "27",
+        "Ev Sahibi": "Alanyaspor",
+        "Deplasman": "Kocaelispor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "27",
+        "Ev Sahibi": "İstanbul Başakşehir",
+        "Deplasman": "Antalyaspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 2,
+        "Dep Net Fırsat": 2
+    },
+    {
+        "Hafta": "27",
+        "Ev Sahibi": "Beşiktaş",
+        "Deplasman": "Kasımpaşa",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "27",
+        "Ev Sahibi": "Rizespor",
+        "Deplasman": "Samsunspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "27",
+        "Ev Sahibi": "Eyüpspor",
+        "Deplasman": "Trabzonspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "27",
+        "Ev Sahibi": "Fenerbahçe",
+        "Deplasman": "Gaziantep F.K.",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 2,
+        "Dep Net Fırsat": 1
+    },
+    {
+        "Hafta": "27",
+        "Ev Sahibi": "Göztepe",
+        "Deplasman": "Galatasaray",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "27",
+        "Ev Sahibi": "Kayserispor",
+        "Deplasman": "Fatih Karagümrük",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "27",
+        "Ev Sahibi": "Konyaspor",
+        "Deplasman": "Gençlerbirliği",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "28",
+        "Ev Sahibi": "Antalyaspor",
+        "Deplasman": "Eyüpspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "28",
+        "Ev Sahibi": "Fatih Karagümrük",
+        "Deplasman": "Rizespor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "28",
+        "Ev Sahibi": "Fenerbahçe",
+        "Deplasman": "Beşiktaş",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "28",
+        "Ev Sahibi": "Gaziantep F.K.",
+        "Deplasman": "Alanyaspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "28",
+        "Ev Sahibi": "Gençlerbirliği",
+        "Deplasman": "Göztepe",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "28",
+        "Ev Sahibi": "Kasımpaşa",
+        "Deplasman": "Kayserispor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "28",
+        "Ev Sahibi": "Kocaelispor",
+        "Deplasman": "İstanbul Başakşehir",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "28",
+        "Ev Sahibi": "Samsunspor",
+        "Deplasman": "Konyaspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "28",
+        "Ev Sahibi": "Trabzonspor",
+        "Deplasman": "Galatasaray",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "29",
+        "Ev Sahibi": "Alanyaspor",
+        "Deplasman": "Trabzonspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "29",
+        "Ev Sahibi": "İstanbul Başakşehir",
+        "Deplasman": "Gençlerbirliği",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "29",
+        "Ev Sahibi": "Beşiktaş",
+        "Deplasman": "Antalyaspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "29",
+        "Ev Sahibi": "Rizespor",
+        "Deplasman": "Gaziantep F.K.",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "29",
+        "Ev Sahibi": "Eyüpspor",
+        "Deplasman": "Samsunspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "29",
+        "Ev Sahibi": "Galatasaray",
+        "Deplasman": "Kocaelispor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "29",
+        "Ev Sahibi": "Göztepe",
+        "Deplasman": "Kasımpaşa",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "29",
+        "Ev Sahibi": "Kayserispor",
+        "Deplasman": "Fenerbahçe",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "29",
+        "Ev Sahibi": "Konyaspor",
+        "Deplasman": "Fatih Karagümrük",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "30",
+        "Ev Sahibi": "Antalyaspor",
+        "Deplasman": "Konyaspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "30",
+        "Ev Sahibi": "Fatih Karagümrük",
+        "Deplasman": "Eyüpspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "30",
+        "Ev Sahibi": "Fenerbahçe",
+        "Deplasman": "Rizespor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "30",
+        "Ev Sahibi": "Gaziantep F.K.",
+        "Deplasman": "Kayserispor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "30",
+        "Ev Sahibi": "Gençlerbirliği",
+        "Deplasman": "Galatasaray",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "30",
+        "Ev Sahibi": "Kasımpaşa",
+        "Deplasman": "Alanyaspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "30",
+        "Ev Sahibi": "Kocaelispor",
+        "Deplasman": "Göztepe",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "30",
+        "Ev Sahibi": "Samsunspor",
+        "Deplasman": "Beşiktaş",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "30",
+        "Ev Sahibi": "Trabzonspor",
+        "Deplasman": "İstanbul Başakşehir",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "31",
+        "Ev Sahibi": "Alanyaspor",
+        "Deplasman": "Samsunspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "31",
+        "Ev Sahibi": "İstanbul Başakşehir",
+        "Deplasman": "Kasımpaşa",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "31",
+        "Ev Sahibi": "Beşiktaş",
+        "Deplasman": "Fatih Karagümrük",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "31",
+        "Ev Sahibi": "Eyüpspor",
+        "Deplasman": "Gaziantep F.K.",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "31",
+        "Ev Sahibi": "Galatasaray",
+        "Deplasman": "Fenerbahçe",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "31",
+        "Ev Sahibi": "Gençlerbirliği",
+        "Deplasman": "Kocaelispor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "31",
+        "Ev Sahibi": "Göztepe",
+        "Deplasman": "Antalyaspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "31",
+        "Ev Sahibi": "Kayserispor",
+        "Deplasman": "Rizespor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "31",
+        "Ev Sahibi": "Konyaspor",
+        "Deplasman": "Trabzonspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "32",
+        "Ev Sahibi": "Antalyaspor",
+        "Deplasman": "Alanyaspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "32",
+        "Ev Sahibi": "Rizespor",
+        "Deplasman": "Konyaspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "32",
+        "Ev Sahibi": "Fatih Karagümrük",
+        "Deplasman": "Gençlerbirliği",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "32",
+        "Ev Sahibi": "Fenerbahçe",
+        "Deplasman": "İstanbul Başakşehir",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "32",
+        "Ev Sahibi": "Gaziantep F.K.",
+        "Deplasman": "Beşiktaş",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "32",
+        "Ev Sahibi": "Kasımpaşa",
+        "Deplasman": "Kocaelispor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "32",
+        "Ev Sahibi": "Kayserispor",
+        "Deplasman": "Eyüpspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "32",
+        "Ev Sahibi": "Samsunspor",
+        "Deplasman": "Galatasaray",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "32",
+        "Ev Sahibi": "Trabzonspor",
+        "Deplasman": "Göztepe",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "33",
+        "Ev Sahibi": "Alanyaspor",
+        "Deplasman": "Kayserispor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "33",
+        "Ev Sahibi": "İstanbul Başakşehir",
+        "Deplasman": "Samsunspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "33",
+        "Ev Sahibi": "Beşiktaş",
+        "Deplasman": "Trabzonspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "33",
+        "Ev Sahibi": "Eyüpspor",
+        "Deplasman": "Rizespor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "33",
+        "Ev Sahibi": "Galatasaray",
+        "Deplasman": "Antalyaspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "33",
+        "Ev Sahibi": "Gençlerbirliği",
+        "Deplasman": "Kasımpaşa",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "33",
+        "Ev Sahibi": "Göztepe",
+        "Deplasman": "Gaziantep F.K.",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "33",
+        "Ev Sahibi": "Kocaelispor",
+        "Deplasman": "Fatih Karagümrük",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "33",
+        "Ev Sahibi": "Konyaspor",
+        "Deplasman": "Fenerbahçe",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "34",
+        "Ev Sahibi": "Antalyaspor",
+        "Deplasman": "Kocaelispor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "34",
+        "Ev Sahibi": "Rizespor",
+        "Deplasman": "Beşiktaş",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "34",
+        "Ev Sahibi": "Fatih Karagümrük",
+        "Deplasman": "Alanyaspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "34",
+        "Ev Sahibi": "Fenerbahçe",
+        "Deplasman": "Eyüpspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "34",
+        "Ev Sahibi": "Gaziantep F.K.",
+        "Deplasman": "İstanbul Başakşehir",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "34",
+        "Ev Sahibi": "Kasımpaşa",
+        "Deplasman": "Galatasaray",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "34",
+        "Ev Sahibi": "Kayserispor",
+        "Deplasman": "Konyaspor",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "34",
+        "Ev Sahibi": "Samsunspor",
+        "Deplasman": "Göztepe",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    },
+    {
+        "Hafta": "34",
+        "Ev Sahibi": "Trabzonspor",
+        "Deplasman": "Gençlerbirliği",
+        "Skor": "0 - 0",
+        "Ev Net Fırsat": 0,
+        "Dep Net Fırsat": 0
+    }
+]

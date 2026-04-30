@@ -1,0 +1,23 @@
+{
+    "id": 18841111,
+    "sport_id": 1,
+    "league_id": 271,
+    "season_id": 21644,
+    "stage_id": 77463996,
+    "group_id": null,
+    "aggregate_id": null,
+    "round_id": 307004,
+    "state_id": 5,
+    "venue_id": 342,
+    "name": "Midtjylland vs Hvidovre",
+    "starting_at": "2023-07-21 17:00:00",
+    "result_info": "Midtjylland won after full-time.",
+    "leg": "1/1",
+    "details": null,
+    "length": 90,
+    "placeholder": false,
+    "has_odds": true,
+    "has_premium_odds": false,
+    "starting_at_timestamp": 1689958800,
+    "sidelined": []
+}

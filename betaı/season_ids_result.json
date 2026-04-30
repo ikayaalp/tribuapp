@@ -1,0 +1,42 @@
+{
+  "Premier League": {
+    "league_id": 8,
+    "season_id": "NOT_FOUND",
+    "season_name": "N/A"
+  },
+  "La Liga": {
+    "league_id": 564,
+    "season_id": "NOT_FOUND",
+    "season_name": "N/A"
+  },
+  "Bundesliga": {
+    "league_id": 82,
+    "season_id": "NOT_FOUND",
+    "season_name": "N/A"
+  },
+  "Serie A": {
+    "league_id": 384,
+    "season_id": "NOT_FOUND",
+    "season_name": "N/A"
+  },
+  "Ligue 1": {
+    "league_id": 301,
+    "season_id": "NOT_FOUND",
+    "season_name": "N/A"
+  },
+  "Eredivisie": {
+    "league_id": 462,
+    "season_id": "NOT_FOUND",
+    "season_name": "N/A"
+  },
+  "Super Lig": {
+    "league_id": 600,
+    "season_id": "NOT_FOUND",
+    "season_name": "N/A"
+  },
+  "Liga Portugal": {
+    "league_id": 501,
+    "season_id": 25598,
+    "season_name": "2025/2026"
+  }
+}

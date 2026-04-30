@@ -1,0 +1,3376 @@
+[
+    {
+        "ad": "Rui Silva",
+        "mevki": "Kaleci",
+        "takim": "Sporting Lizbon",
+        "yas": "32",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "João Virgínia",
+        "mevki": "Kaleci",
+        "takim": "Sporting Lizbon",
+        "yas": "12",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Ousmane Diomande",
+        "mevki": "Stoper",
+        "takim": "Sporting Lizbon",
+        "yas": "26",
+        "piyasa_degeri": "45.00 mil. €"
+    },
+    {
+        "ad": "Gonçalo Inácio",
+        "mevki": "Stoper",
+        "takim": "Sporting Lizbon",
+        "yas": "25",
+        "piyasa_degeri": "40.00 mil. €"
+    },
+    {
+        "ad": "Zeno Debast",
+        "mevki": "Stoper",
+        "takim": "Sporting Lizbon",
+        "yas": "22",
+        "piyasa_degeri": "30.00 mil. €"
+    },
+    {
+        "ad": "Eduardo Quaresma",
+        "mevki": "Stoper",
+        "takim": "Sporting Lizbon",
+        "yas": "72",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Maxi Araújo",
+        "mevki": "Sol Bek",
+        "takim": "Sporting Lizbon",
+        "yas": "20",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Nuno Santos",
+        "mevki": "Sol Bek",
+        "takim": "Sporting Lizbon",
+        "yas": "11",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Ricardo Mangas",
+        "mevki": "Sol Bek",
+        "takim": "Sporting Lizbon",
+        "yas": "91",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Iván Fresneda",
+        "mevki": "Sağ Bek",
+        "takim": "Sporting Lizbon",
+        "yas": "22",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Georgios Vagiannidis",
+        "mevki": "Sağ Bek",
+        "takim": "Sporting Lizbon",
+        "yas": "13",
+        "piyasa_degeri": "11.00 mil. €"
+    },
+    {
+        "ad": "Morten Hjulmand",
+        "mevki": "Ön Libero",
+        "takim": "Sporting Lizbon",
+        "yas": "42",
+        "piyasa_degeri": "45.00 mil. €"
+    },
+    {
+        "ad": "João Simões",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Sporting Lizbon",
+        "yas": "52",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Daniel Bragança",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Sporting Lizbon",
+        "yas": "23",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Hidemasa Morita",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Sporting Lizbon",
+        "yas": "30",
+        "piyasa_degeri": "9.00 mil. €"
+    },
+    {
+        "ad": "Giorgi Kochorashvili",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Sporting Lizbon",
+        "yas": "14",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Francisco Trincão",
+        "mevki": "On Numara",
+        "takim": "Sporting Lizbon",
+        "yas": "17",
+        "piyasa_degeri": "35.00 mil. €"
+    },
+    {
+        "ad": "Pedro Gonçalves",
+        "mevki": "Sol Kanat",
+        "takim": "Sporting Lizbon",
+        "yas": "27",
+        "piyasa_degeri": "28.00 mil. €"
+    },
+    {
+        "ad": "Geovany Quenda",
+        "mevki": "Sağ Kanat",
+        "takim": "Sporting Lizbon",
+        "yas": "18",
+        "piyasa_degeri": "42.00 mil. €"
+    },
+    {
+        "ad": "Geny Catamo",
+        "mevki": "Sağ Kanat",
+        "takim": "Sporting Lizbon",
+        "yas": "10",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Luís Guilherme",
+        "mevki": "Sağ Kanat",
+        "takim": "Sporting Lizbon",
+        "yas": "31",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Souleymane Faye",
+        "mevki": "Sağ Kanat",
+        "takim": "Sporting Lizbon",
+        "yas": "15",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Luis Suárez",
+        "mevki": "Santrafor",
+        "takim": "Sporting Lizbon",
+        "yas": "97",
+        "piyasa_degeri": "28.00 mil. €"
+    },
+    {
+        "ad": "Fotis Ioannidis",
+        "mevki": "Santrafor",
+        "takim": "Sporting Lizbon",
+        "yas": "89",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Rafael Nel",
+        "mevki": "Santrafor",
+        "takim": "Sporting Lizbon",
+        "yas": "90",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Diogo Costa",
+        "mevki": "Kaleci",
+        "takim": "FC Porto",
+        "yas": "99",
+        "piyasa_degeri": "40.00 mil. €"
+    },
+    {
+        "ad": "Cláudio Ramos",
+        "mevki": "Kaleci",
+        "takim": "FC Porto",
+        "yas": "14",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "João Costa",
+        "mevki": "Kaleci",
+        "takim": "FC Porto",
+        "yas": "24",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Jakub Kiwior",
+        "mevki": "Stoper",
+        "takim": "FC Porto",
+        "yas": "26",
+        "piyasa_degeri": "27.00 mil. €"
+    },
+    {
+        "ad": "Nehuén Pérez",
+        "mevki": "Stoper",
+        "takim": "FC Porto",
+        "yas": "18",
+        "piyasa_degeri": "13.00 mil. €"
+    },
+    {
+        "ad": "Jan Bednarek",
+        "mevki": "Stoper",
+        "takim": "FC Porto",
+        "yas": "30",
+        "piyasa_degeri": "11.00 mil. €"
+    },
+    {
+        "ad": "Dominik Prpić",
+        "mevki": "Stoper",
+        "takim": "FC Porto",
+        "yas": "21",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Thiago Silva",
+        "mevki": "Stoper",
+        "takim": "FC Porto",
+        "yas": "41",
+        "piyasa_degeri": "600 bin €"
+    },
+    {
+        "ad": "Francisco Moura",
+        "mevki": "Sol Bek",
+        "takim": "FC Porto",
+        "yas": "74",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Zaidu Sanusi",
+        "mevki": "Sol Bek",
+        "takim": "FC Porto",
+        "yas": "12",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Alberto Costa",
+        "mevki": "Sağ Bek",
+        "takim": "FC Porto",
+        "yas": "20",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Martim Fernandes",
+        "mevki": "Sağ Bek",
+        "takim": "FC Porto",
+        "yas": "52",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Alan Varela",
+        "mevki": "Ön Libero",
+        "takim": "FC Porto",
+        "yas": "22",
+        "piyasa_degeri": "32.00 mil. €"
+    },
+    {
+        "ad": "Pablo Rosario",
+        "mevki": "Ön Libero",
+        "takim": "FC Porto",
+        "yas": "13",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Victor Froholdt",
+        "mevki": "Merkez Orta Saha",
+        "takim": "FC Porto",
+        "yas": "20",
+        "piyasa_degeri": "30.00 mil. €"
+    },
+    {
+        "ad": "Seko Fofana",
+        "mevki": "Merkez Orta Saha",
+        "takim": "FC Porto",
+        "yas": "42",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Rodrigo Mora",
+        "mevki": "On Numara",
+        "takim": "FC Porto",
+        "yas": "86",
+        "piyasa_degeri": "38.00 mil. €"
+    },
+    {
+        "ad": "Gabri Veiga",
+        "mevki": "On Numara",
+        "takim": "FC Porto",
+        "yas": "10",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Borja Sainz",
+        "mevki": "Sol Kanat",
+        "takim": "FC Porto",
+        "yas": "17",
+        "piyasa_degeri": "22.00 mil. €"
+    },
+    {
+        "ad": "Oskar Pietuszewski",
+        "mevki": "Sol Kanat",
+        "takim": "FC Porto",
+        "yas": "77",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Yann Karamoh",
+        "mevki": "Sol Kanat",
+        "takim": "FC Porto",
+        "yas": "75",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "William Gomes",
+        "mevki": "Sağ Kanat",
+        "takim": "FC Porto",
+        "yas": "20",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Pepê",
+        "mevki": "Sağ Kanat",
+        "takim": "FC Porto",
+        "yas": "11",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Samu Aghehowa",
+        "mevki": "Santrafor",
+        "takim": "FC Porto",
+        "yas": "21",
+        "piyasa_degeri": "45.00 mil. €"
+    },
+    {
+        "ad": "Terem Moffi",
+        "mevki": "Santrafor",
+        "takim": "FC Porto",
+        "yas": "29",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Deniz Gül",
+        "mevki": "Santrafor",
+        "takim": "FC Porto",
+        "yas": "27",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Luuk de Jong",
+        "mevki": "Santrafor",
+        "takim": "FC Porto",
+        "yas": "26",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Anatoliy Trubin",
+        "mevki": "Kaleci",
+        "takim": "SL Benfica",
+        "yas": "24",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Samuel Soares",
+        "mevki": "Kaleci",
+        "takim": "SL Benfica",
+        "yas": "24",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "António Silva",
+        "mevki": "Stoper",
+        "takim": "SL Benfica",
+        "yas": "22",
+        "piyasa_degeri": "28.00 mil. €"
+    },
+    {
+        "ad": "Tomás Araújo",
+        "mevki": "Stoper",
+        "takim": "SL Benfica",
+        "yas": "44",
+        "piyasa_degeri": "28.00 mil. €"
+    },
+    {
+        "ad": "Nicolás Otamendi",
+        "mevki": "Stoper",
+        "takim": "SL Benfica",
+        "yas": "30",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Samuel Dahl",
+        "mevki": "Sol Bek",
+        "takim": "SL Benfica",
+        "yas": "26",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "José Neto",
+        "mevki": "Sol Bek",
+        "takim": "SL Benfica",
+        "yas": "62",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Amar Dedić",
+        "mevki": "Sağ Bek",
+        "takim": "SL Benfica",
+        "yas": "17",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Alexander Bah",
+        "mevki": "Sağ Bek",
+        "takim": "SL Benfica",
+        "yas": "28",
+        "piyasa_degeri": "9.00 mil. €"
+    },
+    {
+        "ad": "Sidny Lopes Cabral",
+        "mevki": "Sağ Bek",
+        "takim": "SL Benfica",
+        "yas": "15",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Daniel Banjaqui",
+        "mevki": "Sağ Bek",
+        "takim": "SL Benfica",
+        "yas": "58",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Richard Ríos",
+        "mevki": "Ön Libero",
+        "takim": "SL Benfica",
+        "yas": "20",
+        "piyasa_degeri": "22.00 mil. €"
+    },
+    {
+        "ad": "Enzo Barrenechea",
+        "mevki": "Ön Libero",
+        "takim": "SL Benfica",
+        "yas": "24",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Manu Silva",
+        "mevki": "Ön Libero",
+        "takim": "SL Benfica",
+        "yas": "16",
+        "piyasa_degeri": "9.00 mil. €"
+    },
+    {
+        "ad": "Fredrik Aursnes",
+        "mevki": "Merkez Orta Saha",
+        "takim": "SL Benfica",
+        "yas": "30",
+        "piyasa_degeri": "17.00 mil. €"
+    },
+    {
+        "ad": "Leandro Barreiro",
+        "mevki": "Merkez Orta Saha",
+        "takim": "SL Benfica",
+        "yas": "18",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "João Veloso",
+        "mevki": "Merkez Orta Saha",
+        "takim": "SL Benfica",
+        "yas": "68",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Georgiy Sudakov",
+        "mevki": "On Numara",
+        "takim": "SL Benfica",
+        "yas": "10",
+        "piyasa_degeri": "28.00 mil. €"
+    },
+    {
+        "ad": "João Rego",
+        "mevki": "On Numara",
+        "takim": "SL Benfica",
+        "yas": "84",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Andreas Schjelderup",
+        "mevki": "Sol Kanat",
+        "takim": "SL Benfica",
+        "yas": "21",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Bruma",
+        "mevki": "Sol Kanat",
+        "takim": "SL Benfica",
+        "yas": "31",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Dodi Lukébakio",
+        "mevki": "Sağ Kanat",
+        "takim": "SL Benfica",
+        "yas": "11",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Gianluca Prestianni",
+        "mevki": "Sağ Kanat",
+        "takim": "SL Benfica",
+        "yas": "25",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Rafa Silva",
+        "mevki": "Forvet Arkası",
+        "takim": "SL Benfica",
+        "yas": "27",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Vangelis Pavlidis",
+        "mevki": "Santrafor",
+        "takim": "SL Benfica",
+        "yas": "14",
+        "piyasa_degeri": "32.00 mil. €"
+    },
+    {
+        "ad": "Franjo Ivanović",
+        "mevki": "Santrafor",
+        "takim": "SL Benfica",
+        "yas": "22",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Anísio Cabral",
+        "mevki": "Santrafor",
+        "takim": "SL Benfica",
+        "yas": "72",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Henrique Araújo",
+        "mevki": "Santrafor",
+        "takim": "SL Benfica",
+        "yas": "39",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Lukas Hornicek",
+        "mevki": "Kaleci",
+        "takim": "SC Braga",
+        "yas": "23",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Alaa Bellaarouch",
+        "mevki": "Kaleci",
+        "takim": "SC Braga",
+        "yas": "36",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Tiago Sá",
+        "mevki": "Kaleci",
+        "takim": "SC Braga",
+        "yas": "12",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Sikou Niakaté",
+        "mevki": "Stoper",
+        "takim": "SC Braga",
+        "yas": "26",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Bright Arrey-Mbi",
+        "mevki": "Stoper",
+        "takim": "SC Braga",
+        "yas": "26",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Gustaf Lagerbielke",
+        "mevki": "Stoper",
+        "takim": "SC Braga",
+        "yas": "14",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Adrian Leon Barisic",
+        "mevki": "Stoper",
+        "takim": "SC Braga",
+        "yas": "37",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Jonatás Noro",
+        "mevki": "Stoper",
+        "takim": "SC Braga",
+        "yas": "53",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Paulo Oliveira",
+        "mevki": "Stoper",
+        "takim": "SC Braga",
+        "yas": "15",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Leonardo Lelo",
+        "mevki": "Sol Bek",
+        "takim": "SC Braga",
+        "yas": "26",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Víctor Gómez",
+        "mevki": "Sağ Bek",
+        "takim": "SC Braga",
+        "yas": "26",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Gabriel Moscardo",
+        "mevki": "Ön Libero",
+        "takim": "SC Braga",
+        "yas": "17",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Demir Ege Tıknaz",
+        "mevki": "Ön Libero",
+        "takim": "SC Braga",
+        "yas": "34",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Vítor Carvalho",
+        "mevki": "Ön Libero",
+        "takim": "SC Braga",
+        "yas": "28",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Florian Grillitsch",
+        "mevki": "Ön Libero",
+        "takim": "SC Braga",
+        "yas": "27",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Yanis da Rocha",
+        "mevki": "Ön Libero",
+        "takim": "SC Braga",
+        "yas": "41",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Rodrigo Zalazar",
+        "mevki": "Merkez Orta Saha",
+        "takim": "SC Braga",
+        "yas": "10",
+        "piyasa_degeri": "22.00 mil. €"
+    },
+    {
+        "ad": "Gorby",
+        "mevki": "Merkez Orta Saha",
+        "takim": "SC Braga",
+        "yas": "29",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Diego Rodrigues",
+        "mevki": "Merkez Orta Saha",
+        "takim": "SC Braga",
+        "yas": "50",
+        "piyasa_degeri": "4.50 mil. €"
+    },
+    {
+        "ad": "João Moutinho",
+        "mevki": "Merkez Orta Saha",
+        "takim": "SC Braga",
+        "yas": "39",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Mario Dorgeles",
+        "mevki": "Orta Saha Sağ",
+        "takim": "SC Braga",
+        "yas": "20",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Ricardo Horta",
+        "mevki": "Sol Kanat",
+        "takim": "SC Braga",
+        "yas": "21",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Gabri Martínez",
+        "mevki": "Sol Kanat",
+        "takim": "SC Braga",
+        "yas": "77",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Sandro Vidigal",
+        "mevki": "Sağ Kanat",
+        "takim": "SC Braga",
+        "yas": "95",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "João Aragão",
+        "mevki": "Sağ Kanat",
+        "takim": "SC Braga",
+        "yas": "72",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Pau Víctor",
+        "mevki": "Santrafor",
+        "takim": "SC Braga",
+        "yas": "18",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Fran Navarro",
+        "mevki": "Santrafor",
+        "takim": "SC Braga",
+        "yas": "39",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Amine El Ouazzani",
+        "mevki": "Santrafor",
+        "takim": "SC Braga",
+        "yas": "24",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Lazar Carević",
+        "mevki": "Kaleci",
+        "takim": "FC Famalicão",
+        "yas": "25",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Ivan Zlobin",
+        "mevki": "Kaleci",
+        "takim": "FC Famalicão",
+        "yas": "29",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Justin de Haas",
+        "mevki": "Stoper",
+        "takim": "FC Famalicão",
+        "yas": "16",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Léo Realpe",
+        "mevki": "Stoper",
+        "takim": "FC Famalicão",
+        "yas": "25",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Ibrahima Ba",
+        "mevki": "Stoper",
+        "takim": "FC Famalicão",
+        "yas": "55",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Renan Santana",
+        "mevki": "Stoper",
+        "takim": "FC Famalicão",
+        "yas": "13",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Vojin Serafimovic",
+        "mevki": "Stoper",
+        "takim": "FC Famalicão",
+        "yas": "30",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Pedro Bondo",
+        "mevki": "Sol Bek",
+        "takim": "FC Famalicão",
+        "yas": "28",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Rafa Soares",
+        "mevki": "Sol Bek",
+        "takim": "FC Famalicão",
+        "yas": "30",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Rodrigo Pinheiro",
+        "mevki": "Sağ Bek",
+        "takim": "FC Famalicão",
+        "yas": "17",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Garcia",
+        "mevki": "Sağ Bek",
+        "takim": "FC Famalicão",
+        "yas": "24",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Tom van de Looi",
+        "mevki": "Ön Libero",
+        "takim": "FC Famalicão",
+        "yas": "26",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Mathias de Amorim",
+        "mevki": "Merkez Orta Saha",
+        "takim": "FC Famalicão",
+        "yas": "14",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Marcos Peña",
+        "mevki": "Merkez Orta Saha",
+        "takim": "FC Famalicão",
+        "yas": "21",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Otar Mamageishvili",
+        "mevki": "Merkez Orta Saha",
+        "takim": "FC Famalicão",
+        "yas": "15",
+        "piyasa_degeri": "700 bin €"
+    },
+    {
+        "ad": "Gustavo Sá",
+        "mevki": "On Numara",
+        "takim": "FC Famalicão",
+        "yas": "20",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Sorriso",
+        "mevki": "Sol Kanat",
+        "takim": "FC Famalicão",
+        "yas": "25",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Óscar Aranda",
+        "mevki": "Sol Kanat",
+        "takim": "FC Famalicão",
+        "yas": "11",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Antoine Joujou",
+        "mevki": "Sol Kanat",
+        "takim": "FC Famalicão",
+        "yas": "77",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Roméo Beney",
+        "mevki": "Sol Kanat",
+        "takim": "FC Famalicão",
+        "yas": "18",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Rochinha",
+        "mevki": "Sol Kanat",
+        "takim": "FC Famalicão",
+        "yas": "10",
+        "piyasa_degeri": "600 bin €"
+    },
+    {
+        "ad": "Gil Dias",
+        "mevki": "Sağ Kanat",
+        "takim": "FC Famalicão",
+        "yas": "23",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Pedro Santos",
+        "mevki": "Sağ Kanat",
+        "takim": "FC Famalicão",
+        "yas": "80",
+        "piyasa_degeri": "600 bin €"
+    },
+    {
+        "ad": "Simon Elisor",
+        "mevki": "Santrafor",
+        "takim": "FC Famalicão",
+        "yas": "12",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Umar Abubakar",
+        "mevki": "Santrafor",
+        "takim": "FC Famalicão",
+        "yas": "20",
+        "piyasa_degeri": "600 bin €"
+    },
+    {
+        "ad": "Joel Robles",
+        "mevki": "Kaleci",
+        "takim": "GD Estoril Praia",
+        "yas": "35",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Martin Turk",
+        "mevki": "Kaleci",
+        "takim": "GD Estoril Praia",
+        "yas": "16",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Diogo Dias",
+        "mevki": "Kaleci",
+        "takim": "GD Estoril Praia",
+        "yas": "31",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Kévin Boma",
+        "mevki": "Stoper",
+        "takim": "GD Estoril Praia",
+        "yas": "44",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Felix Bacher",
+        "mevki": "Stoper",
+        "takim": "GD Estoril Praia",
+        "yas": "25",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Ferro",
+        "mevki": "Stoper",
+        "takim": "GD Estoril Praia",
+        "yas": "29",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Antef Tsoungui",
+        "mevki": "Stoper",
+        "takim": "GD Estoril Praia",
+        "yas": "23",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Or Israelov",
+        "mevki": "Stoper",
+        "takim": "GD Estoril Praia",
+        "yas": "18",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Pedro Amaral",
+        "mevki": "Sol Bek",
+        "takim": "GD Estoril Praia",
+        "yas": "24",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Gonçalo Costa",
+        "mevki": "Sol Bek",
+        "takim": "GD Estoril Praia",
+        "yas": "20",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Ricard Sánchez",
+        "mevki": "Sağ Bek",
+        "takim": "GD Estoril Praia",
+        "yas": "26",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Pedro Carvalho",
+        "mevki": "Sağ Bek",
+        "takim": "GD Estoril Praia",
+        "yas": "22",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Jordan Holsgrove",
+        "mevki": "Ön Libero",
+        "takim": "GD Estoril Praia",
+        "yas": "10",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Jandro Orellana",
+        "mevki": "Ön Libero",
+        "takim": "GD Estoril Praia",
+        "yas": "25",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Xeka",
+        "mevki": "Merkez Orta Saha",
+        "takim": "GD Estoril Praia",
+        "yas": "31",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Nodar Lominadze",
+        "mevki": "Merkez Orta Saha",
+        "takim": "GD Estoril Praia",
+        "yas": "24",
+        "piyasa_degeri": "700 bin €"
+    },
+    {
+        "ad": "João Carvalho",
+        "mevki": "On Numara",
+        "takim": "GD Estoril Praia",
+        "yas": "12",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Pizzi",
+        "mevki": "On Numara",
+        "takim": "GD Estoril Praia",
+        "yas": "21",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "André Lacximicant",
+        "mevki": "Sol Kanat",
+        "takim": "GD Estoril Praia",
+        "yas": "19",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Rafik Guitane",
+        "mevki": "Sağ Kanat",
+        "takim": "GD Estoril Praia",
+        "yas": "99",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Yanis Begraoui",
+        "mevki": "Santrafor",
+        "takim": "GD Estoril Praia",
+        "yas": "14",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Alejandro Marqués",
+        "mevki": "Santrafor",
+        "takim": "GD Estoril Praia",
+        "yas": "25",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Khayon Edwards",
+        "mevki": "Santrafor",
+        "takim": "GD Estoril Praia",
+        "yas": "11",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Lucão",
+        "mevki": "Kaleci",
+        "takim": "Gil Vicente FC",
+        "yas": "30",
+        "piyasa_degeri": "1.20 mil. €"
+    },
+    {
+        "ad": "Dani Figueira",
+        "mevki": "Kaleci",
+        "takim": "Gil Vicente FC",
+        "yas": "99",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Marvin Elimbi",
+        "mevki": "Stoper",
+        "takim": "Gil Vicente FC",
+        "yas": "23",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Buatu",
+        "mevki": "Stoper",
+        "takim": "Gil Vicente FC",
+        "yas": "39",
+        "piyasa_degeri": "600 bin €"
+    },
+    {
+        "ad": "Antonio Espigares",
+        "mevki": "Stoper",
+        "takim": "Gil Vicente FC",
+        "yas": "48",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Arthur Tchaptchet",
+        "mevki": "Stoper",
+        "takim": "Gil Vicente FC",
+        "yas": "59",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Ghislain Konan",
+        "mevki": "Sol Bek",
+        "takim": "Gil Vicente FC",
+        "yas": "30",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Weverson",
+        "mevki": "Sol Bek",
+        "takim": "Gil Vicente FC",
+        "yas": "26",
+        "piyasa_degeri": "1.20 mil. €"
+    },
+    {
+        "ad": "Zé Carlos",
+        "mevki": "Sağ Bek",
+        "takim": "Gil Vicente FC",
+        "yas": "27",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Hevertton",
+        "mevki": "Sağ Bek",
+        "takim": "Gil Vicente FC",
+        "yas": "20",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Jonathan Mutombo",
+        "mevki": "Sağ Bek",
+        "takim": "Gil Vicente FC",
+        "yas": "45",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Mohamed Bamba",
+        "mevki": "Ön Libero",
+        "takim": "Gil Vicente FC",
+        "yas": "21",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Facundo Cáseres",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Gil Vicente FC",
+        "yas": "24",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Zé Carlos",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Gil Vicente FC",
+        "yas": "24",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Luís Esteves",
+        "mevki": "On Numara",
+        "takim": "Gil Vicente FC",
+        "yas": "10",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Santi García",
+        "mevki": "On Numara",
+        "takim": "Gil Vicente FC",
+        "yas": "95",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Martín Fernández",
+        "mevki": "On Numara",
+        "takim": "Gil Vicente FC",
+        "yas": "32",
+        "piyasa_degeri": "450 bin €"
+    },
+    {
+        "ad": "Gil Martins",
+        "mevki": "On Numara",
+        "takim": "Gil Vicente FC",
+        "yas": "19",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Joelson Fernandes",
+        "mevki": "Sol Kanat",
+        "takim": "Gil Vicente FC",
+        "yas": "11",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Tidjany Touré",
+        "mevki": "Sol Kanat",
+        "takim": "Gil Vicente FC",
+        "yas": "23",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Sergio Bermejo",
+        "mevki": "Sağ Kanat",
+        "takim": "Gil Vicente FC",
+        "yas": "22",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Murilo",
+        "mevki": "Sağ Kanat",
+        "takim": "Gil Vicente FC",
+        "yas": "77",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Agustín Moreira",
+        "mevki": "Sağ Kanat",
+        "takim": "Gil Vicente FC",
+        "yas": "27",
+        "piyasa_degeri": "700 bin €"
+    },
+    {
+        "ad": "Gustavo Varela",
+        "mevki": "Santrafor",
+        "takim": "Gil Vicente FC",
+        "yas": "89",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Héctor Hernández",
+        "mevki": "Santrafor",
+        "takim": "Gil Vicente FC",
+        "yas": "23",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Carlos Eduardo",
+        "mevki": "Santrafor",
+        "takim": "Gil Vicente FC",
+        "yas": "29",
+        "piyasa_degeri": "700 bin €"
+    },
+    {
+        "ad": "Juan Castillo",
+        "mevki": "Kaleci",
+        "takim": "Vitória SC",
+        "yas": "25",
+        "piyasa_degeri": "700 bin €"
+    },
+    {
+        "ad": "Charles",
+        "mevki": "Kaleci",
+        "takim": "Vitória SC",
+        "yas": "27",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Gui",
+        "mevki": "Kaleci",
+        "takim": "Vitória SC",
+        "yas": "91",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Óscar Rivas",
+        "mevki": "Stoper",
+        "takim": "Vitória SC",
+        "yas": "26",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Thiago Balieiro",
+        "mevki": "Stoper",
+        "takim": "Vitória SC",
+        "yas": "28",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Rodrigo Abascal",
+        "mevki": "Stoper",
+        "takim": "Vitória SC",
+        "yas": "26",
+        "piyasa_degeri": "600 bin €"
+    },
+    {
+        "ad": "Miguel Nóbrega",
+        "mevki": "Stoper",
+        "takim": "Vitória SC",
+        "yas": "26",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "João Mendes",
+        "mevki": "Sol Bek",
+        "takim": "Vitória SC",
+        "yas": "13",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Orest Lebedenko",
+        "mevki": "Sol Bek",
+        "takim": "Vitória SC",
+        "yas": "17",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Maga",
+        "mevki": "Sağ Bek",
+        "takim": "Vitória SC",
+        "yas": "23",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Tony Strata",
+        "mevki": "Sağ Bek",
+        "takim": "Vitória SC",
+        "yas": "66",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Diogo Sousa",
+        "mevki": "Ön Libero",
+        "takim": "Vitória SC",
+        "yas": "23",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Beni Mukendi",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Vitória SC",
+        "yas": "16",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Matija Mitrović",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Vitória SC",
+        "yas": "21",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Gonçalo Nogueira",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Vitória SC",
+        "yas": "30",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Samu",
+        "mevki": "On Numara",
+        "takim": "Vitória SC",
+        "yas": "20",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Oumar Camara",
+        "mevki": "Sol Kanat",
+        "takim": "Vitória SC",
+        "yas": "19",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Noah Saviolo",
+        "mevki": "Sol Kanat",
+        "takim": "Vitória SC",
+        "yas": "48",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Fabio Blanco",
+        "mevki": "Sol Kanat",
+        "takim": "Vitória SC",
+        "yas": "22",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Gustavo Silva",
+        "mevki": "Sağ Kanat",
+        "takim": "Vitória SC",
+        "yas": "11",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Telmo Arcanjo",
+        "mevki": "Sağ Kanat",
+        "takim": "Vitória SC",
+        "yas": "18",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Miguel Nogueira",
+        "mevki": "Sağ Kanat",
+        "takim": "Vitória SC",
+        "yas": "88",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Alioune Ndoye",
+        "mevki": "Santrafor",
+        "takim": "Vitória SC",
+        "yas": "90",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Nélson Oliveira",
+        "mevki": "Santrafor",
+        "takim": "Vitória SC",
+        "yas": "34",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Cezary Miszta",
+        "mevki": "Kaleci",
+        "takim": "Rio Ave FC",
+        "yas": "24",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Ennio van der Gouw",
+        "mevki": "Kaleci",
+        "takim": "Rio Ave FC",
+        "yas": "99",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Kevin Chamorro",
+        "mevki": "Kaleci",
+        "takim": "Rio Ave FC",
+        "yas": "22",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Andreas Ntoi",
+        "mevki": "Stoper",
+        "takim": "Rio Ave FC",
+        "yas": "23",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Francisco Petrasso",
+        "mevki": "Stoper",
+        "takim": "Rio Ave FC",
+        "yas": "23",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Nelson Abbey",
+        "mevki": "Stoper",
+        "takim": "Rio Ave FC",
+        "yas": "22",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Gustavo Mancha",
+        "mevki": "Stoper",
+        "takim": "Rio Ave FC",
+        "yas": "39",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Jakub Brabec",
+        "mevki": "Stoper",
+        "takim": "Rio Ave FC",
+        "yas": "32",
+        "piyasa_degeri": "600 bin €"
+    },
+    {
+        "ad": "Julien Lomboto",
+        "mevki": "Stoper",
+        "takim": "Rio Ave FC",
+        "yas": "63",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Omar Richards",
+        "mevki": "Sol Bek",
+        "takim": "Rio Ave FC",
+        "yas": "77",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Leonardo Buta",
+        "mevki": "Sol Bek",
+        "takim": "Rio Ave FC",
+        "yas": "24",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Marios Vrousai",
+        "mevki": "Sağ Bek",
+        "takim": "Rio Ave FC",
+        "yas": "17",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "João Tomé",
+        "mevki": "Sağ Bek",
+        "takim": "Rio Ave FC",
+        "yas": "20",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Georgios Liavas",
+        "mevki": "Ön Libero",
+        "takim": "Rio Ave FC",
+        "yas": "54",
+        "piyasa_degeri": "900 bin €"
+    },
+    {
+        "ad": "Tamás Nikitscher",
+        "mevki": "Ön Libero",
+        "takim": "Rio Ave FC",
+        "yas": "44",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Brandon Aguilera",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Rio Ave FC",
+        "yas": "10",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Ryan Guilherme",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Rio Ave FC",
+        "yas": "23",
+        "piyasa_degeri": "700 bin €"
+    },
+    {
+        "ad": "João Graça",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Rio Ave FC",
+        "yas": "21",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Ole Pohlmann",
+        "mevki": "On Numara",
+        "takim": "Rio Ave FC",
+        "yas": "80",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Antonis Papakanellos",
+        "mevki": "On Numara",
+        "takim": "Rio Ave FC",
+        "yas": "19",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Tobías Medina",
+        "mevki": "Sol Kanat",
+        "takim": "Rio Ave FC",
+        "yas": "27",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Diogo Bezerra",
+        "mevki": "Sağ Kanat",
+        "takim": "Rio Ave FC",
+        "yas": "23",
+        "piyasa_degeri": "1.80 mil. €"
+    },
+    {
+        "ad": "Rafael Lobato",
+        "mevki": "Sağ Kanat",
+        "takim": "Rio Ave FC",
+        "yas": "25",
+        "piyasa_degeri": "1.20 mil. €"
+    },
+    {
+        "ad": "Dario Špikić",
+        "mevki": "Sağ Kanat",
+        "takim": "Rio Ave FC",
+        "yas": "18",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Amine Rehmi",
+        "mevki": "Sağ Kanat",
+        "takim": "Rio Ave FC",
+        "yas": "24",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Tamble",
+        "mevki": "Santrafor",
+        "takim": "Rio Ave FC",
+        "yas": "25",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Karem Zoabi",
+        "mevki": "Santrafor",
+        "takim": "Rio Ave FC",
+        "yas": "14",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Jalen Blesa",
+        "mevki": "Santrafor",
+        "takim": "Rio Ave FC",
+        "yas": "11",
+        "piyasa_degeri": "750 bin €"
+    },
+    {
+        "ad": "Marc Gual",
+        "mevki": "Santrafor",
+        "takim": "Rio Ave FC",
+        "yas": "28",
+        "piyasa_degeri": "700 bin €"
+    },
+    {
+        "ad": "André Gomes",
+        "mevki": "Kaleci",
+        "takim": "FC Alverca",
+        "yas": "13",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Matheus Mendes",
+        "mevki": "Kaleci",
+        "takim": "FC Alverca",
+        "yas": "31",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Mateus",
+        "mevki": "Kaleci",
+        "takim": "FC Alverca",
+        "yas": "23",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "André Paulo",
+        "mevki": "Kaleci",
+        "takim": "FC Alverca",
+        "yas": "23",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Bastien Meupiyou",
+        "mevki": "Stoper",
+        "takim": "FC Alverca",
+        "yas": "33",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Naves",
+        "mevki": "Stoper",
+        "takim": "FC Alverca",
+        "yas": "23",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Julián Martínez",
+        "mevki": "Stoper",
+        "takim": "FC Alverca",
+        "yas": "22",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Sergi Gómez",
+        "mevki": "Stoper",
+        "takim": "FC Alverca",
+        "yas": "34",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Steven Baseya",
+        "mevki": "Stoper",
+        "takim": "FC Alverca",
+        "yas": "14",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Chissumba",
+        "mevki": "Sol Bek",
+        "takim": "FC Alverca",
+        "yas": "55",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Isaac James",
+        "mevki": "Sol Bek",
+        "takim": "FC Alverca",
+        "yas": "12",
+        "piyasa_degeri": "350 bin €"
+    },
+    {
+        "ad": "Diogo Spencer",
+        "mevki": "Sağ Bek",
+        "takim": "FC Alverca",
+        "yas": "82",
+        "piyasa_degeri": "900 bin €"
+    },
+    {
+        "ad": "Vasco Moreira",
+        "mevki": "Ön Libero",
+        "takim": "FC Alverca",
+        "yas": "17",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Sabit Abdulai",
+        "mevki": "Ön Libero",
+        "takim": "FC Alverca",
+        "yas": "21",
+        "piyasa_degeri": "700 bin €"
+    },
+    {
+        "ad": "Tomás Mendes",
+        "mevki": "Ön Libero",
+        "takim": "FC Alverca",
+        "yas": "16",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Rhaldney",
+        "mevki": "Merkez Orta Saha",
+        "takim": "FC Alverca",
+        "yas": "26",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Davy Gui",
+        "mevki": "Merkez Orta Saha",
+        "takim": "FC Alverca",
+        "yas": "19",
+        "piyasa_degeri": "600 bin €"
+    },
+    {
+        "ad": "Zakaria Kassary",
+        "mevki": "Merkez Orta Saha",
+        "takim": "FC Alverca",
+        "yas": "20",
+        "piyasa_degeri": "150 bin €"
+    },
+    {
+        "ad": "Nabil Touaizi",
+        "mevki": "Orta Saha Sağ",
+        "takim": "FC Alverca",
+        "yas": "25",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Lincoln",
+        "mevki": "On Numara",
+        "takim": "FC Alverca",
+        "yas": "18",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Chiquinho",
+        "mevki": "Sol Kanat",
+        "takim": "FC Alverca",
+        "yas": "10",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Figueiredo",
+        "mevki": "Sol Kanat",
+        "takim": "FC Alverca",
+        "yas": "20",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Cédric Nuozzi",
+        "mevki": "Sol Kanat",
+        "takim": "FC Alverca",
+        "yas": "11",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Stéphane Diarra",
+        "mevki": "Sağ Kanat",
+        "takim": "FC Alverca",
+        "yas": "25",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Fabrício Garcia",
+        "mevki": "Sağ Kanat",
+        "takim": "FC Alverca",
+        "yas": "98",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Marko Milovanović",
+        "mevki": "Santrafor",
+        "takim": "FC Alverca",
+        "yas": "22",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Mathis Clairicia",
+        "mevki": "Santrafor",
+        "takim": "FC Alverca",
+        "yas": "19",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Felipe Lima",
+        "mevki": "Santrafor",
+        "takim": "FC Alverca",
+        "yas": "77",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Sandro Lima",
+        "mevki": "Santrafor",
+        "takim": "FC Alverca",
+        "yas": "91",
+        "piyasa_degeri": "150 bin €"
+    },
+    {
+        "ad": "Gabriel Batista",
+        "mevki": "Kaleci",
+        "takim": "CD Santa Clara",
+        "yas": "27",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Neneca",
+        "mevki": "Kaleci",
+        "takim": "CD Santa Clara",
+        "yas": "12",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Cristian",
+        "mevki": "Kaleci",
+        "takim": "CD Santa Clara",
+        "yas": "25",
+        "piyasa_degeri": "75 bin €"
+    },
+    {
+        "ad": "MT",
+        "mevki": "Stoper",
+        "takim": "CD Santa Clara",
+        "yas": "32",
+        "piyasa_degeri": "4.50 mil. €"
+    },
+    {
+        "ad": "Sidney Lima",
+        "mevki": "Stoper",
+        "takim": "CD Santa Clara",
+        "yas": "23",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Frederico Venâncio",
+        "mevki": "Stoper",
+        "takim": "CD Santa Clara",
+        "yas": "21",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Pedro Pacheco",
+        "mevki": "Stoper",
+        "takim": "CD Santa Clara",
+        "yas": "29",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Paulo Victor",
+        "mevki": "Sol Bek",
+        "takim": "CD Santa Clara",
+        "yas": "64",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Guilherme Romão",
+        "mevki": "Sol Bek",
+        "takim": "CD Santa Clara",
+        "yas": "28",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Lucas Soares",
+        "mevki": "Sağ Bek",
+        "takim": "CD Santa Clara",
+        "yas": "42",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Diogo Calila",
+        "mevki": "Sağ Bek",
+        "takim": "CD Santa Clara",
+        "yas": "27",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Pedro Ferreira",
+        "mevki": "Ön Libero",
+        "takim": "CD Santa Clara",
+        "yas": "28",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Darlan",
+        "mevki": "Ön Libero",
+        "takim": "CD Santa Clara",
+        "yas": "37",
+        "piyasa_degeri": "700 bin €"
+    },
+    {
+        "ad": "Serginho",
+        "mevki": "Merkez Orta Saha",
+        "takim": "CD Santa Clara",
+        "yas": "35",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Gustavo Klismahn",
+        "mevki": "Merkez Orta Saha",
+        "takim": "CD Santa Clara",
+        "yas": "77",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Andrey",
+        "mevki": "On Numara",
+        "takim": "CD Santa Clara",
+        "yas": "78",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Gabriel Silva",
+        "mevki": "Sol Kanat",
+        "takim": "CD Santa Clara",
+        "yas": "10",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Vinícius Lopes",
+        "mevki": "Sağ Kanat",
+        "takim": "CD Santa Clara",
+        "yas": "70",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Brenner",
+        "mevki": "Sağ Kanat",
+        "takim": "CD Santa Clara",
+        "yas": "11",
+        "piyasa_degeri": "1.30 mil. €"
+    },
+    {
+        "ad": "Welinton Torrão",
+        "mevki": "Sağ Kanat",
+        "takim": "CD Santa Clara",
+        "yas": "49",
+        "piyasa_degeri": "350 bin €"
+    },
+    {
+        "ad": "Fernando",
+        "mevki": "Sağ Kanat",
+        "takim": "CD Santa Clara",
+        "yas": "26",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Vitinho",
+        "mevki": "Sağ Kanat",
+        "takim": "CD Santa Clara",
+        "yas": "27",
+        "piyasa_degeri": "275 bin €"
+    },
+    {
+        "ad": "Elias Manoel",
+        "mevki": "Santrafor",
+        "takim": "CD Santa Clara",
+        "yas": "24",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Gonçalo Paciência",
+        "mevki": "Santrafor",
+        "takim": "CD Santa Clara",
+        "yas": "39",
+        "piyasa_degeri": "700 bin €"
+    },
+    {
+        "ad": "João Costa",
+        "mevki": "Santrafor",
+        "takim": "CD Santa Clara",
+        "yas": "17",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "André Ferreira",
+        "mevki": "Kaleci",
+        "takim": "Moreirense FC",
+        "yas": "13",
+        "piyasa_degeri": "600 bin €"
+    },
+    {
+        "ad": "Mika",
+        "mevki": "Kaleci",
+        "takim": "Moreirense FC",
+        "yas": "16",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Caio Secco",
+        "mevki": "Kaleci",
+        "takim": "Moreirense FC",
+        "yas": "22",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Gilberto Batista",
+        "mevki": "Stoper",
+        "takim": "Moreirense FC",
+        "yas": "66",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Michel",
+        "mevki": "Stoper",
+        "takim": "Moreirense FC",
+        "yas": "22",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Maracás",
+        "mevki": "Stoper",
+        "takim": "Moreirense FC",
+        "yas": "26",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Kevyn Monteiro",
+        "mevki": "Stoper",
+        "takim": "Moreirense FC",
+        "yas": "20",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Kiko",
+        "mevki": "Sol Bek",
+        "takim": "Moreirense FC",
+        "yas": "27",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Álvaro Martínez",
+        "mevki": "Sol Bek",
+        "takim": "Moreirense FC",
+        "yas": "17",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Diogo Travassos",
+        "mevki": "Sağ Bek",
+        "takim": "Moreirense FC",
+        "yas": "22",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Dinis Pinto",
+        "mevki": "Sağ Bek",
+        "takim": "Moreirense FC",
+        "yas": "76",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Fabiano",
+        "mevki": "Sağ Bek",
+        "takim": "Moreirense FC",
+        "yas": "26",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Leandro Santos",
+        "mevki": "Sağ Bek",
+        "takim": "Moreirense FC",
+        "yas": "71",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Mateja Stjepanović",
+        "mevki": "Ön Libero",
+        "takim": "Moreirense FC",
+        "yas": "22",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Afonso Assis",
+        "mevki": "Ön Libero",
+        "takim": "Moreirense FC",
+        "yas": "25",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Miguel Silva",
+        "mevki": "Ön Libero",
+        "takim": "Moreirense FC",
+        "yas": "18",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Vasco Sousa",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Moreirense FC",
+        "yas": "15",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Rodri Alonso",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Moreirense FC",
+        "yas": "21",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Nile John",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Moreirense FC",
+        "yas": "23",
+        "piyasa_degeri": "350 bin €"
+    },
+    {
+        "ad": "Jimi Gower",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Moreirense FC",
+        "yas": "30",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Alan",
+        "mevki": "On Numara",
+        "takim": "Moreirense FC",
+        "yas": "11",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Landerson",
+        "mevki": "Sol Kanat",
+        "takim": "Moreirense FC",
+        "yas": "78",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Cedric Teguia",
+        "mevki": "Sol Kanat",
+        "takim": "Moreirense FC",
+        "yas": "24",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Kiko Bondoso",
+        "mevki": "Sol Kanat",
+        "takim": "Moreirense FC",
+        "yas": "10",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Yan Maranhão",
+        "mevki": "Santrafor",
+        "takim": "Moreirense FC",
+        "yas": "99",
+        "piyasa_degeri": "600 bin €"
+    },
+    {
+        "ad": "Luís Semedo",
+        "mevki": "Santrafor",
+        "takim": "Moreirense FC",
+        "yas": "22",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Ignacio de Arruabarrena",
+        "mevki": "Kaleci",
+        "takim": "FC Arouca",
+        "yas": "12",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "João Valido",
+        "mevki": "Kaleci",
+        "takim": "FC Arouca",
+        "yas": "26",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Jakub Vinarčík",
+        "mevki": "Kaleci",
+        "takim": "FC Arouca",
+        "yas": "30",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "José Fontán",
+        "mevki": "Stoper",
+        "takim": "FC Arouca",
+        "yas": "26",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Boris Popović",
+        "mevki": "Stoper",
+        "takim": "FC Arouca",
+        "yas": "26",
+        "piyasa_degeri": "1.20 mil. €"
+    },
+    {
+        "ad": "Omar Fayed",
+        "mevki": "Stoper",
+        "takim": "FC Arouca",
+        "yas": "66",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Javi Sánchez",
+        "mevki": "Stoper",
+        "takim": "FC Arouca",
+        "yas": "15",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Matías Rocha",
+        "mevki": "Stoper",
+        "takim": "FC Arouca",
+        "yas": "25",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Diogo Monteiro",
+        "mevki": "Stoper",
+        "takim": "FC Arouca",
+        "yas": "21",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Amadou Dante",
+        "mevki": "Sol Bek",
+        "takim": "FC Arouca",
+        "yas": "44",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Bas Kuipers",
+        "mevki": "Sol Bek",
+        "takim": "FC Arouca",
+        "yas": "25",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Tiago Esgaio",
+        "mevki": "Sağ Bek",
+        "takim": "FC Arouca",
+        "yas": "28",
+        "piyasa_degeri": "900 bin €"
+    },
+    {
+        "ad": "José Silva",
+        "mevki": "Sağ Bek",
+        "takim": "FC Arouca",
+        "yas": "20",
+        "piyasa_degeri": "550 bin €"
+    },
+    {
+        "ad": "Taichi Fukui",
+        "mevki": "Merkez Orta Saha",
+        "takim": "FC Arouca",
+        "yas": "21",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Espen van Ee",
+        "mevki": "Merkez Orta Saha",
+        "takim": "FC Arouca",
+        "yas": "22",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Mateo Flores",
+        "mevki": "Merkez Orta Saha",
+        "takim": "FC Arouca",
+        "yas": "46",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Yellu Santiago",
+        "mevki": "Merkez Orta Saha",
+        "takim": "FC Arouca",
+        "yas": "20",
+        "piyasa_degeri": "900 bin €"
+    },
+    {
+        "ad": "Pedro Santos",
+        "mevki": "Merkez Orta Saha",
+        "takim": "FC Arouca",
+        "yas": "89",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Hyun-ju Lee",
+        "mevki": "On Numara",
+        "takim": "FC Arouca",
+        "yas": "14",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Pablo Gozálbez",
+        "mevki": "On Numara",
+        "takim": "FC Arouca",
+        "yas": "10",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Naïs Djouahra",
+        "mevki": "Sol Kanat",
+        "takim": "FC Arouca",
+        "yas": "26",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Brian Mansilla",
+        "mevki": "Sol Kanat",
+        "takim": "FC Arouca",
+        "yas": "24",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Miguel Puche",
+        "mevki": "Sol Kanat",
+        "takim": "FC Arouca",
+        "yas": "11",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Alfonso Trezza",
+        "mevki": "Sağ Kanat",
+        "takim": "FC Arouca",
+        "yas": "19",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Fally Mayulu",
+        "mevki": "Santrafor",
+        "takim": "FC Arouca",
+        "yas": "23",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Dylan Nandín",
+        "mevki": "Santrafor",
+        "takim": "FC Arouca",
+        "yas": "23",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Iván Barbero",
+        "mevki": "Santrafor",
+        "takim": "FC Arouca",
+        "yas": "17",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Patrick Sequeira",
+        "mevki": "Kaleci",
+        "takim": "Casa Pia AC",
+        "yas": "27",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Ivan Mandić",
+        "mevki": "Kaleci",
+        "takim": "Casa Pia AC",
+        "yas": "95",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Rodrigo Moura",
+        "mevki": "Kaleci",
+        "takim": "Casa Pia AC",
+        "yas": "30",
+        "piyasa_degeri": "150 bin €"
+    },
+    {
+        "ad": "Ricardo Batista",
+        "mevki": "Kaleci",
+        "takim": "Casa Pia AC",
+        "yas": "33",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Kaique Rocha",
+        "mevki": "Stoper",
+        "takim": "Casa Pia AC",
+        "yas": "27",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "João Goulart",
+        "mevki": "Stoper",
+        "takim": "Casa Pia AC",
+        "yas": "26",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "David Sousa",
+        "mevki": "Stoper",
+        "takim": "Casa Pia AC",
+        "yas": "43",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Kaly",
+        "mevki": "Stoper",
+        "takim": "Casa Pia AC",
+        "yas": "22",
+        "piyasa_degeri": "250 bin €"
+    },
+    {
+        "ad": "José Fonte",
+        "mevki": "Stoper",
+        "takim": "Casa Pia AC",
+        "yas": "42",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Abdu Conté",
+        "mevki": "Sol Bek",
+        "takim": "Casa Pia AC",
+        "yas": "28",
+        "piyasa_degeri": "700 bin €"
+    },
+    {
+        "ad": "Pedro Rosas",
+        "mevki": "Sol Bek",
+        "takim": "Casa Pia AC",
+        "yas": "75",
+        "piyasa_degeri": "450 bin €"
+    },
+    {
+        "ad": "Gaizka Larrazabal",
+        "mevki": "Sağ Bek",
+        "takim": "Casa Pia AC",
+        "yas": "72",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "André Geraldes",
+        "mevki": "Sağ Bek",
+        "takim": "Casa Pia AC",
+        "yas": "18",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Seba Pérez",
+        "mevki": "Ön Libero",
+        "takim": "Casa Pia AC",
+        "yas": "42",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Rafael Brito",
+        "mevki": "Ön Libero",
+        "takim": "Casa Pia AC",
+        "yas": "24",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Iyad Mohamed",
+        "mevki": "Ön Libero",
+        "takim": "Casa Pia AC",
+        "yas": "24",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Lawrence Ofori",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Casa Pia AC",
+        "yas": "80",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Kevin Prieto",
+        "mevki": "Orta Saha Sağ",
+        "takim": "Casa Pia AC",
+        "yas": "19",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Tiago Morais",
+        "mevki": "Sol Kanat",
+        "takim": "Casa Pia AC",
+        "yas": "21",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "João Marques",
+        "mevki": "Sol Kanat",
+        "takim": "Casa Pia AC",
+        "yas": "11",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Kelian Nsona",
+        "mevki": "Sol Kanat",
+        "takim": "Casa Pia AC",
+        "yas": "23",
+        "piyasa_degeri": "750 bin €"
+    },
+    {
+        "ad": "Jérémy Livolant",
+        "mevki": "Sağ Kanat",
+        "takim": "Casa Pia AC",
+        "yas": "29",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Xander Severina",
+        "mevki": "Sağ Kanat",
+        "takim": "Casa Pia AC",
+        "yas": "17",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Korede Osundina",
+        "mevki": "Sağ Kanat",
+        "takim": "Casa Pia AC",
+        "yas": "13",
+        "piyasa_degeri": "350 bin €"
+    },
+    {
+        "ad": "Kiki",
+        "mevki": "Sağ Kanat",
+        "takim": "Casa Pia AC",
+        "yas": "28",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Dailon Livramento",
+        "mevki": "Santrafor",
+        "takim": "Casa Pia AC",
+        "yas": "10",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Cassiano",
+        "mevki": "Santrafor",
+        "takim": "Casa Pia AC",
+        "yas": "90",
+        "piyasa_degeri": "150 bin €"
+    },
+    {
+        "ad": "Clau Mendes",
+        "mevki": "Santrafor",
+        "takim": "Casa Pia AC",
+        "yas": "99",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Bernardo",
+        "mevki": "Kaleci",
+        "takim": "CD Tondela",
+        "yas": "31",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Lucas Cañizares",
+        "mevki": "Kaleci",
+        "takim": "CD Tondela",
+        "yas": "30",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Gabriel Souza",
+        "mevki": "Kaleci",
+        "takim": "CD Tondela",
+        "yas": "29",
+        "piyasa_degeri": "150 bin €"
+    },
+    {
+        "ad": "Brayan Medina",
+        "mevki": "Stoper",
+        "takim": "CD Tondela",
+        "yas": "20",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Christian Marques",
+        "mevki": "Stoper",
+        "takim": "CD Tondela",
+        "yas": "23",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "João Silva",
+        "mevki": "Stoper",
+        "takim": "CD Tondela",
+        "yas": "44",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "João Afonso",
+        "mevki": "Stoper",
+        "takim": "CD Tondela",
+        "yas": "35",
+        "piyasa_degeri": "50 bin €"
+    },
+    {
+        "ad": "Nor Maviram",
+        "mevki": "Sol Bek",
+        "takim": "CD Tondela",
+        "yas": "60",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Rémy Vita",
+        "mevki": "Sol Bek",
+        "takim": "CD Tondela",
+        "yas": "21",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Tiago Manso",
+        "mevki": "Sağ Bek",
+        "takim": "CD Tondela",
+        "yas": "48",
+        "piyasa_degeri": "700 bin €"
+    },
+    {
+        "ad": "Rodrigo Conceição",
+        "mevki": "Sağ Bek",
+        "takim": "CD Tondela",
+        "yas": "27",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Bebeto",
+        "mevki": "Sağ Bek",
+        "takim": "CD Tondela",
+        "yas": "36",
+        "piyasa_degeri": "50 bin €"
+    },
+    {
+        "ad": "Juanse Rodríguez",
+        "mevki": "Ön Libero",
+        "takim": "CD Tondela",
+        "yas": "32",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Joe Hodge",
+        "mevki": "Ön Libero",
+        "takim": "CD Tondela",
+        "yas": "10",
+        "piyasa_degeri": "700 bin €"
+    },
+    {
+        "ad": "Cícero",
+        "mevki": "Ön Libero",
+        "takim": "CD Tondela",
+        "yas": "97",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Yaya Sithole",
+        "mevki": "Merkez Orta Saha",
+        "takim": "CD Tondela",
+        "yas": "15",
+        "piyasa_degeri": "600 bin €"
+    },
+    {
+        "ad": "Hélder Tavares",
+        "mevki": "Merkez Orta Saha",
+        "takim": "CD Tondela",
+        "yas": "36",
+        "piyasa_degeri": "50 bin €"
+    },
+    {
+        "ad": "Hugo Félix",
+        "mevki": "On Numara",
+        "takim": "CD Tondela",
+        "yas": "79",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Xabi Huarte",
+        "mevki": "On Numara",
+        "takim": "CD Tondela",
+        "yas": "14",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Makan Aïko",
+        "mevki": "Sol Kanat",
+        "takim": "CD Tondela",
+        "yas": "90",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Benjamin Kimpioka",
+        "mevki": "Sol Kanat",
+        "takim": "CD Tondela",
+        "yas": "23",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Moudjatovic",
+        "mevki": "Sol Kanat",
+        "takim": "CD Tondela",
+        "yas": "70",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Maranhão",
+        "mevki": "Sağ Kanat",
+        "takim": "CD Tondela",
+        "yas": "27",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Rony Lopes",
+        "mevki": "Sağ Kanat",
+        "takim": "CD Tondela",
+        "yas": "16",
+        "piyasa_degeri": "1.20 mil. €"
+    },
+    {
+        "ad": "Arjen van der Heide",
+        "mevki": "Sağ Kanat",
+        "takim": "CD Tondela",
+        "yas": "26",
+        "piyasa_degeri": "350 bin €"
+    },
+    {
+        "ad": "Jordan",
+        "mevki": "Santrafor",
+        "takim": "CD Tondela",
+        "yas": "29",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Kaique Pereira",
+        "mevki": "Kaleci",
+        "takim": "CD Nacional",
+        "yas": "23",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Lucas França",
+        "mevki": "Kaleci",
+        "takim": "CD Nacional",
+        "yas": "37",
+        "piyasa_degeri": "600 bin €"
+    },
+    {
+        "ad": "Kevyn",
+        "mevki": "Kaleci",
+        "takim": "CD Nacional",
+        "yas": "50",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "César Augusto",
+        "mevki": "Kaleci",
+        "takim": "CD Nacional",
+        "yas": "12",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Zé Vítor",
+        "mevki": "Stoper",
+        "takim": "CD Nacional",
+        "yas": "38",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Ulisses",
+        "mevki": "Stoper",
+        "takim": "CD Nacional",
+        "yas": "26",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Léo Santos",
+        "mevki": "Stoper",
+        "takim": "CD Nacional",
+        "yas": "34",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Ivanildo Fernandes",
+        "mevki": "Stoper",
+        "takim": "CD Nacional",
+        "yas": "14",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Chico Gonçalves",
+        "mevki": "Stoper",
+        "takim": "CD Nacional",
+        "yas": "33",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "José Gomes",
+        "mevki": "Sol Bek",
+        "takim": "CD Nacional",
+        "yas": "29",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Lenny Vallier",
+        "mevki": "Sol Bek",
+        "takim": "CD Nacional",
+        "yas": "24",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Alan Núñez",
+        "mevki": "Sağ Bek",
+        "takim": "CD Nacional",
+        "yas": "16",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "João Aurélio",
+        "mevki": "Sağ Bek",
+        "takim": "CD Nacional",
+        "yas": "37",
+        "piyasa_degeri": "50 bin €"
+    },
+    {
+        "ad": "Matheus Dias",
+        "mevki": "Ön Libero",
+        "takim": "CD Nacional",
+        "yas": "23",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Liziero",
+        "mevki": "Merkez Orta Saha",
+        "takim": "CD Nacional",
+        "yas": "28",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Chiheb Labidi",
+        "mevki": "Merkez Orta Saha",
+        "takim": "CD Nacional",
+        "yas": "15",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Joel Silva",
+        "mevki": "Merkez Orta Saha",
+        "takim": "CD Nacional",
+        "yas": "26",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Deivison",
+        "mevki": "Merkez Orta Saha",
+        "takim": "CD Nacional",
+        "yas": "88",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Jota",
+        "mevki": "Merkez Orta Saha",
+        "takim": "CD Nacional",
+        "yas": "20",
+        "piyasa_degeri": "75 bin €"
+    },
+    {
+        "ad": "André Sousa",
+        "mevki": "Merkez Orta Saha",
+        "takim": "CD Nacional",
+        "yas": "18",
+        "piyasa_degeri": "50 bin €"
+    },
+    {
+        "ad": "Filipe Soares",
+        "mevki": "On Numara",
+        "takim": "CD Nacional",
+        "yas": "22",
+        "piyasa_degeri": "700 bin €"
+    },
+    {
+        "ad": "Daniel Jr",
+        "mevki": "On Numara",
+        "takim": "CD Nacional",
+        "yas": "10",
+        "piyasa_degeri": "600 bin €"
+    },
+    {
+        "ad": "Miguel Baeza",
+        "mevki": "On Numara",
+        "takim": "CD Nacional",
+        "yas": "26",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Paulinho Bóia",
+        "mevki": "Sol Kanat",
+        "takim": "CD Nacional",
+        "yas": "11",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Witi",
+        "mevki": "Sol Kanat",
+        "takim": "CD Nacional",
+        "yas": "29",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Gabriel Veron",
+        "mevki": "Sağ Kanat",
+        "takim": "CD Nacional",
+        "yas": "27",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Pablo Ruan",
+        "mevki": "Sağ Kanat",
+        "takim": "CD Nacional",
+        "yas": "99",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Watts",
+        "mevki": "Sağ Kanat",
+        "takim": "CD Nacional",
+        "yas": "30",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Jesús Ramírez",
+        "mevki": "Santrafor",
+        "takim": "CD Nacional",
+        "yas": "27",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Lucas João",
+        "mevki": "Santrafor",
+        "takim": "CD Nacional",
+        "yas": "19",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Diogo Pinto",
+        "mevki": "Kaleci",
+        "takim": "CF Estrela Amadora",
+        "yas": "21",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Dudu",
+        "mevki": "Kaleci",
+        "takim": "CF Estrela Amadora",
+        "yas": "13",
+        "piyasa_degeri": "275 bin €"
+    },
+    {
+        "ad": "David Grilo",
+        "mevki": "Kaleci",
+        "takim": "CF Estrela Amadora",
+        "yas": "22",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Renan Ribeiro",
+        "mevki": "Kaleci",
+        "takim": "CF Estrela Amadora",
+        "yas": "40",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Stefan Lekovic",
+        "mevki": "Stoper",
+        "takim": "CF Estrela Amadora",
+        "yas": "25",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Luan Patrick",
+        "mevki": "Stoper",
+        "takim": "CF Estrela Amadora",
+        "yas": "30",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Otávio",
+        "mevki": "Stoper",
+        "takim": "CF Estrela Amadora",
+        "yas": "83",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Bernardo Schappo",
+        "mevki": "Stoper",
+        "takim": "CF Estrela Amadora",
+        "yas": "14",
+        "piyasa_degeri": "750 bin €"
+    },
+    {
+        "ad": "Issiar Dramé",
+        "mevki": "Stoper",
+        "takim": "CF Estrela Amadora",
+        "yas": "27",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Ni",
+        "mevki": "Stoper",
+        "takim": "CF Estrela Amadora",
+        "yas": "23",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Bruno Langa",
+        "mevki": "Sol Bek",
+        "takim": "CF Estrela Amadora",
+        "yas": "24",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Yahya Kalley",
+        "mevki": "Sol Bek",
+        "takim": "CF Estrela Amadora",
+        "yas": "25",
+        "piyasa_degeri": "375 bin €"
+    },
+    {
+        "ad": "Jefferson Encada",
+        "mevki": "Sağ Bek",
+        "takim": "CF Estrela Amadora",
+        "yas": "17",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Max Scholze",
+        "mevki": "Sağ Bek",
+        "takim": "CF Estrela Amadora",
+        "yas": "21",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Kevin Höög Jansson",
+        "mevki": "Ön Libero",
+        "takim": "CF Estrela Amadora",
+        "yas": "25",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Eddy Doué",
+        "mevki": "Ön Libero",
+        "takim": "CF Estrela Amadora",
+        "yas": "39",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Paulo Moreira",
+        "mevki": "Merkez Orta Saha",
+        "takim": "CF Estrela Amadora",
+        "yas": "19",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Robinho",
+        "mevki": "Merkez Orta Saha",
+        "takim": "CF Estrela Amadora",
+        "yas": "23",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Tom Moustier",
+        "mevki": "Merkez Orta Saha",
+        "takim": "CF Estrela Amadora",
+        "yas": "28",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Alex Sola",
+        "mevki": "Merkez Orta Saha",
+        "takim": "CF Estrela Amadora",
+        "yas": "63",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Ianis Stoica",
+        "mevki": "Sol Kanat",
+        "takim": "CF Estrela Amadora",
+        "yas": "10",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Jovane Cabral",
+        "mevki": "Sol Kanat",
+        "takim": "CF Estrela Amadora",
+        "yas": "11",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Jorge Meireles",
+        "mevki": "Sol Kanat",
+        "takim": "CF Estrela Amadora",
+        "yas": "18",
+        "piyasa_degeri": "600 bin €"
+    },
+    {
+        "ad": "Alisson Souza",
+        "mevki": "Sol Kanat",
+        "takim": "CF Estrela Amadora",
+        "yas": "80",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Billal Brahimi",
+        "mevki": "Sağ Kanat",
+        "takim": "CF Estrela Amadora",
+        "yas": "26",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Abraham Marcus",
+        "mevki": "Sağ Kanat",
+        "takim": "CF Estrela Amadora",
+        "yas": "99",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Sydney van Hooijdonk",
+        "mevki": "Santrafor",
+        "takim": "CF Estrela Amadora",
+        "yas": "20",
+        "piyasa_degeri": "1.30 mil. €"
+    },
+    {
+        "ad": "Rodrigo Pinho",
+        "mevki": "Santrafor",
+        "takim": "CF Estrela Amadora",
+        "yas": "34",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Mathew Gbomadu",
+        "mevki": "Santrafor",
+        "takim": "CF Estrela Amadora",
+        "yas": "17",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Chilohem Onuoha",
+        "mevki": "Santrafor",
+        "takim": "CF Estrela Amadora",
+        "yas": "70",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Leandro Antonetti",
+        "mevki": "Santrafor",
+        "takim": "CF Estrela Amadora",
+        "yas": "77",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Adriel",
+        "mevki": "Kaleci",
+        "takim": "Avs Futebol",
+        "yas": "25",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Simão",
+        "mevki": "Kaleci",
+        "takim": "Avs Futebol",
+        "yas": "93",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Trigueira",
+        "mevki": "Kaleci",
+        "takim": "Avs Futebol",
+        "yas": "88",
+        "piyasa_degeri": "50 bin €"
+    },
+    {
+        "ad": "Cristian Devenish",
+        "mevki": "Stoper",
+        "takim": "Avs Futebol",
+        "yas": "42",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Paulo Vitor",
+        "mevki": "Stoper",
+        "takim": "Avs Futebol",
+        "yas": "24",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Rúben Semedo",
+        "mevki": "Stoper",
+        "takim": "Avs Futebol",
+        "yas": "35",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Ponck",
+        "mevki": "Stoper",
+        "takim": "Avs Futebol",
+        "yas": "26",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Aderllan Santos",
+        "mevki": "Stoper",
+        "takim": "Avs Futebol",
+        "yas": "33",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Daniel Rivas",
+        "mevki": "Sol Bek",
+        "takim": "Avs Futebol",
+        "yas": "12",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Kiki",
+        "mevki": "Sol Bek",
+        "takim": "Avs Futebol",
+        "yas": "24",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Guillem Molina",
+        "mevki": "Sağ Bek",
+        "takim": "Avs Futebol",
+        "yas": "25",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Mateus Pivô",
+        "mevki": "Sağ Bek",
+        "takim": "Avs Futebol",
+        "yas": "97",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Roni",
+        "mevki": "Ön Libero",
+        "takim": "Avs Futebol",
+        "yas": "70",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Ángel Algobia",
+        "mevki": "Ön Libero",
+        "takim": "Avs Futebol",
+        "yas": "27",
+        "piyasa_degeri": "600 bin €"
+    },
+    {
+        "ad": "Tiago Hernández",
+        "mevki": "Ön Libero",
+        "takim": "Avs Futebol",
+        "yas": "19",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Pedro Lima",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Avs Futebol",
+        "yas": "23",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Gustavo Mendonça",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Avs Futebol",
+        "yas": "23",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Óscar Perea",
+        "mevki": "Sol Kanat",
+        "takim": "Avs Futebol",
+        "yas": "14",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Tunde Akinsola",
+        "mevki": "Sol Kanat",
+        "takim": "Avs Futebol",
+        "yas": "11",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Andre Green",
+        "mevki": "Sol Kanat",
+        "takim": "Avs Futebol",
+        "yas": "25",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Guilherme Neiva",
+        "mevki": "Sol Kanat",
+        "takim": "Avs Futebol",
+        "yas": "21",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Antoine Baroan",
+        "mevki": "Santrafor",
+        "takim": "Avs Futebol",
+        "yas": "17",
+        "piyasa_degeri": "600 bin €"
+    },
+    {
+        "ad": "Diego Duarte",
+        "mevki": "Santrafor",
+        "takim": "Avs Futebol",
+        "yas": "20",
+        "piyasa_degeri": "250 bin €"
+    },
+    {
+        "ad": "Tomané",
+        "mevki": "Santrafor",
+        "takim": "Avs Futebol",
+        "yas": "33",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Nenê",
+        "mevki": "Santrafor",
+        "takim": "Avs Futebol",
+        "yas": "18",
+        "piyasa_degeri": "50 bin €"
+    }
+]

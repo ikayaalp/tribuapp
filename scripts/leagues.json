@@ -1,0 +1,98 @@
+[
+  {
+    "word": "Premier League",
+    "results": [
+      {
+        "id": 8,
+        "name": "Premier League"
+      }
+    ]
+  },
+  {
+    "word": "La Liga",
+    "results": [
+      {
+        "id": 564,
+        "name": "La Liga"
+      },
+      {
+        "id": 567,
+        "name": "La Liga 2"
+      }
+    ]
+  },
+  {
+    "word": "Serie A",
+    "results": [
+      {
+        "id": 384,
+        "name": "Serie A"
+      },
+      {
+        "id": 648,
+        "name": "Serie A"
+      }
+    ]
+  },
+  {
+    "word": "Bundesliga",
+    "results": [
+      {
+        "id": 82,
+        "name": "Bundesliga"
+      },
+      {
+        "id": 85,
+        "name": "2. Bundesliga"
+      }
+    ]
+  },
+  {
+    "word": "Ligue 1",
+    "results": [
+      {
+        "id": 301,
+        "name": "Ligue 1"
+      }
+    ]
+  },
+  {
+    "word": "Super Lig",
+    "results": [
+      {
+        "id": 600,
+        "name": "Super Lig"
+      }
+    ]
+  },
+  {
+    "word": "Süper Lig",
+    "results": [
+      {
+        "id": 600,
+        "name": "Super Lig"
+      }
+    ]
+  },
+  {
+    "word": "Eredivisie",
+    "results": [
+      {
+        "id": 72,
+        "name": "Eredivisie"
+      }
+    ]
+  },
+  {
+    "word": "Primeira Liga",
+    "results": []
+  },
+  {
+    "word": "Champions League",
+    "results": []
+  },
+  {
+    "word": "Europa League",
+    "results": []
+  }
+]

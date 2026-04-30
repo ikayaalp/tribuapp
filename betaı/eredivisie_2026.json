@@ -1,0 +1,3418 @@
+[
+    {
+        "ad": "Matej Kovar",
+        "mevki": "Kaleci",
+        "takim": "PSV Eindhoven",
+        "yas": "32",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Nick Olij",
+        "mevki": "Kaleci",
+        "takim": "PSV Eindhoven",
+        "yas": "30",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Niek Schiks",
+        "mevki": "Kaleci",
+        "takim": "PSV Eindhoven",
+        "yas": "24",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Yarek Gasiorowski",
+        "mevki": "Stoper",
+        "takim": "PSV Eindhoven",
+        "yas": "21",
+        "piyasa_degeri": "16.00 mil. €"
+    },
+    {
+        "ad": "Ryan Flamingo",
+        "mevki": "Stoper",
+        "takim": "PSV Eindhoven",
+        "yas": "23",
+        "piyasa_degeri": "14.00 mil. €"
+    },
+    {
+        "ad": "Armando Obispo",
+        "mevki": "Stoper",
+        "takim": "PSV Eindhoven",
+        "yas": "27",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Mauro Júnior",
+        "mevki": "Sol Bek",
+        "takim": "PSV Eindhoven",
+        "yas": "17",
+        "piyasa_degeri": "17.00 mil. €"
+    },
+    {
+        "ad": "Anass Salah-Eddine",
+        "mevki": "Sol Bek",
+        "takim": "PSV Eindhoven",
+        "yas": "24",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Sergiño Dest",
+        "mevki": "Sağ Bek",
+        "takim": "PSV Eindhoven",
+        "yas": "25",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Kiliann Sildillia",
+        "mevki": "Sağ Bek",
+        "takim": "PSV Eindhoven",
+        "yas": "25",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Jerdy Schouten",
+        "mevki": "Ön Libero",
+        "takim": "PSV Eindhoven",
+        "yas": "22",
+        "piyasa_degeri": "22.00 mil. €"
+    },
+    {
+        "ad": "Joey Veerman",
+        "mevki": "Merkez Orta Saha",
+        "takim": "PSV Eindhoven",
+        "yas": "23",
+        "piyasa_degeri": "27.00 mil. €"
+    },
+    {
+        "ad": "Joël van den Berg",
+        "mevki": "Merkez Orta Saha",
+        "takim": "PSV Eindhoven",
+        "yas": "35",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Ismael Saibari",
+        "mevki": "On Numara",
+        "takim": "PSV Eindhoven",
+        "yas": "34",
+        "piyasa_degeri": "32.00 mil. €"
+    },
+    {
+        "ad": "Paul Wanner",
+        "mevki": "On Numara",
+        "takim": "PSV Eindhoven",
+        "yas": "10",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Guus Til",
+        "mevki": "On Numara",
+        "takim": "PSV Eindhoven",
+        "yas": "20",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Noah Fernandez",
+        "mevki": "On Numara",
+        "takim": "PSV Eindhoven",
+        "yas": "31",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Ruben van Bommel",
+        "mevki": "Sol Kanat",
+        "takim": "PSV Eindhoven",
+        "yas": "21",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Couhaib Driouech",
+        "mevki": "Sol Kanat",
+        "takim": "PSV Eindhoven",
+        "yas": "11",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Ivan Perišić",
+        "mevki": "Sol Kanat",
+        "takim": "PSV Eindhoven",
+        "yas": "37",
+        "piyasa_degeri": "1.30 mil. €"
+    },
+    {
+        "ad": "Dennis Man",
+        "mevki": "Sağ Kanat",
+        "takim": "PSV Eindhoven",
+        "yas": "27",
+        "piyasa_degeri": "13.00 mil. €"
+    },
+    {
+        "ad": "Esmir Bajraktarevic",
+        "mevki": "Sağ Kanat",
+        "takim": "PSV Eindhoven",
+        "yas": "19",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Ricardo Pepi",
+        "mevki": "Santrafor",
+        "takim": "PSV Eindhoven",
+        "yas": "23",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Myron Boadu",
+        "mevki": "Santrafor",
+        "takim": "PSV Eindhoven",
+        "yas": "21",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Alassane Pléa",
+        "mevki": "Santrafor",
+        "takim": "PSV Eindhoven",
+        "yas": "14",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Timon Wellenreuther",
+        "mevki": "Kaleci",
+        "takim": "Feyenoord",
+        "yas": "22",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Steven Benda",
+        "mevki": "Kaleci",
+        "takim": "Feyenoord",
+        "yas": "13",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Liam Bossin",
+        "mevki": "Kaleci",
+        "takim": "Feyenoord",
+        "yas": "39",
+        "piyasa_degeri": "450 bin €"
+    },
+    {
+        "ad": "Mannou Berger",
+        "mevki": "Kaleci",
+        "takim": "Feyenoord",
+        "yas": "37",
+        "piyasa_degeri": "75 bin €"
+    },
+    {
+        "ad": "Anel Ahmedhodzic",
+        "mevki": "Stoper",
+        "takim": "Feyenoord",
+        "yas": "21",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Tsuyoshi Watanabe",
+        "mevki": "Stoper",
+        "takim": "Feyenoord",
+        "yas": "29",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Thomas Beelen",
+        "mevki": "Stoper",
+        "takim": "Feyenoord",
+        "yas": "24",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Jeremiah St. Juste",
+        "mevki": "Stoper",
+        "takim": "Feyenoord",
+        "yas": "29",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Gernot Trauner",
+        "mevki": "Stoper",
+        "takim": "Feyenoord",
+        "yas": "18",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Malcolm Jeng",
+        "mevki": "Stoper",
+        "takim": "Feyenoord",
+        "yas": "31",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Jordan Bos",
+        "mevki": "Sol Bek",
+        "takim": "Feyenoord",
+        "yas": "15",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Gijs Smal",
+        "mevki": "Sol Bek",
+        "takim": "Feyenoord",
+        "yas": "28",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Givairo Read",
+        "mevki": "Sağ Bek",
+        "takim": "Feyenoord",
+        "yas": "26",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Jordan Lotomba",
+        "mevki": "Sağ Bek",
+        "takim": "Feyenoord",
+        "yas": "30",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Bart Nieuwkoop",
+        "mevki": "Sağ Bek",
+        "takim": "Feyenoord",
+        "yas": "30",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Mats Deijl",
+        "mevki": "Sağ Bek",
+        "takim": "Feyenoord",
+        "yas": "20",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Oussama Targhalline",
+        "mevki": "Ön Libero",
+        "takim": "Feyenoord",
+        "yas": "28",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "In-beom Hwang",
+        "mevki": "Ön Libero",
+        "takim": "Feyenoord",
+        "yas": "29",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Luciano Valente",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Feyenoord",
+        "yas": "10",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Jakub Moder",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Feyenoord",
+        "yas": "27",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Thijs Kraaijeveld",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Feyenoord",
+        "yas": "24",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Sem Steijn",
+        "mevki": "On Numara",
+        "takim": "Feyenoord",
+        "yas": "14",
+        "piyasa_degeri": "11.00 mil. €"
+    },
+    {
+        "ad": "Tobias van den Elshout",
+        "mevki": "On Numara",
+        "takim": "Feyenoord",
+        "yas": "44",
+        "piyasa_degeri": "600 bin €"
+    },
+    {
+        "ad": "Shiloh 't Zand",
+        "mevki": "On Numara",
+        "takim": "Feyenoord",
+        "yas": "25",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Leo Sauer",
+        "mevki": "Sol Kanat",
+        "takim": "Feyenoord",
+        "yas": "16",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Aymen Sliti",
+        "mevki": "Sol Kanat",
+        "takim": "Feyenoord",
+        "yas": "32",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Gaoussou Diarra",
+        "mevki": "Sol Kanat",
+        "takim": "Feyenoord",
+        "yas": "27",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Anis Hadj Moussa",
+        "mevki": "Sağ Kanat",
+        "takim": "Feyenoord",
+        "yas": "23",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Raheem Sterling",
+        "mevki": "Sağ Kanat",
+        "takim": "Feyenoord",
+        "yas": "19",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Gonçalo Borges",
+        "mevki": "Sağ Kanat",
+        "takim": "Feyenoord",
+        "yas": "11",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Ayase Ueda",
+        "mevki": "Santrafor",
+        "takim": "Feyenoord",
+        "yas": "27",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Casper Tengstedt",
+        "mevki": "Santrafor",
+        "takim": "Feyenoord",
+        "yas": "17",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Shaqueel van Persie",
+        "mevki": "Santrafor",
+        "takim": "Feyenoord",
+        "yas": "49",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Vitezslav Jaros",
+        "mevki": "Kaleci",
+        "takim": "Ajax Amsterdam",
+        "yas": "24",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Maarten Paes",
+        "mevki": "Kaleci",
+        "takim": "Ajax Amsterdam",
+        "yas": "26",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Joeri Heerkens",
+        "mevki": "Kaleci",
+        "takim": "Ajax Amsterdam",
+        "yas": "12",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Paul Reverson",
+        "mevki": "Kaleci",
+        "takim": "Ajax Amsterdam",
+        "yas": "52",
+        "piyasa_degeri": "350 bin €"
+    },
+    {
+        "ad": "Youri Baas",
+        "mevki": "Stoper",
+        "takim": "Ajax Amsterdam",
+        "yas": "15",
+        "piyasa_degeri": "20.00 mil. €"
+    },
+    {
+        "ad": "Josip Sutalo",
+        "mevki": "Stoper",
+        "takim": "Ajax Amsterdam",
+        "yas": "37",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Ko Itakura",
+        "mevki": "Stoper",
+        "takim": "Ajax Amsterdam",
+        "yas": "29",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Aaron Bouwman",
+        "mevki": "Stoper",
+        "takim": "Ajax Amsterdam",
+        "yas": "30",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Oleksandr Zinchenko",
+        "mevki": "Sol Bek",
+        "takim": "Ajax Amsterdam",
+        "yas": "47",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Owen Wijndal",
+        "mevki": "Sol Bek",
+        "takim": "Ajax Amsterdam",
+        "yas": "26",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Takehiro Tomiyasu",
+        "mevki": "Sağ Bek",
+        "takim": "Ajax Amsterdam",
+        "yas": "32",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Anton Gaaei",
+        "mevki": "Sağ Bek",
+        "takim": "Ajax Amsterdam",
+        "yas": "23",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Lucas Rosa",
+        "mevki": "Sağ Bek",
+        "takim": "Ajax Amsterdam",
+        "yas": "26",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Jorthy Mokio",
+        "mevki": "Ön Libero",
+        "takim": "Ajax Amsterdam",
+        "yas": "24",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Youri Regeer",
+        "mevki": "Ön Libero",
+        "takim": "Ajax Amsterdam",
+        "yas": "22",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Sean Steur",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Ajax Amsterdam",
+        "yas": "48",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Kian Fitz-Jim",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Ajax Amsterdam",
+        "yas": "28",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Davy Klaassen",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Ajax Amsterdam",
+        "yas": "18",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Oscar Gloukh",
+        "mevki": "On Numara",
+        "takim": "Ajax Amsterdam",
+        "yas": "10",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Rayane Bounida",
+        "mevki": "On Numara",
+        "takim": "Ajax Amsterdam",
+        "yas": "43",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Mika Godts",
+        "mevki": "Sol Kanat",
+        "takim": "Ajax Amsterdam",
+        "yas": "11",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Oliver Edvardsen",
+        "mevki": "Sol Kanat",
+        "takim": "Ajax Amsterdam",
+        "yas": "17",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Maher Carrizo",
+        "mevki": "Sağ Kanat",
+        "takim": "Ajax Amsterdam",
+        "yas": "20",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Steven Berghuis",
+        "mevki": "Sağ Kanat",
+        "takim": "Ajax Amsterdam",
+        "yas": "23",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Kasper Dolberg",
+        "mevki": "Santrafor",
+        "takim": "Ajax Amsterdam",
+        "yas": "28",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Wout Weghorst",
+        "mevki": "Santrafor",
+        "takim": "Ajax Amsterdam",
+        "yas": "25",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Don-Angelo Konadu",
+        "mevki": "Santrafor",
+        "takim": "Ajax Amsterdam",
+        "yas": "19",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Rome-Jayden Owusu-Oduro",
+        "mevki": "Kaleci",
+        "takim": "AZ Alkmaar",
+        "yas": "21",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Jeroen Zoet",
+        "mevki": "Kaleci",
+        "takim": "AZ Alkmaar",
+        "yas": "41",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Hobie Verhulst",
+        "mevki": "Kaleci",
+        "takim": "AZ Alkmaar",
+        "yas": "12",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Daniël Deen",
+        "mevki": "Kaleci",
+        "takim": "AZ Alkmaar",
+        "yas": "31",
+        "piyasa_degeri": "125 bin €"
+    },
+    {
+        "ad": "Wouter Goes",
+        "mevki": "Stoper",
+        "takim": "AZ Alkmaar",
+        "yas": "21",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Alexandre Penetra",
+        "mevki": "Stoper",
+        "takim": "AZ Alkmaar",
+        "yas": "24",
+        "piyasa_degeri": "9.00 mil. €"
+    },
+    {
+        "ad": "Rion Ichihara",
+        "mevki": "Stoper",
+        "takim": "AZ Alkmaar",
+        "yas": "18",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Maxim Dekker",
+        "mevki": "Stoper",
+        "takim": "AZ Alkmaar",
+        "yas": "22",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Billy van Duijl",
+        "mevki": "Stoper",
+        "takim": "AZ Alkmaar",
+        "yas": "23",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Mees de Wit",
+        "mevki": "Sol Bek",
+        "takim": "AZ Alkmaar",
+        "yas": "34",
+        "piyasa_degeri": "4.50 mil. €"
+    },
+    {
+        "ad": "Mateo Chávez",
+        "mevki": "Sol Bek",
+        "takim": "AZ Alkmaar",
+        "yas": "15",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Denso Kasius",
+        "mevki": "Sağ Bek",
+        "takim": "AZ Alkmaar",
+        "yas": "30",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Seiya Maikuma",
+        "mevki": "Sağ Bek",
+        "takim": "AZ Alkmaar",
+        "yas": "28",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Elijah Dijkstra",
+        "mevki": "Sağ Bek",
+        "takim": "AZ Alkmaar",
+        "yas": "22",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Peer Koopmeiners",
+        "mevki": "Ön Libero",
+        "takim": "AZ Alkmaar",
+        "yas": "25",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Kasper Boogaard",
+        "mevki": "Ön Libero",
+        "takim": "AZ Alkmaar",
+        "yas": "20",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Jordy Clasie",
+        "mevki": "Ön Libero",
+        "takim": "AZ Alkmaar",
+        "yas": "34",
+        "piyasa_degeri": "1.20 mil. €"
+    },
+    {
+        "ad": "Kees Smit",
+        "mevki": "Merkez Orta Saha",
+        "takim": "AZ Alkmaar",
+        "yas": "26",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Sven Mijnans",
+        "mevki": "On Numara",
+        "takim": "AZ Alkmaar",
+        "yas": "10",
+        "piyasa_degeri": "14.00 mil. €"
+    },
+    {
+        "ad": "Matej Sin",
+        "mevki": "On Numara",
+        "takim": "AZ Alkmaar",
+        "yas": "33",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Isak Jensen",
+        "mevki": "Sol Kanat",
+        "takim": "AZ Alkmaar",
+        "yas": "17",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Ro-Zangelo Daal",
+        "mevki": "Sol Kanat",
+        "takim": "AZ Alkmaar",
+        "yas": "27",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Wassim Bouziane",
+        "mevki": "Sol Kanat",
+        "takim": "AZ Alkmaar",
+        "yas": "75",
+        "piyasa_degeri": "450 bin €"
+    },
+    {
+        "ad": "Weslley Patati",
+        "mevki": "Sağ Kanat",
+        "takim": "AZ Alkmaar",
+        "yas": "22",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Ayoub Oufkir",
+        "mevki": "Sağ Kanat",
+        "takim": "AZ Alkmaar",
+        "yas": "24",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Ibrahim Sadiq",
+        "mevki": "Sağ Kanat",
+        "takim": "AZ Alkmaar",
+        "yas": "11",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Troy Parrott",
+        "mevki": "Santrafor",
+        "takim": "AZ Alkmaar",
+        "yas": "24",
+        "piyasa_degeri": "22.00 mil. €"
+    },
+    {
+        "ad": "Mexx Meerdink",
+        "mevki": "Santrafor",
+        "takim": "AZ Alkmaar",
+        "yas": "35",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Jizz Hornkamp",
+        "mevki": "Santrafor",
+        "takim": "AZ Alkmaar",
+        "yas": "19",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Vasilios Barkas",
+        "mevki": "Kaleci",
+        "takim": "FC Utrecht",
+        "yas": "31",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Michael Brouwer",
+        "mevki": "Kaleci",
+        "takim": "FC Utrecht",
+        "yas": "25",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Kevin Gadellaa",
+        "mevki": "Kaleci",
+        "takim": "FC Utrecht",
+        "yas": "33",
+        "piyasa_degeri": "250 bin €"
+    },
+    {
+        "ad": "Matisse Didden",
+        "mevki": "Stoper",
+        "takim": "FC Utrecht",
+        "yas": "40",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Mike Eerdhuijzen",
+        "mevki": "Stoper",
+        "takim": "FC Utrecht",
+        "yas": "44",
+        "piyasa_degeri": "1.70 mil. €"
+    },
+    {
+        "ad": "Mike van der Hoorn",
+        "mevki": "Stoper",
+        "takim": "FC Utrecht",
+        "yas": "33",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Nick Viergever",
+        "mevki": "Stoper",
+        "takim": "FC Utrecht",
+        "yas": "24",
+        "piyasa_degeri": "350 bin €"
+    },
+    {
+        "ad": "Souffian El Karouani",
+        "mevki": "Sol Bek",
+        "takim": "FC Utrecht",
+        "yas": "16",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Emeka Adiele",
+        "mevki": "Sol Bek",
+        "takim": "FC Utrecht",
+        "yas": "18",
+        "piyasa_degeri": "700 bin €"
+    },
+    {
+        "ad": "Siebe Horemans",
+        "mevki": "Sağ Bek",
+        "takim": "FC Utrecht",
+        "yas": "27",
+        "piyasa_degeri": "4.50 mil. €"
+    },
+    {
+        "ad": "Niklas Vesterlund",
+        "mevki": "Sağ Bek",
+        "takim": "FC Utrecht",
+        "yas": "23",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Alonzo Engwanda",
+        "mevki": "Ön Libero",
+        "takim": "FC Utrecht",
+        "yas": "27",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Jaygo van Ommeren",
+        "mevki": "Ön Libero",
+        "takim": "FC Utrecht",
+        "yas": "46",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Oualid Agougil",
+        "mevki": "Ön Libero",
+        "takim": "FC Utrecht",
+        "yas": "38",
+        "piyasa_degeri": "450 bin €"
+    },
+    {
+        "ad": "Gjivai Zechiël",
+        "mevki": "Merkez Orta Saha",
+        "takim": "FC Utrecht",
+        "yas": "21",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Can Bozdogan",
+        "mevki": "Merkez Orta Saha",
+        "takim": "FC Utrecht",
+        "yas": "25",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Zidane Iqbal",
+        "mevki": "Merkez Orta Saha",
+        "takim": "FC Utrecht",
+        "yas": "14",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Victor Jensen",
+        "mevki": "On Numara",
+        "takim": "FC Utrecht",
+        "yas": "26",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Dani de Wit",
+        "mevki": "On Numara",
+        "takim": "FC Utrecht",
+        "yas": "20",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Rafik El Arguioui",
+        "mevki": "On Numara",
+        "takim": "FC Utrecht",
+        "yas": "43",
+        "piyasa_degeri": "350 bin €"
+    },
+    {
+        "ad": "Yoann Cathline",
+        "mevki": "Sol Kanat",
+        "takim": "FC Utrecht",
+        "yas": "10",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Jesper Karlsson",
+        "mevki": "Sol Kanat",
+        "takim": "FC Utrecht",
+        "yas": "11",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Ángel Alarcón",
+        "mevki": "Sol Kanat",
+        "takim": "FC Utrecht",
+        "yas": "77",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Adrian Blake",
+        "mevki": "Sol Kanat",
+        "takim": "FC Utrecht",
+        "yas": "15",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Emirhan Demircan",
+        "mevki": "Sol Kanat",
+        "takim": "FC Utrecht",
+        "yas": "17",
+        "piyasa_degeri": "600 bin €"
+    },
+    {
+        "ad": "Miguel Rodríguez",
+        "mevki": "Sağ Kanat",
+        "takim": "FC Utrecht",
+        "yas": "22",
+        "piyasa_degeri": "4.50 mil. €"
+    },
+    {
+        "ad": "David Min",
+        "mevki": "Santrafor",
+        "takim": "FC Utrecht",
+        "yas": "26",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Artem Stepanov",
+        "mevki": "Santrafor",
+        "takim": "FC Utrecht",
+        "yas": "18",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Sébastien Haller",
+        "mevki": "Santrafor",
+        "takim": "FC Utrecht",
+        "yas": "91",
+        "piyasa_degeri": "1.30 mil. €"
+    },
+    {
+        "ad": "Lars Unnerstall",
+        "mevki": "Kaleci",
+        "takim": "FC Twente Enschede",
+        "yas": "35",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Issam El Maach",
+        "mevki": "Kaleci",
+        "takim": "FC Twente Enschede",
+        "yas": "26",
+        "piyasa_degeri": "150 bin €"
+    },
+    {
+        "ad": "Sam Karssies",
+        "mevki": "Kaleci",
+        "takim": "FC Twente Enschede",
+        "yas": "21",
+        "piyasa_degeri": "75 bin €"
+    },
+    {
+        "ad": "Przemyslaw Tyton",
+        "mevki": "Kaleci",
+        "takim": "FC Twente Enschede",
+        "yas": "22",
+        "piyasa_degeri": "75 bin €"
+    },
+    {
+        "ad": "Yannick Gerritsen",
+        "mevki": "Kaleci",
+        "takim": "FC Twente Enschede",
+        "yas": "31",
+        "piyasa_degeri": "50 bin €"
+    },
+    {
+        "ad": "Ruud Nijstad",
+        "mevki": "Stoper",
+        "takim": "FC Twente Enschede",
+        "yas": "43",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Mees Hilgers",
+        "mevki": "Stoper",
+        "takim": "FC Twente Enschede",
+        "yas": "24",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Stav Lemkin",
+        "mevki": "Stoper",
+        "takim": "FC Twente Enschede",
+        "yas": "23",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Max Bruns",
+        "mevki": "Stoper",
+        "takim": "FC Twente Enschede",
+        "yas": "38",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Robin Pröpper",
+        "mevki": "Stoper",
+        "takim": "FC Twente Enschede",
+        "yas": "32",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Mats Rots",
+        "mevki": "Sol Bek",
+        "takim": "FC Twente Enschede",
+        "yas": "39",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Bart van Rooij",
+        "mevki": "Sağ Bek",
+        "takim": "FC Twente Enschede",
+        "yas": "28",
+        "piyasa_degeri": "9.00 mil. €"
+    },
+    {
+        "ad": "Guilherme Peixoto",
+        "mevki": "Sağ Bek",
+        "takim": "FC Twente Enschede",
+        "yas": "12",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Ramiz Zerrouki",
+        "mevki": "Ön Libero",
+        "takim": "FC Twente Enschede",
+        "yas": "27",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Thomas van den Belt",
+        "mevki": "Ön Libero",
+        "takim": "FC Twente Enschede",
+        "yas": "20",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Mathias Kjølø",
+        "mevki": "Ön Libero",
+        "takim": "FC Twente Enschede",
+        "yas": "24",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Daouda Weidmann",
+        "mevki": "Merkez Orta Saha",
+        "takim": "FC Twente Enschede",
+        "yas": "42",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Kristian Hlynsson",
+        "mevki": "On Numara",
+        "takim": "FC Twente Enschede",
+        "yas": "14",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Arno Verschueren",
+        "mevki": "On Numara",
+        "takim": "FC Twente Enschede",
+        "yas": "32",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Sondre Ørjasæter",
+        "mevki": "Sol Kanat",
+        "takim": "FC Twente Enschede",
+        "yas": "27",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Marko Pjaca",
+        "mevki": "Sol Kanat",
+        "takim": "FC Twente Enschede",
+        "yas": "30",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Daan Rots",
+        "mevki": "Sağ Kanat",
+        "takim": "FC Twente Enschede",
+        "yas": "11",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Taylor Booth",
+        "mevki": "Sağ Kanat",
+        "takim": "FC Twente Enschede",
+        "yas": "24",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Sam Lammers",
+        "mevki": "Santrafor",
+        "takim": "FC Twente Enschede",
+        "yas": "10",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Ricky van Wolfswinkel",
+        "mevki": "Santrafor",
+        "takim": "FC Twente Enschede",
+        "yas": "37",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Lucas Vennegoor of Hesselink",
+        "mevki": "Santrafor",
+        "takim": "FC Twente Enschede",
+        "yas": "25",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Gonzalo Crettaz",
+        "mevki": "Kaleci",
+        "takim": "NEC Nijmegen",
+        "yas": "26",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Jasper Cillessen",
+        "mevki": "Kaleci",
+        "takim": "NEC Nijmegen",
+        "yas": "22",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Rijk Janse",
+        "mevki": "Kaleci",
+        "takim": "NEC Nijmegen",
+        "yas": "31",
+        "piyasa_degeri": "25 bin €"
+    },
+    {
+        "ad": "Ahmetcan Kaplan",
+        "mevki": "Stoper",
+        "takim": "NEC Nijmegen",
+        "yas": "23",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Philippe Sandler",
+        "mevki": "Stoper",
+        "takim": "NEC Nijmegen",
+        "yas": "29",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Brayann Pereira",
+        "mevki": "Stoper",
+        "takim": "NEC Nijmegen",
+        "yas": "22",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Deveron Fonville",
+        "mevki": "Stoper",
+        "takim": "NEC Nijmegen",
+        "yas": "24",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Thomas Ouwejan",
+        "mevki": "Stoper",
+        "takim": "NEC Nijmegen",
+        "yas": "29",
+        "piyasa_degeri": "900 bin €"
+    },
+    {
+        "ad": "Eli Dasa",
+        "mevki": "Stoper",
+        "takim": "NEC Nijmegen",
+        "yas": "14",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Jetro Willems",
+        "mevki": "Stoper",
+        "takim": "NEC Nijmegen",
+        "yas": "15",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Bram Nuytinck",
+        "mevki": "Stoper",
+        "takim": "NEC Nijmegen",
+        "yas": "17",
+        "piyasa_degeri": "250 bin €"
+    },
+    {
+        "ad": "Darko Nejasmic",
+        "mevki": "Ön Libero",
+        "takim": "NEC Nijmegen",
+        "yas": "27",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Dirk Proper",
+        "mevki": "Ön Libero",
+        "takim": "NEC Nijmegen",
+        "yas": "71",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Kodai Sano",
+        "mevki": "Merkez Orta Saha",
+        "takim": "NEC Nijmegen",
+        "yas": "23",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Sam de Laat",
+        "mevki": "Merkez Orta Saha",
+        "takim": "NEC Nijmegen",
+        "yas": "35",
+        "piyasa_degeri": "75 bin €"
+    },
+    {
+        "ad": "Sami Ouaissa",
+        "mevki": "Orta Saha Sağ",
+        "takim": "NEC Nijmegen",
+        "yas": "25",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Başar Önal",
+        "mevki": "Orta Saha Sol",
+        "takim": "NEC Nijmegen",
+        "yas": "11",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Virgil Misidjan",
+        "mevki": "Orta Saha Sol",
+        "takim": "NEC Nijmegen",
+        "yas": "32",
+        "piyasa_degeri": "600 bin €"
+    },
+    {
+        "ad": "Willum Thór Willumsson",
+        "mevki": "On Numara",
+        "takim": "NEC Nijmegen",
+        "yas": "19",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Noé Lebreton",
+        "mevki": "On Numara",
+        "takim": "NEC Nijmegen",
+        "yas": "20",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Isak Hansen-Aarøen",
+        "mevki": "On Numara",
+        "takim": "NEC Nijmegen",
+        "yas": "21",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Tjaronn Chery",
+        "mevki": "On Numara",
+        "takim": "NEC Nijmegen",
+        "yas": "10",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Koki Ogawa",
+        "mevki": "Santrafor",
+        "takim": "NEC Nijmegen",
+        "yas": "18",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Danilo",
+        "mevki": "Santrafor",
+        "takim": "NEC Nijmegen",
+        "yas": "27",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Youssef El Kachati",
+        "mevki": "Santrafor",
+        "takim": "NEC Nijmegen",
+        "yas": "34",
+        "piyasa_degeri": "700 bin €"
+    },
+    {
+        "ad": "Bryan Linssen",
+        "mevki": "Santrafor",
+        "takim": "NEC Nijmegen",
+        "yas": "30",
+        "piyasa_degeri": "350 bin €"
+    },
+    {
+        "ad": "Bernt Klaverboer",
+        "mevki": "Kaleci",
+        "takim": "SC Heerenveen",
+        "yas": "22",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Nordin Bakker",
+        "mevki": "Kaleci",
+        "takim": "SC Heerenveen",
+        "yas": "31",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Andries Noppert",
+        "mevki": "Kaleci",
+        "takim": "SC Heerenveen",
+        "yas": "44",
+        "piyasa_degeri": "350 bin €"
+    },
+    {
+        "ad": "Maas Willemsen",
+        "mevki": "Stoper",
+        "takim": "SC Heerenveen",
+        "yas": "22",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Sam Kersten",
+        "mevki": "Stoper",
+        "takim": "SC Heerenveen",
+        "yas": "28",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Nikolai Hopland",
+        "mevki": "Stoper",
+        "takim": "SC Heerenveen",
+        "yas": "17",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Hristiyan Petrov",
+        "mevki": "Stoper",
+        "takim": "SC Heerenveen",
+        "yas": "28",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Vasilios Zagaritis",
+        "mevki": "Sol Bek",
+        "takim": "SC Heerenveen",
+        "yas": "19",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Oliver Braude",
+        "mevki": "Sağ Bek",
+        "takim": "SC Heerenveen",
+        "yas": "45",
+        "piyasa_degeri": "4.50 mil. €"
+    },
+    {
+        "ad": "Mats Egbring",
+        "mevki": "Sağ Bek",
+        "takim": "SC Heerenveen",
+        "yas": "13",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Joris van Overeem",
+        "mevki": "Ön Libero",
+        "takim": "SC Heerenveen",
+        "yas": "31",
+        "piyasa_degeri": "900 bin €"
+    },
+    {
+        "ad": "Marcus Linday",
+        "mevki": "Merkez Orta Saha",
+        "takim": "SC Heerenveen",
+        "yas": "16",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Isaiah Ahmed",
+        "mevki": "Merkez Orta Saha",
+        "takim": "SC Heerenveen",
+        "yas": "35",
+        "piyasa_degeri": "125 bin €"
+    },
+    {
+        "ad": "Ringo Meerveld",
+        "mevki": "On Numara",
+        "takim": "SC Heerenveen",
+        "yas": "10",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Luuk Brouwers",
+        "mevki": "On Numara",
+        "takim": "SC Heerenveen",
+        "yas": "27",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Levi Smans",
+        "mevki": "On Numara",
+        "takim": "SC Heerenveen",
+        "yas": "14",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Maxence Rivera",
+        "mevki": "Sol Kanat",
+        "takim": "SC Heerenveen",
+        "yas": "23",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Luca Oyen",
+        "mevki": "Sol Kanat",
+        "takim": "SC Heerenveen",
+        "yas": "11",
+        "piyasa_degeri": "900 bin €"
+    },
+    {
+        "ad": "Amourricho van Axel Dongen",
+        "mevki": "Sol Kanat",
+        "takim": "SC Heerenveen",
+        "yas": "26",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Jacob Trenskow",
+        "mevki": "Sağ Kanat",
+        "takim": "SC Heerenveen",
+        "yas": "20",
+        "piyasa_degeri": "6.50 mil. €"
+    },
+    {
+        "ad": "Eser Gürbüz",
+        "mevki": "Sağ Kanat",
+        "takim": "SC Heerenveen",
+        "yas": "50",
+        "piyasa_degeri": "600 bin €"
+    },
+    {
+        "ad": "Dylan Vente",
+        "mevki": "Santrafor",
+        "takim": "SC Heerenveen",
+        "yas": "26",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Lasse Nordås",
+        "mevki": "Santrafor",
+        "takim": "SC Heerenveen",
+        "yas": "18",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Etienne Vaessen",
+        "mevki": "Kaleci",
+        "takim": "FC Groningen",
+        "yas": "30",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Lovro Stubljar",
+        "mevki": "Kaleci",
+        "takim": "FC Groningen",
+        "yas": "13",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Hidde Jurjus",
+        "mevki": "Kaleci",
+        "takim": "FC Groningen",
+        "yas": "21",
+        "piyasa_degeri": "250 bin €"
+    },
+    {
+        "ad": "Dirk Baron",
+        "mevki": "Kaleci",
+        "takim": "FC Groningen",
+        "yas": "24",
+        "piyasa_degeri": "25 bin €"
+    },
+    {
+        "ad": "Dies Janse",
+        "mevki": "Stoper",
+        "takim": "FC Groningen",
+        "yas": "20",
+        "piyasa_degeri": "4.50 mil. €"
+    },
+    {
+        "ad": "Thijmen Blokzijl",
+        "mevki": "Stoper",
+        "takim": "FC Groningen",
+        "yas": "21",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Sven Bouland",
+        "mevki": "Stoper",
+        "takim": "FC Groningen",
+        "yas": "22",
+        "piyasa_degeri": "150 bin €"
+    },
+    {
+        "ad": "Elvis van der Laan",
+        "mevki": "Stoper",
+        "takim": "FC Groningen",
+        "yas": "15",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Wouter Prins",
+        "mevki": "Sol Bek",
+        "takim": "FC Groningen",
+        "yas": "22",
+        "piyasa_degeri": "600 bin €"
+    },
+    {
+        "ad": "Marvin Peersman",
+        "mevki": "Sol Bek",
+        "takim": "FC Groningen",
+        "yas": "43",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Marco Rente",
+        "mevki": "Sağ Bek",
+        "takim": "FC Groningen",
+        "yas": "29",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Tyrique Mercera",
+        "mevki": "Sağ Bek",
+        "takim": "FC Groningen",
+        "yas": "16",
+        "piyasa_degeri": "600 bin €"
+    },
+    {
+        "ad": "Stije Resink",
+        "mevki": "Ön Libero",
+        "takim": "FC Groningen",
+        "yas": "22",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Tygo Land",
+        "mevki": "Merkez Orta Saha",
+        "takim": "FC Groningen",
+        "yas": "18",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Tika de Jonge",
+        "mevki": "Merkez Orta Saha",
+        "takim": "FC Groningen",
+        "yas": "23",
+        "piyasa_degeri": "1.30 mil. €"
+    },
+    {
+        "ad": "Travis Hernes",
+        "mevki": "Merkez Orta Saha",
+        "takim": "FC Groningen",
+        "yas": "20",
+        "piyasa_degeri": "250 bin €"
+    },
+    {
+        "ad": "David van der Werff",
+        "mevki": "On Numara",
+        "takim": "FC Groningen",
+        "yas": "17",
+        "piyasa_degeri": "1.20 mil. €"
+    },
+    {
+        "ad": "Mats Seuntjens",
+        "mevki": "On Numara",
+        "takim": "FC Groningen",
+        "yas": "20",
+        "piyasa_degeri": "350 bin €"
+    },
+    {
+        "ad": "Jorg Schreuders",
+        "mevki": "Sol Kanat",
+        "takim": "FC Groningen",
+        "yas": "14",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Younes Taha",
+        "mevki": "Sağ Kanat",
+        "takim": "FC Groningen",
+        "yas": "10",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Rui Mendes",
+        "mevki": "Sağ Kanat",
+        "takim": "FC Groningen",
+        "yas": "27",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Mark Hoekstra",
+        "mevki": "Sağ Kanat",
+        "takim": "FC Groningen",
+        "yas": "69",
+        "piyasa_degeri": "75 bin €"
+    },
+    {
+        "ad": "Thom van Bergen",
+        "mevki": "Santrafor",
+        "takim": "FC Groningen",
+        "yas": "26",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Brynjólfur Willumsson",
+        "mevki": "Santrafor",
+        "takim": "FC Groningen",
+        "yas": "25",
+        "piyasa_degeri": "1.30 mil. €"
+    },
+    {
+        "ad": "Oskar Zawada",
+        "mevki": "Santrafor",
+        "takim": "FC Groningen",
+        "yas": "19",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Jari De Busser",
+        "mevki": "Kaleci",
+        "takim": "Go Ahead Eagles",
+        "yas": "22",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Luca Plogmann",
+        "mevki": "Kaleci",
+        "takim": "Go Ahead Eagles",
+        "yas": "26",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Sven Jansen",
+        "mevki": "Kaleci",
+        "takim": "Go Ahead Eagles",
+        "yas": "30",
+        "piyasa_degeri": "50 bin €"
+    },
+    {
+        "ad": "Nando Verdoni",
+        "mevki": "Kaleci",
+        "takim": "Go Ahead Eagles",
+        "yas": "33",
+        "piyasa_degeri": "25 bin €"
+    },
+    {
+        "ad": "Joris Kramer",
+        "mevki": "Stoper",
+        "takim": "Go Ahead Eagles",
+        "yas": "29",
+        "piyasa_degeri": "1.80 mil. €"
+    },
+    {
+        "ad": "Gerrit Nauber",
+        "mevki": "Stoper",
+        "takim": "Go Ahead Eagles",
+        "yas": "34",
+        "piyasa_degeri": "350 bin €"
+    },
+    {
+        "ad": "Julius Dirksen",
+        "mevki": "Stoper",
+        "takim": "Go Ahead Eagles",
+        "yas": "26",
+        "piyasa_degeri": "350 bin €"
+    },
+    {
+        "ad": "Giovanni van Zwam",
+        "mevki": "Stoper",
+        "takim": "Go Ahead Eagles",
+        "yas": "25",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Pim Saathof",
+        "mevki": "Stoper",
+        "takim": "Go Ahead Eagles",
+        "yas": "28",
+        "piyasa_degeri": "75 bin €"
+    },
+    {
+        "ad": "Dean James",
+        "mevki": "Sol Bek",
+        "takim": "Go Ahead Eagles",
+        "yas": "25",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Aske Adelgaard",
+        "mevki": "Sol Bek",
+        "takim": "Go Ahead Eagles",
+        "yas": "29",
+        "piyasa_degeri": "700 bin €"
+    },
+    {
+        "ad": "Alfons Sampsted",
+        "mevki": "Sağ Bek",
+        "takim": "Go Ahead Eagles",
+        "yas": "28",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Eus Waayers",
+        "mevki": "Sağ Bek",
+        "takim": "Go Ahead Eagles",
+        "yas": "20",
+        "piyasa_degeri": "350 bin €"
+    },
+    {
+        "ad": "Melle Meulensteen",
+        "mevki": "Ön Libero",
+        "takim": "Go Ahead Eagles",
+        "yas": "21",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Evert Linthorst",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Go Ahead Eagles",
+        "yas": "26",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Kenzo Goudmijn",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Go Ahead Eagles",
+        "yas": "24",
+        "piyasa_degeri": "900 bin €"
+    },
+    {
+        "ad": "Yassir Salah Rahmouni",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Go Ahead Eagles",
+        "yas": "34",
+        "piyasa_degeri": "450 bin €"
+    },
+    {
+        "ad": "Robbin Weijenberg",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Go Ahead Eagles",
+        "yas": "15",
+        "piyasa_degeri": "250 bin €"
+    },
+    {
+        "ad": "Jakob Breum",
+        "mevki": "On Numara",
+        "takim": "Go Ahead Eagles",
+        "yas": "22",
+        "piyasa_degeri": "4.50 mil. €"
+    },
+    {
+        "ad": "Søren Tengstedt",
+        "mevki": "On Numara",
+        "takim": "Go Ahead Eagles",
+        "yas": "10",
+        "piyasa_degeri": "700 bin €"
+    },
+    {
+        "ad": "Mathis Suray",
+        "mevki": "Sol Kanat",
+        "takim": "Go Ahead Eagles",
+        "yas": "17",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Oskar Sivertsen",
+        "mevki": "Sol Kanat",
+        "takim": "Go Ahead Eagles",
+        "yas": "11",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Jaden Slory",
+        "mevki": "Sağ Kanat",
+        "takim": "Go Ahead Eagles",
+        "yas": "19",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Stefán Ingi Sigurdarson",
+        "mevki": "Santrafor",
+        "takim": "Go Ahead Eagles",
+        "yas": "25",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Victor Edvardsen",
+        "mevki": "Santrafor",
+        "takim": "Go Ahead Eagles",
+        "yas": "16",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Richonell Margaret",
+        "mevki": "Santrafor",
+        "takim": "Go Ahead Eagles",
+        "yas": "18",
+        "piyasa_degeri": "700 bin €"
+    },
+    {
+        "ad": "Thibo Baeten",
+        "mevki": "Santrafor",
+        "takim": "Go Ahead Eagles",
+        "yas": "23",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Finn Stokkers",
+        "mevki": "Santrafor",
+        "takim": "Go Ahead Eagles",
+        "yas": "27",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Ofosu Boakye",
+        "mevki": "Santrafor",
+        "takim": "Go Ahead Eagles",
+        "yas": "32",
+        "piyasa_degeri": "75 bin €"
+    },
+    {
+        "ad": "Joël Drommel",
+        "mevki": "Kaleci",
+        "takim": "Sparta Rotterdam",
+        "yas": "29",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Filip Bednarek",
+        "mevki": "Kaleci",
+        "takim": "Sparta Rotterdam",
+        "yas": "33",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Pascal Kuiper",
+        "mevki": "Kaleci",
+        "takim": "Sparta Rotterdam",
+        "yas": "22",
+        "piyasa_degeri": "75 bin €"
+    },
+    {
+        "ad": "Marvin Young",
+        "mevki": "Stoper",
+        "takim": "Sparta Rotterdam",
+        "yas": "20",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Teo Quintero",
+        "mevki": "Stoper",
+        "takim": "Sparta Rotterdam",
+        "yas": "27",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Bruno Martins Indi",
+        "mevki": "Stoper",
+        "takim": "Sparta Rotterdam",
+        "yas": "34",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Max de Ligt",
+        "mevki": "Stoper",
+        "takim": "Sparta Rotterdam",
+        "yas": "21",
+        "piyasa_degeri": "75 bin €"
+    },
+    {
+        "ad": "Patrick van Aanholt",
+        "mevki": "Sol Bek",
+        "takim": "Sparta Rotterdam",
+        "yas": "35",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Mike Kleijn",
+        "mevki": "Sol Bek",
+        "takim": "Sparta Rotterdam",
+        "yas": "21",
+        "piyasa_degeri": "250 bin €"
+    },
+    {
+        "ad": "Giannino Vianello",
+        "mevki": "Sol Bek",
+        "takim": "Sparta Rotterdam",
+        "yas": "18",
+        "piyasa_degeri": "150 bin €"
+    },
+    {
+        "ad": "Shurandy Sambo",
+        "mevki": "Sağ Bek",
+        "takim": "Sparta Rotterdam",
+        "yas": "24",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Lushendry Martes",
+        "mevki": "Sağ Bek",
+        "takim": "Sparta Rotterdam",
+        "yas": "17",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Saïd Bakari",
+        "mevki": "Sağ Bek",
+        "takim": "Sparta Rotterdam",
+        "yas": "31",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Joshua Kitolano",
+        "mevki": "Ön Libero",
+        "takim": "Sparta Rotterdam",
+        "yas": "24",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Alwande Roaldsøy",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Sparta Rotterdam",
+        "yas": "21",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Julian Baas",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Sparta Rotterdam",
+        "yas": "24",
+        "piyasa_degeri": "700 bin €"
+    },
+    {
+        "ad": "Pelle Clement",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Sparta Rotterdam",
+        "yas": "29",
+        "piyasa_degeri": "650 bin €"
+    },
+    {
+        "ad": "Jonathan de Guzmán",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Sparta Rotterdam",
+        "yas": "38",
+        "piyasa_degeri": "50 bin €"
+    },
+    {
+        "ad": "Ayoni Santos",
+        "mevki": "On Numara",
+        "takim": "Sparta Rotterdam",
+        "yas": "20",
+        "piyasa_degeri": "1.30 mil. €"
+    },
+    {
+        "ad": "Vito van Crooij",
+        "mevki": "On Numara",
+        "takim": "Sparta Rotterdam",
+        "yas": "30",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Jens Toornstra",
+        "mevki": "On Numara",
+        "takim": "Sparta Rotterdam",
+        "yas": "37",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Shunsuke Mito",
+        "mevki": "Sol Kanat",
+        "takim": "Sparta Rotterdam",
+        "yas": "23",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Casper Terho",
+        "mevki": "Sağ Kanat",
+        "takim": "Sparta Rotterdam",
+        "yas": "22",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Mitchell van Bergen",
+        "mevki": "Sağ Kanat",
+        "takim": "Sparta Rotterdam",
+        "yas": "26",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Tobias Lauritsen",
+        "mevki": "Santrafor",
+        "takim": "Sparta Rotterdam",
+        "yas": "28",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Milan Zonneveld",
+        "mevki": "Santrafor",
+        "takim": "Sparta Rotterdam",
+        "yas": "22",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Jasper Schendelaar",
+        "mevki": "Kaleci",
+        "takim": "PEC Zwolle",
+        "yas": "25",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Tom de Graaff",
+        "mevki": "Kaleci",
+        "takim": "PEC Zwolle",
+        "yas": "16",
+        "piyasa_degeri": "900 bin €"
+    },
+    {
+        "ad": "Duke Verduin",
+        "mevki": "Kaleci",
+        "takim": "PEC Zwolle",
+        "yas": "41",
+        "piyasa_degeri": "25 bin €"
+    },
+    {
+        "ad": "Anselmo García MacNulty",
+        "mevki": "Stoper",
+        "takim": "PEC Zwolle",
+        "yas": "23",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Simon Graves",
+        "mevki": "Stoper",
+        "takim": "PEC Zwolle",
+        "yas": "28",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Tijs Velthuis",
+        "mevki": "Stoper",
+        "takim": "PEC Zwolle",
+        "yas": "24",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Damian van der Haar",
+        "mevki": "Stoper",
+        "takim": "PEC Zwolle",
+        "yas": "33",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Sherel Floranus",
+        "mevki": "Sol Bek",
+        "takim": "PEC Zwolle",
+        "yas": "27",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Tristan Gooijer",
+        "mevki": "Sağ Bek",
+        "takim": "PEC Zwolle",
+        "yas": "21",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Olivier Aertssen",
+        "mevki": "Sağ Bek",
+        "takim": "PEC Zwolle",
+        "yas": "21",
+        "piyasa_degeri": "650 bin €"
+    },
+    {
+        "ad": "David Voute",
+        "mevki": "Sağ Bek",
+        "takim": "PEC Zwolle",
+        "yas": "39",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Jadiel Pereira da Gama",
+        "mevki": "Ön Libero",
+        "takim": "PEC Zwolle",
+        "yas": "26",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Ryan Thomas",
+        "mevki": "Ön Libero",
+        "takim": "PEC Zwolle",
+        "yas": "30",
+        "piyasa_degeri": "700 bin €"
+    },
+    {
+        "ad": "Nick Fichtinger",
+        "mevki": "Ön Libero",
+        "takim": "PEC Zwolle",
+        "yas": "34",
+        "piyasa_degeri": "450 bin €"
+    },
+    {
+        "ad": "Zico Buurmeester",
+        "mevki": "Merkez Orta Saha",
+        "takim": "PEC Zwolle",
+        "yas": "23",
+        "piyasa_degeri": "1.80 mil. €"
+    },
+    {
+        "ad": "Jamiro Monteiro",
+        "mevki": "Merkez Orta Saha",
+        "takim": "PEC Zwolle",
+        "yas": "35",
+        "piyasa_degeri": "750 bin €"
+    },
+    {
+        "ad": "Givaro Rahajaän",
+        "mevki": "Merkez Orta Saha",
+        "takim": "PEC Zwolle",
+        "yas": "38",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Thijs Oosting",
+        "mevki": "On Numara",
+        "takim": "PEC Zwolle",
+        "yas": "25",
+        "piyasa_degeri": "700 bin €"
+    },
+    {
+        "ad": "Odysseus Velanas",
+        "mevki": "On Numara",
+        "takim": "PEC Zwolle",
+        "yas": "18",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Gabriël Reiziger",
+        "mevki": "On Numara",
+        "takim": "PEC Zwolle",
+        "yas": "20",
+        "piyasa_degeri": "175 bin €"
+    },
+    {
+        "ad": "Samir Lagsir",
+        "mevki": "On Numara",
+        "takim": "PEC Zwolle",
+        "yas": "21",
+        "piyasa_degeri": "150 bin €"
+    },
+    {
+        "ad": "Shola Shoretire",
+        "mevki": "Sol Kanat",
+        "takim": "PEC Zwolle",
+        "yas": "22",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Kaj de Rooij",
+        "mevki": "Sol Kanat",
+        "takim": "PEC Zwolle",
+        "yas": "22",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Younes Namli",
+        "mevki": "Sağ Kanat",
+        "takim": "PEC Zwolle",
+        "yas": "31",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Jan Faberski",
+        "mevki": "Sağ Kanat",
+        "takim": "PEC Zwolle",
+        "yas": "19",
+        "piyasa_degeri": "700 bin €"
+    },
+    {
+        "ad": "Koen Kostons",
+        "mevki": "Santrafor",
+        "takim": "PEC Zwolle",
+        "yas": "10",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Thomas Buitink",
+        "mevki": "Santrafor",
+        "takim": "PEC Zwolle",
+        "yas": "29",
+        "piyasa_degeri": "350 bin €"
+    },
+    {
+        "ad": "Mattijs Branderhorst",
+        "mevki": "Kaleci",
+        "takim": "Fortuna Sittard",
+        "yas": "31",
+        "piyasa_degeri": "850 bin €"
+    },
+    {
+        "ad": "Luuk Koopmans",
+        "mevki": "Kaleci",
+        "takim": "Fortuna Sittard",
+        "yas": "32",
+        "piyasa_degeri": "150 bin €"
+    },
+    {
+        "ad": "Nick Marsman",
+        "mevki": "Kaleci",
+        "takim": "Fortuna Sittard",
+        "yas": "32",
+        "piyasa_degeri": "150 bin €"
+    },
+    {
+        "ad": "Niels Martens",
+        "mevki": "Kaleci",
+        "takim": "Fortuna Sittard",
+        "yas": "25",
+        "piyasa_degeri": "25 bin €"
+    },
+    {
+        "ad": "Ramazan Bayram",
+        "mevki": "Kaleci",
+        "takim": "Fortuna Sittard",
+        "yas": "71",
+        "piyasa_degeri": "25 bin €"
+    },
+    {
+        "ad": "Neraysho Kasanwirjo",
+        "mevki": "Stoper",
+        "takim": "Fortuna Sittard",
+        "yas": "21",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Shawn Adewoye",
+        "mevki": "Stoper",
+        "takim": "Fortuna Sittard",
+        "yas": "25",
+        "piyasa_degeri": "900 bin €"
+    },
+    {
+        "ad": "Justin Hubner",
+        "mevki": "Stoper",
+        "takim": "Fortuna Sittard",
+        "yas": "28",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Syb van Ottele",
+        "mevki": "Stoper",
+        "takim": "Fortuna Sittard",
+        "yas": "24",
+        "piyasa_degeri": "600 bin €"
+    },
+    {
+        "ad": "Iván Márquez",
+        "mevki": "Stoper",
+        "takim": "Fortuna Sittard",
+        "yas": "44",
+        "piyasa_degeri": "550 bin €"
+    },
+    {
+        "ad": "Jasper Dahlhaus",
+        "mevki": "Sol Bek",
+        "takim": "Fortuna Sittard",
+        "yas": "24",
+        "piyasa_degeri": "1.30 mil. €"
+    },
+    {
+        "ad": "Daley Sinkgraven",
+        "mevki": "Sol Bek",
+        "takim": "Fortuna Sittard",
+        "yas": "24",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Ivo Pinto",
+        "mevki": "Sağ Bek",
+        "takim": "Fortuna Sittard",
+        "yas": "12",
+        "piyasa_degeri": "250 bin €"
+    },
+    {
+        "ad": "Tristan Schenkhuizen",
+        "mevki": "Ön Libero",
+        "takim": "Fortuna Sittard",
+        "yas": "38",
+        "piyasa_degeri": "25 bin €"
+    },
+    {
+        "ad": "Philip Brittijn",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Fortuna Sittard",
+        "yas": "23",
+        "piyasa_degeri": "1.30 mil. €"
+    },
+    {
+        "ad": "Edouard Michut",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Fortuna Sittard",
+        "yas": "20",
+        "piyasa_degeri": "1.20 mil. €"
+    },
+    {
+        "ad": "Yassin Oukili",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Fortuna Sittard",
+        "yas": "25",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Justin Lonwijk",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Fortuna Sittard",
+        "yas": "17",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Samuel Bastien",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Fortuna Sittard",
+        "yas": "22",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Hasip Korkmazyürek",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Fortuna Sittard",
+        "yas": "29",
+        "piyasa_degeri": "50 bin €"
+    },
+    {
+        "ad": "Mohamed Ihattaren",
+        "mevki": "On Numara",
+        "takim": "Fortuna Sittard",
+        "yas": "52",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Lance Duijvestijn",
+        "mevki": "On Numara",
+        "takim": "Fortuna Sittard",
+        "yas": "70",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Alen Halilovic",
+        "mevki": "On Numara",
+        "takim": "Fortuna Sittard",
+        "yas": "10",
+        "piyasa_degeri": "550 bin €"
+    },
+    {
+        "ad": "Luka Tunjic",
+        "mevki": "On Numara",
+        "takim": "Fortuna Sittard",
+        "yas": "77",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Kristoffer Peterson",
+        "mevki": "Sol Kanat",
+        "takim": "Fortuna Sittard",
+        "yas": "31",
+        "piyasa_degeri": "600 bin €"
+    },
+    {
+        "ad": "Dimitrios Limnios",
+        "mevki": "Sağ Kanat",
+        "takim": "Fortuna Sittard",
+        "yas": "18",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Kaj Sierhuis",
+        "mevki": "Santrafor",
+        "takim": "Fortuna Sittard",
+        "yas": "27",
+        "piyasa_degeri": "1.30 mil. €"
+    },
+    {
+        "ad": "Paul Gladon",
+        "mevki": "Santrafor",
+        "takim": "Fortuna Sittard",
+        "yas": "19",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Kayne van Oevelen",
+        "mevki": "Kaleci",
+        "takim": "FC Volendam",
+        "yas": "22",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Roy Steur",
+        "mevki": "Kaleci",
+        "takim": "FC Volendam",
+        "yas": "16",
+        "piyasa_degeri": "125 bin €"
+    },
+    {
+        "ad": "Dion Vlak",
+        "mevki": "Kaleci",
+        "takim": "FC Volendam",
+        "yas": "22",
+        "piyasa_degeri": "25 bin €"
+    },
+    {
+        "ad": "Nick Verschuren",
+        "mevki": "Stoper",
+        "takim": "FC Volendam",
+        "yas": "20",
+        "piyasa_degeri": "900 bin €"
+    },
+    {
+        "ad": "Mawouna Amevor",
+        "mevki": "Stoper",
+        "takim": "FC Volendam",
+        "yas": "34",
+        "piyasa_degeri": "225 bin €"
+    },
+    {
+        "ad": "Silvinho Esajas",
+        "mevki": "Stoper",
+        "takim": "FC Volendam",
+        "yas": "28",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Luca Blondeau",
+        "mevki": "Stoper",
+        "takim": "FC Volendam",
+        "yas": "25",
+        "piyasa_degeri": "75 bin €"
+    },
+    {
+        "ad": "Yannick Leliendal",
+        "mevki": "Sol Bek",
+        "takim": "FC Volendam",
+        "yas": "32",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Aaron Meijers",
+        "mevki": "Sol Bek",
+        "takim": "FC Volendam",
+        "yas": "14",
+        "piyasa_degeri": "75 bin €"
+    },
+    {
+        "ad": "Deron Payne",
+        "mevki": "Sağ Bek",
+        "takim": "FC Volendam",
+        "yas": "23",
+        "piyasa_degeri": "450 bin €"
+    },
+    {
+        "ad": "Precious Ugwu",
+        "mevki": "Sağ Bek",
+        "takim": "FC Volendam",
+        "yas": "20",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Gibson Yah",
+        "mevki": "Ön Libero",
+        "takim": "FC Volendam",
+        "yas": "22",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Alex Plat",
+        "mevki": "Ön Libero",
+        "takim": "FC Volendam",
+        "yas": "28",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Anass Bouziane",
+        "mevki": "Ön Libero",
+        "takim": "FC Volendam",
+        "yas": "15",
+        "piyasa_degeri": "25 bin €"
+    },
+    {
+        "ad": "Juninho Bacuna",
+        "mevki": "Merkez Orta Saha",
+        "takim": "FC Volendam",
+        "yas": "28",
+        "piyasa_degeri": "2.20 mil. €"
+    },
+    {
+        "ad": "Dave Kwakman",
+        "mevki": "Merkez Orta Saha",
+        "takim": "FC Volendam",
+        "yas": "23",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Nordin Bukala",
+        "mevki": "Merkez Orta Saha",
+        "takim": "FC Volendam",
+        "yas": "18",
+        "piyasa_degeri": "600 bin €"
+    },
+    {
+        "ad": "Myron Mau-Asam",
+        "mevki": "Merkez Orta Saha",
+        "takim": "FC Volendam",
+        "yas": "27",
+        "piyasa_degeri": "50 bin €"
+    },
+    {
+        "ad": "Robin van Cruijsen",
+        "mevki": "On Numara",
+        "takim": "FC Volendam",
+        "yas": "40",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Ozan Kökcü",
+        "mevki": "On Numara",
+        "takim": "FC Volendam",
+        "yas": "27",
+        "piyasa_degeri": "450 bin €"
+    },
+    {
+        "ad": "Benjamin Pauwels",
+        "mevki": "Sol Kanat",
+        "takim": "FC Volendam",
+        "yas": "29",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Joel Ideho",
+        "mevki": "Sol Kanat",
+        "takim": "FC Volendam",
+        "yas": "17",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Key-Shawn Wong-A-Soij",
+        "mevki": "Sol Kanat",
+        "takim": "FC Volendam",
+        "yas": "24",
+        "piyasa_degeri": "50 bin €"
+    },
+    {
+        "ad": "Bilal Ould-Chikh",
+        "mevki": "Sağ Kanat",
+        "takim": "FC Volendam",
+        "yas": "77",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Aurelio Oehlers",
+        "mevki": "Sağ Kanat",
+        "takim": "FC Volendam",
+        "yas": "11",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Brandley Kuwas",
+        "mevki": "Sağ Kanat",
+        "takim": "FC Volendam",
+        "yas": "10",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Anthony Descotte",
+        "mevki": "Santrafor",
+        "takim": "FC Volendam",
+        "yas": "99",
+        "piyasa_degeri": "550 bin €"
+    },
+    {
+        "ad": "Henk Veerman",
+        "mevki": "Santrafor",
+        "takim": "FC Volendam",
+        "yas": "35",
+        "piyasa_degeri": "325 bin €"
+    },
+    {
+        "ad": "Robert Mühren",
+        "mevki": "Santrafor",
+        "takim": "FC Volendam",
+        "yas": "21",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Jesper Tielemans",
+        "mevki": "Santrafor",
+        "takim": "FC Volendam",
+        "yas": "39",
+        "piyasa_degeri": "50 bin €"
+    },
+    {
+        "ad": "Stijn van Gassel",
+        "mevki": "Kaleci",
+        "takim": "Excelsior Rotterdam",
+        "yas": "29",
+        "piyasa_degeri": "900 bin €"
+    },
+    {
+        "ad": "Calvin Raatsie",
+        "mevki": "Kaleci",
+        "takim": "Excelsior Rotterdam",
+        "yas": "16",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Tijmen Holla",
+        "mevki": "Kaleci",
+        "takim": "Excelsior Rotterdam",
+        "yas": "40",
+        "piyasa_degeri": "75 bin €"
+    },
+    {
+        "ad": "Casper Widell",
+        "mevki": "Stoper",
+        "takim": "Excelsior Rotterdam",
+        "yas": "22",
+        "piyasa_degeri": "900 bin €"
+    },
+    {
+        "ad": "Rick Meissen",
+        "mevki": "Stoper",
+        "takim": "Excelsior Rotterdam",
+        "yas": "24",
+        "piyasa_degeri": "700 bin €"
+    },
+    {
+        "ad": "Stan Henderikx",
+        "mevki": "Stoper",
+        "takim": "Excelsior Rotterdam",
+        "yas": "22",
+        "piyasa_degeri": "450 bin €"
+    },
+    {
+        "ad": "Lewis Schouten",
+        "mevki": "Stoper",
+        "takim": "Excelsior Rotterdam",
+        "yas": "14",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Arthur Zagré",
+        "mevki": "Sol Bek",
+        "takim": "Excelsior Rotterdam",
+        "yas": "12",
+        "piyasa_degeri": "1.20 mil. €"
+    },
+    {
+        "ad": "Simon Janssen",
+        "mevki": "Sol Bek",
+        "takim": "Excelsior Rotterdam",
+        "yas": "15",
+        "piyasa_degeri": "450 bin €"
+    },
+    {
+        "ad": "Ilias Bronkhorst",
+        "mevki": "Sağ Bek",
+        "takim": "Excelsior Rotterdam",
+        "yas": "28",
+        "piyasa_degeri": "650 bin €"
+    },
+    {
+        "ad": "Hamdi Akujobi",
+        "mevki": "Sağ Bek",
+        "takim": "Excelsior Rotterdam",
+        "yas": "22",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Adam Carlén",
+        "mevki": "Ön Libero",
+        "takim": "Excelsior Rotterdam",
+        "yas": "25",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Irakli Yegoian",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Excelsior Rotterdam",
+        "yas": "23",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Lennard Hartjes",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Excelsior Rotterdam",
+        "yas": "20",
+        "piyasa_degeri": "600 bin €"
+    },
+    {
+        "ad": "Mathijs Tielemans",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Excelsior Rotterdam",
+        "yas": "23",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Noah Naujoks",
+        "mevki": "On Numara",
+        "takim": "Excelsior Rotterdam",
+        "yas": "10",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Emil Hansson",
+        "mevki": "Sol Kanat",
+        "takim": "Excelsior Rotterdam",
+        "yas": "27",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Gyan de Regt",
+        "mevki": "Sol Kanat",
+        "takim": "Excelsior Rotterdam",
+        "yas": "11",
+        "piyasa_degeri": "650 bin €"
+    },
+    {
+        "ad": "Miliano Jonathans",
+        "mevki": "Sağ Kanat",
+        "takim": "Excelsior Rotterdam",
+        "yas": "26",
+        "piyasa_degeri": "900 bin €"
+    },
+    {
+        "ad": "Derensili Sanches Fernandes",
+        "mevki": "Sağ Kanat",
+        "takim": "Excelsior Rotterdam",
+        "yas": "30",
+        "piyasa_degeri": "600 bin €"
+    },
+    {
+        "ad": "Szymon Wlodarczyk",
+        "mevki": "Santrafor",
+        "takim": "Excelsior Rotterdam",
+        "yas": "23",
+        "piyasa_degeri": "750 bin €"
+    },
+    {
+        "ad": "Jerolldino Bergraaf",
+        "mevki": "Santrafor",
+        "takim": "Excelsior Rotterdam",
+        "yas": "33",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Mike van Duinen",
+        "mevki": "Santrafor",
+        "takim": "Excelsior Rotterdam",
+        "yas": "29",
+        "piyasa_degeri": "150 bin €"
+    },
+    {
+        "ad": "Nesto Groen",
+        "mevki": "Santrafor",
+        "takim": "Excelsior Rotterdam",
+        "yas": "28",
+        "piyasa_degeri": "125 bin €"
+    },
+    {
+        "ad": "Daniel Bielica",
+        "mevki": "Kaleci",
+        "takim": "NAC Breda",
+        "yas": "99",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Roy Kortsmit",
+        "mevki": "Kaleci",
+        "takim": "NAC Breda",
+        "yas": "33",
+        "piyasa_degeri": "150 bin €"
+    },
+    {
+        "ad": "Kostas Lamprou",
+        "mevki": "Kaleci",
+        "takim": "NAC Breda",
+        "yas": "31",
+        "piyasa_degeri": "150 bin €"
+    },
+    {
+        "ad": "Thomas Goos",
+        "mevki": "Kaleci",
+        "takim": "NAC Breda",
+        "yas": "44",
+        "piyasa_degeri": "50 bin €"
+    },
+    {
+        "ad": "Leo Greiml",
+        "mevki": "Stoper",
+        "takim": "NAC Breda",
+        "yas": "12",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Rio Hillen",
+        "mevki": "Stoper",
+        "takim": "NAC Breda",
+        "yas": "22",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Enes Mahmutovic",
+        "mevki": "Stoper",
+        "takim": "NAC Breda",
+        "yas": "15",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Denis Odoi",
+        "mevki": "Stoper",
+        "takim": "NAC Breda",
+        "yas": "37",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Boy Kemper",
+        "mevki": "Sol Bek",
+        "takim": "NAC Breda",
+        "yas": "26",
+        "piyasa_degeri": "850 bin €"
+    },
+    {
+        "ad": "Jayden Candelaria",
+        "mevki": "Sol Bek",
+        "takim": "NAC Breda",
+        "yas": "21",
+        "piyasa_degeri": "150 bin €"
+    },
+    {
+        "ad": "Cherrion Valerius",
+        "mevki": "Sağ Bek",
+        "takim": "NAC Breda",
+        "yas": "25",
+        "piyasa_degeri": "700 bin €"
+    },
+    {
+        "ad": "Boyd Lucassen",
+        "mevki": "Sağ Bek",
+        "takim": "NAC Breda",
+        "yas": "27",
+        "piyasa_degeri": "450 bin €"
+    },
+    {
+        "ad": "Max Balard",
+        "mevki": "Ön Libero",
+        "takim": "NAC Breda",
+        "yas": "16",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Fredrik Oldrup Jensen",
+        "mevki": "Ön Libero",
+        "takim": "NAC Breda",
+        "yas": "20",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Kamal Sowah",
+        "mevki": "Merkez Orta Saha",
+        "takim": "NAC Breda",
+        "yas": "14",
+        "piyasa_degeri": "750 bin €"
+    },
+    {
+        "ad": "Clint Leemans",
+        "mevki": "Merkez Orta Saha",
+        "takim": "NAC Breda",
+        "yas": "30",
+        "piyasa_degeri": "450 bin €"
+    },
+    {
+        "ad": "Lewis Holtby",
+        "mevki": "Merkez Orta Saha",
+        "takim": "NAC Breda",
+        "yas": "90",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Mohamed Nassoh",
+        "mevki": "On Numara",
+        "takim": "NAC Breda",
+        "yas": "10",
+        "piyasa_degeri": "700 bin €"
+    },
+    {
+        "ad": "Raul Paula",
+        "mevki": "On Numara",
+        "takim": "NAC Breda",
+        "yas": "11",
+        "piyasa_degeri": "350 bin €"
+    },
+    {
+        "ad": "Brahim Ghalidi",
+        "mevki": "Sol Kanat",
+        "takim": "NAC Breda",
+        "yas": "55",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Juho Talvitie",
+        "mevki": "Sağ Kanat",
+        "takim": "NAC Breda",
+        "yas": "32",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Amine Salama",
+        "mevki": "Santrafor",
+        "takim": "NAC Breda",
+        "yas": "19",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Moussa Soumano",
+        "mevki": "Santrafor",
+        "takim": "NAC Breda",
+        "yas": "20",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Charles-Andreas Brym",
+        "mevki": "Santrafor",
+        "takim": "NAC Breda",
+        "yas": "27",
+        "piyasa_degeri": "450 bin €"
+    },
+    {
+        "ad": "André Ayew",
+        "mevki": "Santrafor",
+        "takim": "NAC Breda",
+        "yas": "24",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Pepijn Reulen",
+        "mevki": "Santrafor",
+        "takim": "NAC Breda",
+        "yas": "26",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Fabian de Keijzer",
+        "mevki": "Kaleci",
+        "takim": "Heracles Almelo",
+        "yas": "25",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Timo Jansink",
+        "mevki": "Kaleci",
+        "takim": "Heracles Almelo",
+        "yas": "16",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Remko Pasveer",
+        "mevki": "Kaleci",
+        "takim": "Heracles Almelo",
+        "yas": "22",
+        "piyasa_degeri": "150 bin €"
+    },
+    {
+        "ad": "Robin Mantel",
+        "mevki": "Kaleci",
+        "takim": "Heracles Almelo",
+        "yas": "30",
+        "piyasa_degeri": "50 bin €"
+    },
+    {
+        "ad": "Alec Van Hoorenbeeck",
+        "mevki": "Stoper",
+        "takim": "Heracles Almelo",
+        "yas": "18",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Ivan Mesik",
+        "mevki": "Stoper",
+        "takim": "Heracles Almelo",
+        "yas": "24",
+        "piyasa_degeri": "700 bin €"
+    },
+    {
+        "ad": "Damon Mirani",
+        "mevki": "Stoper",
+        "takim": "Heracles Almelo",
+        "yas": "29",
+        "piyasa_degeri": "550 bin €"
+    },
+    {
+        "ad": "Mike te Wierik",
+        "mevki": "Stoper",
+        "takim": "Heracles Almelo",
+        "yas": "23",
+        "piyasa_degeri": "250 bin €"
+    },
+    {
+        "ad": "Sava-Arangel Cestic",
+        "mevki": "Stoper",
+        "takim": "Heracles Almelo",
+        "yas": "25",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Jop Tijink",
+        "mevki": "Stoper",
+        "takim": "Heracles Almelo",
+        "yas": "27",
+        "piyasa_degeri": "50 bin €"
+    },
+    {
+        "ad": "Djevencio van der Kust",
+        "mevki": "Sol Bek",
+        "takim": "Heracles Almelo",
+        "yas": "15",
+        "piyasa_degeri": "450 bin €"
+    },
+    {
+        "ad": "Mimeirhel Benita",
+        "mevki": "Sağ Bek",
+        "takim": "Heracles Almelo",
+        "yas": "22",
+        "piyasa_degeri": "600 bin €"
+    },
+    {
+        "ad": "Jannes Wieckhoff",
+        "mevki": "Sağ Bek",
+        "takim": "Heracles Almelo",
+        "yas": "25",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Sem Scheperman",
+        "mevki": "Ön Libero",
+        "takim": "Heracles Almelo",
+        "yas": "32",
+        "piyasa_degeri": "700 bin €"
+    },
+    {
+        "ad": "Rhys Bozinovski",
+        "mevki": "Ön Libero",
+        "takim": "Heracles Almelo",
+        "yas": "20",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Ajdin Hrustic",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Heracles Almelo",
+        "yas": "70",
+        "piyasa_degeri": "700 bin €"
+    },
+    {
+        "ad": "Jan Zamburek",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Heracles Almelo",
+        "yas": "13",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Erik Ahlstrand",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Heracles Almelo",
+        "yas": "14",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Jeff Reine-Adélaïde",
+        "mevki": "On Numara",
+        "takim": "Heracles Almelo",
+        "yas": "11",
+        "piyasa_degeri": "700 bin €"
+    },
+    {
+        "ad": "Walid Ould-Chikh",
+        "mevki": "On Numara",
+        "takim": "Heracles Almelo",
+        "yas": "73",
+        "piyasa_degeri": "650 bin €"
+    },
+    {
+        "ad": "Thomas Bruns",
+        "mevki": "On Numara",
+        "takim": "Heracles Almelo",
+        "yas": "10",
+        "piyasa_degeri": "250 bin €"
+    },
+    {
+        "ad": "Naci Ünüvar",
+        "mevki": "Sol Kanat",
+        "takim": "Heracles Almelo",
+        "yas": "22",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Bryan Limbombe",
+        "mevki": "Sol Kanat",
+        "takim": "Heracles Almelo",
+        "yas": "24",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Yvandro Borges Sanches",
+        "mevki": "Sol Kanat",
+        "takim": "Heracles Almelo",
+        "yas": "21",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Mario Engels",
+        "mevki": "Sol Kanat",
+        "takim": "Heracles Almelo",
+        "yas": "32",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Tristan van Gilst",
+        "mevki": "Sol Kanat",
+        "takim": "Heracles Almelo",
+        "yas": "17",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Giandro Sambo",
+        "mevki": "Sol Kanat",
+        "takim": "Heracles Almelo",
+        "yas": "28",
+        "piyasa_degeri": "50 bin €"
+    },
+    {
+        "ad": "Sil Blokhuis",
+        "mevki": "Sağ Kanat",
+        "takim": "Heracles Almelo",
+        "yas": "39",
+        "piyasa_degeri": "50 bin €"
+    },
+    {
+        "ad": "Luka Kulenovic",
+        "mevki": "Santrafor",
+        "takim": "Heracles Almelo",
+        "yas": "19",
+        "piyasa_degeri": "850 bin €"
+    },
+    {
+        "ad": "Lequincio Zeefuik",
+        "mevki": "Santrafor",
+        "takim": "Heracles Almelo",
+        "yas": "25",
+        "piyasa_degeri": "850 bin €"
+    },
+    {
+        "ad": "Ronald Koeman Jr.",
+        "mevki": "Kaleci",
+        "takim": "SC Telstar",
+        "yas": "30",
+        "piyasa_degeri": "650 bin €"
+    },
+    {
+        "ad": "Daan Reiziger",
+        "mevki": "Kaleci",
+        "takim": "SC Telstar",
+        "yas": "20",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Tyrick Bodak",
+        "mevki": "Kaleci",
+        "takim": "SC Telstar",
+        "yas": "13",
+        "piyasa_degeri": "25 bin €"
+    },
+    {
+        "ad": "Guus Offerhaus",
+        "mevki": "Stoper",
+        "takim": "SC Telstar",
+        "yas": "25",
+        "piyasa_degeri": "600 bin €"
+    },
+    {
+        "ad": "Neville Ogidi Nwankwo",
+        "mevki": "Stoper",
+        "takim": "SC Telstar",
+        "yas": "14",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Devon Koswal",
+        "mevki": "Stoper",
+        "takim": "SC Telstar",
+        "yas": "21",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Danny Bakker",
+        "mevki": "Stoper",
+        "takim": "SC Telstar",
+        "yas": "31",
+        "piyasa_degeri": "450 bin €"
+    },
+    {
+        "ad": "Dion Malone",
+        "mevki": "Stoper",
+        "takim": "SC Telstar",
+        "yas": "29",
+        "piyasa_degeri": "75 bin €"
+    },
+    {
+        "ad": "Gerald Alders",
+        "mevki": "Sağ Bek",
+        "takim": "SC Telstar",
+        "yas": "20",
+        "piyasa_degeri": "700 bin €"
+    },
+    {
+        "ad": "Cedric Hatenboer",
+        "mevki": "Ön Libero",
+        "takim": "SC Telstar",
+        "yas": "23",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Nils Rossen",
+        "mevki": "Ön Libero",
+        "takim": "SC Telstar",
+        "yas": "17",
+        "piyasa_degeri": "600 bin €"
+    },
+    {
+        "ad": "Tyrone Owusu",
+        "mevki": "Merkez Orta Saha",
+        "takim": "SC Telstar",
+        "yas": "27",
+        "piyasa_degeri": "550 bin €"
+    },
+    {
+        "ad": "Rojendro Oudsten",
+        "mevki": "Merkez Orta Saha",
+        "takim": "SC Telstar",
+        "yas": "28",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Tyrese Noslin",
+        "mevki": "Orta Saha Sağ",
+        "takim": "SC Telstar",
+        "yas": "11",
+        "piyasa_degeri": "750 bin €"
+    },
+    {
+        "ad": "Adil Lechkar",
+        "mevki": "Orta Saha Sağ",
+        "takim": "SC Telstar",
+        "yas": "15",
+        "piyasa_degeri": "150 bin €"
+    },
+    {
+        "ad": "Jeff Hardeveld",
+        "mevki": "Orta Saha Sol",
+        "takim": "SC Telstar",
+        "yas": "31",
+        "piyasa_degeri": "450 bin €"
+    },
+    {
+        "ad": "Nigel Ogidi Nwankwo",
+        "mevki": "Orta Saha Sol",
+        "takim": "SC Telstar",
+        "yas": "27",
+        "piyasa_degeri": "150 bin €"
+    },
+    {
+        "ad": "Jochem Ritmeester van de Kamp",
+        "mevki": "On Numara",
+        "takim": "SC Telstar",
+        "yas": "39",
+        "piyasa_degeri": "1.30 mil. €"
+    },
+    {
+        "ad": "Patrick Brouwer",
+        "mevki": "On Numara",
+        "takim": "SC Telstar",
+        "yas": "27",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Dylan Mertens",
+        "mevki": "On Numara",
+        "takim": "SC Telstar",
+        "yas": "16",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Nökkvi Thórisson",
+        "mevki": "Santrafor",
+        "takim": "SC Telstar",
+        "yas": "19",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Soufiane Hetli",
+        "mevki": "Santrafor",
+        "takim": "SC Telstar",
+        "yas": "24",
+        "piyasa_degeri": "450 bin €"
+    },
+    {
+        "ad": "Sem van Duijn",
+        "mevki": "Santrafor",
+        "takim": "SC Telstar",
+        "yas": "37",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Kay Tejan",
+        "mevki": "Santrafor",
+        "takim": "SC Telstar",
+        "yas": "30",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Jelani Seedorf",
+        "mevki": "Santrafor",
+        "takim": "SC Telstar",
+        "yas": "21",
+        "piyasa_degeri": "200 bin €"
+    }
+]

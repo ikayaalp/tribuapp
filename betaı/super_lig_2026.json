@@ -1,0 +1,3138 @@
+[
+    {
+        "ad": "Uğurcan Çakır",
+        "mevki": "Kaleci",
+        "takim": "Galatasaray SK",
+        "yas": "30",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Günay Güvenç",
+        "mevki": "Kaleci",
+        "takim": "Galatasaray SK",
+        "yas": "19",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Batuhan Şen",
+        "mevki": "Kaleci",
+        "takim": "Galatasaray SK",
+        "yas": "12",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Wilfried Singo",
+        "mevki": "Stoper",
+        "takim": "Galatasaray SK",
+        "yas": "90",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Davinson Sánchez",
+        "mevki": "Stoper",
+        "takim": "Galatasaray SK",
+        "yas": "29",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Abdülkerim Bardakcı",
+        "mevki": "Stoper",
+        "takim": "Galatasaray SK",
+        "yas": "42",
+        "piyasa_degeri": "6.50 mil. €"
+    },
+    {
+        "ad": "Arda Ünyay",
+        "mevki": "Stoper",
+        "takim": "Galatasaray SK",
+        "yas": "91",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Ismail Jakobs",
+        "mevki": "Sol Bek",
+        "takim": "Galatasaray SK",
+        "yas": "26",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Eren Elmalı",
+        "mevki": "Sol Bek",
+        "takim": "Galatasaray SK",
+        "yas": "17",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Sacha Boey",
+        "mevki": "Sağ Bek",
+        "takim": "Galatasaray SK",
+        "yas": "93",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Roland Sallai",
+        "mevki": "Sağ Bek",
+        "takim": "Galatasaray SK",
+        "yas": "28",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Lucas Torreira",
+        "mevki": "Ön Libero",
+        "takim": "Galatasaray SK",
+        "yas": "34",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Mario Lemina",
+        "mevki": "Ön Libero",
+        "takim": "Galatasaray SK",
+        "yas": "99",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Kaan Ayhan",
+        "mevki": "Ön Libero",
+        "takim": "Galatasaray SK",
+        "yas": "23",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Gabriel Sara",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Galatasaray SK",
+        "yas": "26",
+        "piyasa_degeri": "22.00 mil. €"
+    },
+    {
+        "ad": "Renato Nhaga",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Galatasaray SK",
+        "yas": "74",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "İlkay Gündoğan",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Galatasaray SK",
+        "yas": "20",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Gökdeniz Gürpüz",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Galatasaray SK",
+        "yas": "33",
+        "piyasa_degeri": "250 bin €"
+    },
+    {
+        "ad": "Barış Alper Yılmaz",
+        "mevki": "Sol Kanat",
+        "takim": "Galatasaray SK",
+        "yas": "53",
+        "piyasa_degeri": "26.00 mil. €"
+    },
+    {
+        "ad": "Noa Lang",
+        "mevki": "Sol Kanat",
+        "takim": "Galatasaray SK",
+        "yas": "77",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Ahmed Kutucu",
+        "mevki": "Sol Kanat",
+        "takim": "Galatasaray SK",
+        "yas": "21",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Leroy Sané",
+        "mevki": "Sağ Kanat",
+        "takim": "Galatasaray SK",
+        "yas": "10",
+        "piyasa_degeri": "22.00 mil. €"
+    },
+    {
+        "ad": "Yunus Akgün",
+        "mevki": "Sağ Kanat",
+        "takim": "Galatasaray SK",
+        "yas": "11",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Yáser Asprilla",
+        "mevki": "Sağ Kanat",
+        "takim": "Galatasaray SK",
+        "yas": "22",
+        "piyasa_degeri": "14.00 mil. €"
+    },
+    {
+        "ad": "Armando Güner",
+        "mevki": "Sağ Kanat",
+        "takim": "Galatasaray SK",
+        "yas": "27",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Victor Osimhen",
+        "mevki": "Santrafor",
+        "takim": "Galatasaray SK",
+        "yas": "45",
+        "piyasa_degeri": "75.00 mil. €"
+    },
+    {
+        "ad": "Mauro Icardi",
+        "mevki": "Santrafor",
+        "takim": "Galatasaray SK",
+        "yas": "33",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Ederson",
+        "mevki": "Kaleci",
+        "takim": "Fenerbahçe SK",
+        "yas": "31",
+        "piyasa_degeri": "13.00 mil. €"
+    },
+    {
+        "ad": "Tarık Çetin",
+        "mevki": "Kaleci",
+        "takim": "Fenerbahçe SK",
+        "yas": "13",
+        "piyasa_degeri": "600 bin €"
+    },
+    {
+        "ad": "Mert Günok",
+        "mevki": "Kaleci",
+        "takim": "Fenerbahçe SK",
+        "yas": "34",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Jayden Oosterwolde",
+        "mevki": "Stoper",
+        "takim": "Fenerbahçe SK",
+        "yas": "24",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Milan Škriniar",
+        "mevki": "Stoper",
+        "takim": "Fenerbahçe SK",
+        "yas": "37",
+        "piyasa_degeri": "11.00 mil. €"
+    },
+    {
+        "ad": "Yiğit Efe Demir",
+        "mevki": "Stoper",
+        "takim": "Fenerbahçe SK",
+        "yas": "14",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Çağlar Söyüncü",
+        "mevki": "Stoper",
+        "takim": "Fenerbahçe SK",
+        "yas": "29",
+        "piyasa_degeri": "4.50 mil. €"
+    },
+    {
+        "ad": "Archie Brown",
+        "mevki": "Sol Bek",
+        "takim": "Fenerbahçe SK",
+        "yas": "23",
+        "piyasa_degeri": "9.00 mil. €"
+    },
+    {
+        "ad": "Levent Mercan",
+        "mevki": "Sol Bek",
+        "takim": "Fenerbahçe SK",
+        "yas": "22",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Mert Müldür",
+        "mevki": "Sağ Bek",
+        "takim": "Fenerbahçe SK",
+        "yas": "18",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Nélson Semedo",
+        "mevki": "Sağ Bek",
+        "takim": "Fenerbahçe SK",
+        "yas": "27",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Edson Álvarez",
+        "mevki": "Ön Libero",
+        "takim": "Fenerbahçe SK",
+        "yas": "11",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "İsmail Yüksek",
+        "mevki": "Ön Libero",
+        "takim": "Fenerbahçe SK",
+        "yas": "27",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "N'Golo Kanté",
+        "mevki": "Ön Libero",
+        "takim": "Fenerbahçe SK",
+        "yas": "17",
+        "piyasa_degeri": "4.50 mil. €"
+    },
+    {
+        "ad": "Mattéo Guendouzi",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Fenerbahçe SK",
+        "yas": "27",
+        "piyasa_degeri": "28.00 mil. €"
+    },
+    {
+        "ad": "Fred",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Fenerbahçe SK",
+        "yas": "33",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Abdou Aziz Fall",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Fenerbahçe SK",
+        "yas": "60",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Marco Asensio",
+        "mevki": "On Numara",
+        "takim": "Fenerbahçe SK",
+        "yas": "21",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Talisca",
+        "mevki": "On Numara",
+        "takim": "Fenerbahçe SK",
+        "yas": "94",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Kerem Aktürkoğlu",
+        "mevki": "Sol Kanat",
+        "takim": "Fenerbahçe SK",
+        "yas": "27",
+        "piyasa_degeri": "22.00 mil. €"
+    },
+    {
+        "ad": "Oğuz Aydın",
+        "mevki": "Sol Kanat",
+        "takim": "Fenerbahçe SK",
+        "yas": "70",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Dorgeles Nene",
+        "mevki": "Sağ Kanat",
+        "takim": "Fenerbahçe SK",
+        "yas": "45",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Anthony Musaba",
+        "mevki": "Sağ Kanat",
+        "takim": "Fenerbahçe SK",
+        "yas": "20",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Emre Mor",
+        "mevki": "Sağ Kanat",
+        "takim": "Fenerbahçe SK",
+        "yas": "28",
+        "piyasa_degeri": "600 bin €"
+    },
+    {
+        "ad": "Sidiki Chérif",
+        "mevki": "Santrafor",
+        "takim": "Fenerbahçe SK",
+        "yas": "26",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Ersin Destanoğlu",
+        "mevki": "Kaleci",
+        "takim": "Beşiktaş JK",
+        "yas": "30",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Devis Vásquez",
+        "mevki": "Kaleci",
+        "takim": "Beşiktaş JK",
+        "yas": "32",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Emre Bilgin",
+        "mevki": "Kaleci",
+        "takim": "Beşiktaş JK",
+        "yas": "99",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Emir Yaşar",
+        "mevki": "Kaleci",
+        "takim": "Beşiktaş JK",
+        "yas": "96",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Emmanuel Agbadou",
+        "mevki": "Stoper",
+        "takim": "Beşiktaş JK",
+        "yas": "12",
+        "piyasa_degeri": "18.00 mil. €"
+    },
+    {
+        "ad": "Tiago Djaló",
+        "mevki": "Stoper",
+        "takim": "Beşiktaş JK",
+        "yas": "35",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Emirhan Topçu",
+        "mevki": "Stoper",
+        "takim": "Beşiktaş JK",
+        "yas": "53",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Yasin Özcan",
+        "mevki": "Stoper",
+        "takim": "Beşiktaş JK",
+        "yas": "58",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Felix Uduokhai",
+        "mevki": "Stoper",
+        "takim": "Beşiktaş JK",
+        "yas": "14",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Rıdvan Yılmaz",
+        "mevki": "Sol Bek",
+        "takim": "Beşiktaş JK",
+        "yas": "33",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Amir Murillo",
+        "mevki": "Sağ Bek",
+        "takim": "Beşiktaş JK",
+        "yas": "62",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Taylan Bulut",
+        "mevki": "Sağ Bek",
+        "takim": "Beşiktaş JK",
+        "yas": "22",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Gökhan Sazdağı",
+        "mevki": "Sağ Bek",
+        "takim": "Beşiktaş JK",
+        "yas": "25",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Kristjan Asllani",
+        "mevki": "Ön Libero",
+        "takim": "Beşiktaş JK",
+        "yas": "23",
+        "piyasa_degeri": "13.00 mil. €"
+    },
+    {
+        "ad": "Wilfred Ndidi",
+        "mevki": "Ön Libero",
+        "takim": "Beşiktaş JK",
+        "yas": "29",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Kartal Yılmaz",
+        "mevki": "Ön Libero",
+        "takim": "Beşiktaş JK",
+        "yas": "17",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Necip Uysal",
+        "mevki": "Ön Libero",
+        "takim": "Beşiktaş JK",
+        "yas": "20",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Orkun Kökçü",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Beşiktaş JK",
+        "yas": "10",
+        "piyasa_degeri": "25.00 mil. €"
+    },
+    {
+        "ad": "Salih Uçan",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Beşiktaş JK",
+        "yas": "32",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Junior Olaitan",
+        "mevki": "On Numara",
+        "takim": "Beşiktaş JK",
+        "yas": "15",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "El Bilal Touré",
+        "mevki": "Sol Kanat",
+        "takim": "Beşiktaş JK",
+        "yas": "19",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Jota Silva",
+        "mevki": "Sol Kanat",
+        "takim": "Beşiktaş JK",
+        "yas": "26",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Devrim Şahin",
+        "mevki": "Sol Kanat",
+        "takim": "Beşiktaş JK",
+        "yas": "52",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Vaclav Cerny",
+        "mevki": "Sağ Kanat",
+        "takim": "Beşiktaş JK",
+        "yas": "18",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Cengiz Ünder",
+        "mevki": "Sağ Kanat",
+        "takim": "Beşiktaş JK",
+        "yas": "11",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Milot Rashica",
+        "mevki": "Sağ Kanat",
+        "takim": "Beşiktaş JK",
+        "yas": "29",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Hyeon-gyu Oh",
+        "mevki": "Santrafor",
+        "takim": "Beşiktaş JK",
+        "yas": "25",
+        "piyasa_degeri": "15.00 mil. €"
+    },
+    {
+        "ad": "Mustafa Hekimoğlu",
+        "mevki": "Santrafor",
+        "takim": "Beşiktaş JK",
+        "yas": "91",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "André Onana",
+        "mevki": "Kaleci",
+        "takim": "Trabzonspor",
+        "yas": "24",
+        "piyasa_degeri": "12.00 mil. €"
+    },
+    {
+        "ad": "Onuralp Çevikkan",
+        "mevki": "Kaleci",
+        "takim": "Trabzonspor",
+        "yas": "25",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Arseniy Batagov",
+        "mevki": "Stoper",
+        "takim": "Trabzonspor",
+        "yas": "44",
+        "piyasa_degeri": "11.00 mil. €"
+    },
+    {
+        "ad": "Chibuike Nwaiwu",
+        "mevki": "Stoper",
+        "takim": "Trabzonspor",
+        "yas": "27",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Stefan Savic",
+        "mevki": "Stoper",
+        "takim": "Trabzonspor",
+        "yas": "15",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Arda Öztürk",
+        "mevki": "Stoper",
+        "takim": "Trabzonspor",
+        "yas": "21",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Taha Emre İnce",
+        "mevki": "Stoper",
+        "takim": "Trabzonspor",
+        "yas": "92",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Mathias Løvik",
+        "mevki": "Sol Bek",
+        "takim": "Trabzonspor",
+        "yas": "14",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Mustafa Eskihellaç",
+        "mevki": "Sol Bek",
+        "takim": "Trabzonspor",
+        "yas": "19",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Wagner Pina",
+        "mevki": "Sağ Bek",
+        "takim": "Trabzonspor",
+        "yas": "20",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Okay Yokuşlu",
+        "mevki": "Ön Libero",
+        "takim": "Trabzonspor",
+        "yas": "32",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Salih Malkoçoğlu",
+        "mevki": "Ön Libero",
+        "takim": "Trabzonspor",
+        "yas": "74",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Christ Inao Oulaï",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Trabzonspor",
+        "yas": "42",
+        "piyasa_degeri": "17.00 mil. €"
+    },
+    {
+        "ad": "Tim Jabol-Folcarelli",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Trabzonspor",
+        "yas": "26",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Benjamin Bouchouari",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Trabzonspor",
+        "yas": "24",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Ozan Tufan",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Trabzonspor",
+        "yas": "11",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Boran Başkan",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Trabzonspor",
+        "yas": "80",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Ernest Muci",
+        "mevki": "On Numara",
+        "takim": "Trabzonspor",
+        "yas": "10",
+        "piyasa_degeri": "11.00 mil. €"
+    },
+    {
+        "ad": "Anthony Nwakaeme",
+        "mevki": "Sol Kanat",
+        "takim": "Trabzonspor",
+        "yas": "37",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Oleksandr Zubkov",
+        "mevki": "Sağ Kanat",
+        "takim": "Trabzonspor",
+        "yas": "22",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Edin Visca",
+        "mevki": "Sağ Kanat",
+        "takim": "Trabzonspor",
+        "yas": "36",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Felipe Augusto",
+        "mevki": "Santrafor",
+        "takim": "Trabzonspor",
+        "yas": "99",
+        "piyasa_degeri": "10.00 mil. €"
+    },
+    {
+        "ad": "Paul Onuachu",
+        "mevki": "Santrafor",
+        "takim": "Trabzonspor",
+        "yas": "30",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Umut Nayir",
+        "mevki": "Santrafor",
+        "takim": "Trabzonspor",
+        "yas": "18",
+        "piyasa_degeri": "700 bin €"
+    },
+    {
+        "ad": "Muhammed Şengezer",
+        "mevki": "Kaleci",
+        "takim": "İstanbul Başakşehir FK",
+        "yas": "16",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Doğan Alemdar",
+        "mevki": "Kaleci",
+        "takim": "İstanbul Başakşehir FK",
+        "yas": "80",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Volkan Babacan",
+        "mevki": "Kaleci",
+        "takim": "İstanbul Başakşehir FK",
+        "yas": "37",
+        "piyasa_degeri": "50 bin €"
+    },
+    {
+        "ad": "Jerome Opoku",
+        "mevki": "Stoper",
+        "takim": "İstanbul Başakşehir FK",
+        "yas": "27",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Léo Duarte",
+        "mevki": "Stoper",
+        "takim": "İstanbul Başakşehir FK",
+        "yas": "29",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Hamza Güreler",
+        "mevki": "Stoper",
+        "takim": "İstanbul Başakşehir FK",
+        "yas": "15",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Ousseynou Ba",
+        "mevki": "Stoper",
+        "takim": "İstanbul Başakşehir FK",
+        "yas": "27",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Christopher Operi",
+        "mevki": "Sol Bek",
+        "takim": "İstanbul Başakşehir FK",
+        "yas": "21",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Kazımcan Karataş",
+        "mevki": "Sol Bek",
+        "takim": "İstanbul Başakşehir FK",
+        "yas": "88",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Festy Ebosele",
+        "mevki": "Sağ Bek",
+        "takim": "İstanbul Başakşehir FK",
+        "yas": "36",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Onur Bulut",
+        "mevki": "Sağ Bek",
+        "takim": "İstanbul Başakşehir FK",
+        "yas": "32",
+        "piyasa_degeri": "700 bin €"
+    },
+    {
+        "ad": "Ömer Ali Şahiner",
+        "mevki": "Sağ Bek",
+        "takim": "İstanbul Başakşehir FK",
+        "yas": "42",
+        "piyasa_degeri": "250 bin €"
+    },
+    {
+        "ad": "Jakub Kaluzinski",
+        "mevki": "Ön Libero",
+        "takim": "İstanbul Başakşehir FK",
+        "yas": "18",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Berat Özdemir",
+        "mevki": "Ön Libero",
+        "takim": "İstanbul Başakşehir FK",
+        "yas": "27",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Onur Ergün",
+        "mevki": "Ön Libero",
+        "takim": "İstanbul Başakşehir FK",
+        "yas": "33",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Olivier Kemen",
+        "mevki": "Merkez Orta Saha",
+        "takim": "İstanbul Başakşehir FK",
+        "yas": "29",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Miguel Crespo",
+        "mevki": "Merkez Orta Saha",
+        "takim": "İstanbul Başakşehir FK",
+        "yas": "13",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Umut Güneş",
+        "mevki": "Merkez Orta Saha",
+        "takim": "İstanbul Başakşehir FK",
+        "yas": "20",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Amine Harit",
+        "mevki": "Sol Kanat",
+        "takim": "İstanbul Başakşehir FK",
+        "yas": "25",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Ivan Brnic",
+        "mevki": "Sol Kanat",
+        "takim": "İstanbul Başakşehir FK",
+        "yas": "77",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Berkay Aslan",
+        "mevki": "Sol Kanat",
+        "takim": "İstanbul Başakşehir FK",
+        "yas": "45",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Abbosbek Fayzullaev",
+        "mevki": "Sağ Kanat",
+        "takim": "İstanbul Başakşehir FK",
+        "yas": "11",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Yusuf Sarı",
+        "mevki": "Sağ Kanat",
+        "takim": "İstanbul Başakşehir FK",
+        "yas": "27",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Eldor Shomurodov",
+        "mevki": "Santrafor",
+        "takim": "İstanbul Başakşehir FK",
+        "yas": "14",
+        "piyasa_degeri": "7.00 mil. €"
+    },
+    {
+        "ad": "Bertuğ Yıldırım",
+        "mevki": "Santrafor",
+        "takim": "İstanbul Başakşehir FK",
+        "yas": "91",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Davie Selke",
+        "mevki": "Santrafor",
+        "takim": "İstanbul Başakşehir FK",
+        "yas": "31",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Nuno Da Costa",
+        "mevki": "Santrafor",
+        "takim": "İstanbul Başakşehir FK",
+        "yas": "10",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Mateusz Lis",
+        "mevki": "Kaleci",
+        "takim": "Göztepe",
+        "yas": "29",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Ekrem Kılıçarslan",
+        "mevki": "Kaleci",
+        "takim": "Göztepe",
+        "yas": "17",
+        "piyasa_degeri": "250 bin €"
+    },
+    {
+        "ad": "Şamil Öztürk",
+        "mevki": "Kaleci",
+        "takim": "Göztepe",
+        "yas": "33",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Taha Altıkardeş",
+        "mevki": "Stoper",
+        "takim": "Göztepe",
+        "yas": "22",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Malcom Bokele",
+        "mevki": "Stoper",
+        "takim": "Göztepe",
+        "yas": "26",
+        "piyasa_degeri": "4.50 mil. €"
+    },
+    {
+        "ad": "Furkan Bayır",
+        "mevki": "Stoper",
+        "takim": "Göztepe",
+        "yas": "23",
+        "piyasa_degeri": "1.20 mil. €"
+    },
+    {
+        "ad": "Héliton",
+        "mevki": "Stoper",
+        "takim": "Göztepe",
+        "yas": "30",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Allan Godói",
+        "mevki": "Stoper",
+        "takim": "Göztepe",
+        "yas": "33",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Ege Yıldırım",
+        "mevki": "Stoper",
+        "takim": "Göztepe",
+        "yas": "45",
+        "piyasa_degeri": "50 bin €"
+    },
+    {
+        "ad": "Erkam Kömür",
+        "mevki": "Sağ Bek",
+        "takim": "Göztepe",
+        "yas": "23",
+        "piyasa_degeri": "75 bin €"
+    },
+    {
+        "ad": "Anthony Dennis",
+        "mevki": "Ön Libero",
+        "takim": "Göztepe",
+        "yas": "30",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Novatus Miroshi",
+        "mevki": "Ön Libero",
+        "takim": "Göztepe",
+        "yas": "20",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Musah Mohammed",
+        "mevki": "Ön Libero",
+        "takim": "Göztepe",
+        "yas": "24",
+        "piyasa_degeri": "900 bin €"
+    },
+    {
+        "ad": "Arda Okan Kurtulan",
+        "mevki": "Orta Saha Sağ",
+        "takim": "Göztepe",
+        "yas": "23",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Ogün Bayrak",
+        "mevki": "Orta Saha Sağ",
+        "takim": "Göztepe",
+        "yas": "77",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Uğur Kaan Yıldız",
+        "mevki": "Orta Saha Sağ",
+        "takim": "Göztepe",
+        "yas": "22",
+        "piyasa_degeri": "700 bin €"
+    },
+    {
+        "ad": "Amin Cherni",
+        "mevki": "Orta Saha Sol",
+        "takim": "Göztepe",
+        "yas": "15",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "İsmail Köybaşı",
+        "mevki": "Orta Saha Sol",
+        "takim": "Göztepe",
+        "yas": "12",
+        "piyasa_degeri": "50 bin €"
+    },
+    {
+        "ad": "Filip Krastev",
+        "mevki": "On Numara",
+        "takim": "Göztepe",
+        "yas": "10",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Alexis Antunes",
+        "mevki": "On Numara",
+        "takim": "Göztepe",
+        "yas": "25",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Efkan Bekiroğlu",
+        "mevki": "On Numara",
+        "takim": "Göztepe",
+        "yas": "11",
+        "piyasa_degeri": "1.20 mil. €"
+    },
+    {
+        "ad": "Juan",
+        "mevki": "Santrafor",
+        "takim": "Göztepe",
+        "yas": "24",
+        "piyasa_degeri": "8.00 mil. €"
+    },
+    {
+        "ad": "Janderson",
+        "mevki": "Santrafor",
+        "takim": "Göztepe",
+        "yas": "39",
+        "piyasa_degeri": "4.50 mil. €"
+    },
+    {
+        "ad": "Guilherme Luiz",
+        "mevki": "Santrafor",
+        "takim": "Göztepe",
+        "yas": "14",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Jeh",
+        "mevki": "Santrafor",
+        "takim": "Göztepe",
+        "yas": "19",
+        "piyasa_degeri": "700 bin €"
+    },
+    {
+        "ad": "Okan Kocuk",
+        "mevki": "Kaleci",
+        "takim": "Samsunspor",
+        "yas": "30",
+        "piyasa_degeri": "2.20 mil. €"
+    },
+    {
+        "ad": "İrfan Can Eğribayat",
+        "mevki": "Kaleci",
+        "takim": "Samsunspor",
+        "yas": "71",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Rick van Drongelen",
+        "mevki": "Stoper",
+        "takim": "Samsunspor",
+        "yas": "27",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Toni Borevković",
+        "mevki": "Stoper",
+        "takim": "Samsunspor",
+        "yas": "24",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Lubomir Satka",
+        "mevki": "Stoper",
+        "takim": "Samsunspor",
+        "yas": "37",
+        "piyasa_degeri": "1.80 mil. €"
+    },
+    {
+        "ad": "Bedirhan Çetin",
+        "mevki": "Stoper",
+        "takim": "Samsunspor",
+        "yas": "96",
+        "piyasa_degeri": "150 bin €"
+    },
+    {
+        "ad": "Ali Badra Diabaté",
+        "mevki": "Stoper",
+        "takim": "Samsunspor",
+        "yas": "15",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Logi Tómasson",
+        "mevki": "Sol Bek",
+        "takim": "Samsunspor",
+        "yas": "17",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Soner Gönül",
+        "mevki": "Sol Bek",
+        "takim": "Samsunspor",
+        "yas": "28",
+        "piyasa_degeri": "600 bin €"
+    },
+    {
+        "ad": "Enes Albak",
+        "mevki": "Sol Bek",
+        "takim": "Samsunspor",
+        "yas": "23",
+        "piyasa_degeri": "150 bin €"
+    },
+    {
+        "ad": "Joe Mendes",
+        "mevki": "Sağ Bek",
+        "takim": "Samsunspor",
+        "yas": "23",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Zeki Yavru",
+        "mevki": "Sağ Bek",
+        "takim": "Samsunspor",
+        "yas": "18",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Antoine Makoumbou",
+        "mevki": "Ön Libero",
+        "takim": "Samsunspor",
+        "yas": "29",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Yunus Emre Çift",
+        "mevki": "Ön Libero",
+        "takim": "Samsunspor",
+        "yas": "55",
+        "piyasa_degeri": "600 bin €"
+    },
+    {
+        "ad": "Olivier Ntcham",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Samsunspor",
+        "yas": "10",
+        "piyasa_degeri": "2.80 mil. €"
+    },
+    {
+        "ad": "Celil Yüksel",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Samsunspor",
+        "yas": "28",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Yalçın Kayan",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Samsunspor",
+        "yas": "20",
+        "piyasa_degeri": "700 bin €"
+    },
+    {
+        "ad": "Carlo Holse",
+        "mevki": "On Numara",
+        "takim": "Samsunspor",
+        "yas": "21",
+        "piyasa_degeri": "6.00 mil. €"
+    },
+    {
+        "ad": "Afonso Sousa",
+        "mevki": "On Numara",
+        "takim": "Samsunspor",
+        "yas": "77",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Jaurès Assoumou",
+        "mevki": "Sol Kanat",
+        "takim": "Samsunspor",
+        "yas": "47",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Emre Kılınç",
+        "mevki": "Sol Kanat",
+        "takim": "Samsunspor",
+        "yas": "11",
+        "piyasa_degeri": "1.20 mil. €"
+    },
+    {
+        "ad": "Tahsin Bülbül",
+        "mevki": "Sol Kanat",
+        "takim": "Samsunspor",
+        "yas": "16",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Elayis Tavsan",
+        "mevki": "Sağ Kanat",
+        "takim": "Samsunspor",
+        "yas": "24",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Tanguy Coulibaly",
+        "mevki": "Sağ Kanat",
+        "takim": "Samsunspor",
+        "yas": "70",
+        "piyasa_degeri": "1.20 mil. €"
+    },
+    {
+        "ad": "Cherif Ndiaye",
+        "mevki": "Santrafor",
+        "takim": "Samsunspor",
+        "yas": "19",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Marius Mouandilmadji",
+        "mevki": "Santrafor",
+        "takim": "Samsunspor",
+        "yas": "28",
+        "piyasa_degeri": "4.50 mil. €"
+    },
+    {
+        "ad": "Ebrima Ceesay",
+        "mevki": "Santrafor",
+        "takim": "Samsunspor",
+        "yas": "99",
+        "piyasa_degeri": "50 bin €"
+    },
+    {
+        "ad": "Yahia Fofana",
+        "mevki": "Kaleci",
+        "takim": "Çaykur Rizespor",
+        "yas": "75",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Erdem Canpolat",
+        "mevki": "Kaleci",
+        "takim": "Çaykur Rizespor",
+        "yas": "25",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Efe Doğan",
+        "mevki": "Kaleci",
+        "takim": "Çaykur Rizespor",
+        "yas": "35",
+        "piyasa_degeri": "150 bin €"
+    },
+    {
+        "ad": "Attila Mocsi",
+        "mevki": "Stoper",
+        "takim": "Çaykur Rizespor",
+        "yas": "25",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Modibo Sagnan",
+        "mevki": "Stoper",
+        "takim": "Çaykur Rizespor",
+        "yas": "27",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Khusniddin Alikulov",
+        "mevki": "Stoper",
+        "takim": "Çaykur Rizespor",
+        "yas": "27",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Samet Akaydin",
+        "mevki": "Stoper",
+        "takim": "Çaykur Rizespor",
+        "yas": "32",
+        "piyasa_degeri": "1.20 mil. €"
+    },
+    {
+        "ad": "Emir Ortakaya",
+        "mevki": "Stoper",
+        "takim": "Çaykur Rizespor",
+        "yas": "65",
+        "piyasa_degeri": "700 bin €"
+    },
+    {
+        "ad": "Casper Højer",
+        "mevki": "Sol Bek",
+        "takim": "Çaykur Rizespor",
+        "yas": "31",
+        "piyasa_degeri": "1.20 mil. €"
+    },
+    {
+        "ad": "Taha Şahin",
+        "mevki": "Sağ Bek",
+        "takim": "Çaykur Rizespor",
+        "yas": "37",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Mithat Pala",
+        "mevki": "Sağ Bek",
+        "takim": "Çaykur Rizespor",
+        "yas": "54",
+        "piyasa_degeri": "1.80 mil. €"
+    },
+    {
+        "ad": "Furkan Orak",
+        "mevki": "Sağ Bek",
+        "takim": "Çaykur Rizespor",
+        "yas": "70",
+        "piyasa_degeri": "250 bin €"
+    },
+    {
+        "ad": "Giannis Papanikolaou",
+        "mevki": "Ön Libero",
+        "takim": "Çaykur Rizespor",
+        "yas": "27",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Taylan Antalyalı",
+        "mevki": "Ön Libero",
+        "takim": "Çaykur Rizespor",
+        "yas": "14",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Qazim Laci",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Çaykur Rizespor",
+        "yas": "20",
+        "piyasa_degeri": "2.80 mil. €"
+    },
+    {
+        "ad": "Ibrahim Olawoyin",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Çaykur Rizespor",
+        "yas": "10",
+        "piyasa_degeri": "2.20 mil. €"
+    },
+    {
+        "ad": "Muhamed Buljubasic",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Çaykur Rizespor",
+        "yas": "18",
+        "piyasa_degeri": "1.80 mil. €"
+    },
+    {
+        "ad": "Valentin Mihăilă",
+        "mevki": "Sol Kanat",
+        "takim": "Çaykur Rizespor",
+        "yas": "26",
+        "piyasa_degeri": "2.80 mil. €"
+    },
+    {
+        "ad": "Altin Zeqiri",
+        "mevki": "Sol Kanat",
+        "takim": "Çaykur Rizespor",
+        "yas": "77",
+        "piyasa_degeri": "1.20 mil. €"
+    },
+    {
+        "ad": "Emrecan Bulut",
+        "mevki": "Sol Kanat",
+        "takim": "Çaykur Rizespor",
+        "yas": "99",
+        "piyasa_degeri": "600 bin €"
+    },
+    {
+        "ad": "Adedire Mebude",
+        "mevki": "Sağ Kanat",
+        "takim": "Çaykur Rizespor",
+        "yas": "17",
+        "piyasa_degeri": "1.20 mil. €"
+    },
+    {
+        "ad": "Loide Augusto",
+        "mevki": "Sağ Kanat",
+        "takim": "Çaykur Rizespor",
+        "yas": "50",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Frantzdy Pierrot",
+        "mevki": "Santrafor",
+        "takim": "Çaykur Rizespor",
+        "yas": "19",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Ali Sowe",
+        "mevki": "Santrafor",
+        "takim": "Çaykur Rizespor",
+        "yas": "31",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Halil Dervişoğlu",
+        "mevki": "Santrafor",
+        "takim": "Çaykur Rizespor",
+        "yas": "11",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Deniz Ertaş",
+        "mevki": "Kaleci",
+        "takim": "Konyaspor",
+        "yas": "21",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Bahadır Güngördü",
+        "mevki": "Kaleci",
+        "takim": "Konyaspor",
+        "yas": "13",
+        "piyasa_degeri": "600 bin €"
+    },
+    {
+        "ad": "Adamo Nagalo",
+        "mevki": "Stoper",
+        "takim": "Konyaspor",
+        "yas": "39",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Riechedly Bazoer",
+        "mevki": "Stoper",
+        "takim": "Konyaspor",
+        "yas": "20",
+        "piyasa_degeri": "2.20 mil. €"
+    },
+    {
+        "ad": "Adil Demirbağ",
+        "mevki": "Stoper",
+        "takim": "Konyaspor",
+        "yas": "28",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Rayyan Baniya",
+        "mevki": "Stoper",
+        "takim": "Konyaspor",
+        "yas": "22",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Uğurcan Yazğılı",
+        "mevki": "Stoper",
+        "takim": "Konyaspor",
+        "yas": "27",
+        "piyasa_degeri": "1.20 mil. €"
+    },
+    {
+        "ad": "Josip Calusic",
+        "mevki": "Stoper",
+        "takim": "Konyaspor",
+        "yas": "15",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Arif Boşluk",
+        "mevki": "Sol Bek",
+        "takim": "Konyaspor",
+        "yas": "24",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Guilherme",
+        "mevki": "Sol Bek",
+        "takim": "Konyaspor",
+        "yas": "12",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Yasir Subaşı",
+        "mevki": "Sol Bek",
+        "takim": "Konyaspor",
+        "yas": "30",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Yhoan Andzouana",
+        "mevki": "Sağ Bek",
+        "takim": "Konyaspor",
+        "yas": "23",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Jin-ho Jo",
+        "mevki": "Ön Libero",
+        "takim": "Konyaspor",
+        "yas": "21",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Marko Jevtovic",
+        "mevki": "Ön Libero",
+        "takim": "Konyaspor",
+        "yas": "16",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Ufuk Akyol",
+        "mevki": "Ön Libero",
+        "takim": "Konyaspor",
+        "yas": "19",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Berkan Kutlu",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Konyaspor",
+        "yas": "18",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Melih İbrahimoğlu",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Konyaspor",
+        "yas": "77",
+        "piyasa_degeri": "1.80 mil. €"
+    },
+    {
+        "ad": "Morten Bjørlo",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Konyaspor",
+        "yas": "42",
+        "piyasa_degeri": "900 bin €"
+    },
+    {
+        "ad": "Esat Buğa",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Konyaspor",
+        "yas": "30",
+        "piyasa_degeri": "50 bin €"
+    },
+    {
+        "ad": "Enis Bardhi",
+        "mevki": "On Numara",
+        "takim": "Konyaspor",
+        "yas": "10",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Kazeem Olaigbe",
+        "mevki": "Sol Kanat",
+        "takim": "Konyaspor",
+        "yas": "70",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Diogo Gonçalves",
+        "mevki": "Sol Kanat",
+        "takim": "Konyaspor",
+        "yas": "17",
+        "piyasa_degeri": "2.80 mil. €"
+    },
+    {
+        "ad": "Pedrinho",
+        "mevki": "Sol Kanat",
+        "takim": "Konyaspor",
+        "yas": "29",
+        "piyasa_degeri": "700 bin €"
+    },
+    {
+        "ad": "Sander Svendsen",
+        "mevki": "Sol Kanat",
+        "takim": "Konyaspor",
+        "yas": "32",
+        "piyasa_degeri": "700 bin €"
+    },
+    {
+        "ad": "Tunahan Taşçı",
+        "mevki": "Sağ Kanat",
+        "takim": "Konyaspor",
+        "yas": "23",
+        "piyasa_degeri": "700 bin €"
+    },
+    {
+        "ad": "Marius Ștefănescu",
+        "mevki": "Sağ Kanat",
+        "takim": "Konyaspor",
+        "yas": "11",
+        "piyasa_degeri": "700 bin €"
+    },
+    {
+        "ad": "Deniz Türüç",
+        "mevki": "Sağ Kanat",
+        "takim": "Konyaspor",
+        "yas": "33",
+        "piyasa_degeri": "600 bin €"
+    },
+    {
+        "ad": "Jackson Muleka",
+        "mevki": "Santrafor",
+        "takim": "Konyaspor",
+        "yas": "40",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Blaz Kramer",
+        "mevki": "Santrafor",
+        "takim": "Konyaspor",
+        "yas": "99",
+        "piyasa_degeri": "900 bin €"
+    },
+    {
+        "ad": "Zafer Görgen",
+        "mevki": "Kaleci",
+        "takim": "Gaziantep FK",
+        "yas": "20",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Burak Bozan",
+        "mevki": "Kaleci",
+        "takim": "Gaziantep FK",
+        "yas": "71",
+        "piyasa_degeri": "700 bin €"
+    },
+    {
+        "ad": "Tayyip Talha Sanuç",
+        "mevki": "Stoper",
+        "takim": "Gaziantep FK",
+        "yas": "23",
+        "piyasa_degeri": "1.80 mil. €"
+    },
+    {
+        "ad": "Nihad Mujakic",
+        "mevki": "Stoper",
+        "takim": "Gaziantep FK",
+        "yas": "28",
+        "piyasa_degeri": "1.20 mil. €"
+    },
+    {
+        "ad": "Arda Kızıldağ",
+        "mevki": "Stoper",
+        "takim": "Gaziantep FK",
+        "yas": "27",
+        "piyasa_degeri": "900 bin €"
+    },
+    {
+        "ad": "Myenty Abena",
+        "mevki": "Stoper",
+        "takim": "Gaziantep FK",
+        "yas": "14",
+        "piyasa_degeri": "600 bin €"
+    },
+    {
+        "ad": "Nazım Sangaré",
+        "mevki": "Stoper",
+        "takim": "Gaziantep FK",
+        "yas": "30",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Kévin Rodrigues",
+        "mevki": "Sol Bek",
+        "takim": "Gaziantep FK",
+        "yas": "77",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Deian Sorescu",
+        "mevki": "Sağ Bek",
+        "takim": "Gaziantep FK",
+        "yas": "18",
+        "piyasa_degeri": "1.80 mil. €"
+    },
+    {
+        "ad": "Luis Pérez",
+        "mevki": "Sağ Bek",
+        "takim": "Gaziantep FK",
+        "yas": "31",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Salem M'Bakata",
+        "mevki": "Sağ Bek",
+        "takim": "Gaziantep FK",
+        "yas": "22",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Melih Kabasakal",
+        "mevki": "Ön Libero",
+        "takim": "Gaziantep FK",
+        "yas": "30",
+        "piyasa_degeri": "700 bin €"
+    },
+    {
+        "ad": "Ogün Özçiçek",
+        "mevki": "Ön Libero",
+        "takim": "Gaziantep FK",
+        "yas": "61",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Drissa Camara",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Gaziantep FK",
+        "yas": "24",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "Karamba Gassama",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Gaziantep FK",
+        "yas": "17",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Kacper Kozlowski",
+        "mevki": "On Numara",
+        "takim": "Gaziantep FK",
+        "yas": "10",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "Alexandru Maxim",
+        "mevki": "On Numara",
+        "takim": "Gaziantep FK",
+        "yas": "44",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Victor Ntino-Emo Gidado",
+        "mevki": "On Numara",
+        "takim": "Gaziantep FK",
+        "yas": "21",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Yusuf Kabadayi",
+        "mevki": "Sol Kanat",
+        "takim": "Gaziantep FK",
+        "yas": "32",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Christopher Lungoyi",
+        "mevki": "Sol Kanat",
+        "takim": "Gaziantep FK",
+        "yas": "11",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Ali Osman Kalın",
+        "mevki": "Sol Kanat",
+        "takim": "Gaziantep FK",
+        "yas": "26",
+        "piyasa_degeri": "50 bin €"
+    },
+    {
+        "ad": "Mohamed Bayo",
+        "mevki": "Santrafor",
+        "takim": "Gaziantep FK",
+        "yas": "27",
+        "piyasa_degeri": "4.00 mil. €"
+    },
+    {
+        "ad": "Denis Drăguș",
+        "mevki": "Santrafor",
+        "takim": "Gaziantep FK",
+        "yas": "70",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Muhammet Akmelek",
+        "mevki": "Santrafor",
+        "takim": "Gaziantep FK",
+        "yas": "85",
+        "piyasa_degeri": "50 bin €"
+    },
+    {
+        "ad": "Bilal Bayazıt",
+        "mevki": "Kaleci",
+        "takim": "Kayserispor",
+        "yas": "25",
+        "piyasa_degeri": "1.80 mil. €"
+    },
+    {
+        "ad": "Deniz Dönmezer",
+        "mevki": "Kaleci",
+        "takim": "Kayserispor",
+        "yas": "27",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Onurcan Piri",
+        "mevki": "Kaleci",
+        "takim": "Kayserispor",
+        "yas": "31",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Semih Güler",
+        "mevki": "Stoper",
+        "takim": "Kayserispor",
+        "yas": "31",
+        "piyasa_degeri": "900 bin €"
+    },
+    {
+        "ad": "Stefano Denswil",
+        "mevki": "Stoper",
+        "takim": "Kayserispor",
+        "yas": "32",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Majid Hosseini",
+        "mevki": "Stoper",
+        "takim": "Kayserispor",
+        "yas": "29",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Jadel Katongo",
+        "mevki": "Stoper",
+        "takim": "Kayserispor",
+        "yas": "21",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Kayra Cihan",
+        "mevki": "Stoper",
+        "takim": "Kayserispor",
+        "yas": "38",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Lionel Carole",
+        "mevki": "Sol Bek",
+        "takim": "Kayserispor",
+        "yas": "23",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Joshua Brenet",
+        "mevki": "Sağ Bek",
+        "takim": "Kayserispor",
+        "yas": "30",
+        "piyasa_degeri": "1.20 mil. €"
+    },
+    {
+        "ad": "Ramazan Civelek",
+        "mevki": "Sağ Bek",
+        "takim": "Kayserispor",
+        "yas": "28",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Burak Kapacak",
+        "mevki": "Sağ Bek",
+        "takim": "Kayserispor",
+        "yas": "17",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Youssef Aït Bennasser",
+        "mevki": "Ön Libero",
+        "takim": "Kayserispor",
+        "yas": "15",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Dorukhan Toköz",
+        "mevki": "Ön Libero",
+        "takim": "Kayserispor",
+        "yas": "24",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "László Bénes",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Kayserispor",
+        "yas": "28",
+        "piyasa_degeri": "2.80 mil. €"
+    },
+    {
+        "ad": "Görkem Sağlam",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Kayserispor",
+        "yas": "61",
+        "piyasa_degeri": "900 bin €"
+    },
+    {
+        "ad": "Furkan Soyalp",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Kayserispor",
+        "yas": "33",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Yiğit Emre Çeltik",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Kayserispor",
+        "yas": "21",
+        "piyasa_degeri": "50 bin €"
+    },
+    {
+        "ad": "João Mendes",
+        "mevki": "On Numara",
+        "takim": "Kayserispor",
+        "yas": "10",
+        "piyasa_degeri": "1.20 mil. €"
+    },
+    {
+        "ad": "Eray Özbek",
+        "mevki": "On Numara",
+        "takim": "Kayserispor",
+        "yas": "16",
+        "piyasa_degeri": "250 bin €"
+    },
+    {
+        "ad": "Miguel Cardoso",
+        "mevki": "Sol Kanat",
+        "takim": "Kayserispor",
+        "yas": "31",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Sam Mather",
+        "mevki": "Sol Kanat",
+        "takim": "Kayserispor",
+        "yas": "11",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Nurettin Korkmaz",
+        "mevki": "Sol Kanat",
+        "takim": "Kayserispor",
+        "yas": "77",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Denis Makarov",
+        "mevki": "Sağ Kanat",
+        "takim": "Kayserispor",
+        "yas": "18",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Carlos Mané",
+        "mevki": "Sağ Kanat",
+        "takim": "Kayserispor",
+        "yas": "20",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Fedor Chalov",
+        "mevki": "Santrafor",
+        "takim": "Kayserispor",
+        "yas": "63",
+        "piyasa_degeri": "5.00 mil. €"
+    },
+    {
+        "ad": "German Onugkha",
+        "mevki": "Santrafor",
+        "takim": "Kayserispor",
+        "yas": "29",
+        "piyasa_degeri": "1.80 mil. €"
+    },
+    {
+        "ad": "Indrit Tuci",
+        "mevki": "Santrafor",
+        "takim": "Kayserispor",
+        "yas": "22",
+        "piyasa_degeri": "700 bin €"
+    },
+    {
+        "ad": "Talha Sarıarslan",
+        "mevki": "Santrafor",
+        "takim": "Kayserispor",
+        "yas": "99",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Andreas Gianniotis",
+        "mevki": "Kaleci",
+        "takim": "Kasımpaşa",
+        "yas": "33",
+        "piyasa_degeri": "350 bin €"
+    },
+    {
+        "ad": "Ali Emre Yanar",
+        "mevki": "Kaleci",
+        "takim": "Kasımpaşa",
+        "yas": "25",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Rodrigo Becão",
+        "mevki": "Stoper",
+        "takim": "Kasımpaşa",
+        "yas": "50",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Nicholas Opoku",
+        "mevki": "Stoper",
+        "takim": "Kasımpaşa",
+        "yas": "20",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Adem Arous",
+        "mevki": "Stoper",
+        "takim": "Kasımpaşa",
+        "yas": "21",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Taylan Aydın",
+        "mevki": "Stoper",
+        "takim": "Kasımpaşa",
+        "yas": "29",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Godfried Frimpong",
+        "mevki": "Sol Bek",
+        "takim": "Kasımpaşa",
+        "yas": "21",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Emre Taşdemir",
+        "mevki": "Sol Bek",
+        "takim": "Kasımpaşa",
+        "yas": "33",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Cláudio Winck",
+        "mevki": "Sağ Bek",
+        "takim": "Kasımpaşa",
+        "yas": "32",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Kamil Ahmet Çörekçi",
+        "mevki": "Sağ Bek",
+        "takim": "Kasımpaşa",
+        "yas": "22",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Berkay Muratoğlu",
+        "mevki": "Sağ Bek",
+        "takim": "Kasımpaşa",
+        "yas": "47",
+        "piyasa_degeri": "50 bin €"
+    },
+    {
+        "ad": "Andri Fannar Baldursson",
+        "mevki": "Ön Libero",
+        "takim": "Kasımpaşa",
+        "yas": "16",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Burak Gültekin",
+        "mevki": "Ön Libero",
+        "takim": "Kasımpaşa",
+        "yas": "19",
+        "piyasa_degeri": "150 bin €"
+    },
+    {
+        "ad": "Kerem Demirbay",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Kasımpaşa",
+        "yas": "26",
+        "piyasa_degeri": "1.20 mil. €"
+    },
+    {
+        "ad": "Eyüp Aydın",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Kasımpaşa",
+        "yas": "21",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Cafú",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Kasımpaşa",
+        "yas": "33",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Haris Hajradinovic",
+        "mevki": "On Numara",
+        "takim": "Kasımpaşa",
+        "yas": "10",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Adrian Benedyczak",
+        "mevki": "Sol Kanat",
+        "takim": "Kasımpaşa",
+        "yas": "19",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Mortadha Ben Ouanes",
+        "mevki": "Sol Kanat",
+        "takim": "Kasımpaşa",
+        "yas": "12",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Ali Yavuz Kol",
+        "mevki": "Sol Kanat",
+        "takim": "Kasımpaşa",
+        "yas": "11",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Erdem Çetinkaya",
+        "mevki": "Sol Kanat",
+        "takim": "Kasımpaşa",
+        "yas": "80",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "İrfan Can Kahveci",
+        "mevki": "Sağ Kanat",
+        "takim": "Kasımpaşa",
+        "yas": "71",
+        "piyasa_degeri": "3.50 mil. €"
+    },
+    {
+        "ad": "Jim Allevinah",
+        "mevki": "Sağ Kanat",
+        "takim": "Kasımpaşa",
+        "yas": "18",
+        "piyasa_degeri": "1.20 mil. €"
+    },
+    {
+        "ad": "Fousseni Diabaté",
+        "mevki": "Sağ Kanat",
+        "takim": "Kasımpaşa",
+        "yas": "34",
+        "piyasa_degeri": "900 bin €"
+    },
+    {
+        "ad": "Pape Habib Guèye",
+        "mevki": "Santrafor",
+        "takim": "Kasımpaşa",
+        "yas": "77",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Yusuf Barası",
+        "mevki": "Santrafor",
+        "takim": "Kasımpaşa",
+        "yas": "23",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Kubilay Kanatsızkuş",
+        "mevki": "Santrafor",
+        "takim": "Kasımpaşa",
+        "yas": "17",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Cenk Tosun",
+        "mevki": "Santrafor",
+        "takim": "Kasımpaşa",
+        "yas": "23",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Ricardo Velho",
+        "mevki": "Kaleci",
+        "takim": "Gençlerbirliği SK",
+        "yas": "24",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Erhan Erentürk",
+        "mevki": "Kaleci",
+        "takim": "Gençlerbirliği SK",
+        "yas": "18",
+        "piyasa_degeri": "250 bin €"
+    },
+    {
+        "ad": "Ebrar Aydın",
+        "mevki": "Kaleci",
+        "takim": "Gençlerbirliği SK",
+        "yas": "33",
+        "piyasa_degeri": "50 bin €"
+    },
+    {
+        "ad": "Dimitrios Goutas",
+        "mevki": "Stoper",
+        "takim": "Gençlerbirliği SK",
+        "yas": "32",
+        "piyasa_degeri": "900 bin €"
+    },
+    {
+        "ad": "Thalisson",
+        "mevki": "Stoper",
+        "takim": "Gençlerbirliği SK",
+        "yas": "27",
+        "piyasa_degeri": "700 bin €"
+    },
+    {
+        "ad": "Zan Zuzek",
+        "mevki": "Stoper",
+        "takim": "Gençlerbirliği SK",
+        "yas": "29",
+        "piyasa_degeri": "700 bin €"
+    },
+    {
+        "ad": "Abdullah Şahindere",
+        "mevki": "Stoper",
+        "takim": "Gençlerbirliği SK",
+        "yas": "22",
+        "piyasa_degeri": "50 bin €"
+    },
+    {
+        "ad": "Umut İslamoğlu",
+        "mevki": "Stoper",
+        "takim": "Gençlerbirliği SK",
+        "yas": "25",
+        "piyasa_degeri": "50 bin €"
+    },
+    {
+        "ad": "Abdurrahim Dursun",
+        "mevki": "Sol Bek",
+        "takim": "Gençlerbirliği SK",
+        "yas": "77",
+        "piyasa_degeri": "250 bin €"
+    },
+    {
+        "ad": "Matej Hanousek",
+        "mevki": "Sol Bek",
+        "takim": "Gençlerbirliği SK",
+        "yas": "23",
+        "piyasa_degeri": "150 bin €"
+    },
+    {
+        "ad": "Pedro Pereira",
+        "mevki": "Sağ Bek",
+        "takim": "Gençlerbirliği SK",
+        "yas": "13",
+        "piyasa_degeri": "1.20 mil. €"
+    },
+    {
+        "ad": "Fıratcan Üzüm",
+        "mevki": "Sağ Bek",
+        "takim": "Gençlerbirliği SK",
+        "yas": "88",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Tom Dele-Bashiru",
+        "mevki": "Ön Libero",
+        "takim": "Gençlerbirliği SK",
+        "yas": "15",
+        "piyasa_degeri": "1.80 mil. €"
+    },
+    {
+        "ad": "Moussa Kyabou",
+        "mevki": "Ön Libero",
+        "takim": "Gençlerbirliği SK",
+        "yas": "81",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Peter Etebo",
+        "mevki": "Ön Libero",
+        "takim": "Gençlerbirliği SK",
+        "yas": "30",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Göktan Gürpüz",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Gençlerbirliği SK",
+        "yas": "11",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Franco Tongya",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Gençlerbirliği SK",
+        "yas": "70",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Oğulcan Ülgün",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Gençlerbirliği SK",
+        "yas": "35",
+        "piyasa_degeri": "1.20 mil. €"
+    },
+    {
+        "ad": "Samed Onur",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Gençlerbirliği SK",
+        "yas": "23",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Ensar Kemaloğlu",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Gençlerbirliği SK",
+        "yas": "61",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Dal Varesanovic",
+        "mevki": "On Numara",
+        "takim": "Gençlerbirliği SK",
+        "yas": "53",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Henry Onyekuru",
+        "mevki": "Sol Kanat",
+        "takim": "Gençlerbirliği SK",
+        "yas": "28",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Metehan Mimaroğlu",
+        "mevki": "Sol Kanat",
+        "takim": "Gençlerbirliği SK",
+        "yas": "10",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Cihan Çanak",
+        "mevki": "Sağ Kanat",
+        "takim": "Gençlerbirliği SK",
+        "yas": "99",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Adama Traoré",
+        "mevki": "Sağ Kanat",
+        "takim": "Gençlerbirliği SK",
+        "yas": "20",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Sékou Koïta",
+        "mevki": "Santrafor",
+        "takim": "Gençlerbirliği SK",
+        "yas": "22",
+        "piyasa_degeri": "3.00 mil. €"
+    },
+    {
+        "ad": "M'Baye Niang",
+        "mevki": "Santrafor",
+        "takim": "Gençlerbirliği SK",
+        "yas": "29",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Ayaz Özcan",
+        "mevki": "Santrafor",
+        "takim": "Gençlerbirliği SK",
+        "yas": "16",
+        "piyasa_degeri": "50 bin €"
+    },
+    {
+        "ad": "Aleksandar Jovanovic",
+        "mevki": "Kaleci",
+        "takim": "Kocaelispor",
+        "yas": "33",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Serhat Öztaşdelen",
+        "mevki": "Kaleci",
+        "takim": "Kocaelispor",
+        "yas": "83",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Gökhan Değirmenci",
+        "mevki": "Kaleci",
+        "takim": "Kocaelispor",
+        "yas": "35",
+        "piyasa_degeri": "50 bin €"
+    },
+    {
+        "ad": "Botond Balogh",
+        "mevki": "Stoper",
+        "takim": "Kocaelispor",
+        "yas": "23",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Hrvoje Smolcic",
+        "mevki": "Stoper",
+        "takim": "Kocaelispor",
+        "yas": "25",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Mateusz Wieteska",
+        "mevki": "Stoper",
+        "takim": "Kocaelispor",
+        "yas": "29",
+        "piyasa_degeri": "1.20 mil. €"
+    },
+    {
+        "ad": "Massadio Haïdara",
+        "mevki": "Sol Bek",
+        "takim": "Kocaelispor",
+        "yas": "21",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Muharrem Cinan",
+        "mevki": "Sol Bek",
+        "takim": "Kocaelispor",
+        "yas": "27",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Anfernee Dijksteel",
+        "mevki": "Sağ Bek",
+        "takim": "Kocaelispor",
+        "yas": "29",
+        "piyasa_degeri": "1.20 mil. €"
+    },
+    {
+        "ad": "Ahmet Oğuz",
+        "mevki": "Sağ Bek",
+        "takim": "Kocaelispor",
+        "yas": "22",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Show",
+        "mevki": "Ön Libero",
+        "takim": "Kocaelispor",
+        "yas": "14",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Mahamadou Susoho",
+        "mevki": "Ön Libero",
+        "takim": "Kocaelispor",
+        "yas": "20",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Habib Keïta",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Kocaelispor",
+        "yas": "24",
+        "piyasa_degeri": "1.80 mil. €"
+    },
+    {
+        "ad": "Karol Linetty",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Kocaelispor",
+        "yas": "10",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Joseph Nonge",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Kocaelispor",
+        "yas": "98",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Samet Yalçın",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Kocaelispor",
+        "yas": "23",
+        "piyasa_degeri": "250 bin €"
+    },
+    {
+        "ad": "Darko Churlinov",
+        "mevki": "Sol Kanat",
+        "takim": "Kocaelispor",
+        "yas": "17",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Rigoberto Rivas",
+        "mevki": "Sol Kanat",
+        "takim": "Kocaelispor",
+        "yas": "99",
+        "piyasa_degeri": "1.20 mil. €"
+    },
+    {
+        "ad": "Tayfur Bingöl",
+        "mevki": "Sol Kanat",
+        "takim": "Kocaelispor",
+        "yas": "75",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Furkan Gedik",
+        "mevki": "Sol Kanat",
+        "takim": "Kocaelispor",
+        "yas": "18",
+        "piyasa_degeri": "250 bin €"
+    },
+    {
+        "ad": "Can Keleş",
+        "mevki": "Sağ Kanat",
+        "takim": "Kocaelispor",
+        "yas": "70",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Dan Agyei",
+        "mevki": "Sağ Kanat",
+        "takim": "Kocaelispor",
+        "yas": "28",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Bruno Petkovic",
+        "mevki": "Santrafor",
+        "takim": "Kocaelispor",
+        "yas": "31",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Serdar Dursun",
+        "mevki": "Santrafor",
+        "takim": "Kocaelispor",
+        "yas": "19",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Ahmet Sağat",
+        "mevki": "Santrafor",
+        "takim": "Kocaelispor",
+        "yas": "11",
+        "piyasa_degeri": "250 bin €"
+    },
+    {
+        "ad": "Abdullah Yiğiter",
+        "mevki": "Kaleci",
+        "takim": "Antalyaspor",
+        "yas": "21",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Julián Cuesta",
+        "mevki": "Kaleci",
+        "takim": "Antalyaspor",
+        "yas": "35",
+        "piyasa_degeri": "250 bin €"
+    },
+    {
+        "ad": "Kağan Arıcan",
+        "mevki": "Kaleci",
+        "takim": "Antalyaspor",
+        "yas": "96",
+        "piyasa_degeri": "150 bin €"
+    },
+    {
+        "ad": "Georgiy Dzhikiya",
+        "mevki": "Stoper",
+        "takim": "Antalyaspor",
+        "yas": "14",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Lautaro Giannetti",
+        "mevki": "Stoper",
+        "takim": "Antalyaspor",
+        "yas": "30",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Hüseyin Türkmen",
+        "mevki": "Stoper",
+        "takim": "Antalyaspor",
+        "yas": "28",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Bahadır Öztürk",
+        "mevki": "Stoper",
+        "takim": "Antalyaspor",
+        "yas": "30",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Veysel Sarı",
+        "mevki": "Stoper",
+        "takim": "Antalyaspor",
+        "yas": "89",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Kenneth Paal",
+        "mevki": "Sol Bek",
+        "takim": "Antalyaspor",
+        "yas": "28",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Samet Karakoç",
+        "mevki": "Sol Bek",
+        "takim": "Antalyaspor",
+        "yas": "23",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Bünyamin Balcı",
+        "mevki": "Sağ Bek",
+        "takim": "Antalyaspor",
+        "yas": "25",
+        "piyasa_degeri": "2.20 mil. €"
+    },
+    {
+        "ad": "Erdoğan Yeşilyurt",
+        "mevki": "Sağ Bek",
+        "takim": "Antalyaspor",
+        "yas": "17",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Jesper Ceesay",
+        "mevki": "Ön Libero",
+        "takim": "Antalyaspor",
+        "yas": "23",
+        "piyasa_degeri": "1.20 mil. €"
+    },
+    {
+        "ad": "Ramzi Safuri",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Antalyaspor",
+        "yas": "30",
+        "piyasa_degeri": "900 bin €"
+    },
+    {
+        "ad": "Soner Dikmen",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Antalyaspor",
+        "yas": "32",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Dario Saric",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Antalyaspor",
+        "yas": "88",
+        "piyasa_degeri": "700 bin €"
+    },
+    {
+        "ad": "Yakub İlçin",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Antalyaspor",
+        "yas": "20",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Abdülkadir Ömür",
+        "mevki": "Orta Saha Sağ",
+        "takim": "Antalyaspor",
+        "yas": "10",
+        "piyasa_degeri": "2.20 mil. €"
+    },
+    {
+        "ad": "Nikola Storm",
+        "mevki": "Sol Kanat",
+        "takim": "Antalyaspor",
+        "yas": "26",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Doğukan Sinik",
+        "mevki": "Sol Kanat",
+        "takim": "Antalyaspor",
+        "yas": "70",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Berkay Topdemir",
+        "mevki": "Sol Kanat",
+        "takim": "Antalyaspor",
+        "yas": "33",
+        "piyasa_degeri": "50 bin €"
+    },
+    {
+        "ad": "Samuel Ballet",
+        "mevki": "Sağ Kanat",
+        "takim": "Antalyaspor",
+        "yas": "11",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Yohan Boli",
+        "mevki": "Santrafor",
+        "takim": "Antalyaspor",
+        "yas": "77",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Sander van de Streek",
+        "mevki": "Santrafor",
+        "takim": "Antalyaspor",
+        "yas": "22",
+        "piyasa_degeri": "600 bin €"
+    },
+    {
+        "ad": "Bachir Gueye",
+        "mevki": "Santrafor",
+        "takim": "Antalyaspor",
+        "yas": "24",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Kerem Kayaarası",
+        "mevki": "Santrafor",
+        "takim": "Antalyaspor",
+        "yas": "90",
+        "piyasa_degeri": "50 bin €"
+    },
+    {
+        "ad": "Ivo Grbic",
+        "mevki": "Kaleci",
+        "takim": "Fatih Karagümrük",
+        "yas": "13",
+        "piyasa_degeri": "1.20 mil. €"
+    },
+    {
+        "ad": "Furkan Bekleviç",
+        "mevki": "Kaleci",
+        "takim": "Fatih Karagümrük",
+        "yas": "99",
+        "piyasa_degeri": "250 bin €"
+    },
+    {
+        "ad": "Igor Lichnovsky",
+        "mevki": "Stoper",
+        "takim": "Fatih Karagümrük",
+        "yas": "32",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Davide Biraschi",
+        "mevki": "Stoper",
+        "takim": "Fatih Karagümrük",
+        "yas": "31",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Fatih Kurucuk",
+        "mevki": "Stoper",
+        "takim": "Fatih Karagümrük",
+        "yas": "22",
+        "piyasa_degeri": "250 bin €"
+    },
+    {
+        "ad": "Anıl Yiğit Çınar",
+        "mevki": "Stoper",
+        "takim": "Fatih Karagümrük",
+        "yas": "94",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Burhan Ersoy",
+        "mevki": "Stoper",
+        "takim": "Fatih Karagümrük",
+        "yas": "24",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Muhammed Kadıoğlu",
+        "mevki": "Stoper",
+        "takim": "Fatih Karagümrük",
+        "yas": "32",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Çağtay Kurukalıp",
+        "mevki": "Sol Bek",
+        "takim": "Fatih Karagümrük",
+        "yas": "33",
+        "piyasa_degeri": "600 bin €"
+    },
+    {
+        "ad": "Filip Mladenovic",
+        "mevki": "Sol Bek",
+        "takim": "Fatih Karagümrük",
+        "yas": "25",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Ricardo Esgaio",
+        "mevki": "Sağ Bek",
+        "takim": "Fatih Karagümrük",
+        "yas": "47",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Bartuğ Elmaz",
+        "mevki": "Ön Libero",
+        "takim": "Fatih Karagümrük",
+        "yas": "23",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Matías Kranevitter",
+        "mevki": "Ön Libero",
+        "takim": "Fatih Karagümrük",
+        "yas": "32",
+        "piyasa_degeri": "700 bin €"
+    },
+    {
+        "ad": "Berkay Özcan",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Fatih Karagümrük",
+        "yas": "28",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Daniel Johnson",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Fatih Karagümrük",
+        "yas": "11",
+        "piyasa_degeri": "350 bin €"
+    },
+    {
+        "ad": "Tuğbey Akgün",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Fatih Karagümrük",
+        "yas": "16",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Sam Larsson",
+        "mevki": "On Numara",
+        "takim": "Fatih Karagümrük",
+        "yas": "23",
+        "piyasa_degeri": "700 bin €"
+    },
+    {
+        "ad": "Serginho",
+        "mevki": "Sol Kanat",
+        "takim": "Fatih Karagümrük",
+        "yas": "70",
+        "piyasa_degeri": "600 bin €"
+    },
+    {
+        "ad": "Barış Kalaycı",
+        "mevki": "Sol Kanat",
+        "takim": "Fatih Karagümrük",
+        "yas": "72",
+        "piyasa_degeri": "600 bin €"
+    },
+    {
+        "ad": "Ahmet Sivri",
+        "mevki": "Sol Kanat",
+        "takim": "Fatih Karagümrük",
+        "yas": "17",
+        "piyasa_degeri": "250 bin €"
+    },
+    {
+        "ad": "Shavy Babicka",
+        "mevki": "Sağ Kanat",
+        "takim": "Fatih Karagümrük",
+        "yas": "80",
+        "piyasa_degeri": "1.50 mil. €"
+    },
+    {
+        "ad": "Daniele Verde",
+        "mevki": "Sağ Kanat",
+        "takim": "Fatih Karagümrük",
+        "yas": "10",
+        "piyasa_degeri": "700 bin €"
+    },
+    {
+        "ad": "João Camacho",
+        "mevki": "Sağ Kanat",
+        "takim": "Fatih Karagümrük",
+        "yas": "37",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Ahmed Traore",
+        "mevki": "Sağ Kanat",
+        "takim": "Fatih Karagümrük",
+        "yas": "88",
+        "piyasa_degeri": "250 bin €"
+    },
+    {
+        "ad": "Tarık Buğra Kalpaklı",
+        "mevki": "Sağ Kanat",
+        "takim": "Fatih Karagümrük",
+        "yas": "20",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Tiago Çukur",
+        "mevki": "Santrafor",
+        "takim": "Fatih Karagümrük",
+        "yas": "21",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Moussa Kone",
+        "mevki": "Santrafor",
+        "takim": "Fatih Karagümrük",
+        "yas": "15",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Marcos Felipe",
+        "mevki": "Kaleci",
+        "takim": "Eyüpspor",
+        "yas": "30",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Jankat Yılmaz",
+        "mevki": "Kaleci",
+        "takim": "Eyüpspor",
+        "yas": "24",
+        "piyasa_degeri": "800 bin €"
+    },
+    {
+        "ad": "Umut Keseci",
+        "mevki": "Kaleci",
+        "takim": "Eyüpspor",
+        "yas": "31",
+        "piyasa_degeri": "50 bin €"
+    },
+    {
+        "ad": "Anıl Yaşar",
+        "mevki": "Stoper",
+        "takim": "Eyüpspor",
+        "yas": "16",
+        "piyasa_degeri": "350 bin €"
+    },
+    {
+        "ad": "Jérôme Onguéné",
+        "mevki": "Stoper",
+        "takim": "Eyüpspor",
+        "yas": "68",
+        "piyasa_degeri": "250 bin €"
+    },
+    {
+        "ad": "Luccas Claro",
+        "mevki": "Stoper",
+        "takim": "Eyüpspor",
+        "yas": "34",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Bedirhan Özyurt",
+        "mevki": "Stoper",
+        "takim": "Eyüpspor",
+        "yas": "23",
+        "piyasa_degeri": "150 bin €"
+    },
+    {
+        "ad": "Gilbert Mendy",
+        "mevki": "Stoper",
+        "takim": "Eyüpspor",
+        "yas": "21",
+        "piyasa_degeri": "50 bin €"
+    },
+    {
+        "ad": "Umut Meraş",
+        "mevki": "Sol Bek",
+        "takim": "Eyüpspor",
+        "yas": "77",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Arda Yavuz",
+        "mevki": "Sol Bek",
+        "takim": "Eyüpspor",
+        "yas": "88",
+        "piyasa_degeri": "50 bin €"
+    },
+    {
+        "ad": "Calegari",
+        "mevki": "Sağ Bek",
+        "takim": "Eyüpspor",
+        "yas": "24",
+        "piyasa_degeri": "2.50 mil. €"
+    },
+    {
+        "ad": "Talha Ülvan",
+        "mevki": "Sağ Bek",
+        "takim": "Eyüpspor",
+        "yas": "17",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Baran Gezek",
+        "mevki": "Ön Libero",
+        "takim": "Eyüpspor",
+        "yas": "55",
+        "piyasa_degeri": "1.00 mil. €"
+    },
+    {
+        "ad": "Taşkın İlter",
+        "mevki": "Ön Libero",
+        "takim": "Eyüpspor",
+        "yas": "28",
+        "piyasa_degeri": "150 bin €"
+    },
+    {
+        "ad": "Mateusz Legowski",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Eyüpspor",
+        "yas": "20",
+        "piyasa_degeri": "2.00 mil. €"
+    },
+    {
+        "ad": "Charles-André Raux-Yao",
+        "mevki": "Merkez Orta Saha",
+        "takim": "Eyüpspor",
+        "yas": "15",
+        "piyasa_degeri": "250 bin €"
+    },
+    {
+        "ad": "Emre Akbaba",
+        "mevki": "On Numara",
+        "takim": "Eyüpspor",
+        "yas": "33",
+        "piyasa_degeri": "500 bin €"
+    },
+    {
+        "ad": "Lenny Pintor",
+        "mevki": "Sol Kanat",
+        "takim": "Eyüpspor",
+        "yas": "23",
+        "piyasa_degeri": "200 bin €"
+    },
+    {
+        "ad": "Denis Radu",
+        "mevki": "Sağ Kanat",
+        "takim": "Eyüpspor",
+        "yas": "22",
+        "piyasa_degeri": "400 bin €"
+    },
+    {
+        "ad": "Ángel Torres",
+        "mevki": "Sağ Kanat",
+        "takim": "Eyüpspor",
+        "yas": "10",
+        "piyasa_degeri": "300 bin €"
+    },
+    {
+        "ad": "Dorin Rotariu",
+        "mevki": "Sağ Kanat",
+        "takim": "Eyüpspor",
+        "yas": "30",
+        "piyasa_degeri": "250 bin €"
+    },
+    {
+        "ad": "Christ Sadia",
+        "mevki": "Sağ Kanat",
+        "takim": "Eyüpspor",
+        "yas": "93",
+        "piyasa_degeri": "100 bin €"
+    },
+    {
+        "ad": "Umut Bozok",
+        "mevki": "Santrafor",
+        "takim": "Eyüpspor",
+        "yas": "19",
+        "piyasa_degeri": "1.20 mil. €"
+    },
+    {
+        "ad": "Metehan Altunbaş",
+        "mevki": "Santrafor",
+        "takim": "Eyüpspor",
+        "yas": "26",
+        "piyasa_degeri": "300 bin €"
+    }
+]
