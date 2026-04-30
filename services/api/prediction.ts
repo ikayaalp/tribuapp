@@ -67,7 +67,7 @@ export const predictionApi = {
   },
 
   /**
-   * Takım listesi
+   * Takım listesi deneme
    */
   searchTeams: async (query?: string): Promise<string[]> => {
     try {
