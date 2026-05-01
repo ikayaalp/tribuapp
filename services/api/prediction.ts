@@ -31,7 +31,7 @@ export const predictionApi = {
   /**
    * İki takım arasındaki maç tahmini
    */
-  predict: async (home: string, away: string): Promise<PredictionResult | null> => {
+  predict: async (home: string, away: string, date?: string): Promise<PredictionResult | null> => {
     try {
       const res = await fetch(`${API_BASE}/predict`, {
         method: 'POST',
@@ -39,6 +39,7 @@ export const predictionApi = {
         body: JSON.stringify({
           home,
           away,
+          date,
           home_missing: { attack: 0, defense: 0, midfield: 0 },
           away_missing: { attack: 0, defense: 0, midfield: 0 },
         }),

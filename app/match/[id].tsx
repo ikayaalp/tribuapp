@@ -83,7 +83,8 @@ export default function MatchDetailScreen() {
     
     if (hName && aName) {
       setPredLoading(true);
-      predictionApi.predict(hName, aName).then(result => {
+      const matchDate = matchData.starting_at ? matchData.starting_at.split(' ')[0] : undefined;
+      predictionApi.predict(hName, aName, matchDate).then(result => {
         setPrediction(result);
         setPredLoading(false);
       }).catch(() => setPredLoading(false));

@@ -12,7 +12,7 @@ from data.loader import read_market_values, read_matches
 from data.registry import DATA_FILES, BASE_DIR, csv_path, MARKET_VALUES_FILE, params_path
 
 
-def build_global_ratings() -> Tuple[RatingSystem, Dict[str, float], float]:
+def build_global_ratings(up_to_date: str = None) -> Tuple[RatingSystem, Dict[str, float], float]:
     """
     Tum ligleri yukler, her lig icin ayri RatingSystem olusturur,
     sonra global bir RatingSystem'e birlestirip dondurur.
@@ -57,6 +57,8 @@ def build_global_ratings() -> Tuple[RatingSystem, Dict[str, float], float]:
             )
 
         for m in mlist:
+            if up_to_date and m.date >= up_to_date:
+                continue
             rs.update(m)
 
         league_rating_systems[lig_name] = (rs, mlist)

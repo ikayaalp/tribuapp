@@ -74,6 +74,7 @@ class MissingPlayers(BaseModel):
 class PredictRequest(BaseModel):
     home:          str
     away:          str
+    date:          Optional[str] = None
     home_missing:  MissingPlayers = MissingPlayers()
     away_missing:  MissingPlayers = MissingPlayers()
 
@@ -111,10 +112,16 @@ def predict(req: PredictRequest):
     if not _ready:
         raise HTTPException(status_code=503, detail="Model henuz yuklenmedi")
 
+    if req.date:
+        # Tarih verildiyse o tarihten önceki maçlarla yeni bir geçici sistem kur
+        ratings_to_use, _, _ = build_global_ratings(up_to_date=req.date)
+    else:
+        ratings_to_use = global_ratings
+
     result = predict_match(
         home=req.home,
         away=req.away,
-        ratings=global_ratings,
+        ratings=ratings_to_use,
         h_miss_att=req.home_missing.attack,
         h_miss_def=req.home_missing.defense,
         h_miss_mid=req.home_missing.midfield,
